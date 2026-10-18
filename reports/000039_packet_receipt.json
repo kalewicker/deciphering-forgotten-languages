@@ -1,0 +1,37 @@
+{
+  "prepared_at_utc": "2026-10-18T08:15:15.255093+00:00",
+  "scope": "Post-run factual provenance supplement; original packet/run/criteria/results unchanged",
+  "packet_sha256": "36e41f5ca94febb72193621ecb8d5f1e704f71e1bd8f3f07cedfb7789cd98d4d",
+  "manifest_sha256": "57f02c54819e3274036d04042fbf403ef057dac8b01b0cf6c11a371801550902",
+  "members_verified": 11,
+  "source_and_target_bytes_verified": true,
+  "first_page_date_witnesses_verified": [
+    {
+      "page": 1,
+      "span": [
+        4871,
+        4883
+      ],
+      "exact_text": "1809.09615v1"
+    },
+    {
+      "page": 1,
+      "span": [
+        4900,
+        4911
+      ],
+      "exact_text": "25 Sep 2018"
+    },
+    {
+      "page": 1,
+      "span": [
+        978,
+        991
+      ],
+      "exact_text": "March 7, 2025"
+    }
+  ],
+  "parent_run_manifest_sha256": "70e456113a348acb900f6ccdbb438152254aa3011a158e9bdef2cfbb60d9dcb7",
+  "prior_predictions_included": false,
+  "independent_reviews_completed": 0
+}

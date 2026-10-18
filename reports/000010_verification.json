@@ -1,0 +1,66 @@
+{
+  "state": "verified",
+  "run_id": "000010_kamri_content_capacity",
+  "manifest_sha256": "beeeb2be024595e615d3241b09f27145b1bb186ea9c84df1af11d88426ba810e",
+  "result_rows": 9312,
+  "variants": 8,
+  "fresh_conditions": 576,
+  "fresh_independent_worlds": 32,
+  "fresh_primary_conditions": 192,
+  "fresh_stress_conditions": 384,
+  "calibration_conditions": 576,
+  "calibration_independent_worlds": 32,
+  "real_development_queries": 12,
+  "new_supported_lexical_entries": 0,
+  "previous_runs": [
+    {
+      "run_id": "000001_kamri_excerpt_baseline",
+      "manifest_sha256": "6a1d3920394bcbff4022b6635374e2787f79fdd0d53606a67925984588e76d47"
+    },
+    {
+      "run_id": "000002_kamri_alignment_editions",
+      "manifest_sha256": "f3577c0d3ac03c998235b69ad05b9ed78dbec5627ac4b99546c263737798a776"
+    },
+    {
+      "run_id": "000003_kamri_passage_factorial",
+      "manifest_sha256": "a4a4b216265a9bc99463462b98eb3117c461d7124581f2288f3ff73dd198eb1a"
+    },
+    {
+      "run_id": "000004_kamri_precision_mass",
+      "manifest_sha256": "116f08d210e18500680ede8bae39b20d2648e683eda0fa238fde670976710e41"
+    },
+    {
+      "run_id": "000005_kamri_scoped_register",
+      "manifest_sha256": "99abaa8f7f86f968bb4bdc9ad7860a3bc89d3f33e9de05580e491d6acb792b38"
+    },
+    {
+      "run_id": "000006_kamri_correspondence_audit",
+      "manifest_sha256": "e73cd303b398937343e7900e9eb733f2398857196f3ab6f220ca8a42c7117f1f"
+    },
+    {
+      "run_id": "000007_kamri_editorial_robustness",
+      "manifest_sha256": "2c9016c5821092121a51ef49a55198a70e53f8118abdd979821a44be1e39b0fd"
+    },
+    {
+      "run_id": "000008_kamri_order_admission",
+      "manifest_sha256": "c36ee102376745bfbd08fc370ab153f229c5e5f453196db2c8eb6768d2b3a435"
+    },
+    {
+      "run_id": "000009_kamri_coverage_negatives",
+      "manifest_sha256": "e3efe1857dea48c575a3ece979d93879efc9e8616cbc421dc7043de839b88b35"
+    }
+  ],
+  "checks": [
+    "input/raw/code/output hashes",
+    "generated panels and available/unavailable identities",
+    "unchanged frozen eligibility, predictions, aliases and roster density",
+    "two preregistered calibration policies sealed before fresh/audit",
+    "independent full-matrix positional and content sequence objectives and evidence spans",
+    "same candidate paths across four modes",
+    "all rankings/ties/metrics and both admission policies",
+    "all actual shuffled candidate evidence/maxima",
+    "all 480 summaries and 4608 mode contrasts",
+    "real base/positional strengths/decisions match v9",
+    "experiments 1–9 unchanged"
+  ]
+}

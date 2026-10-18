@@ -1,0 +1,85 @@
+{
+  "state": "verified",
+  "run_id": "000014_kamri_source_feasibility",
+  "manifest_sha256": "28bc5fb4f3f2c3a2ca755ce5f6e8d23d9ddac4656fdfaed1ed8d89c74b9bae9d",
+  "selected_queries": 1,
+  "selected_tokens": 174,
+  "source_words": 380,
+  "reference_eligible_queries": 0,
+  "model_executed": false,
+  "accuracy_available": false,
+  "inventory_posts": 24,
+  "source_work_nodes": 22,
+  "components": 14,
+  "unused_components_before_v14": 1,
+  "unused_components_after_v14": 0,
+  "previous_runs": [
+    {
+      "run_id": "000001_kamri_excerpt_baseline",
+      "manifest_sha256": "6a1d3920394bcbff4022b6635374e2787f79fdd0d53606a67925984588e76d47"
+    },
+    {
+      "run_id": "000002_kamri_alignment_editions",
+      "manifest_sha256": "f3577c0d3ac03c998235b69ad05b9ed78dbec5627ac4b99546c263737798a776"
+    },
+    {
+      "run_id": "000003_kamri_passage_factorial",
+      "manifest_sha256": "a4a4b216265a9bc99463462b98eb3117c461d7124581f2288f3ff73dd198eb1a"
+    },
+    {
+      "run_id": "000004_kamri_precision_mass",
+      "manifest_sha256": "116f08d210e18500680ede8bae39b20d2648e683eda0fa238fde670976710e41"
+    },
+    {
+      "run_id": "000005_kamri_scoped_register",
+      "manifest_sha256": "99abaa8f7f86f968bb4bdc9ad7860a3bc89d3f33e9de05580e491d6acb792b38"
+    },
+    {
+      "run_id": "000006_kamri_correspondence_audit",
+      "manifest_sha256": "e73cd303b398937343e7900e9eb733f2398857196f3ab6f220ca8a42c7117f1f"
+    },
+    {
+      "run_id": "000007_kamri_editorial_robustness",
+      "manifest_sha256": "2c9016c5821092121a51ef49a55198a70e53f8118abdd979821a44be1e39b0fd"
+    },
+    {
+      "run_id": "000008_kamri_order_admission",
+      "manifest_sha256": "c36ee102376745bfbd08fc370ab153f229c5e5f453196db2c8eb6768d2b3a435"
+    },
+    {
+      "run_id": "000009_kamri_coverage_negatives",
+      "manifest_sha256": "e3efe1857dea48c575a3ece979d93879efc9e8616cbc421dc7043de839b88b35"
+    },
+    {
+      "run_id": "000010_kamri_content_capacity",
+      "manifest_sha256": "beeeb2be024595e615d3241b09f27145b1bb186ea9c84df1af11d88426ba810e"
+    },
+    {
+      "run_id": "000011_kamri_anchor_conflicts",
+      "manifest_sha256": "8fba1643a623cc97b2bddfcee35bd5211557aa31033f2ae9e0e4c6e4deefb46a"
+    },
+    {
+      "run_id": "000012_kamri_natural_acquisition",
+      "manifest_sha256": "3509662790c0a3e6068e8a33a702f8cf4d89518df58c3c31b668aedaeb1a1e48"
+    },
+    {
+      "run_id": "000013_kamri_source_provenance",
+      "manifest_sha256": "a391368b8b3dd6f94e597161b3b60500033f7921b360a99df9b949466a9ae1d0"
+    }
+  ],
+  "checks": [
+    "independent adjacency traversal agrees with frozen source-component boundaries",
+    "all selected work/query/token denominators retained and references unavailable",
+    "raw receipts, deterministic publisher extraction, edition and source-first timestamp",
+    "independent full-sentence FL cap, every selected token span and no long exact duplicate",
+    "three searches and four conservatively charged source routes; unknown XML URL disclosed",
+    "no fabricated correspondence, scorer artifacts or promoted meanings",
+    "input/code/output hashes and all thirteen historical runs preserved"
+  ],
+  "limitations": [
+    "Publisher preview only, no full chapter/PDF",
+    "Single-analyst unresolved correspondence, not independent semantic gold",
+    "Failed XML link destination not returned; counted conservatively",
+    "Exposure exhaustion applies only to the public 24-post inventory and declared persisted inputs"
+  ]
+}

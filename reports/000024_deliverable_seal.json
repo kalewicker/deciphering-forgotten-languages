@@ -1,0 +1,15 @@
+{
+  "sealed_at_utc": "2026-10-15T04:54:40.669330+00:00",
+  "run_manifest_sha256": "d490b86cde1509f533fb28db037d1f06c30e239d7ae6f92c8f9b0645a329f26f",
+  "deliverable_hashes": {
+    "reports/000024_interpretation.md": "ced445f5d9938abef9c8dce6ee59ab9b96d4a489a14398613002731cf29a1b64",
+    "reports/000024_verification.json": "f6351c1f83e792487e27b487eff9567d3e7fecb2a474d974b0c9967612c78073",
+    "reports/000024_verification_initial_failure.json": "ef2f3a3d6bb72f16376c3801fa2417a520c67745a7036459a23b19a83f00de30",
+    "experiments/kamri_provenance_v24_audit_revision1.json": "5e71bb6edaafa208329d9b2e8211c61ad558f977707c4ec86b73e53b913e2bb2",
+    "experiments/kamri_provenance_v24_audit_revision1.md": "3ac5a4b8c42424031ff28db5d396c154a1eb6721b7ccb3c8ccb82309e287faf6",
+    "scripts/verify_provenance_v24_revision1.py": "fb1a1ed39547ad888f3827a4343914d1966cb056ec1b07193d436ec6fd9181b5"
+  },
+  "test_command": ".venv/bin/python -m unittest discover -s tests -q",
+  "tests_passed": 185,
+  "scope": "Scoped five-page equivalence and content-encoding diagnosis; native failures retained; independent semantic review pending; original v24 verifier failure and registered audit revision preserved; experiments 1\u201323 unchanged"
+}

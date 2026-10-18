@@ -1,0 +1,30 @@
+{
+  "experiment_id": "kamri_orthographic_v20",
+  "frozen_at_utc": "2026-10-03T09:42:29.030052+00:00",
+  "panel": "data/v20/frozen_panel.json",
+  "target": "data/v20/frozen_target.json",
+  "input_hashes": {
+    "data/v16/normalized/dark_side_light_fl.json": "b3bdf04ab15c3a25604fbd0afda5f17893078062d656ba935794007bd684e8ae",
+    "data/v16/normalized/dark_side_light_source.json": "14ae8290e18edbfeca29a7933995c3a2566e35ed91ef2297799e6d4f51ee4046",
+    "data/v16/normalized/nichiren_images_fl.json": "321a9818194a61f1335f39ee7eb74faf46585989c0596c1a622f2d6e2b1c1516",
+    "data/v16/normalized/nichiren_images_source.json": "bc504f24ae2bea477027297eea635f3f24646bd54893aadf1439adff68dec314",
+    "data/v18/frozen_predictions.json": "8d58bc3c4e0879e26c5cc172d91e556b60cb06175efc6a9cf8c00c958cbb5a5a",
+    "data/v18/frozen_references.json": "2d94827204272e67577adebfa31ac4898451120f816703ee6a066c1dd5826331",
+    "data/v18/targets.json": "8da6bbc6158ea08dc4f749bee9f54d70f0906746e5e5427a0d41161834a6efab",
+    "data/v19/frozen_evidence.json": "d8649a0121d05bf1eb3b339777df5865868b86c415de74a2b1b2c3da887095fa",
+    "experiments/kamri_orthographic_v20.md": "606361dff668895644c50b5bfbcd7abbec672320a81be8e835dc598f8b7a1c27",
+    "reports/000019_deliverable_seal.json": "ab18d84501b2802fbcd6a5d207038f2d2969588ce2d17ad05c421d615cb8cc3d",
+    "reports/000019_verification.json": "447b2bbeab5dbb0b7f6a793063e1c07b3d640d3c95893bcb84ca6f6058a223d9",
+    "runs/000016_kamri_correspondence_review/manifest.json": "8f06b4b51b4d2ced0adf2e9ce1870c3231c211e384ca7a2104276d5771178407",
+    "runs/000016_kamri_correspondence_review/passage_gates.json": "30a6c3783b1a6a578782705b0212ffee695f954c9113abd2cc553b38d50abdf1",
+    "runs/000016_kamri_correspondence_review/unit_ledger.json": "ca8318544bdc2c8cd2a31496bc6134f7f53b6350f97880ed26a8e9a14e1714aa",
+    "runs/000018_kamri_passage_transfer/manifest.json": "0fa1364f2d7f5e0ad7d86a223889234bdef7952386baf279861e629a5d4274fe",
+    "runs/000018_kamri_passage_transfer/unit_ledger.json": "110df5050bfcd1172c231e9268434deb83d337ea7512519c1d9e6a2202548171",
+    "runs/000019_kamri_single_gap/manifest.json": "936a0519f0b0ab402dc00c263b070571929c391bd1ebfb254c5de4a53cdf196c",
+    "runs/000019_kamri_single_gap/observed_alignments.json": "02b58474a51e76454981acf5b7826e798b22fc7dde20865e909d65087a702527",
+    "runs/000019_kamri_single_gap/report.json": "a898883da71de7edb18cd8169df2a003c655656b92fc2ea156458846063431af",
+    "experiments/kamri_orthographic_v20.json": "d7f55f883116203c28b0d857b60a0fbd4267ec4238e0b7b64c1771f9f51b9539",
+    "data/v20/frozen_panel.json": "2e8f68286720a4b22afa669612b60ad77618c35fd3b6de6d3c55b206403a4818",
+    "data/v20/frozen_target.json": "9bf91a5ad0cbfda1d1b5e16ecd4c50098c3e28a7b253f81ca3ba2d21b171b3e1"
+  }
+}

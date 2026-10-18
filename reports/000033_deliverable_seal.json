@@ -1,0 +1,33 @@
+{
+  "sealed_at_utc": "2026-10-16T20:02:00.947373+00:00",
+  "run_manifest_sha256": "908de4af7e754d0ed8357fa6ca87deed6c2fd962d5291ef36df4874208a77e3c",
+  "deliverable_hashes": {
+    "reports/000033_interpretation.md": "e8769ebff3d84795e354059309a6098894de33bebf607b08ae1dcbd26877e1db",
+    "reports/000033_verification.json": "6eea8f4e1d0a6e84a25331319dbe575620eb9a70c1d2d4bfe827866b7db40efd",
+    "reports/000033_origin_note.json": "8549a5c2394a2f7a5a62376502f866ea984e7ecf34ce681e3ae66ac3f1e97dcf"
+  },
+  "tests_passed": 283,
+  "engineering_integrity_passed": true,
+  "synthetic_forced_origin_hypothesis_passed": false,
+  "pair_alignments": 2520,
+  "queries": 420,
+  "panels": 2100,
+  "primary_parent_pairs": 120,
+  "primary_returned_matches": 6772,
+  "primary_forced_matches": 6508,
+  "primary_forced_exact_origin_matches": 6500,
+  "origin_disagreements_removed": 12,
+  "origin_disagreements_retained": 8,
+  "correct_matches_discarded": 252,
+  "prior_runs_preserved": 32,
+  "symbolic_audit_executed": true,
+  "external_or_neural_model_executed": false,
+  "scientific_acceptance": null,
+  "semantic_evaluation_metrics": null,
+  "semantic_labels_admitted": 0,
+  "source_identities_admitted": 0,
+  "independent_reviews_admitted": 0,
+  "untouched_test_units_admitted": 0,
+  "natural_targets_rescored": 0,
+  "scope": "Frozen synthetic alignment ambiguity audit with failed strict-origin hypothesis and post-run identical-symbol ancestry witnesses"
+}

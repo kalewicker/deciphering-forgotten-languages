@@ -1,0 +1,7 @@
+# Experiment 24 audit revision 1: historical manifest schema compatibility
+
+Registered after v24 evidence execution and before running the revised offline verifier. The original verifier failed at its prior-run hash inventory: run 1 keys input hashes by document ID and hashes normalized prose, rather than treating keys as file paths. Early runs also use artifact_hashes. The original script, preflight seal, manifest, every capture and result remain unchanged. The failure is retained in reports/000024_verification_initial_failure.json.
+
+The sole audit-logic correction is to replace the historical input/code/output loop with the already established verify_correspondence_v6.check_hashes function, which validates the original run-1 text-hash schema and all four historical hash inventories. This does not skip missing files or failed hashes. All v24 request, PDF, identity, fingerprint, blank-form and accounting logic is identical. The new verifier additionally binds this audit registration and retained failure in its successful receipt. No network request, inspection rerun, new threshold, evidence replacement or semantic admission is authorized by this audit correction.
+
+scripts/verify_provenance_v24_revision1.py is an explicit immutable revision; scripts/verify_provenance_v24.py remains the originally frozen failed verifier. Preserve both. Freeze the revision and established helper hashes before execution and report the engineering correction separately from the provenance findings.

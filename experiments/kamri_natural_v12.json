@@ -1,0 +1,48 @@
+{
+  "experiment_id": "kamri_natural_v12",
+  "stage": "acquisition_eligibility",
+  "configuration_materialized_after_acquisition": true,
+  "registration": "experiments/kamri_natural_v12.md",
+  "registration_sha256": "0e7b40b1ba8c75f12d50ddaf88f49d7bdab355e15d80cd52728f62780638eb97",
+  "registration_file_mtime_utc": "2026-10-01T10:55:14.122876+00:00",
+  "nominations": [
+    {
+      "id": "liber_azazel",
+      "title": "Liber Azazel",
+      "component": "liber_azazel",
+      "inventory_entry": 9,
+      "fl_url": "https://forgottenlanguages-full.forgottenlanguages.org/2019/06/su-dacflar-ni-azazil.html",
+      "source_scope": "Book I, opening complete sentences up to 2000 whitespace words",
+      "source_routes": [
+        "https://www.scribd.com/doc/47586429/Liber-Azazel",
+        "https://www.magicgatebg.com/Books/Aleister%20Crowley/Liber%20Azazel.pdf",
+        "https://theisticsatanism.com/"
+      ]
+    },
+    {
+      "id": "vile_darkness",
+      "title": "Book of Vile Darkness",
+      "component": "vile_exalted_component",
+      "inventory_entry": 15,
+      "fl_url": "https://forgottenlanguages-full.forgottenlanguages.org/2022/06/kargit-kiru.html",
+      "source_scope": "2002 Monte Cook edition, chapter 1 opening complete sentences up to 2000 whitespace words",
+      "source_routes": [
+        "https://openlibrary.org/books/OL8144288M/Book_of_Vile_Darkness",
+        "https://archive.org/metadata/bookviledarkness00cook"
+      ]
+    }
+  ],
+  "selected_works": 2,
+  "selected_queries": 2,
+  "selected_components": 2,
+  "fl_word_cap": 180,
+  "source_word_cap": 2000,
+  "source_discovery_queries_per_work": 2,
+  "max_direct_source_urls_per_work": 3,
+  "shuffle_seed": 12331,
+  "model_policy": "unchanged v11; no execution without frozen eligible references",
+  "frozen_lexicon": "runs/000001_kamri_excerpt_baseline/lexicon.json",
+  "model_executed": false,
+  "new_supported_lexical_entries": 0,
+  "semantic_gold": false
+}

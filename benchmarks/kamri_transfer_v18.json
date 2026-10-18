@@ -1,0 +1,28 @@
+{
+  "experiment_id": "kamri_transfer_v18",
+  "frozen_at_utc": "2026-10-02T21:33:04.220463+00:00",
+  "input_hashes": {
+    "data/v15/parsed_annotations.json": "c26c185d5f316e6c21bd84c71f3ba18ab2bd3ae421bc4e87a6a5accdfd5b3c67",
+    "data/v16/normalized/dark_side_light_fl.json": "b3bdf04ab15c3a25604fbd0afda5f17893078062d656ba935794007bd684e8ae",
+    "data/v16/normalized/dark_side_light_source.json": "14ae8290e18edbfeca29a7933995c3a2566e35ed91ef2297799e6d4f51ee4046",
+    "data/v16/normalized/nichiren_images_fl.json": "321a9818194a61f1335f39ee7eb74faf46585989c0596c1a622f2d6e2b1c1516",
+    "data/v16/normalized/nichiren_images_source.json": "bc504f24ae2bea477027297eea635f3f24646bd54893aadf1439adff68dec314",
+    "data/v18/frozen_candidates.json": "cc9d9f0143c75b4e64e78ab775bdf9be073be2ef50037896d930bd466669117d",
+    "experiments/kamri_transfer_v18.md": "f2541a3203e810d32a9345c172845b0f310ecc4dfb1b13365ed4740a97677941",
+    "reports/000017_verification.json": "c1f42fe1ab6aacc56c39f6167a7b845333abb96603ba7e619bddcab8ca11d186",
+    "runs/000016_kamri_correspondence_review/manifest.json": "8f06b4b51b4d2ced0adf2e9ce1870c3231c211e384ca7a2104276d5771178407",
+    "runs/000016_kamri_correspondence_review/unit_ledger.json": "ca8318544bdc2c8cd2a31496bc6134f7f53b6350f97880ed26a8e9a14e1714aa",
+    "runs/000017_kamri_positional_consistency/form_ledger.json": "b9de1cbb0eda99fb5701b2f533ab0862b9e342cffcdc53e0221ccd7ab2d028f8",
+    "runs/000017_kamri_positional_consistency/manifest.json": "a718e0d0a127c2b5b985a549bef89324556e678ec8f15701cec8323af98eb7c5",
+    "data/v18/targets.json": "8da6bbc6158ea08dc4f749bee9f54d70f0906746e5e5427a0d41161834a6efab",
+    "data/v18/prediction_seal.json": "af6e84ae3ed3623f812dd56a543e9ece6fa89ea6837ac04f33ec994414f2a875",
+    "data/v18/frozen_predictions.json": "8d58bc3c4e0879e26c5cc172d91e556b60cb06175efc6a9cf8c00c958cbb5a5a",
+    "data/v18/frozen_references.json": "2d94827204272e67577adebfa31ac4898451120f816703ee6a066c1dd5826331",
+    "data/v18/reference_seal.json": "6eb7e78243294222ea17a2b79d902ab4cf61f745af82f6beb2c9d9d5e79de52c",
+    "experiments/kamri_transfer_v18.json": "e4e0e2fdabc4a94df4d506ab46524660f8a535bfdb0ab81a66591450490b71f9"
+  },
+  "unit_denominator": 8,
+  "token_denominator": 175,
+  "predictions": "data/v18/frozen_predictions.json",
+  "references": "data/v18/frozen_references.json"
+}

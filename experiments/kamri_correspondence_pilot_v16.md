@@ -1,0 +1,17 @@
+# Experiment 16: bounded correspondence review after the package audit
+
+Registered 2026-10-01 before new retrieval or pilot execution. Development/reference review on previously exposed components, not held-out validation. The v15 audit informs nomination; this is outcome-aware development selection and makes no population accuracy claim.
+
+Select exactly two publisher-backed HTML source components: Nichiren Images (inventory entry 3) and Dark Side of Light (entry 13). Select the first four numbered reading-edition units of each, without filtering on word-count equality, match tier or success. Denominator: two components, two four-unit passages, eight units. Include all failures. No replacement, extension or alternative source after seeing outcomes.
+
+First prepare a separate proposed errata record for article 7, mapping stale uncertainty labels S024 to current unit 15 and S036 to current unit 27. Preserve originals. Do not invent a per-unit high/medium/low mapping or rewrite translations.
+
+Make one standard raw request per selected FL post and one per corresponding publisher HTML source (four routes total), retaining bytes, headers, redirect destination, UTC timestamps and errors. No authentication/challenge bypass, alternate host, retry or widening. An environment-related failure may receive one disclosed identical outside-sandbox diagnostic if necessary. The previously indexed FL snapshots and saved independent English source selections remain explicitly historical fallbacks if current acquisition fails; never copy the package's FL/English into independent evidence.
+
+Before alignment analysis, preserve complete acquired HTML post/article body text where available, deterministic extraction and title/edition/provenance checks. Locate the eight fixed FL units and proposed English sequences in independent texts with exact, whitespace and NFKC/casefold ordered-word views. Retain offsets, ambiguity and passage order. Ignore punctuation only in a separately labeled diagnostic; do not substitute words or use fuzzy/paraphrase matches. Compare current and historical evidence rather than silently updating it.
+
+Review full source statement boundaries, not just phrase containment. Distinguish proposed reading-edition English from recovered original English, and report word-count differences under both whitespace and the project's tokenization. Repeated/order/coverage failures stay in the denominator. A paragraph review requires every selected FL unit independently preserved, each English unit uniquely found within one source, consistent order, and inspectable complete statement boundaries. Partial fragments remain review leads.
+
+No translation model, lexical induction, shared lexicon use, accuracy/significance testing or semantic-gold promotion. Word-count equality alone is insufficient for wordwise labels. A source-backed passage review may be admitted for reconstruction/development only; independently reviewed word meanings and untouched test status remain unavailable. Negative diagnostics use the other selected source as a fixed wrong-source comparator, report every accidental match, and produce no classifier or false-admission-rate claim.
+
+Freeze all evidence and review judgments before the immutable run. Produce per-unit and per-passage gates, errata, source/extraction/drift receipts, immutable hashes and an independent byte/occurrence/accounting verifier. Preserve experiments 1–15. Any lack of original evidence is a bounded acquisition/review outcome, not permission to fabricate correspondence.

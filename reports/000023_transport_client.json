@@ -1,0 +1,9 @@
+{
+  "verified_after_capture_at_utc": "2026-10-14T12:21:05.730612+00:00",
+  "probe_was_local_no_network": true,
+  "curl_version_output": "curl 8.7.1 (x86_64-apple-darwin24.0) libcurl/8.7.1 (SecureTransport) LibreSSL/3.3.6 zlib/1.2.12 nghttp2/1.64.0\nRelease-Date: 2024-03-27\nProtocols: dict file ftp ftps gopher gophers http https imap imaps ipfs ipns ldap ldaps mqtt pop3 pop3s rtsp smb smbs smtp smtps telnet tftp\nFeatures: alt-svc AsynchDNS GSS-API HSTS HTTP2 HTTPS-proxy IPv6 Kerberos Largefile libz MultiSSL NTLM SPNEGO SSL threadsafe UnixSockets\n",
+  "python_runtime": "/Users/kalewicker/Documents/forgotten languages/.venv/bin/python",
+  "python_ssl_version": "OpenSSL 3.5.5 27 Jan 2026",
+  "live_alternative_client_tested": false,
+  "interpretation": "The native failures establish failure of the registered curl procedure, not inaccessibility through every secure HTTPS client. A separate preregistered client-interoperability check may diagnose this without weakening TLS verification."
+}

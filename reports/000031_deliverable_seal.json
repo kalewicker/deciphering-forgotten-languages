@@ -1,0 +1,27 @@
+{
+  "sealed_at_utc": "2026-10-16T09:16:39.889849+00:00",
+  "run_manifest_sha256": "8741dc2562b3bd1545cc44391868d57b0ab0452f1bbdb46bd50854d47d66070a",
+  "deliverable_hashes": {
+    "reports/000031_interpretation.md": "43ef79dae8fe8210832181b1abc613019e9419dba1b3447e98109ba0879374b3",
+    "reports/000031_verification.json": "f748787c2fc62e7e63f7a9eaa1647eedf497bb0d7749b314a8d7faa4a75c65ec"
+  },
+  "tests_passed": 255,
+  "engineering_calibration_passed": true,
+  "synthetic_candidate_admission_passed": false,
+  "parents": 40,
+  "queries": 200,
+  "panels": 1000,
+  "distinct_pair_scores": 1200,
+  "equivalence_certificates": 40,
+  "paired_world_equalities": 200,
+  "rejection_panels": 600,
+  "rejection_panel_non_parent_nominations": 51,
+  "prior_runs_preserved": 30,
+  "scientific_acceptance": null,
+  "natural_targets_rescored": 0,
+  "source_identities_admitted": 0,
+  "semantic_labels_admitted": 0,
+  "independent_reviews_admitted": 0,
+  "untouched_test_units_admitted": 0,
+  "scope": "Known-lineage synthetic calibration; unchanged v30 scorer; full unavailable-case denominators and equal-feature ambiguity preserved; no natural semantic acceptance"
+}

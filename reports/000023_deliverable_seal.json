@@ -1,0 +1,10 @@
+{
+  "sealed_at_utc": "2026-10-14T12:23:07.348586+00:00",
+  "run_manifest_sha256": "e8fae9648fed4a485e94f27bc7972394d6dcb5d7ca40ec1d3be5cf9ae1736b50",
+  "deliverable_hashes": {
+    "reports/000023_interpretation.md": "f46e9b911d11349d1e21e3742acb04ac302e25abdb535f13673129199ebdf41f",
+    "reports/000023_verification.json": "583987f634b28251e17f7e4040afab3ccecce408c59401905f36ae868ab5be2f",
+    "reports/000023_transport_client.json": "51cbbc5887e80fea53fffe991941a2734de71e5f2ced7a53876372ce14386f1c"
+  },
+  "scope": "Bounded native/archival capture and neutral review preparation; all failures, fingerprint discrepancy and PDF byte drift retained; no semantic labels or fake untouched groups admitted; experiments 1–22 preserved"
+}

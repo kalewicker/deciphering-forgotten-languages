@@ -1,0 +1,15 @@
+{
+  "registered_at_utc": "2026-10-15T04:53:07.634496+00:00",
+  "audit_revision": 1,
+  "experimental_criteria_changed": false,
+  "new_network_requests": 0,
+  "input_hashes": {
+    "experiments/kamri_provenance_v24_audit_revision1.md": "3ac5a4b8c42424031ff28db5d396c154a1eb6721b7ccb3c8ccb82309e287faf6",
+    "scripts/verify_provenance_v24_revision1.py": "fb1a1ed39547ad888f3827a4343914d1966cb056ec1b07193d436ec6fd9181b5",
+    "scripts/verify_provenance_v24.py": "717a3b59c49de6e90ba29fc0ec97f8957105861854c546021f5c2b580a25eb87",
+    "scripts/verify_correspondence_v6.py": "9e2e9a3c07e0fd7b119fa384861e238ff063adacc32354a760d91745be8cb500",
+    "data/v24/preflight.json": "a1c10f6931d5dc0fde0237e782098ad229af9feba51e04e09a3b9361210fa37c",
+    "runs/000024_kamri_provenance/manifest.json": "d490b86cde1509f533fb28db037d1f06c30e239d7ae6f92c8f9b0645a329f26f",
+    "reports/000024_verification_initial_failure.json": "ef2f3a3d6bb72f16376c3801fa2417a520c67745a7036459a23b19a83f00de30"
+  }
+}

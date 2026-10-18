@@ -1,0 +1,10 @@
+{
+  "registered_at_utc": "2026-10-18T07:19:20.461749+00:00",
+  "input_hashes": {
+    "experiments/mixed_edit_transfer_v36_preparation_revision1.md": "cbd777cd9736132dfa80966c5cb2332df8ad69efc070198c888d172af2f13d36",
+    "data/v36/preparation_failure/receipt.json": "f13c68ba37905b7f045f03c4f956ac0eadb270b35ef78e8366665176b2f01769",
+    "data/v36/preflight.json": "f4b63a9fd5a76a07c18eab071ffd06b8cdb17149269423564c9bf5ac291ef013"
+  },
+  "scientific_design_changed": false,
+  "predictions_before_revision": 0
+}

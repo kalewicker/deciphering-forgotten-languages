@@ -1,0 +1,8 @@
+{
+  "run_manifest_sha256": "0fa1364f2d7f5e0ad7d86a223889234bdef7952386baf279861e629a5d4274fe",
+  "deliverable_hashes": {
+    "reports/000018_interpretation.md": "098364015152dd67a5b87977511d87189f11d621f5dbf136b08b98eb8dd0d9be",
+    "reports/000018_verification.json": "a6818214f007f63b9446d11504fed572a68c5e65b0e75d8fc0207b7472a4ab92"
+  },
+  "scope": "Interpretation of completed immutable experiment 18; no run, reference gate or candidates modified"
+}

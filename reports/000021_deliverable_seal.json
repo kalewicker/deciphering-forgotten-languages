@@ -1,0 +1,9 @@
+{
+  "sealed_at_utc": "2026-10-14T10:47:27.710601+00:00",
+  "run_manifest_sha256": "60f6d8f7339a550db4b61487ae480549186d29a12038b3bf0ab6f6934865907c",
+  "deliverable_hashes": {
+    "reports/000021_interpretation.md": "7f043c68294857c7ba4bb13fc2986012515434f2e0aebb79018c5fc54315d70c",
+    "reports/000021_verification.json": "fa78f920a3be0ef05add3579461ee3f8a117089932b76c78224f006bb1888c7c"
+  },
+  "scope": "Evidence-availability audit only; all nominees and conservative parser failures retained, no orthographic scoring or semantic admission, experiments 1–20 unchanged"
+}

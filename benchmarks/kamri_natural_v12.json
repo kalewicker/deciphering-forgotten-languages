@@ -1,0 +1,63 @@
+{
+  "schema_version": 12,
+  "status": "frozen_acquisition_eligibility_result",
+  "selected_work_denominator": 2,
+  "selected_query_denominator": 2,
+  "reference_eligible_queries": 0,
+  "model_executed": false,
+  "documents": {
+    "fl_liber_azazel_v12": {
+      "path": "data/v12/normalized/fl_liber_azazel_v12.json",
+      "sha256": "9e7f87b7536128801902076320fa4bae31017797704d86eff6c487b80361d97c",
+      "text_sha256": "793c664af46b3a7a95e712d6569eb01165466cf5e49585df16bc9aa60073b560"
+    },
+    "fl_vile_darkness_v12": {
+      "path": "data/v12/normalized/fl_vile_darkness_v12.json",
+      "sha256": "8a8c3c15571c40c50d10c35245f611730d946cffee8875330f92371739398157",
+      "text_sha256": "9f96930c2042091f0bfce40911ce4f980be61defd9a0ce152cd2ee4a2abdf581"
+    }
+  },
+  "ledger": "benchmarks/inputs/natural_v12_acquisition.json",
+  "input_hashes": {
+    "benchmarks/inputs/natural_v12_acquisition.json": "44775480d3eb7d6602e68be2253e06903d4e636abf2fd342c796beedc5edb7af",
+    "benchmarks/inputs/natural_v12_novelty.json": "9ac01dc354e122e1bbdb9f6fda86c014777e369c865b497fcc6cfe5e8704a259",
+    "data/v12/acquisition/liber_azazel_1/body.bin": "e647d07dc1a801233d18ee2a8662d9da48f62e6fa8c986be9810669631a5c5b2",
+    "data/v12/acquisition/liber_azazel_1/headers.txt": "ad272c77554c41a046b261be3501a6ab027be59104e1adef3a689f28f6229b0e",
+    "data/v12/acquisition/liber_azazel_1/receipt.json": "b4afb927fb01ef437fa4bc1f1bc5f763f3bba48d3003ec9d21a506a057180e06",
+    "data/v12/acquisition/liber_azazel_2/body.bin": "cc0b4e42510d49c6decd464123ecf3b14ae9b47f9b4ed2ee64893e2d6520a264",
+    "data/v12/acquisition/liber_azazel_2/headers.txt": "70c1c2da1bbd3667102957bac0941886b0afdce488fe792e1b9ebb7a0cc32487",
+    "data/v12/acquisition/liber_azazel_2/receipt.json": "07d86c3d47c404f2c95587bfc82b3d157fff2cb3c829e08fcae0f8beab3717d4",
+    "data/v12/acquisition/liber_azazel_3/headers.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/v12/acquisition/liber_azazel_3/receipt.json": "e33810fe9894653d2f53e4b6986c00332b6f106d5224819dc0e6e2c4238b9d2e",
+    "data/v12/acquisition/liber_azazel_3_escalated/headers.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/v12/acquisition/liber_azazel_3_escalated/receipt.json": "25c893a7d76aeb6f05c3bdcf4a0cf54b972ba7817c42a16fc722d4b5629bf0a1",
+    "data/v12/acquisition/vile_darkness_1/body.bin": "2023d0d8fb4a2379e1e74d668ee2fb25159fcfd2efbd0c5aa876a507333d0c7c",
+    "data/v12/acquisition/vile_darkness_1/headers.txt": "e022948d1f205bcfb2eb230ce8c56b3c56332af3d8c1d2783f9dfe93e6baacdb",
+    "data/v12/acquisition/vile_darkness_1/receipt.json": "02e7dc85c78dcdfd4ec6441101a2d6989e17e0b7b497933c1bde37b7c1dc84ef",
+    "data/v12/acquisition/vile_darkness_2/body.bin": "97785d4429517548ea972892d825ddb247e7ea37b22bc95dc65d69a80abb6259",
+    "data/v12/acquisition/vile_darkness_2/headers.txt": "63811d000b36e92a18429862671310a016baac2bc9e65a5d804cbdf119340308",
+    "data/v12/acquisition/vile_darkness_2/receipt.json": "37378488877ff4e48334aa0106b8f880b374a0a4b479590d2d1b05283eed0ce7",
+    "data/v12/discovery/fl_and_library_index.json": "d4bb79ba720f46bed3676fe8961721f437e32c1961538af149968a83568aab8c",
+    "data/v12/discovery/library_item_resolution.json": "109d47d284b95e092ce9b4b544d003bd68913dc827bb502c0b1c644a6106f771",
+    "data/v12/discovery/library_status_index.json": "f94b97375a878d343d6940c6fafe83c99a208cf00e5fcae4a46afe250a8f2fa8",
+    "data/v12/discovery/search_log.json": "017d098d2ec14d5a30f2fde7c442afaa44ae06957af469a7b173b8b082dc1687",
+    "data/v12/indexed/azazel_opening.txt": "31f0ebfaa06789d401cf5a41be55ec910ed75d754bb6d9f7a84d00eee2b037d5",
+    "data/v12/indexed/azazel_source_preview.txt": "c82d24dbe55f5bdd3bc14bdb31e3734791bddbed4dbe49f1632f2adba4f1fbf3",
+    "data/v12/indexed/vile_opening.txt": "16606d191861867909949c34b6e3707ad491cb971592ed1ffdf4a19f6cb6ebe2",
+    "data/v12/normalized/fl_liber_azazel_v12.json": "9e7f87b7536128801902076320fa4bae31017797704d86eff6c487b80361d97c",
+    "data/v12/normalized/fl_vile_darkness_v12.json": "8a8c3c15571c40c50d10c35245f611730d946cffee8875330f92371739398157",
+    "data/v12/quarantined_preview.json": "03f99e7e2cbee1b2d22eec3bbad6db4cbdd7a0dc10cf837a978ec7c255fa0c99",
+    "data/v12/raw/16606d191861867909949c34b6e3707ad491cb971592ed1ffdf4a19f6cb6ebe2.2026-10-01T11-16-28.950551+00-00.json": "c446e6a9be64b851cf5dd10b977feb654fde6727191bd44be5c076e3819b0a3f",
+    "data/v12/raw/16606d191861867909949c34b6e3707ad491cb971592ed1ffdf4a19f6cb6ebe2.bin": "16606d191861867909949c34b6e3707ad491cb971592ed1ffdf4a19f6cb6ebe2",
+    "data/v12/raw/31f0ebfaa06789d401cf5a41be55ec910ed75d754bb6d9f7a84d00eee2b037d5.2026-10-01T11-16-28.903027+00-00.json": "a388fa06ef258c998f8be75e82589f65a8118134fa8596d6e9971e24fdbd5007",
+    "data/v12/raw/31f0ebfaa06789d401cf5a41be55ec910ed75d754bb6d9f7a84d00eee2b037d5.bin": "31f0ebfaa06789d401cf5a41be55ec910ed75d754bb6d9f7a84d00eee2b037d5",
+    "data/v12/raw/c82d24dbe55f5bdd3bc14bdb31e3734791bddbed4dbe49f1632f2adba4f1fbf3.2026-10-01T11-16-29.013210+00-00.json": "b1479d602e7dabb4e4d7f105ae536f6f89be963790f77470b58a8b08fbdda862",
+    "data/v12/raw/c82d24dbe55f5bdd3bc14bdb31e3734791bddbed4dbe49f1632f2adba4f1fbf3.bin": "c82d24dbe55f5bdd3bc14bdb31e3734791bddbed4dbe49f1632f2adba4f1fbf3",
+    "experiments/kamri_conflict_v11.json": "bc209ab6834b8501be404f2e8600005d0685f6b5336d9908621e86aa548678e5",
+    "experiments/kamri_natural_v12.json": "d1b3b2b54af520a90ef16ce64735fdbaa7a7b6cdea2932728e160470094d2f39",
+    "experiments/kamri_natural_v12.md": "0e7b40b1ba8c75f12d50ddaf88f49d7bdab355e15d80cd52728f62780638eb97",
+    "pyproject.toml": "cf3baf2c40509d24d99e8d7ecb2b0ef29d2b321e428e5bd0c7ecef3c2cefebac",
+    "runs/000001_kamri_excerpt_baseline/lexicon.json": "9f6f5f3c78a8be754a9cd2017d061fd3953fb1ea8c6bd53883d8c650887964e6",
+    "uv.lock": "c6ec1b1b99f17fd8d3f84ecf01406a2bde9ad54022b73ed771992cc42ded9023"
+  }
+}

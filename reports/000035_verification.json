@@ -1,0 +1,93 @@
+{
+  "state": "verified",
+  "run_manifest_sha256": "b551a5d9df369dc856247eeb8ac17dbf79c1a8d95d9c0ea17fb528e0b468373e",
+  "independent_control_reconstruction": true,
+  "independent_integer_dag_and_pair_dominators": true,
+  "engineering_integrity_passed": true,
+  "observations_verified": 371,
+  "v34_worlds_verified": 684,
+  "control_rows_verified": 42,
+  "panels_verified": 18,
+  "synthetic_recovery_gate_passed": true,
+  "baseline_comparison": {
+    "unequal_swap_forced_affected_before": {
+      "tokens": 658,
+      "emitted": 0,
+      "strict_exact": 0,
+      "symbol_compatible": 0,
+      "strict_precision": [
+        0,
+        0
+      ],
+      "symbol_compatibility": [
+        0,
+        0
+      ],
+      "coverage": [
+        0,
+        658
+      ]
+    },
+    "unequal_swap_forced_affected_after": {
+      "tokens": 658,
+      "emitted": 658,
+      "strict_exact": 658,
+      "symbol_compatible": 658,
+      "coverage": [
+        658,
+        658
+      ],
+      "strict_precision": [
+        658,
+        658
+      ],
+      "symbol_compatibility": [
+        658,
+        658
+      ]
+    },
+    "delta_returned": 658,
+    "delta_exact": 658,
+    "equal_swap_affected_wrong_before": 26,
+    "equal_swap_affected_wrong_after": 26
+  },
+  "prior_runs_preserved": [
+    "000001_kamri_excerpt_baseline",
+    "000002_kamri_alignment_editions",
+    "000003_kamri_passage_factorial",
+    "000004_kamri_precision_mass",
+    "000005_kamri_scoped_register",
+    "000006_kamri_correspondence_audit",
+    "000007_kamri_editorial_robustness",
+    "000008_kamri_order_admission",
+    "000009_kamri_coverage_negatives",
+    "000010_kamri_content_capacity",
+    "000011_kamri_anchor_conflicts",
+    "000012_kamri_natural_acquisition",
+    "000013_kamri_source_provenance",
+    "000014_kamri_source_feasibility",
+    "000015_kamri_dataset_audit",
+    "000016_kamri_correspondence_review",
+    "000017_kamri_positional_consistency",
+    "000018_kamri_passage_transfer",
+    "000019_kamri_single_gap",
+    "000020_kamri_orthographic_anchors",
+    "000021_kamri_calibration_evidence",
+    "000022_kamri_orthographic_retest",
+    "000023_kamri_capture_review",
+    "000024_kamri_provenance",
+    "000025_kamri_review_handoff",
+    "000026_kamri_source_specificity",
+    "000027_kamri_residual_context",
+    "000028_kamri_block_audit",
+    "000029_risk_layout_derivative",
+    "000030_paragraph_patterns",
+    "000031_synthetic_mechanisms",
+    "000032_synthetic_transfer",
+    "000033_alignment_ambiguity",
+    "000034_positional_worlds"
+  ],
+  "scientific_acceptance": null,
+  "semantic_labels_admitted": 0,
+  "verified_at_utc": "2026-10-16T21:00:16.090219+00:00"
+}

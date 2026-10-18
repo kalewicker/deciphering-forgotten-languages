@@ -1,0 +1,26 @@
+{
+  "sealed_at_utc": "2026-10-16T08:48:03.850404+00:00",
+  "run_manifest_sha256": "d8d72a354f9b37ba206d5344020685e1b4e29b743e5b344819d7c8417b308935",
+  "deliverable_hashes": {
+    "reports/000030_interpretation.md": "d0f0043c5ecb087845653922dcebc2b80cff68c305e00bfc0c9cf089e19fe8b8",
+    "reports/000030_verification.json": "7ce788d4f4405fafa8cfceffc9779e45e55af0cd3173ff3bc658f2966f97a06b"
+  },
+  "tests_passed": 243,
+  "engineering_replay_passed": true,
+  "structural_development_criterion_passed": false,
+  "query_denominator": 3,
+  "source_work_denominator": 2,
+  "unique_expected_units": 0,
+  "opaque_positive_qualifications": 2,
+  "source_absent_nominations": 1,
+  "natural_comparisons": 108,
+  "null_panels": 199,
+  "null_comparisons": 21492,
+  "prior_runs_preserved": 29,
+  "scientific_acceptance": null,
+  "semantic_labels_admitted": 0,
+  "source_identities_admitted": 0,
+  "independent_reviews_admitted": 0,
+  "untouched_test_units_admitted": 0,
+  "scope": "Exposed paragraph repetition-pattern diagnostic; failed criterion preserved, feature-availability and cross-work collision limits retained; no semantic acceptance or prior target rescore"
+}

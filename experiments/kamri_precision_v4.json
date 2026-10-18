@@ -1,0 +1,138 @@
+{
+  "experiment_id": "kamri_precision_v4",
+  "registration": "experiments/kamri_precision_v4.md",
+  "candidate_ids": [
+    "source_golden_age",
+    "source_nichiren_images",
+    "source_christisis",
+    "source_dark_side_light",
+    "source_gad_johnson",
+    "source_western_esoterism",
+    "source_manichaean_hymn",
+    "source_risk_math",
+    "source_models_magic"
+  ],
+  "variants": [
+    {
+      "id": "effective_cartesian",
+      "reward": "effective",
+      "decoder": "cartesian"
+    },
+    {
+      "id": "effective_ordered",
+      "reward": "effective",
+      "decoder": "ordered"
+    },
+    {
+      "id": "tokens_cartesian",
+      "reward": "tokens",
+      "decoder": "cartesian"
+    },
+    {
+      "id": "tokens_ordered",
+      "reward": "tokens",
+      "decoder": "ordered"
+    }
+  ],
+  "weights": {
+    "length": 0.55,
+    "punctuation": 0.2,
+    "repetition": 0.2,
+    "anchors": 0.05
+  },
+  "match_floor": 0.72,
+  "gap_penalty": 0.35,
+  "merge_penalty": 0.04,
+  "minimum_fl_atoms": 3,
+  "structural_weight": 0.6,
+  "lexical_weight": 0.4,
+  "lexicon_path": "runs/000001_kamri_excerpt_baseline/lexicon.json",
+  "lexicon_rules": {
+    "minimum_observations": 2,
+    "minimum_source_groups": 2,
+    "minimum_candidate_fraction": 0.8
+  },
+  "abbreviations": [
+    "i.e.",
+    "e.g.",
+    "Mr.",
+    "Mrs.",
+    "Ms.",
+    "Dr.",
+    "Prof.",
+    "vs.",
+    "etc."
+  ],
+  "reference_tokens": 20,
+  "token_gap": -0.75,
+  "token_exact": 2.0,
+  "token_mismatch": -2.0,
+  "token_unknown": 0.5,
+  "edge_minimum_pairs": 2,
+  "real_shuffle_seed": 4731,
+  "synthetic_shuffle_seed": 4831,
+  "real_shuffle_repetitions": 20,
+  "synthetic_shuffle_repetitions": 10,
+  "calibration_seeds": [
+    4301,
+    4302,
+    4303,
+    4304,
+    4305,
+    4306,
+    4307,
+    4308
+  ],
+  "fresh_seeds": [
+    4401,
+    4402,
+    4403,
+    4404,
+    4405,
+    4406,
+    4407,
+    4408,
+    4409,
+    4410,
+    4411,
+    4412,
+    4413,
+    4414,
+    4415,
+    4416,
+    4417,
+    4418,
+    4419,
+    4420,
+    4421,
+    4422,
+    4423,
+    4424,
+    4425,
+    4426,
+    4427,
+    4428,
+    4429,
+    4430,
+    4431,
+    4432,
+    4433,
+    4434,
+    4435,
+    4436,
+    4437,
+    4438,
+    4439,
+    4440
+  ],
+  "families": [
+    "diagonal",
+    "source_split",
+    "fl_split",
+    "insertion",
+    "deletion",
+    "abbreviation",
+    "reordering",
+    "sparse_anchors"
+  ]
+}

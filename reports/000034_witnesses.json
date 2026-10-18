@@ -1,0 +1,3691 @@
+{
+  "created_at_utc": "2026-10-16T20:43:19.722880+00:00",
+  "status": "post_run_evidence_slices_not_a_new_test",
+  "input_hashes": {
+    "data/v34/public_observations.json": "e729d132d074ef80f19e2f5f8414f524b8bd87d0bb73535a6c86823926b57ac5",
+    "data/v34/oracle.json": "191d4b221b16cf9a86ddc02a53ea935efec3f2e977459c4b1f567d55c46c0cc5",
+    "runs/000034_positional_worlds/predictions.json": "a39d08503c7c1c979cbdb3099ee435dd62c21f19d0afc9aaccf0c31e8f120148",
+    "runs/000034_positional_worlds/assessment.json": "08bc9cbfa96667e47ecf53d7f3214c227081f1d02c649436f283b88ba9e84734"
+  },
+  "equal_input_certificates": [
+    {
+      "site_id": "p1at35",
+      "symbol_relation": "equal",
+      "public_input_bytes_equal": true,
+      "predictions_equal": true,
+      "origin_difference_indices": [
+        35,
+        36
+      ],
+      "balanced_point_bound": {
+        "positions": [
+          {
+            "query_index": 35,
+            "origins_by_world": [
+              35,
+              36
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              35,
+              36
+            ]
+          },
+          {
+            "query_index": 36,
+            "origins_by_world": [
+              36,
+              35
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              35,
+              36
+            ]
+          }
+        ],
+        "maximum_exact_calls": 2,
+        "fully_answered_calls": 4,
+        "oracle_union_set_coverage": [
+          4,
+          4
+        ],
+        "oracle_union_is_predictor_output": false
+      }
+    },
+    {
+      "site_id": "p1at39",
+      "symbol_relation": "equal",
+      "public_input_bytes_equal": true,
+      "predictions_equal": true,
+      "origin_difference_indices": [
+        39,
+        40
+      ],
+      "balanced_point_bound": {
+        "positions": [
+          {
+            "query_index": 39,
+            "origins_by_world": [
+              39,
+              40
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              39,
+              40
+            ]
+          },
+          {
+            "query_index": 40,
+            "origins_by_world": [
+              40,
+              39
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              39,
+              40
+            ]
+          }
+        ],
+        "maximum_exact_calls": 2,
+        "fully_answered_calls": 4,
+        "oracle_union_set_coverage": [
+          4,
+          4
+        ],
+        "oracle_union_is_predictor_output": false
+      }
+    },
+    {
+      "site_id": "p2at46",
+      "symbol_relation": "equal",
+      "public_input_bytes_equal": true,
+      "predictions_equal": true,
+      "origin_difference_indices": [
+        46,
+        47
+      ],
+      "balanced_point_bound": {
+        "positions": [
+          {
+            "query_index": 46,
+            "origins_by_world": [
+              46,
+              47
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              46,
+              47
+            ]
+          },
+          {
+            "query_index": 47,
+            "origins_by_world": [
+              47,
+              46
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              46,
+              47
+            ]
+          }
+        ],
+        "maximum_exact_calls": 2,
+        "fully_answered_calls": 4,
+        "oracle_union_set_coverage": [
+          4,
+          4
+        ],
+        "oracle_union_is_predictor_output": false
+      }
+    },
+    {
+      "site_id": "p2at58",
+      "symbol_relation": "equal",
+      "public_input_bytes_equal": true,
+      "predictions_equal": true,
+      "origin_difference_indices": [
+        58,
+        59
+      ],
+      "balanced_point_bound": {
+        "positions": [
+          {
+            "query_index": 58,
+            "origins_by_world": [
+              58,
+              59
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              58,
+              59
+            ]
+          },
+          {
+            "query_index": 59,
+            "origins_by_world": [
+              59,
+              58
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              58,
+              59
+            ]
+          }
+        ],
+        "maximum_exact_calls": 2,
+        "fully_answered_calls": 4,
+        "oracle_union_set_coverage": [
+          4,
+          4
+        ],
+        "oracle_union_is_predictor_output": false
+      }
+    },
+    {
+      "site_id": "p2at61",
+      "symbol_relation": "equal",
+      "public_input_bytes_equal": true,
+      "predictions_equal": true,
+      "origin_difference_indices": [
+        61,
+        62
+      ],
+      "balanced_point_bound": {
+        "positions": [
+          {
+            "query_index": 61,
+            "origins_by_world": [
+              61,
+              62
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              61,
+              62
+            ]
+          },
+          {
+            "query_index": 62,
+            "origins_by_world": [
+              62,
+              61
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              61,
+              62
+            ]
+          }
+        ],
+        "maximum_exact_calls": 2,
+        "fully_answered_calls": 4,
+        "oracle_union_set_coverage": [
+          4,
+          4
+        ],
+        "oracle_union_is_predictor_output": false
+      }
+    },
+    {
+      "site_id": "p3at8",
+      "symbol_relation": "equal",
+      "public_input_bytes_equal": true,
+      "predictions_equal": true,
+      "origin_difference_indices": [
+        8,
+        9
+      ],
+      "balanced_point_bound": {
+        "positions": [
+          {
+            "query_index": 8,
+            "origins_by_world": [
+              8,
+              9
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              8,
+              9
+            ]
+          },
+          {
+            "query_index": 9,
+            "origins_by_world": [
+              9,
+              8
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              8,
+              9
+            ]
+          }
+        ],
+        "maximum_exact_calls": 2,
+        "fully_answered_calls": 4,
+        "oracle_union_set_coverage": [
+          4,
+          4
+        ],
+        "oracle_union_is_predictor_output": false
+      }
+    },
+    {
+      "site_id": "p3at46",
+      "symbol_relation": "equal",
+      "public_input_bytes_equal": true,
+      "predictions_equal": true,
+      "origin_difference_indices": [
+        46,
+        47
+      ],
+      "balanced_point_bound": {
+        "positions": [
+          {
+            "query_index": 46,
+            "origins_by_world": [
+              46,
+              47
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              46,
+              47
+            ]
+          },
+          {
+            "query_index": 47,
+            "origins_by_world": [
+              47,
+              46
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              46,
+              47
+            ]
+          }
+        ],
+        "maximum_exact_calls": 2,
+        "fully_answered_calls": 4,
+        "oracle_union_set_coverage": [
+          4,
+          4
+        ],
+        "oracle_union_is_predictor_output": false
+      }
+    },
+    {
+      "site_id": "p3at58",
+      "symbol_relation": "equal",
+      "public_input_bytes_equal": true,
+      "predictions_equal": true,
+      "origin_difference_indices": [
+        58,
+        59
+      ],
+      "balanced_point_bound": {
+        "positions": [
+          {
+            "query_index": 58,
+            "origins_by_world": [
+              58,
+              59
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              58,
+              59
+            ]
+          },
+          {
+            "query_index": 59,
+            "origins_by_world": [
+              59,
+              58
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              58,
+              59
+            ]
+          }
+        ],
+        "maximum_exact_calls": 2,
+        "fully_answered_calls": 4,
+        "oracle_union_set_coverage": [
+          4,
+          4
+        ],
+        "oracle_union_is_predictor_output": false
+      }
+    },
+    {
+      "site_id": "p4at8",
+      "symbol_relation": "equal",
+      "public_input_bytes_equal": true,
+      "predictions_equal": true,
+      "origin_difference_indices": [
+        8,
+        9
+      ],
+      "balanced_point_bound": {
+        "positions": [
+          {
+            "query_index": 8,
+            "origins_by_world": [
+              8,
+              9
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              8,
+              9
+            ]
+          },
+          {
+            "query_index": 9,
+            "origins_by_world": [
+              9,
+              8
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              8,
+              9
+            ]
+          }
+        ],
+        "maximum_exact_calls": 2,
+        "fully_answered_calls": 4,
+        "oracle_union_set_coverage": [
+          4,
+          4
+        ],
+        "oracle_union_is_predictor_output": false
+      }
+    },
+    {
+      "site_id": "p4at23",
+      "symbol_relation": "equal",
+      "public_input_bytes_equal": true,
+      "predictions_equal": true,
+      "origin_difference_indices": [
+        23,
+        24
+      ],
+      "balanced_point_bound": {
+        "positions": [
+          {
+            "query_index": 23,
+            "origins_by_world": [
+              23,
+              24
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              23,
+              24
+            ]
+          },
+          {
+            "query_index": 24,
+            "origins_by_world": [
+              24,
+              23
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              23,
+              24
+            ]
+          }
+        ],
+        "maximum_exact_calls": 2,
+        "fully_answered_calls": 4,
+        "oracle_union_set_coverage": [
+          4,
+          4
+        ],
+        "oracle_union_is_predictor_output": false
+      }
+    },
+    {
+      "site_id": "p5at1",
+      "symbol_relation": "equal",
+      "public_input_bytes_equal": true,
+      "predictions_equal": true,
+      "origin_difference_indices": [
+        1,
+        2
+      ],
+      "balanced_point_bound": {
+        "positions": [
+          {
+            "query_index": 1,
+            "origins_by_world": [
+              1,
+              2
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              1,
+              2
+            ]
+          },
+          {
+            "query_index": 2,
+            "origins_by_world": [
+              2,
+              1
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              1,
+              2
+            ]
+          }
+        ],
+        "maximum_exact_calls": 2,
+        "fully_answered_calls": 4,
+        "oracle_union_set_coverage": [
+          4,
+          4
+        ],
+        "oracle_union_is_predictor_output": false
+      }
+    },
+    {
+      "site_id": "p5at13",
+      "symbol_relation": "equal",
+      "public_input_bytes_equal": true,
+      "predictions_equal": true,
+      "origin_difference_indices": [
+        13,
+        14
+      ],
+      "balanced_point_bound": {
+        "positions": [
+          {
+            "query_index": 13,
+            "origins_by_world": [
+              13,
+              14
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              13,
+              14
+            ]
+          },
+          {
+            "query_index": 14,
+            "origins_by_world": [
+              14,
+              13
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              13,
+              14
+            ]
+          }
+        ],
+        "maximum_exact_calls": 2,
+        "fully_answered_calls": 4,
+        "oracle_union_set_coverage": [
+          4,
+          4
+        ],
+        "oracle_union_is_predictor_output": false
+      }
+    },
+    {
+      "site_id": "p5at28",
+      "symbol_relation": "equal",
+      "public_input_bytes_equal": true,
+      "predictions_equal": true,
+      "origin_difference_indices": [
+        28,
+        29
+      ],
+      "balanced_point_bound": {
+        "positions": [
+          {
+            "query_index": 28,
+            "origins_by_world": [
+              28,
+              29
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              28,
+              29
+            ]
+          },
+          {
+            "query_index": 29,
+            "origins_by_world": [
+              29,
+              28
+            ],
+            "exact_world_counts_by_returned_index": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "maximum_exact_worlds": 1,
+            "set_valued_origin_union": [
+              28,
+              29
+            ]
+          }
+        ],
+        "maximum_exact_calls": 2,
+        "fully_answered_calls": 4,
+        "oracle_union_set_coverage": [
+          4,
+          4
+        ],
+        "oracle_union_is_predictor_output": false
+      }
+    }
+  ],
+  "all_representative_origin_disagreements": [
+    {
+      "site_id": "p0at13",
+      "passage": 0,
+      "swap_left_index": 13,
+      "world": "swap",
+      "relation": "unequal",
+      "observation_id": "observation542c309257368847afd1ff005e3705692bf2c2c53a95affa7c1f129b230d03df",
+      "query_index": 14,
+      "returned_index": 15,
+      "origin_index": 13,
+      "affected": true,
+      "retained_as_forced": false,
+      "query_token": {
+        "form": "aliascode5cc89e604cc43d20fd42",
+        "start": 420,
+        "end": 449,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol8",
+        "start": 129,
+        "end": 136,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol8",
+        "start": 112,
+        "end": 119,
+        "blocked": false
+      },
+      "possible_partners": [
+        13,
+        15
+      ]
+    },
+    {
+      "site_id": "p1at35",
+      "passage": 1,
+      "swap_left_index": 35,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observatione6084ba68a1e7d7c890b9d23d199a3dbe79212c46c0e493ba1b5b268b092fa18",
+      "query_index": 35,
+      "returned_index": 35,
+      "origin_index": 36,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode94ffc6e09402687db66b",
+        "start": 1018,
+        "end": 1047,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol21",
+        "start": 315,
+        "end": 323,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol21",
+        "start": 324,
+        "end": 332,
+        "blocked": false
+      },
+      "possible_partners": [
+        35
+      ]
+    },
+    {
+      "site_id": "p1at35",
+      "passage": 1,
+      "swap_left_index": 35,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observatione6084ba68a1e7d7c890b9d23d199a3dbe79212c46c0e493ba1b5b268b092fa18",
+      "query_index": 36,
+      "returned_index": 36,
+      "origin_index": 35,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode94ffc6e09402687db66b",
+        "start": 1048,
+        "end": 1077,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol21",
+        "start": 324,
+        "end": 332,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol21",
+        "start": 315,
+        "end": 323,
+        "blocked": false
+      },
+      "possible_partners": [
+        36
+      ]
+    },
+    {
+      "site_id": "p1at36",
+      "passage": 1,
+      "swap_left_index": 36,
+      "world": "swap",
+      "relation": "unequal",
+      "observation_id": "observationf670341f65a9a80d2aceeb94f68e8f61612f4900aa9e7ad21dd56a37460f0b2e",
+      "query_index": 35,
+      "returned_index": 36,
+      "origin_index": 35,
+      "affected": false,
+      "retained_as_forced": false,
+      "query_token": {
+        "form": "aliascode94ffc6e09402687db66b",
+        "start": 1018,
+        "end": 1047,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol21",
+        "start": 324,
+        "end": 332,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol21",
+        "start": 315,
+        "end": 323,
+        "blocked": false
+      },
+      "possible_partners": [
+        35,
+        36
+      ]
+    },
+    {
+      "site_id": "p1at39",
+      "passage": 1,
+      "swap_left_index": 39,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observatione6084ba68a1e7d7c890b9d23d199a3dbe79212c46c0e493ba1b5b268b092fa18",
+      "query_index": 39,
+      "returned_index": 39,
+      "origin_index": 40,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascodeae6875eb72faa9031d94",
+        "start": 1138,
+        "end": 1167,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol16",
+        "start": 351,
+        "end": 359,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol16",
+        "start": 360,
+        "end": 368,
+        "blocked": false
+      },
+      "possible_partners": [
+        39
+      ]
+    },
+    {
+      "site_id": "p1at39",
+      "passage": 1,
+      "swap_left_index": 39,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observatione6084ba68a1e7d7c890b9d23d199a3dbe79212c46c0e493ba1b5b268b092fa18",
+      "query_index": 40,
+      "returned_index": 40,
+      "origin_index": 39,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascodeae6875eb72faa9031d94",
+        "start": 1168,
+        "end": 1197,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol16",
+        "start": 360,
+        "end": 368,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol16",
+        "start": 351,
+        "end": 359,
+        "blocked": false
+      },
+      "possible_partners": [
+        40
+      ]
+    },
+    {
+      "site_id": "p1at40",
+      "passage": 1,
+      "swap_left_index": 40,
+      "world": "swap",
+      "relation": "unequal",
+      "observation_id": "observatione93bc14ee001f20931715f4a48972cdb5da653ea1f88e0d721404f1822ff7c1a",
+      "query_index": 39,
+      "returned_index": 40,
+      "origin_index": 39,
+      "affected": false,
+      "retained_as_forced": false,
+      "query_token": {
+        "form": "aliascodeae6875eb72faa9031d94",
+        "start": 1138,
+        "end": 1167,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol16",
+        "start": 360,
+        "end": 368,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol16",
+        "start": 351,
+        "end": 359,
+        "blocked": false
+      },
+      "possible_partners": [
+        39,
+        40
+      ]
+    },
+    {
+      "site_id": "p2at46",
+      "passage": 2,
+      "swap_left_index": 46,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observation00386093dd4380522cbf7ac888fb74b453d81a5b226d4bb0750e2ba97f00f227",
+      "query_index": 46,
+      "returned_index": 46,
+      "origin_index": 47,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode76e9b40807943300c892",
+        "start": 1348,
+        "end": 1377,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol13",
+        "start": 403,
+        "end": 411,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol13",
+        "start": 412,
+        "end": 420,
+        "blocked": false
+      },
+      "possible_partners": [
+        46
+      ]
+    },
+    {
+      "site_id": "p2at46",
+      "passage": 2,
+      "swap_left_index": 46,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observation00386093dd4380522cbf7ac888fb74b453d81a5b226d4bb0750e2ba97f00f227",
+      "query_index": 47,
+      "returned_index": 47,
+      "origin_index": 46,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode76e9b40807943300c892",
+        "start": 1378,
+        "end": 1407,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol13",
+        "start": 412,
+        "end": 420,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol13",
+        "start": 403,
+        "end": 411,
+        "blocked": false
+      },
+      "possible_partners": [
+        47
+      ]
+    },
+    {
+      "site_id": "p2at47",
+      "passage": 2,
+      "swap_left_index": 47,
+      "world": "swap",
+      "relation": "unequal",
+      "observation_id": "observationc2ad3e6c24914afaeeb06f57139ea8ad6d9a443425257c3e01ce17324ab36ce7",
+      "query_index": 46,
+      "returned_index": 47,
+      "origin_index": 46,
+      "affected": false,
+      "retained_as_forced": false,
+      "query_token": {
+        "form": "aliascode76e9b40807943300c892",
+        "start": 1348,
+        "end": 1377,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol13",
+        "start": 412,
+        "end": 420,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol13",
+        "start": 403,
+        "end": 411,
+        "blocked": false
+      },
+      "possible_partners": [
+        46,
+        47
+      ]
+    },
+    {
+      "site_id": "p2at58",
+      "passage": 2,
+      "swap_left_index": 58,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observation00386093dd4380522cbf7ac888fb74b453d81a5b226d4bb0750e2ba97f00f227",
+      "query_index": 58,
+      "returned_index": 58,
+      "origin_index": 59,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode12e336103683dc6c7684",
+        "start": 1692,
+        "end": 1721,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 513,
+        "end": 520,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 521,
+        "end": 528,
+        "blocked": false
+      },
+      "possible_partners": [
+        58
+      ]
+    },
+    {
+      "site_id": "p2at58",
+      "passage": 2,
+      "swap_left_index": 58,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observation00386093dd4380522cbf7ac888fb74b453d81a5b226d4bb0750e2ba97f00f227",
+      "query_index": 59,
+      "returned_index": 59,
+      "origin_index": 58,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode12e336103683dc6c7684",
+        "start": 1722,
+        "end": 1751,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 521,
+        "end": 528,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 513,
+        "end": 520,
+        "blocked": false
+      },
+      "possible_partners": [
+        59
+      ]
+    },
+    {
+      "site_id": "p2at59",
+      "passage": 2,
+      "swap_left_index": 59,
+      "world": "swap",
+      "relation": "unequal",
+      "observation_id": "observation1c5d7eff14775c8f7eef9e39e9416917ef70707b90d4b58bb71244c6aea8998d",
+      "query_index": 58,
+      "returned_index": 59,
+      "origin_index": 58,
+      "affected": false,
+      "retained_as_forced": false,
+      "query_token": {
+        "form": "aliascode12e336103683dc6c7684",
+        "start": 1692,
+        "end": 1721,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 521,
+        "end": 528,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 513,
+        "end": 520,
+        "blocked": false
+      },
+      "possible_partners": [
+        58,
+        59
+      ]
+    },
+    {
+      "site_id": "p2at61",
+      "passage": 2,
+      "swap_left_index": 61,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observation00386093dd4380522cbf7ac888fb74b453d81a5b226d4bb0750e2ba97f00f227",
+      "query_index": 61,
+      "returned_index": 61,
+      "origin_index": 62,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode5b285f09ad42bdd00aa1",
+        "start": 1782,
+        "end": 1811,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol18",
+        "start": 537,
+        "end": 545,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol18",
+        "start": 546,
+        "end": 554,
+        "blocked": false
+      },
+      "possible_partners": [
+        61
+      ]
+    },
+    {
+      "site_id": "p2at61",
+      "passage": 2,
+      "swap_left_index": 61,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observation00386093dd4380522cbf7ac888fb74b453d81a5b226d4bb0750e2ba97f00f227",
+      "query_index": 62,
+      "returned_index": 62,
+      "origin_index": 61,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode5b285f09ad42bdd00aa1",
+        "start": 1812,
+        "end": 1841,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol18",
+        "start": 546,
+        "end": 554,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol18",
+        "start": 537,
+        "end": 545,
+        "blocked": false
+      },
+      "possible_partners": [
+        62
+      ]
+    },
+    {
+      "site_id": "p2at62",
+      "passage": 2,
+      "swap_left_index": 62,
+      "world": "swap",
+      "relation": "unequal",
+      "observation_id": "observation63f03d04ac8896364a125c126e048ba37c8584df9d5e010593291062719f96f5",
+      "query_index": 61,
+      "returned_index": 62,
+      "origin_index": 61,
+      "affected": false,
+      "retained_as_forced": false,
+      "query_token": {
+        "form": "aliascode5b285f09ad42bdd00aa1",
+        "start": 1782,
+        "end": 1811,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol18",
+        "start": 546,
+        "end": 554,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol18",
+        "start": 537,
+        "end": 545,
+        "blocked": false
+      },
+      "possible_partners": [
+        61,
+        62
+      ]
+    },
+    {
+      "site_id": "p3at8",
+      "passage": 3,
+      "swap_left_index": 8,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observationf1700fe8dab2e0f12fe99d72c99c28805ed7eb475809d84bd849f0ff2c84d4dc",
+      "query_index": 8,
+      "returned_index": 8,
+      "origin_index": 9,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascodef793c56faefae904bbd7",
+        "start": 240,
+        "end": 269,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol11",
+        "start": 67,
+        "end": 75,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol11",
+        "start": 76,
+        "end": 84,
+        "blocked": false
+      },
+      "possible_partners": [
+        8
+      ]
+    },
+    {
+      "site_id": "p3at8",
+      "passage": 3,
+      "swap_left_index": 8,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observationf1700fe8dab2e0f12fe99d72c99c28805ed7eb475809d84bd849f0ff2c84d4dc",
+      "query_index": 9,
+      "returned_index": 9,
+      "origin_index": 8,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascodef793c56faefae904bbd7",
+        "start": 270,
+        "end": 299,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol11",
+        "start": 76,
+        "end": 84,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol11",
+        "start": 67,
+        "end": 75,
+        "blocked": false
+      },
+      "possible_partners": [
+        9
+      ]
+    },
+    {
+      "site_id": "p3at9",
+      "passage": 3,
+      "swap_left_index": 9,
+      "world": "swap",
+      "relation": "unequal",
+      "observation_id": "observation2cb9d7b915a3668620c79f89c5204654fa8fa3cc1004bb5356c05f96e71ed5f8",
+      "query_index": 8,
+      "returned_index": 9,
+      "origin_index": 8,
+      "affected": false,
+      "retained_as_forced": false,
+      "query_token": {
+        "form": "aliascodef793c56faefae904bbd7",
+        "start": 240,
+        "end": 269,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol11",
+        "start": 76,
+        "end": 84,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol11",
+        "start": 67,
+        "end": 75,
+        "blocked": false
+      },
+      "possible_partners": [
+        8,
+        9
+      ]
+    },
+    {
+      "site_id": "p3at46",
+      "passage": 3,
+      "swap_left_index": 46,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observationf1700fe8dab2e0f12fe99d72c99c28805ed7eb475809d84bd849f0ff2c84d4dc",
+      "query_index": 46,
+      "returned_index": 46,
+      "origin_index": 47,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascodeda8ca56f46ca6c484b5e",
+        "start": 1348,
+        "end": 1377,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol10",
+        "start": 404,
+        "end": 412,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol10",
+        "start": 413,
+        "end": 421,
+        "blocked": false
+      },
+      "possible_partners": [
+        46
+      ]
+    },
+    {
+      "site_id": "p3at46",
+      "passage": 3,
+      "swap_left_index": 46,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observationf1700fe8dab2e0f12fe99d72c99c28805ed7eb475809d84bd849f0ff2c84d4dc",
+      "query_index": 47,
+      "returned_index": 47,
+      "origin_index": 46,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascodeda8ca56f46ca6c484b5e",
+        "start": 1378,
+        "end": 1407,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol10",
+        "start": 413,
+        "end": 421,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol10",
+        "start": 404,
+        "end": 412,
+        "blocked": false
+      },
+      "possible_partners": [
+        47
+      ]
+    },
+    {
+      "site_id": "p3at47",
+      "passage": 3,
+      "swap_left_index": 47,
+      "world": "swap",
+      "relation": "unequal",
+      "observation_id": "observationb6be300d06bfd35abd123dd4554a41f515d3cfdc779fd41b5a5d99a78024b65e",
+      "query_index": 46,
+      "returned_index": 47,
+      "origin_index": 46,
+      "affected": false,
+      "retained_as_forced": false,
+      "query_token": {
+        "form": "aliascodeda8ca56f46ca6c484b5e",
+        "start": 1348,
+        "end": 1377,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol10",
+        "start": 413,
+        "end": 421,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol10",
+        "start": 404,
+        "end": 412,
+        "blocked": false
+      },
+      "possible_partners": [
+        46,
+        47
+      ]
+    },
+    {
+      "site_id": "p3at58",
+      "passage": 3,
+      "swap_left_index": 58,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observationf1700fe8dab2e0f12fe99d72c99c28805ed7eb475809d84bd849f0ff2c84d4dc",
+      "query_index": 58,
+      "returned_index": 58,
+      "origin_index": 59,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascodec17e1973e634017b6afd",
+        "start": 1692,
+        "end": 1721,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol0",
+        "start": 514,
+        "end": 521,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol0",
+        "start": 522,
+        "end": 529,
+        "blocked": false
+      },
+      "possible_partners": [
+        58
+      ]
+    },
+    {
+      "site_id": "p3at58",
+      "passage": 3,
+      "swap_left_index": 58,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observationf1700fe8dab2e0f12fe99d72c99c28805ed7eb475809d84bd849f0ff2c84d4dc",
+      "query_index": 59,
+      "returned_index": 59,
+      "origin_index": 58,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascodec17e1973e634017b6afd",
+        "start": 1722,
+        "end": 1751,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol0",
+        "start": 522,
+        "end": 529,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol0",
+        "start": 514,
+        "end": 521,
+        "blocked": false
+      },
+      "possible_partners": [
+        59
+      ]
+    },
+    {
+      "site_id": "p3at59",
+      "passage": 3,
+      "swap_left_index": 59,
+      "world": "swap",
+      "relation": "unequal",
+      "observation_id": "observatione34e33d82d042a3ab587c50d3a057cce888329832cf3f11d86fc87684a64fc1d",
+      "query_index": 58,
+      "returned_index": 59,
+      "origin_index": 58,
+      "affected": false,
+      "retained_as_forced": false,
+      "query_token": {
+        "form": "aliascodec17e1973e634017b6afd",
+        "start": 1692,
+        "end": 1721,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol0",
+        "start": 522,
+        "end": 529,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol0",
+        "start": 514,
+        "end": 521,
+        "blocked": false
+      },
+      "possible_partners": [
+        58,
+        59
+      ]
+    },
+    {
+      "site_id": "p4at8",
+      "passage": 4,
+      "swap_left_index": 8,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observation7e923c09666ac3c5e96bccc87e31d3d9a3d707ec8f50121e1e629f0e67fac231",
+      "query_index": 8,
+      "returned_index": 8,
+      "origin_index": 9,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascodeda8ca56f46ca6c484b5e",
+        "start": 240,
+        "end": 269,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol10",
+        "start": 69,
+        "end": 77,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol10",
+        "start": 78,
+        "end": 86,
+        "blocked": false
+      },
+      "possible_partners": [
+        8
+      ]
+    },
+    {
+      "site_id": "p4at8",
+      "passage": 4,
+      "swap_left_index": 8,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observation7e923c09666ac3c5e96bccc87e31d3d9a3d707ec8f50121e1e629f0e67fac231",
+      "query_index": 9,
+      "returned_index": 9,
+      "origin_index": 8,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascodeda8ca56f46ca6c484b5e",
+        "start": 270,
+        "end": 299,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol10",
+        "start": 78,
+        "end": 86,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol10",
+        "start": 69,
+        "end": 77,
+        "blocked": false
+      },
+      "possible_partners": [
+        9
+      ]
+    },
+    {
+      "site_id": "p4at9",
+      "passage": 4,
+      "swap_left_index": 9,
+      "world": "swap",
+      "relation": "unequal",
+      "observation_id": "observation290d472f5f221ff25b91ed6a77d07fe4510dbfb45d241e519fdf7089112cc301",
+      "query_index": 8,
+      "returned_index": 9,
+      "origin_index": 8,
+      "affected": false,
+      "retained_as_forced": false,
+      "query_token": {
+        "form": "aliascodeda8ca56f46ca6c484b5e",
+        "start": 240,
+        "end": 269,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol10",
+        "start": 78,
+        "end": 86,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol10",
+        "start": 69,
+        "end": 77,
+        "blocked": false
+      },
+      "possible_partners": [
+        8,
+        9
+      ]
+    },
+    {
+      "site_id": "p4at23",
+      "passage": 4,
+      "swap_left_index": 23,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observation7e923c09666ac3c5e96bccc87e31d3d9a3d707ec8f50121e1e629f0e67fac231",
+      "query_index": 23,
+      "returned_index": 23,
+      "origin_index": 24,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode268a1b6a8972a8d0e2ba",
+        "start": 674,
+        "end": 703,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol14",
+        "start": 204,
+        "end": 212,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol14",
+        "start": 213,
+        "end": 221,
+        "blocked": false
+      },
+      "possible_partners": [
+        23
+      ]
+    },
+    {
+      "site_id": "p4at23",
+      "passage": 4,
+      "swap_left_index": 23,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observation7e923c09666ac3c5e96bccc87e31d3d9a3d707ec8f50121e1e629f0e67fac231",
+      "query_index": 24,
+      "returned_index": 24,
+      "origin_index": 23,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode268a1b6a8972a8d0e2ba",
+        "start": 704,
+        "end": 733,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol14",
+        "start": 213,
+        "end": 221,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol14",
+        "start": 204,
+        "end": 212,
+        "blocked": false
+      },
+      "possible_partners": [
+        24
+      ]
+    },
+    {
+      "site_id": "p4at24",
+      "passage": 4,
+      "swap_left_index": 24,
+      "world": "swap",
+      "relation": "unequal",
+      "observation_id": "observation90b55d0fd9ed689a99727357e235a86e81cea2c2b128dcfdaba204e01db2af17",
+      "query_index": 23,
+      "returned_index": 24,
+      "origin_index": 23,
+      "affected": false,
+      "retained_as_forced": false,
+      "query_token": {
+        "form": "aliascode268a1b6a8972a8d0e2ba",
+        "start": 674,
+        "end": 703,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol14",
+        "start": 213,
+        "end": 221,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol14",
+        "start": 204,
+        "end": 212,
+        "blocked": false
+      },
+      "possible_partners": [
+        23,
+        24
+      ]
+    },
+    {
+      "site_id": "p5at1",
+      "passage": 5,
+      "swap_left_index": 1,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observationb1677e752927b70bb0da368699e1f7fbe3940d05886754436e764d12a2bec603",
+      "query_index": 1,
+      "returned_index": 1,
+      "origin_index": 2,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode26d26293ceaa1c7e9183",
+        "start": 30,
+        "end": 59,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol2",
+        "start": 8,
+        "end": 15,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol2",
+        "start": 16,
+        "end": 23,
+        "blocked": false
+      },
+      "possible_partners": [
+        1
+      ]
+    },
+    {
+      "site_id": "p5at1",
+      "passage": 5,
+      "swap_left_index": 1,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observationb1677e752927b70bb0da368699e1f7fbe3940d05886754436e764d12a2bec603",
+      "query_index": 2,
+      "returned_index": 2,
+      "origin_index": 1,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode26d26293ceaa1c7e9183",
+        "start": 60,
+        "end": 89,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol2",
+        "start": 16,
+        "end": 23,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol2",
+        "start": 8,
+        "end": 15,
+        "blocked": false
+      },
+      "possible_partners": [
+        2
+      ]
+    },
+    {
+      "site_id": "p5at2",
+      "passage": 5,
+      "swap_left_index": 2,
+      "world": "swap",
+      "relation": "unequal",
+      "observation_id": "observationce0b0775d7a0fbdc1bd579adfa3a0ec5632f70eafdaba6870da9007ce30ba2df",
+      "query_index": 1,
+      "returned_index": 2,
+      "origin_index": 1,
+      "affected": false,
+      "retained_as_forced": false,
+      "query_token": {
+        "form": "aliascode26d26293ceaa1c7e9183",
+        "start": 30,
+        "end": 59,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol2",
+        "start": 16,
+        "end": 23,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol2",
+        "start": 8,
+        "end": 15,
+        "blocked": false
+      },
+      "possible_partners": [
+        1,
+        2
+      ]
+    },
+    {
+      "site_id": "p5at13",
+      "passage": 5,
+      "swap_left_index": 13,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observationb1677e752927b70bb0da368699e1f7fbe3940d05886754436e764d12a2bec603",
+      "query_index": 13,
+      "returned_index": 13,
+      "origin_index": 14,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode12e336103683dc6c7684",
+        "start": 390,
+        "end": 419,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 111,
+        "end": 118,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 119,
+        "end": 126,
+        "blocked": false
+      },
+      "possible_partners": [
+        13
+      ]
+    },
+    {
+      "site_id": "p5at13",
+      "passage": 5,
+      "swap_left_index": 13,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observationb1677e752927b70bb0da368699e1f7fbe3940d05886754436e764d12a2bec603",
+      "query_index": 14,
+      "returned_index": 14,
+      "origin_index": 13,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode12e336103683dc6c7684",
+        "start": 420,
+        "end": 449,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 119,
+        "end": 126,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 111,
+        "end": 118,
+        "blocked": false
+      },
+      "possible_partners": [
+        14
+      ]
+    },
+    {
+      "site_id": "p5at14",
+      "passage": 5,
+      "swap_left_index": 14,
+      "world": "swap",
+      "relation": "unequal",
+      "observation_id": "observatione53c725aad12fc3f7a969adc79adac4bcdb1e201bab21aa17df91d1daa699b74",
+      "query_index": 13,
+      "returned_index": 14,
+      "origin_index": 13,
+      "affected": false,
+      "retained_as_forced": false,
+      "query_token": {
+        "form": "aliascode12e336103683dc6c7684",
+        "start": 390,
+        "end": 419,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 119,
+        "end": 126,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 111,
+        "end": 118,
+        "blocked": false
+      },
+      "possible_partners": [
+        13,
+        14
+      ]
+    },
+    {
+      "site_id": "p5at28",
+      "passage": 5,
+      "swap_left_index": 28,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observationb1677e752927b70bb0da368699e1f7fbe3940d05886754436e764d12a2bec603",
+      "query_index": 28,
+      "returned_index": 28,
+      "origin_index": 29,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode12e336103683dc6c7684",
+        "start": 824,
+        "end": 853,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 243,
+        "end": 250,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 251,
+        "end": 258,
+        "blocked": false
+      },
+      "possible_partners": [
+        28
+      ]
+    },
+    {
+      "site_id": "p5at28",
+      "passage": 5,
+      "swap_left_index": 28,
+      "world": "swap",
+      "relation": "equal",
+      "observation_id": "observationb1677e752927b70bb0da368699e1f7fbe3940d05886754436e764d12a2bec603",
+      "query_index": 29,
+      "returned_index": 29,
+      "origin_index": 28,
+      "affected": true,
+      "retained_as_forced": true,
+      "query_token": {
+        "form": "aliascode12e336103683dc6c7684",
+        "start": 854,
+        "end": 883,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 251,
+        "end": 258,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 243,
+        "end": 250,
+        "blocked": false
+      },
+      "possible_partners": [
+        29
+      ]
+    },
+    {
+      "site_id": "p5at29",
+      "passage": 5,
+      "swap_left_index": 29,
+      "world": "swap",
+      "relation": "unequal",
+      "observation_id": "observation2e0f583301c580f64d60388d58585aec20ed493d2909ea2199fa40286a07ad2a",
+      "query_index": 28,
+      "returned_index": 29,
+      "origin_index": 28,
+      "affected": false,
+      "retained_as_forced": false,
+      "query_token": {
+        "form": "aliascode12e336103683dc6c7684",
+        "start": 824,
+        "end": 853,
+        "blocked": false
+      },
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 251,
+        "end": 258,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 243,
+        "end": 250,
+        "blocked": false
+      },
+      "possible_partners": [
+        28,
+        29
+      ]
+    }
+  ],
+  "registered_metrics_changed": false,
+  "symbol_compatibility_is_independent_accuracy": false
+}

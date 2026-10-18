@@ -1,0 +1,42 @@
+{
+  "experiment_id": "kamri_alignment_v2",
+  "registration": "experiments/kamri_alignment_v2.md",
+  "development_groups": [
+    "golden_age",
+    "nichiren_images",
+    "gad_seer",
+    "christisis",
+    "dark_side_light"
+  ],
+  "fresh_groups": [
+    "western_esoterism",
+    "manichaean_hymn"
+  ],
+  "baseline": {
+    "version": "structural_local_v1",
+    "weights": {
+      "length": 0.55,
+      "punctuation": 0.2,
+      "repetition": 0.2,
+      "anchors": 0.05
+    },
+    "match_floor": 0.78,
+    "gap_penalty": 0.35,
+    "minimum_links": 3
+  },
+  "lexical_method": {
+    "structural_weight": 0.6,
+    "lexical_weight": 0.4,
+    "match_floor": 0.72,
+    "gap_penalty": 0.35,
+    "minimum_links": 3
+  },
+  "lexicon_rules": {
+    "minimum_observations": 2,
+    "minimum_source_groups": 2,
+    "minimum_candidate_fraction": 0.8
+  },
+  "lexicon_path": "runs/000001_kamri_excerpt_baseline/lexicon.json",
+  "seed": 1731,
+  "shuffle_repetitions": 20
+}

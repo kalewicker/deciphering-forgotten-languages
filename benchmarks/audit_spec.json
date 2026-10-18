@@ -1,0 +1,10 @@
+{
+  "annotation_method": "Single analyst review of ordered passage structure and anchors, performed before model execution. Public source leads were available. No independent semantic gold translation is established.",
+  "pairs": [
+    {"group": "golden_age", "start": "Whilst I was meditating", "sentence_count": 5, "positional_eligible": [1, 2, 3, 4], "note": "First pair has an extra source token, including the name Reuben absent from the FL opening. Remaining eligible links are provisional order-preserving projections."},
+    {"group": "nichiren_images", "start": "When one places a sutra", "sentence_count": 7, "positional_eligible": [0, 1, 2, 3, 4, 5], "note": "Hyphen splitting makes the first six token counts equal. Last pair differs at voice-hearer; no positional lexical evidence admitted there."},
+    {"group": "gad_seer", "start": "And Solomon was strengthened", "sentence_count": 7, "positional_eligible": [], "note": "Names and narrative order support passage correspondence, but wording differs substantially. Even the equal-length first sentence does not preserve word positions. Exclude all seven from lexical induction, retain all in retrieval evaluation."},
+    {"group": "christisis", "start": "Note the man of the world", "sentence_count": 6, "positional_eligible": [0, 1, 3, 5], "note": "Archive OCR has not been checked against page images. Two unequal-length pairs are excluded from positional induction."},
+    {"group": "dark_side_light", "start": "Some of the intelligent forces", "sentence_count": 5, "positional_eligible": [0, 1, 2, 3, 4], "note": "Held-out group. All five counts match; projected source positions provide an explicitly provisional agreement reference, not a semantic accuracy label."}
+  ]
+}

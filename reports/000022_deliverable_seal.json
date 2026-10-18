@@ -1,0 +1,9 @@
+{
+  "sealed_at_utc": "2026-10-14T11:09:38.668846+00:00",
+  "run_manifest_sha256": "baab1c5cc16af252a6c3b23b0d3673a2e061f1ee258cacae1e92b6e39f3399f9",
+  "deliverable_hashes": {
+    "reports/000022_interpretation.md": "549efa370a86e68b803602b091668da19759dd382a7d97fe7c156e8f18b9fe12",
+    "reports/000022_verification.json": "0cbc2954393f2009706901d5f804d90b4b66749a5a579191732419a6a5afa151"
+  },
+  "scope": "Unchanged nineteen-unit orthographic retest; failed calibration, group dependence, original gap alternatives and experiments 1–21 preserved"
+}

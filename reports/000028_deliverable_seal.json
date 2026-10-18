@@ -1,0 +1,23 @@
+{
+  "sealed_at_utc": "2026-10-16T07:49:45.318287+00:00",
+  "run_manifest_sha256": "071ca76e0d3f4dc97d2c2de50857ec948355e89b3c34eaf7b9d6aaaa084d958b",
+  "deliverable_hashes": {
+    "reports/000028_interpretation.md": "c5523650cab6170dd79483665248996afd6c5b4875f21344b6355e8a76f6c0e2",
+    "reports/000028_verification.json": "e194dae4cbb84516a2380827ea01b53a3dc9ea6525b21067f12da7eeb86836ef",
+    "data/v28/visual_review.json": "bbd74470d5cb20d9ab6a7e8bc499f3fda1d42e694f8b5f0a73b94b9d9c0d116d"
+  },
+  "tests_passed": 219,
+  "engineering_integrity_passed": true,
+  "scientific_acceptance": null,
+  "FL_exports_reconstructed": 2,
+  "PDF_pages_mapped": 8,
+  "PDF_words_accounted": 2950,
+  "FL_references_mapped": 16,
+  "source_reference_maps": 9,
+  "prior_runs_preserved": 27,
+  "semantic_labels_admitted": 0,
+  "source_identities_admitted": 0,
+  "independent_reviews_admitted": 0,
+  "untouched_test_units_admitted": 0,
+  "scope": "Structural mapping with exact original offsets; retained geometry misses and ambiguous/unmapped concordances; no translation or source acceptance"
+}

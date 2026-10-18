@@ -1,0 +1,41 @@
+# Experiment 10 registration: frozen content-candidate capacity
+
+Registered 2026-10-01 before generating panels or scoring. Engineering capacity test, not validation of lexical meanings. Preserve experiments 1–9; no model promotion, tuning, culling, seed replacement, or outcome-dependent retry.
+
+## Fixed panels and references
+
+Calibration seeds 10401–10432 and fresh seeds 10501–10532, 32 disjoint worlds each. Fixture seed 109001 is implementation-only. Reuse the v7 six-statement pristine skeleton. Each world crosses **0, 1, or 3 content candidates per statement**, **full / half source availability**, and three negative families: **content_renamed / unknown_renamed / probe_order**. Each panel has 576 paired conditions, not 576 independent texts. Content-renamed primary scope is 192 conditions; the other 384 are stress conditions from those same 32 worlds.
+
+The fixed roster is `warċa → world`, `mirnaķ → lord`, `misndin → made`. Check each against unchanged frozen v1 emission criteria before freezing; do not learn or strengthen any candidate. The/and forms stay eligible and fixed. In each statement, replace the first three nonfunction positions with three unique probe words; at density k, the first k probes instead use roster words in world/lord/made order cyclically offset by statement index. Unknown probes have unseen FL forms. Preserve token count, occurrence identities and source/FL correspondence. At density 0, no roster prediction exists; functions still do. This deliberately tests capacity when additional frozen predictions are correct by construction, never whether those predictions are true in natural FL.
+
+Full sources retain six statements; half retains the first three while the FL query retains all six. Only available occurrences enter edge/token references; missing query identities are saved separately. No uncovered-query penalty in any mode. Keep the inherited three-linked-atom admission minimum.
+
+Every pool has the true source plus three negatives. Content-renamed bijectively renames every nonfunction word, including the roster words; all three negative vocabularies are disjoint and contain no roster words. Unknown-renamed changes only words outside the/and and roster, preserving all emitted roster evidence. Probe-order rotates the three probe-position values right by one or two, or reverses them, preserving word bags and function positions. Unique probes/roster words guarantee distinct probe-order candidates. Randomize candidate position once per world, shared across all eighteen conditions. Fail preparation on any duplicate pool without replacement.
+
+Save generated text, keys, probe/content identity labels, available/unavailable identity spans, answer IDs, candidate roles, normalized inputs and receipts before scoring. Scorers never receive answers, keys, labels, density, extent, or family. Twelve old real queries remain development only: ten calibrate real thresholds and two additional Misinfons blocks are audits. Zero fresh real works. Preserve Altruist's unavailable archive and historical denominator; zero new lexical entries.
+
+## Eight fixed scoring variants
+
+Cross the original and tolerant v7 backgrounds with four modes: **base / positional / content_bag / content_order**. All use the same frozen predictions, base search and token decoder. No path is reopened or changed by a mode.
+
+Base preserves candidate strength. Positional multiplies by the v9 covered-span order quality (order on, coverage off), including unknown positional credit. Content modes use only emitted predictions whose meaning is in the fixed roster. Within each selected block, extract its ordered roster prediction sequence and the source's ordered roster-word sequence. Bag matches sum the multiset intersection per block; ordered matches sum the longest common subsequence length per block. Divide by the total number of roster predictions in selected blocks, with zero denominator giving quality zero. Multiply base strength by that quality before ranking. Save both matches, denominator, sequences and token spans, query-wide roster count and positional-objective decomposition. Unknown and function predictions contribute no content score. Extra source roster tokens are not charged; the score is an agreement-recall fraction, not semantic accuracy or evidence probability.
+
+Ordered content can distinguish changed relative order of several known words; it intentionally cannot locate a single known word among unknowns or distinguish renamed unknown material. This limit remains in denominators. Partial source availability is permitted; save query-wide and covered roster counts to expose evidence scope. Base/positional modes are unchanged comparators; no score-scale counterfactual uses old thresholds.
+
+## Two preregistered calibration policies
+
+**Primary capacity policy:** synthetic threshold per mode/background is max wrong-candidate score across the 192 content-renamed calibration conditions plus 1e-6. Its fresh primary claim is restricted to the 192 new content-renamed conditions. Report its behavior on other families as out-of-scope stress diagnostics, never as generally calibrated source reliability.
+
+**Pooled policy:** threshold per mode/background is max wrong-candidate score across all 576 calibration conditions plus 1e-6. Evaluate all 576 fresh conditions and report the cost in useful admissions, including universal refusal if it occurs. This policy explicitly retains observationally equivalent controls. Both policies and all thresholds are fixed before fresh outcomes; neither is selected as a winner. Real thresholds for both use the same ten real development queries and maximum wrong-work rule. Seal both tables and calibration scores before fresh/audit execution.
+
+For both policies, admission also requires positive margin >1e-9 and at least three linked FL atoms. Save primary and pooled admission decisions and source-absent errors on identical rankings. Source-absent removes the correct candidate or all editions of the real work. Keep zero ties and refusals; a zero-error result under universal refusal is not success.
+
+Primary measures: unique correct retrieval, correct/wrong admissions, absent false admissions out of 192 in-scope conditions, with six 32-world density/availability strata. Also report all 576 fresh cases, three 192-case families, all eighteen 32-world strata, independent-world errors, maximum-score sets, top/all-zero ties, retrieved and conditional available-edge/token precision/recall. Nominal ID tie-breaking never counts as unique success. Save matched mode differences against base and content-order against content-bag for every fresh condition/background; keep calibration effects explicit in admission comparisons.
+
+Ten shared nonidentity query-atom permutations per fresh/real query, seed 10331; none in synthetic calibration. Recompute base search, positional objectives and content evidence for every shuffled candidate. Preserve actual candidate evidence and unique-order counts; exceedances are descriptive, not p-values.
+
+One final model execution after tests and freezing. Independently verify full-matrix positional objectives, exhaustive/independent content sequence matches, token evidence spans, quality/strength formulas, predictions and eligibility, generated identities, available references, all ranking/path/metric/tie/admission decisions, actual shuffle controls, both threshold tables/seal, all summaries/contrasts, and experiments 1–9 hashes. Save code/input/output hashes, durable manifest, partial failures, and verification receipt. Do not edit execution-frozen code after running.
+
+## Interpretation limits
+
+The roster is a preregistered small set of provisional positional candidates, not a validated semantic classifier. Synthetic truth is defined using that roster, so resolving changed known words establishes capacity under correct predictions, not decipherment. Unknown-renamed controls deliberately retain indistinguishability. Real material is inspected, single-analyst structural development evidence. No natural register transfer, new supported meaning, or promoted model follows from this experiment. Fresh panels become development after inspection.

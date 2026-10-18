@@ -1,0 +1,17 @@
+{
+  "recorded_at_utc": "2026-10-16T09:38:22.804944+00:00",
+  "scope": "Post-run execution metadata clarification; no registered result or code modified",
+  "symbolic_mapping_learner_executed": true,
+  "symbolic_gap_aligner_executed": true,
+  "external_or_neural_translation_model_executed": false,
+  "legacy_run_model_executed_flag": false,
+  "legacy_flag_is_ambiguous_for_symbolic_execution": true,
+  "run_manifest_sha256": "e516c9bd0e4289644d157bb58cb29f48bc7d5bfe8efe5cef12aa435734d2c596",
+  "evidence": [
+    "data/v32/training_receipt.json",
+    "data/v32/frozen_mapping.json",
+    "runs/000032_synthetic_transfer/prediction_receipt.json",
+    "reports/000032_verification.json"
+  ],
+  "note": "The frozen run report retains model_executed:false. This cannot be used to infer that no predictor ran: the supervised symbolic learner and gap aligner executed. No external/neural model ran."
+}

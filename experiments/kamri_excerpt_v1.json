@@ -1,0 +1,22 @@
+{
+  "experiment_id": "kamri_excerpt_v1",
+  "status": "frozen_before_model_execution",
+  "purpose": "Exploratory engineering pilot; not a blind semantic translation benchmark",
+  "sample_rule": "Opening Kamri-only span of each selected article; retain complete sentences up to 180 whitespace-delimited words, bounded by the indexed extract actually available. Do not replace unavailable inputs based on outcomes.",
+  "acquisition": "FL indexed web-tool excerpts because direct host downloads are filtered; English raw HTML or archive OCR with content hashes",
+  "train_groups": ["golden_age", "nichiren_images", "gad_seer", "christisis"],
+  "test_groups": ["dark_side_light"],
+  "retrieval_protocol": "Fixed collection containing five candidate works; bibliography and claimed source identity withheld from ranker. This is not open-web rediscovery.",
+  "alignment": {
+    "version": "structural_local_v1",
+    "weights": {"length": 0.55, "punctuation": 0.20, "repetition": 0.20, "anchors": 0.05},
+    "match_floor": 0.78,
+    "gap_penalty": 0.35,
+    "minimum_links": 3
+  },
+  "lexicon": {"minimum_observations": 2, "minimum_source_groups": 2, "minimum_candidate_fraction": 0.8},
+  "controls": {"seed": 731, "sentence_shuffle_repetitions": 20, "source_absent": true, "wrong_candidates": true},
+  "evaluation": "Report source ranking, reviewed passage links, lexical coverage, and positional-reference agreement only on analyst-marked equal-length compatible links. Positional-reference agreement is NOT independently verified semantic accuracy.",
+  "test_policy": "One final run after implementation and synthetic verification. Subsequent changes must use a new run ID and acknowledge that this test has become development data.",
+  "limitations": ["Very small sample", "Indexed extraction rather than raw FL HTML", "Source candidates already nominated by a public report", "Single analyst audit", "Only 1:1 sentence alignment and gaps", "No independent semantic gold labels", "No calibrated confidence or automatic claim acceptance"]
+}

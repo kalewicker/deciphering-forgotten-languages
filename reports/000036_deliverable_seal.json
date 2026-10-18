@@ -1,0 +1,28 @@
+{
+  "sealed_at_utc": "2026-10-18T07:23:46.519577+00:00",
+  "run_manifest_sha256": "7bc2ac19c269a1db1cb3b3bfa4bc98a83279c2fa3e6d31abaa9f300647168395",
+  "deliverable_hashes": {
+    "reports/000036_interpretation.md": "93efd272b1e0ef3e40c503864956fb9addb2d1d0bdfdab8670ead3ba9f44de9f",
+    "reports/000036_natural_evidence_feasibility.md": "51061743f6db367f10b7952e7d84fa355d1a9f5a19c014695fa182a56fe31a31",
+    "reports/000036_verification.json": "1466574e3791dda2cddc617bf7ffcb9213bea4fa18b846a105177516895f6144",
+    "reports/000036_witnesses.json": "cfbcfd3bbaf4e6f86d07e1bf00983ab2cff2632b18fb0ab0eba6263aadcf9bed"
+  },
+  "tests_passed": 315,
+  "engineering_integrity_passed": true,
+  "synthetic_transfer_gate_passed": false,
+  "prior_runs_preserved": 35,
+  "alignments_verified": 1200,
+  "panel_decisions_verified": 720,
+  "synthetic_feature_expansion_stopped": true,
+  "unexposed_reviewed_connected_works_available": 0,
+  "immediate_untouched_natural_benchmark_feasible": false,
+  "natural_targets_rescored": 0,
+  "semantic_labels_admitted": 0,
+  "source_identities_admitted": 0,
+  "independent_reviews_admitted": 0,
+  "untouched_test_units_admitted": 0,
+  "scientific_acceptance": null,
+  "semantic_evaluation_metrics": null,
+  "preparation_failure_and_registered_repair_preserved": true,
+  "scope": "Fresh synthetic mixed-edit development test and read-only tracked natural-evidence capacity audit; no natural scientific admission"
+}

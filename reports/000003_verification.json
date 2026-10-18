@@ -1,0 +1,19 @@
+{
+  "run_id": "000003_kamri_passage_factorial",
+  "state": "verified",
+  "manifest_sha256": "a4a4b216265a9bc99463462b98eb3117c461d7124581f2288f3ff73dd198eb1a",
+  "checks": [
+    "all saved input, code, output, and raw hashes",
+    "reference Unicode spans",
+    "72 query/variant results",
+    "8 matched-threshold variants and 12 factor contrasts",
+    "Cartesian block expansion includes extra edges",
+    "source-absent decisions",
+    "development-only threshold recomputation",
+    "fresh selected denominator 2 and reference denominator 13",
+    "20 atom permutations per group",
+    "unchanged prior-run code and output hashes"
+  ],
+  "tests": "24 unit/synthetic tests passed before execution",
+  "new_lexical_claims": 0
+}

@@ -1,0 +1,281 @@
+{
+  "created_at_utc": "2026-10-18T07:44:08.606750+00:00",
+  "scope": "All organic result URLs visible in both retained discovery representations, including unselected hits; not a complete inventory of internal archive-page content",
+  "future_use": "Treat these as potentially exposed. Combine this ledger with v36 connected groups and the current acquisition receipts before claiming a new untouched target.",
+  "records": [
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2018/10/",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query0.json",
+          "title": "Forgotten Languages Full: October 2018",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2018/10/what-was-what-anita-really-saw.html",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query0.json",
+          "title": "Forgotten Languages Full: What was what ANITA really saw? The difficult coexistence at Antarctica",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2013/10/",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query0.json",
+          "title": "Forgotten Languages Full: October 2013",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2013/10/quantum-semantic-fields-and-universals.html?m=0",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query0.json",
+          "title": "Forgotten Languages Full: Quantum Semantic Fields and Universals: On quantum mechanically constrained language learnability",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2016/01/idfala-at-adfhaffta-utsid.html",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query3.json",
+          "title": "Forgotten Languages Full: Idfala a\u0165 Adfhaff\u0165a Utsid",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        },
+        {
+          "artifact": "data/v37/discovery/search_batch_raw.json",
+          "title": "Forgotten Languages Full: Idfala a\u0165 Adfhaff\u0165a Utsid",
+          "exposure": "unattributed_search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": false
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2012/01/elam-emer-elamita-bibliography.html",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query3.json",
+          "title": "Forgotten Languages Full: Elam (Emer Elamita) Bibliography",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        },
+        {
+          "artifact": "data/v37/discovery/search_batch_raw.json",
+          "title": "Forgotten Languages Full: Elam (Emer Elamita) Bibliography",
+          "exposure": "unattributed_search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": false
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2019/02/asarsarko-le-se-raimede-attidrulich.html",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query3.json",
+          "title": "Forgotten Languages Full: A\u0161ar\u0161arko le \u0161e Raime\u010fe Atti\u010frulich",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        },
+        {
+          "artifact": "data/v37/discovery/search_batch_raw.json",
+          "title": "Forgotten Languages Full: A\u0161ar\u0161arko le \u0161e Raime\u010fe Atti\u010frulich",
+          "exposure": "unattributed_search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": false
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2013/08/le-dysashaka-fe-le-talekala-rashikili.html",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query3.json",
+          "title": "Forgotten Languages Full: Le dysashaka fe le talekala rashikili wizysari fe Dilideri - The languages of the Southwest coast of Tanzania",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        },
+        {
+          "artifact": "data/v37/discovery/search_batch_raw.json",
+          "title": "Forgotten Languages Full: Le dysashaka fe le talekala rashikili wizysari fe Dilideri - The languages of the Southwest coast of Tanzania",
+          "exposure": "unattributed_search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": false
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2012/09/blog-post_18.html",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query3.json",
+          "title": "Forgotten Languages Full: \u0646\u0649\u06af \u06be\u0649\u0645\u0645\u0649\u06af\u0648 \u0626\u0627\u0626\u06d5\u0634\u062f\u06d5\u064a\u0646",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        },
+        {
+          "artifact": "data/v37/discovery/search_batch_raw.json",
+          "title": "Forgotten Languages Full: \u0646\u0649\u06af \u06be\u0649\u0645\u0645\u0649\u06af\u0648 \u0626\u0627\u0626\u06d5\u0634\u062f\u06d5\u064a\u0646",
+          "exposure": "unattributed_search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": false
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2011/08/fl-bibliographica-030811.html",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query3.json",
+          "title": "Forgotten Languages Full: FL Bibliographica 030811",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        },
+        {
+          "artifact": "data/v37/discovery/search_batch_raw.json",
+          "title": "Forgotten Languages Full: FL Bibliographica 030811",
+          "exposure": "unattributed_search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": false
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2011/08/witchcraft-bibliography-project-db9-std.html",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query3.json",
+          "title": "Forgotten Languages Full: Witchcraft Bibliography Project - DB9 std.",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2015/08/",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query3.json",
+          "title": "Forgotten Languages Full: August 2015",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        },
+        {
+          "artifact": "data/v37/discovery/search_batch_raw.json",
+          "title": "Forgotten Languages Full: August 2015",
+          "exposure": "unattributed_search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": false
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2012/11/elamite-scripts.html",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query3.json",
+          "title": "Forgotten Languages Full: \u0397\u03bb\u03b1\u03bc\u03b9\u03ba\u03b1 \u03c7\u03b5\u03c4\u03b5\u03c3\u03b5 \u2013 Elamite scripts",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        },
+        {
+          "artifact": "data/v37/discovery/search_batch_raw.json",
+          "title": "Forgotten Languages Full: \u0397\u03bb\u03b1\u03bc\u03b9\u03ba\u03b1 \u03c7\u03b5\u03c4\u03b5\u03c3\u03b5 \u2013 Elamite scripts",
+          "exposure": "unattributed_search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": false
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2011/08/witchcraft-bibliography-project-db14-std.html",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query3.json",
+          "title": "Forgotten Languages Full: Witchcraft Bibliography Project - DB14 std.",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        },
+        {
+          "artifact": "data/v37/discovery/search_batch_raw.json",
+          "title": "Forgotten Languages Full: Witchcraft Bibliography Project - DB14 std.",
+          "exposure": "unattributed_search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": false
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2014/03/the-book-of-aldrael-and-lords-of-alyach.html",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query3.json",
+          "title": "Forgotten Languages Full: The book of Aldrael and the Lords of Alyach: On the rape of Eve",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        },
+        {
+          "artifact": "data/v37/discovery/search_batch_raw.json",
+          "title": "Forgotten Languages Full: The book of Aldrael and the Lords of Alyach: On the rape of Eve",
+          "exposure": "unattributed_search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": false
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2011/01/tunfys-wiwe-ilud-cerne.html",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/query3.json",
+          "title": "Forgotten Languages Full: Tunfys w\u00edw\u00e9 il\u00fad Cerne",
+          "exposure": "search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": true
+        },
+        {
+          "artifact": "data/v37/discovery/search_batch_raw.json",
+          "title": "Forgotten Languages Full: Tunfys w\u00edw\u00e9 il\u00fad Cerne",
+          "exposure": "unattributed_search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": false
+        }
+      ],
+      "untouched_for_this_process": false
+    },
+    {
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/2018/06/shsyym.html",
+      "observations": [
+        {
+          "artifact": "data/v37/discovery/search_batch_raw.json",
+          "title": "Forgotten Languages Full: Sh'syym",
+          "exposure": "unattributed_search_snippets_may_include_target_prose",
+          "nomination_pool_eligible": false
+        }
+      ],
+      "untouched_for_this_process": false
+    }
+  ],
+  "timestamp_note": "Individual query requested_at_utc fields record response save times, not network-start times.",
+  "semantic_labels_admitted": 0,
+  "source_identities_admitted": 0,
+  "untouched_test_units_admitted": 0
+}

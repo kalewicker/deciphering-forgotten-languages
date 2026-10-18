@@ -1,0 +1,63 @@
+{
+  "experiment_id": "kamri_consistency_v17",
+  "stage": "development_positional_consistency",
+  "registered_at_utc": "2026-10-02T03:43:36.390275+00:00",
+  "registration": "experiments/kamri_consistency_v17.md",
+  "seed": 2026100117,
+  "permutations": 999,
+  "primary_criterion": {
+    "statistic": "macro_form_cross_unit_agreement",
+    "tail": "greater_or_equal",
+    "p_max": 0.01,
+    "interpretation": "conditional ordering-specific development signal only"
+  },
+  "unit_uids": [
+    "03:001",
+    "03:002",
+    "03:003",
+    "03:004",
+    "13:001",
+    "13:002",
+    "13:003",
+    "13:004"
+  ],
+  "unit_denominator": 8,
+  "component_denominator": 2,
+  "occurrence_denominator": 212,
+  "length_matched_swap": [
+    "03:003",
+    "13:004"
+  ],
+  "controls": [
+    "rotate_+1",
+    "rotate_+2",
+    "rotate_-1",
+    "rotate_-2",
+    "reverse",
+    "length_matched_swap"
+  ],
+  "input_hashes": {
+    "data/raw/6732fb268d5f03aadcb1df933698b477a9ff2b3f540311c132ea09628be0db29.bin": "6732fb268d5f03aadcb1df933698b477a9ff2b3f540311c132ea09628be0db29",
+    "data/raw/b900ad8917ee3b4c07c72bc7e85225015e7ccd7d090cd03dd146044e8e9e49b3.bin": "b900ad8917ee3b4c07c72bc7e85225015e7ccd7d090cd03dd146044e8e9e49b3",
+    "data/v16/acquisition/dark_side_light_fl/headers.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/v16/acquisition/dark_side_light_fl/receipt.json": "bf5f331d0e630832315142ca57b7fcc2c3dd20cfd78f18bb1fa1610e8de8f051",
+    "data/v16/acquisition/dark_side_light_source/body.bin": "2a9162ef41e5ef110e820f02f8c4ad9b6843282e22e2aabec1579e406f6e478e",
+    "data/v16/acquisition/dark_side_light_source/headers.txt": "869f6ca6a910efe6b0a94efdfe62dfd7c373bbb694474c21ee98c4b1638b5529",
+    "data/v16/acquisition/dark_side_light_source/receipt.json": "bda01dcfeb01a838858b25b1391b302a40e2c2dac6dd7f74f54989c2d306d3a5",
+    "data/v16/acquisition/nichiren_images_fl/headers.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/v16/acquisition/nichiren_images_fl/receipt.json": "1052b00f0361906c6a1e29de93bb9dbe326f0cebc3864cffeffaf4b8f97f549e",
+    "data/v16/acquisition/nichiren_images_source/body.bin": "64617a292846728a973865c02ef3b8b9af93c5f69071e6b8e811a01b8e1e5d7a",
+    "data/v16/acquisition/nichiren_images_source/headers.txt": "a695c219d06d9876f524d3d1aabdc748907412b94a8632267a85d065575fb9bf",
+    "data/v16/acquisition/nichiren_images_source/receipt.json": "14139a4dd66c0d7eba366fb173dcaf13d82946c926cb45b7f931c6701b174a34",
+    "data/v16/normalized/dark_side_light_fl.json": "b3bdf04ab15c3a25604fbd0afda5f17893078062d656ba935794007bd684e8ae",
+    "data/v16/normalized/dark_side_light_source.json": "14ae8290e18edbfeca29a7933995c3a2566e35ed91ef2297799e6d4f51ee4046",
+    "data/v16/normalized/nichiren_images_fl.json": "321a9818194a61f1335f39ee7eb74faf46585989c0596c1a622f2d6e2b1c1516",
+    "data/v16/normalized/nichiren_images_source.json": "bc504f24ae2bea477027297eea635f3f24646bd54893aadf1439adff68dec314",
+    "experiments/kamri_consistency_v17.md": "fec52da3f3783006870beb2c149f000ea01836048aee6819c3ae3d74ee726dce",
+    "reports/000016_verification.json": "5d7d709323373c084146152572504c481e556a6182d3578d00ca8bdebce3444f",
+    "runs/000016_kamri_correspondence_review/manifest.json": "8f06b4b51b4d2ced0adf2e9ce1870c3231c211e384ca7a2104276d5771178407",
+    "runs/000016_kamri_correspondence_review/passage_gates.json": "30a6c3783b1a6a578782705b0212ffee695f954c9113abd2cc553b38d50abdf1",
+    "runs/000016_kamri_correspondence_review/report.json": "1e670647709640e0c31c5ebefb89764a6c90e9795ececc169321c3bdac510469",
+    "runs/000016_kamri_correspondence_review/unit_ledger.json": "ca8318544bdc2c8cd2a31496bc6134f7f53b6350f97880ed26a8e9a14e1714aa"
+  }
+}

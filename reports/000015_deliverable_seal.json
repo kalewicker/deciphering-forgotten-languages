@@ -1,0 +1,9 @@
+{
+  "run_manifest_sha256": "77f12e81eb6762272ffd0ebbe2e8dbac338c6b4031bec36ef684be0e93fb3adb",
+  "deliverables": {
+    "reports/000015_interpretation.md": "9e73a4ac4cad6c0f723a22f1d007f8d55e870cd06209d6d5fb4fe29e71379c97",
+    "reports/000015_verification.json": "9e3891b0ae5e76275821cb36a270f8191c20293d4a5b05360ce8538ed48a768d",
+    "reports/000015_source_order_review.json": "c84bd3fe0c4dca6e686cae88e616db4402063cdb87e5035d9711d3c256e9570b"
+  },
+  "assessment": "Report and supplementary source-order review, bound to completed immutable run. Does not alter run outputs or admit semantic gold."
+}

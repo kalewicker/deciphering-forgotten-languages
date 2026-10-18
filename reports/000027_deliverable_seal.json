@@ -1,0 +1,17 @@
+{
+  "sealed_at_utc": "2026-10-15T11:08:15.977157+00:00",
+  "run_manifest_sha256": "cf87402cc9d1cc36ea527ecd4dc04a205a036b38e50fe98d82dd4d23f7ed02f7",
+  "deliverable_hashes": {
+    "reports/000027_interpretation.md": "93aed4a05fde5c3135fc09b473ec1c8bce86b188d72d7919f7c8ad5894985db5",
+    "reports/000027_verification.json": "697b3a7466db3d8f819f9b2dccdf3076117c43092537cef01f63c477d0662872"
+  },
+  "tests_passed": 210,
+  "scientific_gate_passed": false,
+  "natural_comparisons": 2325,
+  "expected_pages_retrieved": 0,
+  "positive_context_copies_qualified": 3,
+  "anchor_frames_qualified": 0,
+  "semantic_labels_admitted": 0,
+  "independent_reviews_admitted": 0,
+  "scope": "Literal residual-context negative result; no translation/paraphrase rejection; prior 26 runs and packets unchanged"
+}

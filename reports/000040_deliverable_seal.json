@@ -1,0 +1,15 @@
+{
+  "experiment_id": "source_version_v40",
+  "sealed_at_utc": "2026-10-18T08:49:38.911556+00:00",
+  "deliverable_hashes": {
+    "reports/000040_interpretation.md": "bdb826f4867ea2175c534e52365a1274b9a33339ed200b678adcad76b33e23e0",
+    "reports/000040_verification.json": "effcb42bacbc45ba182e59c74d09f74d423c15fb144bb7680663c82a18b33db7",
+    "runs/000040_source_version/manifest.json": "a688d8525f7aa1c0002795aba967d538741279e9324826071572ac6f35f93c7b",
+    "runs/000040_source_version/report.json": "db9cf1b14bc3f3516dcc753cef7f87aa5c11f5ae658297e612943b16002140ce",
+    "data/v40/manual_review.json": "f69117265ff0a2284b5bcd03d23422562e15c4d75fc4e47e243574fc91418889",
+    "data/v40/source_observations.json": "d098a16206e2cc11a7de6a797c4ab2fcaeea6eed817a1868323209c3d325d59f",
+    "data/v40/preserved_pdf_metadata.json": "0fa5272a1518db0d95fd6243e5ec3c11d3b299d6a049d78f99d8c435ba80e0e5"
+  },
+  "historical_bytes_authenticated": false,
+  "independent_scientific_review": false
+}

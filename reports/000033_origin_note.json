@@ -1,0 +1,366 @@
+{
+  "created_at_utc": "2026-10-16T20:01:34.560714+00:00",
+  "status": "post_run_descriptive_evidence_not_a_new_registered_test",
+  "input_hashes": {
+    "data/v32/public_cases.json": "fd87b27398f17cccf269cea3a9c8e54f579b6ef34745465bd34019574d7a831d",
+    "data/v32/oracle.json": "677c579d15ecdd408f36604525e37b941adaecb3eca67e325f650cc936c9f84c",
+    "runs/000033_alignment_ambiguity/assessment.json": "a3e5fdf3b80b394b0ff64f34c0f71c0fc1c0d99a06f14299b95a37d2b61dbfd4",
+    "runs/000033_alignment_ambiguity/ambiguity.json": "0043f4d28d0576205812f455494411ed06e3de0427809c79dbaf8ef4507a917b"
+  },
+  "primary_forced_origin_disagreements": 8,
+  "distinct_primary_pairs": 4,
+  "shared_source_passage": 5,
+  "zero_based_source_positions": [
+    13,
+    14
+  ],
+  "interpretation": "All eight retained primary disagreements are the same adjacent equal-symbol swap replicated under four seen keys. Skipping that equal-symbol swap preserves visible source/query forms but changes generator lineage. This is a local observational equivalence under those transformation alternatives, not a proof of unidentifiability conditional on the known full generator recipe. The strict registered origin hypothesis remains failed.",
+  "registered_hypothesis_changed": false,
+  "natural_semantic_admission": false,
+  "records": [
+    {
+      "pair_id": "query15ed66a07b5877d4e211::view9b896e0ba7bc0118de64",
+      "query_index": 13,
+      "returned_candidate_index": 13,
+      "origin_index": 14,
+      "group": "seen",
+      "mechanism": "reordering",
+      "qualifies": true,
+      "retained_as_forced": true,
+      "origin_edge_possible": false,
+      "possible_partners": [
+        13
+      ],
+      "key": 11,
+      "passage": 5,
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 111,
+        "end": 118,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 119,
+        "end": 126,
+        "blocked": false
+      },
+      "query_token": {
+        "form": "aliascode12e336103683dc6c7684",
+        "start": 390,
+        "end": 419,
+        "blocked": false
+      },
+      "other_query_token": {
+        "form": "aliascode12e336103683dc6c7684",
+        "start": 420,
+        "end": 449,
+        "blocked": false
+      },
+      "source_surfaces_equal": true,
+      "query_surfaces_equal": true,
+      "local_origin_exchange_preserves_observed_forms": true
+    },
+    {
+      "pair_id": "query15ed66a07b5877d4e211::view9b896e0ba7bc0118de64",
+      "query_index": 14,
+      "returned_candidate_index": 14,
+      "origin_index": 13,
+      "group": "seen",
+      "mechanism": "reordering",
+      "qualifies": true,
+      "retained_as_forced": true,
+      "origin_edge_possible": false,
+      "possible_partners": [
+        14
+      ],
+      "key": 11,
+      "passage": 5,
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 119,
+        "end": 126,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 111,
+        "end": 118,
+        "blocked": false
+      },
+      "query_token": {
+        "form": "aliascode12e336103683dc6c7684",
+        "start": 420,
+        "end": 449,
+        "blocked": false
+      },
+      "other_query_token": {
+        "form": "aliascode12e336103683dc6c7684",
+        "start": 390,
+        "end": 419,
+        "blocked": false
+      },
+      "source_surfaces_equal": true,
+      "query_surfaces_equal": true,
+      "local_origin_exchange_preserves_observed_forms": true
+    },
+    {
+      "pair_id": "query551578ac307553b5ea52::viewcf90010547ce6df198ce",
+      "query_index": 13,
+      "returned_candidate_index": 13,
+      "origin_index": 14,
+      "group": "seen",
+      "mechanism": "reordering",
+      "qualifies": true,
+      "retained_as_forced": true,
+      "origin_edge_possible": false,
+      "possible_partners": [
+        13
+      ],
+      "key": 29,
+      "passage": 5,
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 111,
+        "end": 118,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 119,
+        "end": 126,
+        "blocked": false
+      },
+      "query_token": {
+        "form": "aliascodea42876deb5a706c02833",
+        "start": 390,
+        "end": 419,
+        "blocked": false
+      },
+      "other_query_token": {
+        "form": "aliascodea42876deb5a706c02833",
+        "start": 420,
+        "end": 449,
+        "blocked": false
+      },
+      "source_surfaces_equal": true,
+      "query_surfaces_equal": true,
+      "local_origin_exchange_preserves_observed_forms": true
+    },
+    {
+      "pair_id": "query551578ac307553b5ea52::viewcf90010547ce6df198ce",
+      "query_index": 14,
+      "returned_candidate_index": 14,
+      "origin_index": 13,
+      "group": "seen",
+      "mechanism": "reordering",
+      "qualifies": true,
+      "retained_as_forced": true,
+      "origin_edge_possible": false,
+      "possible_partners": [
+        14
+      ],
+      "key": 29,
+      "passage": 5,
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 119,
+        "end": 126,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 111,
+        "end": 118,
+        "blocked": false
+      },
+      "query_token": {
+        "form": "aliascodea42876deb5a706c02833",
+        "start": 420,
+        "end": 449,
+        "blocked": false
+      },
+      "other_query_token": {
+        "form": "aliascodea42876deb5a706c02833",
+        "start": 390,
+        "end": 419,
+        "blocked": false
+      },
+      "source_surfaces_equal": true,
+      "query_surfaces_equal": true,
+      "local_origin_exchange_preserves_observed_forms": true
+    },
+    {
+      "pair_id": "query558def8bcf37b308159f::view04495607af64353bd07a",
+      "query_index": 13,
+      "returned_candidate_index": 13,
+      "origin_index": 14,
+      "group": "seen",
+      "mechanism": "reordering",
+      "qualifies": true,
+      "retained_as_forced": true,
+      "origin_edge_possible": false,
+      "possible_partners": [
+        13
+      ],
+      "key": 47,
+      "passage": 5,
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 111,
+        "end": 118,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 119,
+        "end": 126,
+        "blocked": false
+      },
+      "query_token": {
+        "form": "aliascodeee88b2812e968fbd1818",
+        "start": 390,
+        "end": 419,
+        "blocked": false
+      },
+      "other_query_token": {
+        "form": "aliascodeee88b2812e968fbd1818",
+        "start": 420,
+        "end": 449,
+        "blocked": false
+      },
+      "source_surfaces_equal": true,
+      "query_surfaces_equal": true,
+      "local_origin_exchange_preserves_observed_forms": true
+    },
+    {
+      "pair_id": "query558def8bcf37b308159f::view04495607af64353bd07a",
+      "query_index": 14,
+      "returned_candidate_index": 14,
+      "origin_index": 13,
+      "group": "seen",
+      "mechanism": "reordering",
+      "qualifies": true,
+      "retained_as_forced": true,
+      "origin_edge_possible": false,
+      "possible_partners": [
+        14
+      ],
+      "key": 47,
+      "passage": 5,
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 119,
+        "end": 126,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 111,
+        "end": 118,
+        "blocked": false
+      },
+      "query_token": {
+        "form": "aliascodeee88b2812e968fbd1818",
+        "start": 420,
+        "end": 449,
+        "blocked": false
+      },
+      "other_query_token": {
+        "form": "aliascodeee88b2812e968fbd1818",
+        "start": 390,
+        "end": 419,
+        "blocked": false
+      },
+      "source_surfaces_equal": true,
+      "query_surfaces_equal": true,
+      "local_origin_exchange_preserves_observed_forms": true
+    },
+    {
+      "pair_id": "query8c40a5ecd71f29544e83::view269efe119102dbfa49be",
+      "query_index": 13,
+      "returned_candidate_index": 13,
+      "origin_index": 14,
+      "group": "seen",
+      "mechanism": "reordering",
+      "qualifies": true,
+      "retained_as_forced": true,
+      "origin_edge_possible": false,
+      "possible_partners": [
+        13
+      ],
+      "key": 83,
+      "passage": 5,
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 111,
+        "end": 118,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 119,
+        "end": 126,
+        "blocked": false
+      },
+      "query_token": {
+        "form": "aliascode738a176f94ac330bc9e1",
+        "start": 390,
+        "end": 419,
+        "blocked": false
+      },
+      "other_query_token": {
+        "form": "aliascode738a176f94ac330bc9e1",
+        "start": 420,
+        "end": 449,
+        "blocked": false
+      },
+      "source_surfaces_equal": true,
+      "query_surfaces_equal": true,
+      "local_origin_exchange_preserves_observed_forms": true
+    },
+    {
+      "pair_id": "query8c40a5ecd71f29544e83::view269efe119102dbfa49be",
+      "query_index": 14,
+      "returned_candidate_index": 14,
+      "origin_index": 13,
+      "group": "seen",
+      "mechanism": "reordering",
+      "qualifies": true,
+      "retained_as_forced": true,
+      "origin_edge_possible": false,
+      "possible_partners": [
+        14
+      ],
+      "key": 83,
+      "passage": 5,
+      "returned_source_token": {
+        "form": "symbol9",
+        "start": 119,
+        "end": 126,
+        "blocked": false
+      },
+      "origin_source_token": {
+        "form": "symbol9",
+        "start": 111,
+        "end": 118,
+        "blocked": false
+      },
+      "query_token": {
+        "form": "aliascode738a176f94ac330bc9e1",
+        "start": 420,
+        "end": 449,
+        "blocked": false
+      },
+      "other_query_token": {
+        "form": "aliascode738a176f94ac330bc9e1",
+        "start": 390,
+        "end": 419,
+        "blocked": false
+      },
+      "source_surfaces_equal": true,
+      "query_surfaces_equal": true,
+      "local_origin_exchange_preserves_observed_forms": true
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "state": "verified",
+  "verified_at_utc": "2026-10-14T11:05:26.929018+00:00",
+  "run_id": "000022_kamri_orthographic_retest",
+  "manifest_sha256": "baab1c5cc16af252a6c3b23b0d3673a2e061f1ee258cacae1e92b6e39f3399f9",
+  "calibration": {
+    "primary": {
+      "summary": {
+        "unit_denominator": 19,
+        "fl_token_denominator": 476,
+        "source_token_denominator": 476,
+        "fl_candidates": 5,
+        "source_candidates": 9,
+        "abstentions": 474,
+        "proposals": 2,
+        "support_units": [
+          "03:004",
+          "03:005"
+        ],
+        "support_components": [
+          "[\"nichiren_images\"]"
+        ],
+        "keys": [
+          "brahma",
+          "shakra"
+        ],
+        "positional_conflicts": 0,
+        "diacritic_dependent": 1,
+        "wrong_name_views": 19,
+        "wrong_name_proposals": 0,
+        "cross_component_comparisons": 274,
+        "cross_component_proposals": 0,
+        "frame_lure_views": 19,
+        "frame_lure_proposals": 2
+      },
+      "gate": {
+        "conditional_anchor_calibration_eligible": false,
+        "requirements": {
+          "minimum_proposals": false,
+          "minimum_support_units": false,
+          "minimum_distinct_keys": false,
+          "diacritic_dependent_support": true,
+          "no_positional_conflicts": true,
+          "wrong_name_controls_complete": true,
+          "no_wrong_name_proposals": true,
+          "cross_component_controls_complete": true,
+          "no_cross_component_proposals": true
+        },
+        "unmet": [
+          "minimum_proposals",
+          "minimum_support_units",
+          "minimum_distinct_keys"
+        ],
+        "semantic_training_eligible": false,
+        "untouched_test_eligible": false,
+        "source_identity_classifier": false
+      }
+    },
+    "baseline": {
+      "summary": {
+        "unit_denominator": 19,
+        "fl_token_denominator": 476,
+        "source_token_denominator": 476,
+        "fl_candidates": 5,
+        "source_candidates": 9,
+        "abstentions": 475,
+        "proposals": 1,
+        "support_units": [
+          "03:004"
+        ],
+        "support_components": [
+          "[\"nichiren_images\"]"
+        ],
+        "keys": [
+          "shakra"
+        ],
+        "positional_conflicts": 0,
+        "diacritic_dependent": 0,
+        "wrong_name_views": 19,
+        "wrong_name_proposals": 0,
+        "cross_component_comparisons": 274,
+        "cross_component_proposals": 0,
+        "frame_lure_views": 19,
+        "frame_lure_proposals": 1
+      },
+      "gate": {
+        "conditional_anchor_calibration_eligible": false,
+        "requirements": {
+          "minimum_proposals": false,
+          "minimum_support_units": false,
+          "minimum_distinct_keys": false,
+          "diacritic_dependent_support": false,
+          "no_positional_conflicts": true,
+          "wrong_name_controls_complete": true,
+          "no_wrong_name_proposals": true,
+          "cross_component_controls_complete": true,
+          "no_cross_component_proposals": true
+        },
+        "unmet": [
+          "minimum_proposals",
+          "minimum_support_units",
+          "minimum_distinct_keys",
+          "diacritic_dependent_support"
+        ],
+        "semantic_training_eligible": false,
+        "untouched_test_eligible": false,
+        "source_identity_classifier": false
+      }
+    }
+  },
+  "primary_gap_lead": null,
+  "previous_runs": [
+    {
+      "run_id": "000001_kamri_excerpt_baseline",
+      "manifest_sha256": "6a1d3920394bcbff4022b6635374e2787f79fdd0d53606a67925984588e76d47"
+    },
+    {
+      "run_id": "000002_kamri_alignment_editions",
+      "manifest_sha256": "f3577c0d3ac03c998235b69ad05b9ed78dbec5627ac4b99546c263737798a776"
+    },
+    {
+      "run_id": "000003_kamri_passage_factorial",
+      "manifest_sha256": "a4a4b216265a9bc99463462b98eb3117c461d7124581f2288f3ff73dd198eb1a"
+    },
+    {
+      "run_id": "000004_kamri_precision_mass",
+      "manifest_sha256": "116f08d210e18500680ede8bae39b20d2648e683eda0fa238fde670976710e41"
+    },
+    {
+      "run_id": "000005_kamri_scoped_register",
+      "manifest_sha256": "99abaa8f7f86f968bb4bdc9ad7860a3bc89d3f33e9de05580e491d6acb792b38"
+    },
+    {
+      "run_id": "000006_kamri_correspondence_audit",
+      "manifest_sha256": "e73cd303b398937343e7900e9eb733f2398857196f3ab6f220ca8a42c7117f1f"
+    },
+    {
+      "run_id": "000007_kamri_editorial_robustness",
+      "manifest_sha256": "2c9016c5821092121a51ef49a55198a70e53f8118abdd979821a44be1e39b0fd"
+    },
+    {
+      "run_id": "000008_kamri_order_admission",
+      "manifest_sha256": "c36ee102376745bfbd08fc370ab153f229c5e5f453196db2c8eb6768d2b3a435"
+    },
+    {
+      "run_id": "000009_kamri_coverage_negatives",
+      "manifest_sha256": "e3efe1857dea48c575a3ece979d93879efc9e8616cbc421dc7043de839b88b35"
+    },
+    {
+      "run_id": "000010_kamri_content_capacity",
+      "manifest_sha256": "beeeb2be024595e615d3241b09f27145b1bb186ea9c84df1af11d88426ba810e"
+    },
+    {
+      "run_id": "000011_kamri_anchor_conflicts",
+      "manifest_sha256": "8fba1643a623cc97b2bddfcee35bd5211557aa31033f2ae9e0e4c6e4deefb46a"
+    },
+    {
+      "run_id": "000012_kamri_natural_acquisition",
+      "manifest_sha256": "3509662790c0a3e6068e8a33a702f8cf4d89518df58c3c31b668aedaeb1a1e48"
+    },
+    {
+      "run_id": "000013_kamri_source_provenance",
+      "manifest_sha256": "a391368b8b3dd6f94e597161b3b60500033f7921b360a99df9b949466a9ae1d0"
+    },
+    {
+      "run_id": "000014_kamri_source_feasibility",
+      "manifest_sha256": "28bc5fb4f3f2c3a2ca755ce5f6e8d23d9ddac4656fdfaed1ed8d89c74b9bae9d"
+    },
+    {
+      "run_id": "000015_kamri_dataset_audit",
+      "manifest_sha256": "77f12e81eb6762272ffd0ebbe2e8dbac338c6b4031bec36ef684be0e93fb3adb"
+    },
+    {
+      "run_id": "000016_kamri_correspondence_review",
+      "manifest_sha256": "8f06b4b51b4d2ced0adf2e9ce1870c3231c211e384ca7a2104276d5771178407"
+    },
+    {
+      "run_id": "000017_kamri_positional_consistency",
+      "manifest_sha256": "a718e0d0a127c2b5b985a549bef89324556e678ec8f15701cec8323af98eb7c5"
+    },
+    {
+      "run_id": "000018_kamri_passage_transfer",
+      "manifest_sha256": "0fa1364f2d7f5e0ad7d86a223889234bdef7952386baf279861e629a5d4274fe"
+    },
+    {
+      "run_id": "000019_kamri_single_gap",
+      "manifest_sha256": "936a0519f0b0ab402dc00c263b070571929c391bd1ebfb254c5de4a53cdf196c"
+    },
+    {
+      "run_id": "000020_kamri_orthographic_anchors",
+      "manifest_sha256": "3a5feaa8307aa202eebb11b0a484ec7b20eb22b8c70f1bce53884d7142ace77f"
+    },
+    {
+      "run_id": "000021_kamri_calibration_evidence",
+      "manifest_sha256": "60f6d8f7339a550db4b61487ae480549186d29a12038b3bf0ab6f6934865907c"
+    }
+  ],
+  "checks": [
+    "Exact frozen nineteen-unit panel, 476 pairs, target exclusion, connected groups and original source/FL spans",
+    "Byte-unchanged v20 scorer, rules and thresholds; independent Unicode keys and all-token multiplicity",
+    "Every positive, nineteen wrong-name views, 274 cross-group comparisons and nineteen frame lures per rule",
+    "Full group accounting and all five descriptive positive-support removals; no subset-dependent gate",
+    "Calibration-before-target seal and independent replay of both unchanged target alignments",
+    "Original v20 failure and v19 ties, twenty-one prior archives and two latest prior deliverable seals preserved"
+  ],
+  "limits": [
+    "Previously exposed panel/rule/target, not untouched validation",
+    "Group-removal summaries are descriptive positive-support diagnostics only",
+    "Copied names can survive source-absent frame lures; no source-identity classifier",
+    "Minimum breadth is an engineering gate, not semantic accuracy or statistical confidence",
+    "Original v20 failure, v19 alternatives and v18 length gate remain unchanged"
+  ]
+}

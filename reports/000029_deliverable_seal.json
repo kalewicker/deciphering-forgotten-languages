@@ -1,0 +1,25 @@
+{
+  "sealed_at_utc": "2026-10-16T08:22:17.090826+00:00",
+  "run_manifest_sha256": "00df7df147206f2ff0a2d33483a74ab4b9a50f37b51c8d5f1cad3efdd5b0fa92",
+  "deliverable_hashes": {
+    "reports/000029_interpretation.md": "1d05f8bf37dcef04cd6e6aaa947ea1fb96ac032aae7b5871291b7cc052e805ed",
+    "reports/000029_verification.json": "9187b45c7cbac63af30bf2867247bc5b2566ffe95483044a53c964b568647fe0",
+    "data/v29/visual_review.json": "0d96fdebe57127650689d768db6044032fb87c65d1954d3dfaf0d0e84f09984f"
+  },
+  "tests_passed": 231,
+  "engineering_gate_passed": true,
+  "scientific_acceptance": null,
+  "exposed_fixture_pages": 3,
+  "extracted_glyph_records_accounted": 7246,
+  "derivative_lines": 123,
+  "inferred_spaces": 1152,
+  "synthetic_line_endings": 123,
+  "raster_separators": 2,
+  "bracketed_citations_preserved": 24,
+  "prior_runs_preserved": 28,
+  "semantic_labels_admitted": 0,
+  "source_identities_admitted": 0,
+  "independent_reviews_admitted": 0,
+  "untouched_test_units_admitted": 0,
+  "scope": "Character-layout derivative on three exposed Risk pages; exact native/piece accounting, retained unresolved concordances and role hints; no earlier target rescore or semantic acceptance"
+}

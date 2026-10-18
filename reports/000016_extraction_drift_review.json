@@ -1,0 +1,70 @@
+{
+  "assessment": "Supplementary ordered-word drift explanation; no run outputs changed",
+  "checks": [
+    {
+      "component": "nichiren_images",
+      "changes": [],
+      "assessment": "No source body word changes found"
+    },
+    {
+      "component": "dark_side_light",
+      "changes": [
+        {
+          "operation": "insert",
+          "historical_word_span": [
+            0,
+            0
+          ],
+          "current_word_span": [
+            0,
+            3
+          ],
+          "historical_words": [],
+          "current_words": [
+            "by",
+            "john",
+            "algeo"
+          ]
+        },
+        {
+          "operation": "insert",
+          "historical_word_span": [
+            1069,
+            1069
+          ],
+          "current_word_span": [
+            1072,
+            1076
+          ],
+          "historical_words": [],
+          "current_words": [
+            "the",
+            "dark",
+            "creative",
+            "forces"
+          ]
+        },
+        {
+          "operation": "insert",
+          "historical_word_span": [
+            2120,
+            2120
+          ],
+          "current_word_span": [
+            2127,
+            2131
+          ],
+          "historical_words": [],
+          "current_words": [
+            "the",
+            "dark",
+            "angel",
+            "within"
+          ]
+        }
+      ],
+      "assessment": "Only author byline and two heading insertions; extraction scope differences, not evidence of changed selected statements"
+    }
+  ],
+  "benchmark_sha256": "9bff2f744a509c47d5649607d288e62abe8b0b6e19facf286109e5e148819f62"
+}

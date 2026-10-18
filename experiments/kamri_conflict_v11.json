@@ -1,0 +1,344 @@
+{
+  "experiment_id": "kamri_conflict_v11",
+  "registration": "experiments/kamri_conflict_v11.md",
+  "candidate_ids": [
+    "source_golden_age",
+    "source_nichiren_images",
+    "source_christisis",
+    "source_dark_side_light",
+    "source_gad_johnson",
+    "source_western_esoterism",
+    "source_manichaean_hymn",
+    "source_risk_math",
+    "source_models_magic",
+    "source_capra_foreword_v5"
+  ],
+  "weights": {
+    "length": 0.55,
+    "punctuation": 0.2,
+    "repetition": 0.2,
+    "anchors": 0.05
+  },
+  "match_floor": 0.72,
+  "gap_penalty": 0.35,
+  "merge_penalty": 0.04,
+  "minimum_fl_atoms": 3,
+  "structural_weight": 0.6,
+  "lexical_weight": 0.4,
+  "lexicon_path": "runs/000001_kamri_excerpt_baseline/lexicon.json",
+  "lexicon_rules": {
+    "minimum_observations": 2,
+    "minimum_source_groups": 2,
+    "minimum_candidate_fraction": 0.8
+  },
+  "abbreviations": [
+    "i.e.",
+    "e.g.",
+    "Mr.",
+    "Mrs.",
+    "Ms.",
+    "Dr.",
+    "Prof.",
+    "vs.",
+    "etc."
+  ],
+  "reference_tokens": 20,
+  "token_gap": -0.75,
+  "token_exact": 2.0,
+  "token_mismatch": -2.0,
+  "token_unknown": 0.5,
+  "edge_minimum_pairs": 2,
+  "variants": [
+    {
+      "id": "p0_r0_l0_base",
+      "background": "p0_r0_l0",
+      "mode": "base"
+    },
+    {
+      "id": "p0_r0_l0_positional",
+      "background": "p0_r0_l0",
+      "mode": "positional"
+    },
+    {
+      "id": "p0_r0_l0_content_bag",
+      "background": "p0_r0_l0",
+      "mode": "content_bag"
+    },
+    {
+      "id": "p0_r0_l0_content_order",
+      "background": "p0_r0_l0",
+      "mode": "content_order"
+    },
+    {
+      "id": "p1_r1_l1_base",
+      "background": "p1_r1_l1",
+      "mode": "base"
+    },
+    {
+      "id": "p1_r1_l1_positional",
+      "background": "p1_r1_l1",
+      "mode": "positional"
+    },
+    {
+      "id": "p1_r1_l1_content_bag",
+      "background": "p1_r1_l1",
+      "mode": "content_bag"
+    },
+    {
+      "id": "p1_r1_l1_content_order",
+      "background": "p1_r1_l1",
+      "mode": "content_order"
+    }
+  ],
+  "aliases": {
+    "ńańi": "of",
+    "daċċęįš": "and",
+    "tawwdan": "that"
+  },
+  "gate_minimum_distinct": 2,
+  "gate_minimum_total": 3,
+  "calibration_seeds": [
+    11401,
+    11402,
+    11403,
+    11404,
+    11405,
+    11406,
+    11407,
+    11408,
+    11409,
+    11410,
+    11411,
+    11412,
+    11413,
+    11414,
+    11415,
+    11416,
+    11417,
+    11418,
+    11419,
+    11420,
+    11421,
+    11422,
+    11423,
+    11424,
+    11425,
+    11426,
+    11427,
+    11428,
+    11429,
+    11430,
+    11431,
+    11432
+  ],
+  "fresh_seeds": [
+    11501,
+    11502,
+    11503,
+    11504,
+    11505,
+    11506,
+    11507,
+    11508,
+    11509,
+    11510,
+    11511,
+    11512,
+    11513,
+    11514,
+    11515,
+    11516,
+    11517,
+    11518,
+    11519,
+    11520,
+    11521,
+    11522,
+    11523,
+    11524,
+    11525,
+    11526,
+    11527,
+    11528,
+    11529,
+    11530,
+    11531,
+    11532
+  ],
+  "conditions": [
+    {
+      "density": 0,
+      "corruption": "clean",
+      "extent": "full",
+      "family": "content_renamed"
+    },
+    {
+      "density": 0,
+      "corruption": "clean",
+      "extent": "full",
+      "family": "prediction_lure"
+    },
+    {
+      "density": 0,
+      "corruption": "clean",
+      "extent": "half",
+      "family": "content_renamed"
+    },
+    {
+      "density": 0,
+      "corruption": "clean",
+      "extent": "half",
+      "family": "prediction_lure"
+    },
+    {
+      "density": 3,
+      "corruption": "clean",
+      "extent": "full",
+      "family": "content_renamed"
+    },
+    {
+      "density": 3,
+      "corruption": "clean",
+      "extent": "full",
+      "family": "prediction_lure"
+    },
+    {
+      "density": 3,
+      "corruption": "clean",
+      "extent": "half",
+      "family": "content_renamed"
+    },
+    {
+      "density": 3,
+      "corruption": "clean",
+      "extent": "half",
+      "family": "prediction_lure"
+    },
+    {
+      "density": 3,
+      "corruption": "conflict_one",
+      "extent": "full",
+      "family": "content_renamed"
+    },
+    {
+      "density": 3,
+      "corruption": "conflict_one",
+      "extent": "full",
+      "family": "prediction_lure"
+    },
+    {
+      "density": 3,
+      "corruption": "conflict_one",
+      "extent": "half",
+      "family": "content_renamed"
+    },
+    {
+      "density": 3,
+      "corruption": "conflict_one",
+      "extent": "half",
+      "family": "prediction_lure"
+    },
+    {
+      "density": 3,
+      "corruption": "conflict_all",
+      "extent": "full",
+      "family": "content_renamed"
+    },
+    {
+      "density": 3,
+      "corruption": "conflict_all",
+      "extent": "full",
+      "family": "prediction_lure"
+    },
+    {
+      "density": 3,
+      "corruption": "conflict_all",
+      "extent": "half",
+      "family": "content_renamed"
+    },
+    {
+      "density": 3,
+      "corruption": "conflict_all",
+      "extent": "half",
+      "family": "prediction_lure"
+    },
+    {
+      "density": 3,
+      "corruption": "omit_one",
+      "extent": "full",
+      "family": "content_renamed"
+    },
+    {
+      "density": 3,
+      "corruption": "omit_one",
+      "extent": "full",
+      "family": "prediction_lure"
+    },
+    {
+      "density": 3,
+      "corruption": "omit_one",
+      "extent": "half",
+      "family": "content_renamed"
+    },
+    {
+      "density": 3,
+      "corruption": "omit_one",
+      "extent": "half",
+      "family": "prediction_lure"
+    },
+    {
+      "density": 3,
+      "corruption": "omit_all",
+      "extent": "full",
+      "family": "content_renamed"
+    },
+    {
+      "density": 3,
+      "corruption": "omit_all",
+      "extent": "full",
+      "family": "prediction_lure"
+    },
+    {
+      "density": 3,
+      "corruption": "omit_all",
+      "extent": "half",
+      "family": "content_renamed"
+    },
+    {
+      "density": 3,
+      "corruption": "omit_all",
+      "extent": "half",
+      "family": "prediction_lure"
+    }
+  ],
+  "edits": [
+    "punctuation",
+    "parenthetical_insertion",
+    "repeated_word_insertion",
+    "lexical_conflict"
+  ],
+  "repetition_bins": 8,
+  "shuffle_seed": 11331,
+  "shuffle_repetitions": 10,
+  "prediction_variant": "gated_aliases",
+  "backgrounds": [
+    {
+      "id": "p0_r0_l0",
+      "punctuation_neutral": false,
+      "relative_repetition": false,
+      "lexical_neutral": false
+    },
+    {
+      "id": "p1_r1_l1",
+      "punctuation_neutral": true,
+      "relative_repetition": true,
+      "lexical_neutral": true
+    }
+  ],
+  "content_forms": {
+    "world": "warċa",
+    "lord": "mirnaķ",
+    "made": "misndin"
+  },
+  "primary_family": "content_renamed"
+}

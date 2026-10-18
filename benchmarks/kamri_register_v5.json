@@ -1,0 +1,1278 @@
+{
+  "schema_version": 5,
+  "status": "frozen_before_model_execution",
+  "selected_fresh_denominator": 2,
+  "documents": {
+    "fl_golden_age": {
+      "path": "data/normalized/fl_golden_age.json",
+      "sha256": "2e4192a9a94454a55b91a75cb9c9b2b528bf2ffc260dc195c13b16cc12ef0fe2",
+      "text_sha256": "adcbc5cbf8cc396b61ec4e88706373e0f0473c275bfa59de77a57b2f2389b805",
+      "raw_sha256": "adcbc5cbf8cc396b61ec4e88706373e0f0473c275bfa59de77a57b2f2389b805",
+      "source_group": "golden_age",
+      "sentence_count": 5
+    },
+    "source_golden_age": {
+      "path": "data/normalized/source_golden_age.json",
+      "sha256": "91e485170b68f1a00c87b8c81de91055aa846ad1ed9e9fe8cb5aa3d8efe1bdce",
+      "text_sha256": "d9b63a8ab9c511ed1f29703b46a5e79eb20399d6829110b993eb20af28af36f5",
+      "raw_sha256": "22ca817fd798965887773eac4fce9678b1ecea36d251729e8d6be08910271e5b",
+      "source_group": "golden_age",
+      "sentence_count": 112
+    },
+    "fl_nichiren_images": {
+      "path": "data/normalized/fl_nichiren_images.json",
+      "sha256": "9fab2f9827c2704d0388b374fe8aff0d23eeb4187fbd64ce0f1519324c217649",
+      "text_sha256": "6732fb268d5f03aadcb1df933698b477a9ff2b3f540311c132ea09628be0db29",
+      "raw_sha256": "6732fb268d5f03aadcb1df933698b477a9ff2b3f540311c132ea09628be0db29",
+      "source_group": "nichiren_images",
+      "sentence_count": 7
+    },
+    "source_nichiren_images": {
+      "path": "data/normalized/source_nichiren_images.json",
+      "sha256": "fc4a172813b5e9e48f13baf6eafe9059dcfe0c7061afd9b48f8fc756f4dc1c63",
+      "text_sha256": "4dede3e6cafc8a978b5f691bc9dee8cae8b59ac74894b87feeacc00b85c645d8",
+      "raw_sha256": "64617a292846728a973865c02ef3b8b9af93c5f69071e6b8e811a01b8e1e5d7a",
+      "source_group": "nichiren_images",
+      "sentence_count": 150
+    },
+    "fl_gad_seer": {
+      "path": "data/normalized/fl_gad_seer.json",
+      "sha256": "68a29551231bc474c99e7f6290147f9cd9710a845c99f4c9dd9977dcd5fbd2d2",
+      "text_sha256": "01948e88721d8cd411d1acc8a6e6e3c25f18ac8411c1c6da4ffb8215c4baa401",
+      "raw_sha256": "3f69ada16d57ea1b8cb7888b2580124f25e90541a71846d455aea3f96508fdf9",
+      "source_group": "gad_seer",
+      "sentence_count": 7
+    },
+    "fl_christisis": {
+      "path": "data/normalized/fl_christisis.json",
+      "sha256": "a3de9093612d1d0f9f32afc4d6cae20e21b22bf1dffc95babbc7ca4d7be8ece2",
+      "text_sha256": "07e8e946e115354f66f98ce75c1a104f4a9a3d3b746cbb9c4e10d1fa5afb874f",
+      "raw_sha256": "07e8e946e115354f66f98ce75c1a104f4a9a3d3b746cbb9c4e10d1fa5afb874f",
+      "source_group": "christisis",
+      "sentence_count": 6
+    },
+    "source_christisis": {
+      "path": "data/normalized/source_christisis.json",
+      "sha256": "19aa79c9fe2d4cde77485e09b0181eaf79405e3100a55a7829702b0051004d11",
+      "text_sha256": "2631bbc1f71fea4e1912d59a978e8a624102e581393bba14255edc94f5e800e3",
+      "raw_sha256": "c8d9d36fe86e9e8ba493dc4dbe150d35cedaf3fc8799f404c2a89dce0e95da2e",
+      "source_group": "christisis",
+      "sentence_count": 1791
+    },
+    "fl_dark_side_light": {
+      "path": "data/normalized/fl_dark_side_light.json",
+      "sha256": "d42767d85a8746ed8552c389a03a74fe4eb1f089d6dd79ff94c9baf6b24aeeaf",
+      "text_sha256": "b900ad8917ee3b4c07c72bc7e85225015e7ccd7d090cd03dd146044e8e9e49b3",
+      "raw_sha256": "b900ad8917ee3b4c07c72bc7e85225015e7ccd7d090cd03dd146044e8e9e49b3",
+      "source_group": "dark_side_light",
+      "sentence_count": 5
+    },
+    "source_dark_side_light": {
+      "path": "data/normalized/source_dark_side_light.json",
+      "sha256": "d0a83d8dc3cb127be5b1d4ff53218a0d384ed550954fd2508cc908284731ee9a",
+      "text_sha256": "8fe82bb69c99277817030248539bc7dc328693b3efa194f6f3205bbdf49d9f71",
+      "raw_sha256": "0ccb126f645d83fe4c9ddf22d1e0e445b88d8e38fdd40bb0a0d9b59afb1578ba",
+      "source_group": "dark_side_light",
+      "sentence_count": 153
+    },
+    "source_gad_johnson": {
+      "path": "data/normalized/source_gad_johnson.json",
+      "sha256": "ab5a6991b64fe548abd283ccc26ba8c4785d8507972805ff475f55bb2d07e35d",
+      "text_sha256": "8a4d588a985ccf1afefe71e19fb7e047bf608f2fb67b06d6c53120429140fb80",
+      "raw_sha256": "5d30241fa09feca70e94c641661e391ed24ad7b9adf801acf93eab54c7da8447",
+      "source_group": "gad_seer",
+      "sentence_count": 85
+    },
+    "source_western_esoterism": {
+      "path": "data/normalized/source_western_esoterism.json",
+      "sha256": "77387beb2451c74a706678d11ad95de91cd97c6f51cb308685cffdbeb77b832c",
+      "text_sha256": "ae061b0e45cc7a69dc09962582ead25c2e55109140693a4485d22f454556b428",
+      "raw_sha256": "053d0052282bfe3f785a5e5942b67d3a10524e170a6aa23506f7554ce4f0568f",
+      "source_group": "western_esoterism",
+      "sentence_count": 96
+    },
+    "source_manichaean_hymn": {
+      "path": "data/normalized/source_manichaean_hymn.json",
+      "sha256": "1641422d1121319d18f78696d1e6b4de2a3de7af1a20e54cf2165c5130a6e43b",
+      "text_sha256": "eeaee0cbe9de08f7f91490cfbc1d9791a264bae3194616b5567c7ee64d477530",
+      "raw_sha256": "9310aeb7618409af6f16a07502b1b3423d7e70c497ecdb574dc8c5e110504566",
+      "source_group": "manichaean_hymn",
+      "sentence_count": 14
+    },
+    "fl_western_esoterism": {
+      "path": "data/normalized/fl_western_esoterism.json",
+      "sha256": "393ab59400ba0f5c10b1a232c1cd28f41e19456487850243b315b0694ae4d550",
+      "text_sha256": "7a88b91b248e18d3271a20b41a64b79f814041a9d0a7f389f420b42741c41cc5",
+      "raw_sha256": "7a88b91b248e18d3271a20b41a64b79f814041a9d0a7f389f420b42741c41cc5",
+      "source_group": "western_esoterism",
+      "sentence_count": 7
+    },
+    "fl_manichaean_hymn": {
+      "path": "data/normalized/fl_manichaean_hymn.json",
+      "sha256": "e5d8b24db971b02975281766a68d29a8db1cb56046ae388100a87ebf52b0dad8",
+      "text_sha256": "a6b036687995d9efc888b8851ec375c51280a50c2d077379308cf015c20b56a9",
+      "raw_sha256": "a6b036687995d9efc888b8851ec375c51280a50c2d077379308cf015c20b56a9",
+      "source_group": "manichaean_hymn",
+      "sentence_count": 6
+    },
+    "fl_risk_math": {
+      "path": "data/normalized/fl_risk_math.json",
+      "sha256": "5db4b36513eb69a654aa09dc9e18aa2e576ddd4664935b0249ee361b23d8456d",
+      "text_sha256": "042ec966faf07af47c3e14449af089a9f7a5bec9f7d3251fde61459ab2fb6acb",
+      "raw_sha256": "042ec966faf07af47c3e14449af089a9f7a5bec9f7d3251fde61459ab2fb6acb",
+      "source_group": "risk_math",
+      "sentence_count": 4
+    },
+    "source_risk_math": {
+      "path": "data/normalized/source_risk_math.json",
+      "sha256": "bf1bdad5d68ff94841211e33f5e150eee684fe6aff10a232459fc404299308da",
+      "text_sha256": "30f980eb5d97f945c8f26edf5c7d78920369ea11ebb3cfd67f0a9a6226df16a6",
+      "raw_sha256": "a57f9684e90a6fa278b5005b83f9d698b16984c8874ead850fcada7a25bdea55",
+      "source_group": "risk_math",
+      "sentence_count": 30
+    },
+    "source_models_magic": {
+      "path": "data/normalized/source_models_magic.json",
+      "sha256": "3a33ffbd3de5b6fa9cc4bdc689ea7320110076202218b8bcffa9fab28b0de28a",
+      "text_sha256": "0642cbc06d8f85da23ba484a4e237dd5a12cf7da086d1c7677491e1682808e81",
+      "raw_sha256": "822d8e84aec11a7924b3ab846ab4bb97555c3e0edcffc733f24cac06f89322c4",
+      "source_group": "models_magic",
+      "sentence_count": 124
+    },
+    "fl_models_magic_v3a": {
+      "path": "data/normalized/fl_models_magic_v3a.json",
+      "sha256": "bffcc3a76d50d95d368f19bb8769b97787ab61ebca29a58aa1f14e9a5f3cb164",
+      "text_sha256": "7c320376b5a510a8ba5165cb3df476c135e3ca4f31262708d3e4f05fc78b6ed0",
+      "raw_sha256": "7c320376b5a510a8ba5165cb3df476c135e3ca4f31262708d3e4f05fc78b6ed0",
+      "source_group": "models_magic",
+      "sentence_count": 7
+    },
+    "fl_capra_foreword_v5": {
+      "path": "data/normalized/fl_capra_foreword_v5.json",
+      "sha256": "ead4706f44c5ec8eefb9e579c67bd819636028237064e84bb99b6600d552b9cc",
+      "text_sha256": "76cdbc4b4bce2c8760de0cc990af163876033936f3651c1ed055a9e4e0c7c034",
+      "raw_sha256": "76cdbc4b4bce2c8760de0cc990af163876033936f3651c1ed055a9e4e0c7c034",
+      "source_group": "capra_foreword"
+    },
+    "source_capra_foreword_v5": {
+      "path": "data/normalized/source_capra_foreword_v5.json",
+      "sha256": "b520478754c42dc324d20cbd62b95f4d0e702f7a6484af2547c500685950fa54",
+      "text_sha256": "c78813b31909f09c97602823fe4ca7e3657e331288f591eb355a8ca71fc8e0bc",
+      "raw_sha256": "da91dd19617a7f44ade4b4b862bfefd10c04ac8b1aa4fa8cb30acefbdb9cd3c0",
+      "source_group": "capra_foreword"
+    },
+    "fl_accidental_altruist_v5": {
+      "path": "data/normalized/fl_accidental_altruist_v5.json",
+      "sha256": "ea697c519ac4d32c781e4d40739558222194b0cad1dc855442244c3297599fa8",
+      "text_sha256": "2d9b86aba45cf05a7374f460137705909976416666ceae49de2715c7d1199516",
+      "raw_sha256": "1b47cda53bbf239bca71ec12d76b0241918ad1bd19b1b30ad5c4586af59b3e24",
+      "source_group": "accidental_altruist"
+    }
+  },
+  "records": [
+    {
+      "group": "golden_age",
+      "split": "development",
+      "fl_id": "fl_golden_age",
+      "source_id": "source_golden_age",
+      "edges": [
+        {
+          "fl_index": 0,
+          "source_index": 3,
+          "fl_span": [
+            0,
+            295
+          ],
+          "source_span": [
+            667,
+            985
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 1,
+          "source_index": 4,
+          "fl_span": [
+            296,
+            576
+          ],
+          "source_span": [
+            986,
+            1235
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 2,
+          "source_index": 5,
+          "fl_span": [
+            577,
+            673
+          ],
+          "source_span": [
+            1236,
+            1335
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 3,
+          "source_index": 6,
+          "fl_span": [
+            674,
+            873
+          ],
+          "source_span": [
+            1336,
+            1523
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 4,
+          "source_index": 7,
+          "fl_span": [
+            874,
+            913
+          ],
+          "source_span": [
+            1524,
+            1559
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        }
+      ],
+      "note": "First pair has an extra source token, including the name Reuben absent from the FL opening. Remaining eligible links are provisional order-preserving projections.",
+      "available": true
+    },
+    {
+      "group": "nichiren_images",
+      "split": "development",
+      "fl_id": "fl_nichiren_images",
+      "source_id": "source_nichiren_images",
+      "edges": [
+        {
+          "fl_index": 0,
+          "source_index": 13,
+          "fl_span": [
+            0,
+            146
+          ],
+          "source_span": [
+            1283,
+            1416
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 1,
+          "source_index": 14,
+          "fl_span": [
+            147,
+            353
+          ],
+          "source_span": [
+            1417,
+            1603
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 2,
+          "source_index": 15,
+          "fl_span": [
+            354,
+            514
+          ],
+          "source_span": [
+            1604,
+            1752
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 3,
+          "source_index": 16,
+          "fl_span": [
+            515,
+            623
+          ],
+          "source_span": [
+            1753,
+            1862
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 4,
+          "source_index": 17,
+          "fl_span": [
+            624,
+            740
+          ],
+          "source_span": [
+            1863,
+            1988
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 5,
+          "source_index": 18,
+          "fl_span": [
+            741,
+            831
+          ],
+          "source_span": [
+            1989,
+            2060
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 6,
+          "source_index": 19,
+          "fl_span": [
+            832,
+            959
+          ],
+          "source_span": [
+            2061,
+            2172
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        }
+      ],
+      "note": "Hyphen splitting makes the first six token counts equal. Last pair differs at voice-hearer; no positional lexical evidence admitted there.",
+      "available": true
+    },
+    {
+      "group": "gad_seer",
+      "split": "development",
+      "fl_id": "fl_gad_seer",
+      "source_id": "source_gad_johnson",
+      "edges": [
+        {
+          "fl_index": 0,
+          "source_index": 0,
+          "fl_span": [
+            0,
+            106
+          ],
+          "source_span": [
+            0,
+            109
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 1,
+          "source_index": 1,
+          "fl_span": [
+            107,
+            297
+          ],
+          "source_span": [
+            110,
+            294
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 2,
+          "source_index": 2,
+          "fl_span": [
+            298,
+            455
+          ],
+          "source_span": [
+            295,
+            446
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 3,
+          "source_index": 3,
+          "fl_span": [
+            456,
+            639
+          ],
+          "source_span": [
+            447,
+            609
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 4,
+          "source_index": 4,
+          "fl_span": [
+            640,
+            742
+          ],
+          "source_span": [
+            610,
+            714
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 5,
+          "source_index": 5,
+          "fl_span": [
+            743,
+            823
+          ],
+          "source_span": [
+            715,
+            806
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 6,
+          "source_index": 6,
+          "fl_span": [
+            824,
+            987
+          ],
+          "source_span": [
+            807,
+            963
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        }
+      ],
+      "note": "Names and narrative order support passage correspondence, but wording differs substantially. Even the equal-length first sentence does not preserve word positions. Exclude all seven from lexical induction, retain all in retrieval evaluation.",
+      "available": true
+    },
+    {
+      "group": "christisis",
+      "split": "development",
+      "fl_id": "fl_christisis",
+      "source_id": "source_christisis",
+      "edges": [
+        {
+          "fl_index": 0,
+          "source_index": 839,
+          "fl_span": [
+            0,
+            87
+          ],
+          "source_span": [
+            84805,
+            84878
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 1,
+          "source_index": 840,
+          "fl_span": [
+            88,
+            141
+          ],
+          "source_span": [
+            84879,
+            84934
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 2,
+          "source_index": 841,
+          "fl_span": [
+            142,
+            199
+          ],
+          "source_span": [
+            84935,
+            84997
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 3,
+          "source_index": 842,
+          "fl_span": [
+            200,
+            258
+          ],
+          "source_span": [
+            84998,
+            85051
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 4,
+          "source_index": 843,
+          "fl_span": [
+            259,
+            483
+          ],
+          "source_span": [
+            85052,
+            85275
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 5,
+          "source_index": 844,
+          "fl_span": [
+            484,
+            571
+          ],
+          "source_span": [
+            85276,
+            85361
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        }
+      ],
+      "note": "Archive OCR has not been checked against page images. Two unequal-length pairs are excluded from positional induction.",
+      "available": true
+    },
+    {
+      "group": "dark_side_light",
+      "split": "development",
+      "fl_id": "fl_dark_side_light",
+      "source_id": "source_dark_side_light",
+      "edges": [
+        {
+          "fl_index": 0,
+          "source_index": 52,
+          "fl_span": [
+            0,
+            210
+          ],
+          "source_span": [
+            6201,
+            6426
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 1,
+          "source_index": 53,
+          "fl_span": [
+            211,
+            380
+          ],
+          "source_span": [
+            6427,
+            6611
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 2,
+          "source_index": 54,
+          "fl_span": [
+            381,
+            452
+          ],
+          "source_span": [
+            6612,
+            6693
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 3,
+          "source_index": 55,
+          "fl_span": [
+            453,
+            603
+          ],
+          "source_span": [
+            6694,
+            6867
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 4,
+          "source_index": 56,
+          "fl_span": [
+            604,
+            781
+          ],
+          "source_span": [
+            6868,
+            7079
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        }
+      ],
+      "note": "Held-out group. All five counts match; projected source positions provide an explicitly provisional agreement reference, not a semantic accuracy label.",
+      "available": true
+    },
+    {
+      "group": "western_esoterism",
+      "split": "development",
+      "fl_id": "fl_western_esoterism",
+      "source_id": "source_western_esoterism",
+      "edges": [
+        {
+          "fl_index": 0,
+          "source_index": 11,
+          "fl_span": [
+            0,
+            98
+          ],
+          "source_span": [
+            1137,
+            1249
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 1,
+          "source_index": 12,
+          "fl_span": [
+            99,
+            225
+          ],
+          "source_span": [
+            1250,
+            1396
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 2,
+          "source_index": 13,
+          "fl_span": [
+            226,
+            497
+          ],
+          "source_span": [
+            1397,
+            1434
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 2,
+          "source_index": 14,
+          "fl_span": [
+            226,
+            497
+          ],
+          "source_span": [
+            1435,
+            1668
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 3,
+          "source_index": 15,
+          "fl_span": [
+            498,
+            598
+          ],
+          "source_span": [
+            1669,
+            1789
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 4,
+          "source_index": 16,
+          "fl_span": [
+            599,
+            639
+          ],
+          "source_span": [
+            1790,
+            1838
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 5,
+          "source_index": 17,
+          "fl_span": [
+            640,
+            766
+          ],
+          "source_span": [
+            1839,
+            1953
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 5,
+          "source_index": 18,
+          "fl_span": [
+            640,
+            766
+          ],
+          "source_span": [
+            1954,
+            1993
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 6,
+          "source_index": 19,
+          "fl_span": [
+            767,
+            880
+          ],
+          "source_span": [
+            1994,
+            2145
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        }
+      ],
+      "note": "Opening Comment passage, printed page 65; i.e. creates two source splits. FL paraphrases and omits terminology; structural links are provisional, no semantic gold.",
+      "available": true
+    },
+    {
+      "group": "manichaean_hymn",
+      "split": "development",
+      "fl_id": "fl_manichaean_hymn",
+      "source_id": "source_manichaean_hymn",
+      "edges": [
+        {
+          "fl_index": 0,
+          "source_index": 0,
+          "fl_span": [
+            0,
+            229
+          ],
+          "source_span": [
+            0,
+            236
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 1,
+          "source_index": 1,
+          "fl_span": [
+            230,
+            353
+          ],
+          "source_span": [
+            237,
+            365
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 2,
+          "source_index": 2,
+          "fl_span": [
+            354,
+            477
+          ],
+          "source_span": [
+            366,
+            493
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 3,
+          "source_index": 3,
+          "fl_span": [
+            478,
+            570
+          ],
+          "source_span": [
+            494,
+            722
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 4,
+          "source_index": 3,
+          "fl_span": [
+            571,
+            684
+          ],
+          "source_span": [
+            494,
+            722
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 5,
+          "source_index": 4,
+          "fl_span": [
+            685,
+            899
+          ],
+          "source_span": [
+            723,
+            953
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        }
+      ],
+      "note": "Verses 223–226. Source verse 225 joins two FL sentences. Editorial Wisdom parenthesis retained. No automatic positional lexical references.",
+      "available": true
+    },
+    {
+      "group": "risk_math",
+      "split": "development",
+      "fl_id": "fl_risk_math",
+      "source_id": "source_risk_math",
+      "edges": [
+        {
+          "fl_index": 0,
+          "source_index": 12,
+          "fl_span": [
+            0,
+            151
+          ],
+          "source_span": [
+            2628,
+            2791
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 1,
+          "source_index": 13,
+          "fl_span": [
+            152,
+            293
+          ],
+          "source_span": [
+            2792,
+            2957
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 2,
+          "source_index": 14,
+          "fl_span": [
+            294,
+            498
+          ],
+          "source_span": [
+            2958,
+            3175
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 3,
+          "source_index": 15,
+          "fl_span": [
+            499,
+            737
+          ],
+          "source_span": [
+            3176,
+            3451
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        }
+      ],
+      "note": "Section 2 opening on PDF page 2. Four ordered structural correspondences; final compound-token count differs. Citation stripping declared; no independently checked semantic meanings.",
+      "available": true
+    },
+    {
+      "group": "models_magic",
+      "split": "development",
+      "fl_id": "fl_models_magic_v3a",
+      "source_id": "source_models_magic",
+      "edges": [
+        {
+          "fl_index": 0,
+          "source_index": 55,
+          "fl_span": [
+            0,
+            142
+          ],
+          "source_span": [
+            8634,
+            8785
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 1,
+          "source_index": 56,
+          "fl_span": [
+            143,
+            410
+          ],
+          "source_span": [
+            8786,
+            8947
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 1,
+          "source_index": 57,
+          "fl_span": [
+            143,
+            410
+          ],
+          "source_span": [
+            8948,
+            8989
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 2,
+          "source_index": 58,
+          "fl_span": [
+            411,
+            505
+          ],
+          "source_span": [
+            8990,
+            9094
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 3,
+          "source_index": 59,
+          "fl_span": [
+            506,
+            612
+          ],
+          "source_span": [
+            9095,
+            9168
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 4,
+          "source_index": 60,
+          "fl_span": [
+            613,
+            703
+          ],
+          "source_span": [
+            9169,
+            9286
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 5,
+          "source_index": 61,
+          "fl_span": [
+            704,
+            804
+          ],
+          "source_span": [
+            9287,
+            9334
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 5,
+          "source_index": 62,
+          "fl_span": [
+            704,
+            804
+          ],
+          "source_span": [
+            9335,
+            9382
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 6,
+          "source_index": 63,
+          "fl_span": [
+            805,
+            1000
+          ],
+          "source_span": [
+            9383,
+            9651
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        }
+      ],
+      "note": "Information Model subsection. Opening modifies topic/date wording; FL sentence 1 combines source premises, and source e.g. splits the final FL sentence. Alternate register retained. Provisional structural audit, no semantic gold. Seventh opening sentence corresponds to the morphic-fields discussion; fits original word cap.",
+      "available": true
+    },
+    {
+      "group": "capra_foreword",
+      "fl_id": "fl_capra_foreword_v5",
+      "source_id": "source_capra_foreword_v5",
+      "split": "fresh",
+      "available": true,
+      "edges": [
+        {
+          "fl_index": 0,
+          "source_index": 17,
+          "fl_span": [
+            0,
+            100
+          ],
+          "source_span": [
+            3079,
+            3204
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 1,
+          "source_index": 18,
+          "fl_span": [
+            101,
+            348
+          ],
+          "source_span": [
+            3205,
+            3492
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 2,
+          "source_index": 19,
+          "fl_span": [
+            349,
+            455
+          ],
+          "source_span": [
+            3493,
+            3596
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 3,
+          "source_index": 20,
+          "fl_span": [
+            456,
+            600
+          ],
+          "source_span": [
+            3597,
+            3745
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 4,
+          "source_index": 21,
+          "fl_span": [
+            601,
+            813
+          ],
+          "source_span": [
+            3746,
+            3976
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 5,
+          "source_index": 22,
+          "fl_span": [
+            814,
+            926
+          ],
+          "source_span": [
+            3977,
+            4108
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        }
+      ],
+      "note": "Selected before scoring; independently published source nominated by public report. Six opening FL statements follow six consecutive Capra statements; first four equal token counts; source scan checked."
+    },
+    {
+      "group": "accidental_altruist",
+      "fl_id": "fl_accidental_altruist_v5",
+      "source_id": "source_accidental_altruist_v5",
+      "split": "fresh",
+      "available": false,
+      "edges": null,
+      "note": "Selected before scoring; independently published source nominated by public report.",
+      "status": "source_unavailable",
+      "reference_coverage": "unavailable",
+      "reason": "Finite public-source acquisition returned subscription HTML and abstract, not chapter prose; retain selected denominator."
+    }
+  ],
+  "input_hashes": {
+    "data/normalized/fl_golden_age.json": "2e4192a9a94454a55b91a75cb9c9b2b528bf2ffc260dc195c13b16cc12ef0fe2",
+    "data/normalized/source_golden_age.json": "91e485170b68f1a00c87b8c81de91055aa846ad1ed9e9fe8cb5aa3d8efe1bdce",
+    "data/normalized/fl_nichiren_images.json": "9fab2f9827c2704d0388b374fe8aff0d23eeb4187fbd64ce0f1519324c217649",
+    "data/normalized/source_nichiren_images.json": "fc4a172813b5e9e48f13baf6eafe9059dcfe0c7061afd9b48f8fc756f4dc1c63",
+    "data/normalized/fl_gad_seer.json": "68a29551231bc474c99e7f6290147f9cd9710a845c99f4c9dd9977dcd5fbd2d2",
+    "data/normalized/fl_christisis.json": "a3de9093612d1d0f9f32afc4d6cae20e21b22bf1dffc95babbc7ca4d7be8ece2",
+    "data/normalized/source_christisis.json": "19aa79c9fe2d4cde77485e09b0181eaf79405e3100a55a7829702b0051004d11",
+    "data/normalized/fl_dark_side_light.json": "d42767d85a8746ed8552c389a03a74fe4eb1f089d6dd79ff94c9baf6b24aeeaf",
+    "data/normalized/source_dark_side_light.json": "d0a83d8dc3cb127be5b1d4ff53218a0d384ed550954fd2508cc908284731ee9a",
+    "data/normalized/source_gad_johnson.json": "ab5a6991b64fe548abd283ccc26ba8c4785d8507972805ff475f55bb2d07e35d",
+    "data/normalized/source_western_esoterism.json": "77387beb2451c74a706678d11ad95de91cd97c6f51cb308685cffdbeb77b832c",
+    "data/normalized/source_manichaean_hymn.json": "1641422d1121319d18f78696d1e6b4de2a3de7af1a20e54cf2165c5130a6e43b",
+    "data/normalized/fl_western_esoterism.json": "393ab59400ba0f5c10b1a232c1cd28f41e19456487850243b315b0694ae4d550",
+    "data/normalized/fl_manichaean_hymn.json": "e5d8b24db971b02975281766a68d29a8db1cb56046ae388100a87ebf52b0dad8",
+    "data/normalized/fl_risk_math.json": "5db4b36513eb69a654aa09dc9e18aa2e576ddd4664935b0249ee361b23d8456d",
+    "data/normalized/source_risk_math.json": "bf1bdad5d68ff94841211e33f5e150eee684fe6aff10a232459fc404299308da",
+    "data/normalized/source_models_magic.json": "3a33ffbd3de5b6fa9cc4bdc689ea7320110076202218b8bcffa9fab28b0de28a",
+    "data/normalized/fl_models_magic_v3a.json": "bffcc3a76d50d95d368f19bb8769b97787ab61ebca29a58aa1f14e9a5f3cb164",
+    "data/normalized/fl_capra_foreword_v5.json": "ead4706f44c5ec8eefb9e579c67bd819636028237064e84bb99b6600d552b9cc",
+    "data/normalized/source_capra_foreword_v5.json": "b520478754c42dc324d20cbd62b95f4d0e702f7a6484af2547c500685950fa54",
+    "data/normalized/fl_accidental_altruist_v5.json": "ea697c519ac4d32c781e4d40739558222194b0cad1dc855442244c3297599fa8",
+    "experiments/kamri_register_v5.md": "319a230944229db575183d4dc2e81b7bc8e2bbbcc1cd73d127678ccaed8b5f3f",
+    "experiments/kamri_register_v5.json": "de642238ee16726fb3810223c183e3b23d26c728926a8de34f0e0eaacdb5dbc9",
+    "runs/000001_kamri_excerpt_baseline/lexicon.json": "9f6f5f3c78a8be754a9cd2017d061fd3953fb1ea8c6bd53883d8c650887964e6",
+    "benchmarks/kamri_passage_v3a.json": "4b6ab4debe4b52151fe43d3f6b24c4e68e3f3fb3f3bec1b47a23b13927e628fa",
+    "benchmarks/kamri_precision_v4.json": "692bb3057d576ab3bebd4d1d5ffe228b307a1129ff542e2de00bd813627b8076",
+    "benchmarks/inputs/register_v5_alias_audit.json": "99a7e4082e1e3619131b695fb0cb57975506fe962c9dc998853da940ef9a9edf",
+    "benchmarks/inputs/register_v5_acquisition.json": "1bcc2a5768c8bc416a73cef4b351543deaedb65f28e44f010db77716c3d24246",
+    "pyproject.toml": "cf3baf2c40509d24d99e8d7ecb2b0ef29d2b321e428e5bd0c7ecef3c2cefebac",
+    "uv.lock": "c6ec1b1b99f17fd8d3f84ecf01406a2bde9ad54022b73ed771992cc42ded9023",
+    "data/v5/capra_preview_exact.receipt.json": "cb0858d17dab6d85b28af01daabb694e38a4b79a9e1f52ce3ee36b5c17ca8f5b",
+    "data/v5/capra.pages.json": "2c191ba526b3a841bf79984263f8c0f41c92882ecdea56fac2d5c94bd55a543d",
+    "data/v5/capra_page.receipt.json": "d2cab442dbb1fc397c50ae68c57513b978417c4a09036184ad9af947b032ddaf",
+    "data/v5/altruist_page.receipt.json": "8f8a91d21adab60d95b9678cfbc523f7f98419888b2042db39878d74e7011047",
+    "data/v5/capra_institution.receipt.json": "2aec3b8f45c2b3a28ce12fbbfd3099b0b68aeeec13b794f9a7a002ce5179cc90",
+    "data/v5/altruist_preview.receipt.json": "5bc14b1839d48508775f7b5f3176f1e7059a4d024d1a2f4c9770e6093c1c573c",
+    "data/v5/capra_preview.failure.json": "9e3b38f6d2a2c173801fccdce8b97b0118f1947c19ebbf048281d0bed9125875",
+    "data/v5/capra_frontmatter.pdf": "da91dd19617a7f44ade4b4b862bfefd10c04ac8b1aa4fa8cb30acefbdb9cd3c0",
+    "data/v5/qa/capra_page7.png": "e9819cdc9ff0c1c9c4155c11b46e9b7b326d21a13672c11fb1095a9f249ad14c",
+    "data/synthetic_v4/synthetic_4301_query.json": "6cff5f34fedb362ceec58289ebc39ffbc7f65539f83526f68035c7ab1d1584f2",
+    "data/synthetic_v4/synthetic_4302_query.json": "073ac8fb9011fc372ebbdbfb92c1adf22171074a4cac64ff7781232a2110008c",
+    "data/synthetic_v4/synthetic_4303_query.json": "8235b9701e5598195baedd3f86005353795ac656066d64a87eb3cb0229cec4c9",
+    "data/synthetic_v4/synthetic_4304_query.json": "1e0153e3b2c9f810b183b4d87806abadfa2a809e32d53bf3c28ec51504a1b25c",
+    "data/synthetic_v4/synthetic_4305_query.json": "0a62d4b3a79f15ce39a9854f4844edddb99f339d54f56a29a35ba8579777d1b5",
+    "data/synthetic_v4/synthetic_4306_query.json": "3377d6865293c17bbd5d89fb4512c9167790ab82939ebe16eb1f8bfcf6b62369",
+    "data/synthetic_v4/synthetic_4307_query.json": "9337224702dbe712161b99a2aef2580ee9a404a76abc06e09087e68892c405c4",
+    "data/synthetic_v4/synthetic_4308_query.json": "75de861173950e9d77c8b6ce0d26ff4c8c4de892d60f2b2eace5958ae5f8f1ac",
+    "data/synthetic_v4/synthetic_4401_query.json": "c3877bd6f48214c4801f4cb227db3bff2d722a7aa0cb7956fa4137eca2804804",
+    "data/synthetic_v4/synthetic_4402_query.json": "846ae5c322c64d38810ac85eefeba86e5d13b2b0023bf6c2d809f33f51beafd5",
+    "data/synthetic_v4/synthetic_4403_query.json": "707594a1b489b36b6f6ecac631307ceaae1104aae52f8ff957be7592b5caebc9",
+    "data/synthetic_v4/synthetic_4404_query.json": "d728b9675ae28e3b12e4c20e963f199183073422de740e7fefcb4fd54274c206",
+    "data/synthetic_v4/synthetic_4405_query.json": "e898684f26a25a1705ac7dce79df0e99fabd32847bbc058d4047c32158a18300",
+    "data/synthetic_v4/synthetic_4406_query.json": "dc42bd095efe59b2f5f96ba9b8261dd43b7155127a5cdef76446761c50116626",
+    "data/synthetic_v4/synthetic_4407_query.json": "c1de91f51c2140fe3127fcc6b42ad0ce48b564b5bcbace294b43c81c3d86bafa",
+    "data/synthetic_v4/synthetic_4408_query.json": "87ed1f03a682c31549a52a0b939b010334836608ce25a5edf15c664f52e30a85",
+    "data/synthetic_v4/synthetic_4409_query.json": "7079b77540b496a7db55771520cc86b5d490afa31789e8e193dc34fb1a16e4c3",
+    "data/synthetic_v4/synthetic_4410_query.json": "167ab4d16f3d5a98729a195ccfa60d0b3c887c56c4fa56bd9e1422108380498a",
+    "data/synthetic_v4/synthetic_4411_query.json": "cd15e7ccf6f2a0d43f4a38045e0e63b3cd49155b3fd35de027ddf8f0156e77c9",
+    "data/synthetic_v4/synthetic_4412_query.json": "e49919f66ca31bae7900691c2d917a8ad72a43eef6da75a012cf8b82e7ceb0b8",
+    "data/synthetic_v4/synthetic_4413_query.json": "515ad47418523da034359c57b8fc32da40bdb4d308a4de53e2d761af0e131849",
+    "data/synthetic_v4/synthetic_4414_query.json": "f340112e90494aa2e0447715727e20950aa3a3c4de3089daa6e41bd16a60369c",
+    "data/synthetic_v4/synthetic_4415_query.json": "d0673de9368d4adb8e19b6fa56de6ec27049d7fda45e771fbc19e06dadbeb539",
+    "data/synthetic_v4/synthetic_4416_query.json": "2033298ae242a02b932dc86912b0010567502f0c56460426d455d2abfa948339",
+    "data/synthetic_v4/synthetic_4417_query.json": "ed5655bb4cfe18629a055bdcc1b7f6dee19d189467bdafddfdd5d6622316c386",
+    "data/synthetic_v4/synthetic_4418_query.json": "f1fe217c160ad268ae68d4e528142656b435c3f6840ec041203df906b4fd9836",
+    "data/synthetic_v4/synthetic_4419_query.json": "619e80d3606b4f9dba8202cae2638d6f4f19d2478f538d7bd5467f594c0439f8",
+    "data/synthetic_v4/synthetic_4420_query.json": "27a8f274684cee8a694e33287a27ab5fa3bcd3921d25e8b5565e4d533f51d83b",
+    "data/synthetic_v4/synthetic_4421_query.json": "4e719001829ce2108d093f5961dcb278e3541140d41db63004ca5545697871c1",
+    "data/synthetic_v4/synthetic_4422_query.json": "c2080fbe1d1afbb86cdb4600451cd0507923ff0675a5acb0b82c066b72eaf100",
+    "data/synthetic_v4/synthetic_4423_query.json": "c2cb9ce16300547fe663a148e75cce85c95fd08f4c6c8cb6be923278bd0bbc8a",
+    "data/synthetic_v4/synthetic_4424_query.json": "fba80d96b00a460bf36e827eadce7a5bbdbce828b64ed7f63d09eb75ccf5a106",
+    "data/synthetic_v4/synthetic_4425_query.json": "1391d57638220d7de37db8a7a4fd61e62e458664fe30b70f7332f24e86eccd61",
+    "data/synthetic_v4/synthetic_4426_query.json": "cae36ab758a6f2b96279d8ad8133bf696a679b43842b693e5972df7090875dfe",
+    "data/synthetic_v4/synthetic_4427_query.json": "effd02b68f623639006dbe03ac86c64a88f21b25d6962a0e87488be3ebb2b941",
+    "data/synthetic_v4/synthetic_4428_query.json": "ff5b966b8cb89eb503cca850d74315fd1470e743cb4d27d41974c9685396d95e",
+    "data/synthetic_v4/synthetic_4429_query.json": "db9620d924ce841122d1f8caebec2f12bac3a833921a0703bceaf6999fa8e316",
+    "data/synthetic_v4/synthetic_4430_query.json": "142daa0e5a20cafe4d963dbb3427a3b82b08b747e01c184a595d4a0bc30454e7",
+    "data/synthetic_v4/synthetic_4431_query.json": "c44f12d059b45eaf64f8c2ffd8be45802d22cc5b3f1a54996445edf1bfdca602",
+    "data/synthetic_v4/synthetic_4432_query.json": "45aa5c2aaf7c2d6bbde31c4b775d5634eda32ea3b4823f2dd431624ea580050d",
+    "data/synthetic_v4/synthetic_4433_query.json": "3bbf245e56934d2ba49f93c18e61066c772ae53028a7f33c3193e7709392cf88",
+    "data/synthetic_v4/synthetic_4434_query.json": "4fe7ddeff2324d4fb6fd32d6f623ae84f3a4ffabe911a2955aa0eb6e6b14521c",
+    "data/synthetic_v4/synthetic_4435_query.json": "095b00085a06e4949ce2306acc5df66ef9aaa3fdb75e22c3aed749a546a99f59",
+    "data/synthetic_v4/synthetic_4436_query.json": "96eefc803e78c15ffbf132fa607be3a0f3dc08fae2831a2127932e101e4e8da7",
+    "data/synthetic_v4/synthetic_4437_query.json": "0fd5d84277c13bd7651204351e9078b1491b1967b41a2d690f7dacfb488c0df6",
+    "data/synthetic_v4/synthetic_4438_query.json": "5d5b052f455d441e0c0d4d9f2280ce832bda78bd7287021e425e7bca163d2195",
+    "data/synthetic_v4/synthetic_4439_query.json": "0f361635dd8fb8ab7604e268745f1285644e46b56255492e2241852d38371d1e",
+    "data/synthetic_v4/synthetic_4440_query.json": "f9a56b249cd98d961998bb05c3b97d202c67cebb22800a4fbea0879c2e677f86"
+  },
+  "raw_acquisition_hashes": {
+    "/Users/kalewicker/Documents/forgotten languages/data/raw/da91dd19617a7f44ade4b4b862bfefd10c04ac8b1aa4fa8cb30acefbdb9cd3c0.bin": "da91dd19617a7f44ade4b4b862bfefd10c04ac8b1aa4fa8cb30acefbdb9cd3c0",
+    "/Users/kalewicker/Documents/forgotten languages/data/raw/f6f2c0a821b16f84867209a1fdf2545f95f54d86ef7b86e8fff9fc2062d2ced2.bin": "f6f2c0a821b16f84867209a1fdf2545f95f54d86ef7b86e8fff9fc2062d2ced2",
+    "/Users/kalewicker/Documents/forgotten languages/data/raw/b6cfef9c3fb4be668469cf4be44562748e4525a8c2b55078b3c9c7c2ba482862.bin": "b6cfef9c3fb4be668469cf4be44562748e4525a8c2b55078b3c9c7c2ba482862",
+    "/Users/kalewicker/Documents/forgotten languages/data/raw/1d6bace92796e6a67e47722e73525a8444e25ffcd97743e13315875162754720.bin": "1d6bace92796e6a67e47722e73525a8444e25ffcd97743e13315875162754720",
+    "/Users/kalewicker/Documents/forgotten languages/data/raw/3444d28276664af41aea5177d76e618592b263881e4fbc1688e1743aedec0f29.bin": "3444d28276664af41aea5177d76e618592b263881e4fbc1688e1743aedec0f29"
+  }
+}

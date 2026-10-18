@@ -1,0 +1,20 @@
+{
+  "run_id": "000002_kamri_alignment_editions",
+  "state": "verified",
+  "run_manifest_sha256": "f3577c0d3ac03c998235b69ad05b9ed78dbec5627ac4b99546c263737798a776",
+  "elapsed_seconds": 3.830024542286992,
+  "checks": [
+    "run completion",
+    "all recorded input, code, and output hashes",
+    "raw acquisition artifact hashes",
+    "reviewed Unicode span locations",
+    "seven works in each candidate pool",
+    "correct work removed in absent controls",
+    "fixed fresh denominator two and reference denominator fifteen",
+    "twenty shared permutations per group",
+    "report totals recomputed",
+    "v1 retained artifact hashes"
+  ],
+  "tests": "14 unit/synthetic tests passed before execution",
+  "new_lexical_claims": 0
+}

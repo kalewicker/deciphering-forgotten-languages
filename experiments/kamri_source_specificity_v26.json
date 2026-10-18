@@ -1,0 +1,251 @@
+{
+  "experiment_id": "kamri_source_specificity_v26",
+  "registered_at_utc": "2026-10-15T10:41:13.081819+00:00",
+  "appendix_original": "/Users/kalewicker/Documents/Playground/external_review_2026-10-15/evidence_spans.json",
+  "appendix_sha256": "bce783f455912fc3c5f30097d30be1a282fe7854035b30261188623aff8c4c41",
+  "documents": [
+    {
+      "id": "source_capra_foreword_v5",
+      "source_group": "capra_foreword",
+      "path": "data/normalized/source_capra_foreword_v5.json",
+      "format": "normalized_json",
+      "provenance": "previously exposed historical source view",
+      "url": "https://link.springer.com/content/pdf/bfm:978-1-4613-3802-4/1"
+    },
+    {
+      "id": "source_christisis",
+      "source_group": "christisis",
+      "path": "data/normalized/source_christisis.json",
+      "format": "normalized_json",
+      "provenance": "previously exposed historical source view",
+      "url": "https://archive.org/download/christisishigher00clym/christisishigher00clym_djvu.txt"
+    },
+    {
+      "id": "source_dark_side_light",
+      "source_group": "dark_side_light",
+      "path": "data/normalized/source_dark_side_light.json",
+      "format": "normalized_json",
+      "provenance": "previously exposed historical source view",
+      "url": "https://www.theosophical.org/publications/quest-magazine/the-dark-side-of-light"
+    },
+    {
+      "id": "source_gad_johnson",
+      "source_group": "gad_seer",
+      "path": "data/normalized/source_gad_johnson.json",
+      "format": "normalized_json",
+      "provenance": "previously exposed historical source view",
+      "url": "https://parableofthevineyard.com/wp-content/uploads/gad.pdf"
+    },
+    {
+      "id": "source_gad_seer",
+      "source_group": "gad_seer",
+      "path": "data/normalized/source_gad_seer.json",
+      "format": "normalized_json",
+      "provenance": "previously exposed historical source view",
+      "url": "https://www.pseudepigrapha.com/WordsOfTheSeerGad.html"
+    },
+    {
+      "id": "source_golden_age",
+      "source_group": "golden_age",
+      "path": "data/normalized/source_golden_age.json",
+      "format": "normalized_json",
+      "provenance": "previously exposed historical source view",
+      "url": "https://www.alchemywebsite.com/goldnage.html"
+    },
+    {
+      "id": "source_manichaean_hymn",
+      "source_group": "manichaean_hymn",
+      "path": "data/normalized/source_manichaean_hymn.json",
+      "format": "normalized_json",
+      "provenance": "previously exposed historical source view",
+      "url": "https://mbingenheimer.net/tools/bibls/tsui.1943.pdf"
+    },
+    {
+      "id": "source_models_magic",
+      "source_group": "models_magic",
+      "path": "data/normalized/source_models_magic.json",
+      "format": "normalized_json",
+      "provenance": "previously exposed historical source view",
+      "url": "https://www.spiralnature.com/magick/models/"
+    },
+    {
+      "id": "source_nichiren_images",
+      "source_group": "nichiren_images",
+      "path": "data/normalized/source_nichiren_images.json",
+      "format": "normalized_json",
+      "provenance": "previously exposed historical source view",
+      "url": "https://www.nichirenlibrary.org/en/wnd-1/Content/11"
+    },
+    {
+      "id": "source_risk_math",
+      "source_group": "risk_math",
+      "path": "data/v25/packets/risk_math/publisher_window.txt",
+      "format": "packet_text",
+      "provenance": "previously exposed historical source view",
+      "url": "https://arxiv.org/pdf/1211.6683v1"
+    },
+    {
+      "id": "source_western_esoterism",
+      "source_group": "western_esoterism",
+      "path": "data/v25/packets/western_esoterism/publisher_window.txt",
+      "format": "packet_text",
+      "provenance": "previously exposed historical source view",
+      "url": "https://lucris.lub.lu.se/ws/files/4282366/1259363.pdf"
+    }
+  ],
+  "queries": [
+    {
+      "id": "W_names",
+      "primary": true,
+      "packet": "western_esoterism",
+      "document_id": "source_western_esoterism",
+      "evidence_ids": [
+        "W2"
+      ],
+      "anchors": [
+        "Giovanni Pico della Mirandola",
+        "Marselio Ficino",
+        "Posidonius"
+      ]
+    },
+    {
+      "id": "W_saturn",
+      "primary": true,
+      "packet": "western_esoterism",
+      "document_id": "source_western_esoterism",
+      "evidence_ids": [
+        "W3",
+        "W4",
+        "W5"
+      ],
+      "anchors": [
+        "Daemonium Saturni",
+        "zazel",
+        "intelligentia saturni"
+      ]
+    },
+    {
+      "id": "R_spellings",
+      "primary": true,
+      "packet": "risk_math",
+      "document_id": "source_risk_math",
+      "evidence_ids": [
+        "R3",
+        "R4"
+      ],
+      "anchors": [
+        "possibile",
+        "possibilites"
+      ]
+    },
+    {
+      "id": "W_latin",
+      "primary": false,
+      "packet": "western_esoterism",
+      "document_id": "source_western_esoterism",
+      "evidence_ids": [
+        "W1"
+      ],
+      "anchors": [
+        "fatum/providentia"
+      ]
+    },
+    {
+      "id": "R_common",
+      "primary": false,
+      "packet": "risk_math",
+      "document_id": "source_risk_math",
+      "evidence_ids": [
+        "R1"
+      ],
+      "anchors": [
+        "Quantum Game Theory"
+      ]
+    },
+    {
+      "id": "R_vocabulary",
+      "primary": false,
+      "packet": "risk_math",
+      "document_id": "source_risk_math",
+      "evidence_ids": [
+        "R2"
+      ],
+      "anchors": [
+        "coevolving"
+      ]
+    }
+  ],
+  "window_widths": {
+    "western_esoterism": 1930,
+    "risk_math": 1211
+  },
+  "expected_window_counts": {
+    "western_esoterism": 61,
+    "risk_math": 98
+  },
+  "document_denominator": 11,
+  "source_group_label_denominator": 10,
+  "primary_cluster_denominator": 3,
+  "positive_work_denominator": 2,
+  "query_denominator": 6,
+  "control_view_denominator": 10,
+  "primary_decision_denominator": 12,
+  "input_hashes": {
+    "data/normalized/source_capra_foreword_v5.json": "b520478754c42dc324d20cbd62b95f4d0e702f7a6484af2547c500685950fa54",
+    "data/normalized/source_christisis.json": "19aa79c9fe2d4cde77485e09b0181eaf79405e3100a55a7829702b0051004d11",
+    "data/normalized/source_dark_side_light.json": "d0a83d8dc3cb127be5b1d4ff53218a0d384ed550954fd2508cc908284731ee9a",
+    "data/normalized/source_gad_johnson.json": "ab5a6991b64fe548abd283ccc26ba8c4785d8507972805ff475f55bb2d07e35d",
+    "data/normalized/source_gad_seer.json": "f351e1a0fbc89f170a5b207cabe1f31f06e83e750d1fa9e4f22f6889ef9b47ad",
+    "data/normalized/source_golden_age.json": "91e485170b68f1a00c87b8c81de91055aa846ad1ed9e9fe8cb5aa3d8efe1bdce",
+    "data/normalized/source_manichaean_hymn.json": "1641422d1121319d18f78696d1e6b4de2a3de7af1a20e54cf2165c5130a6e43b",
+    "data/normalized/source_models_magic.json": "3a33ffbd3de5b6fa9cc4bdc689ea7320110076202218b8bcffa9fab28b0de28a",
+    "data/normalized/source_nichiren_images.json": "fc4a172813b5e9e48f13baf6eafe9059dcfe0c7061afd9b48f8fc756f4dc1c63",
+    "data/normalized/source_risk_math.json": "bf1bdad5d68ff94841211e33f5e150eee684fe6aff10a232459fc404299308da",
+    "data/normalized/source_western_esoterism.json": "77387beb2451c74a706678d11ad95de91cd97c6f51cb308685cffdbeb77b832c",
+    "data/review_intake/2026-10-15_automated_findings_9f36fea04dbf/findings_report.md": "9f36fea04dbf6b50f4c429bffa2c772350251afd821ee345521420fb1961eb6d",
+    "data/review_intake/2026-10-15_automated_findings_9f36fea04dbf/seal.json": "2043df5bbb0165f001f82b5886f7d78bb17ffa57afd36b0c8b2096592c32d9b6",
+    "data/v25/packets/risk_math/fl_post.txt": "37a7e6d09a9fb78056b60835a16912024cf8c3ea043d8cf298938cce84fd056d",
+    "data/v25/packets/risk_math/material_manifest.json": "403ce08e6a1353e21c0fe625d85e66bb1797f7724bd48ea44e7985a87f287e0d",
+    "data/v25/packets/risk_math/publisher_window.txt": "528e57cc856dc059ab96c9201ef177534aa4fac87331288937e0129f334d417f",
+    "data/v25/packets/western_esoterism/fl_post.txt": "a0a342f47500c854c0464a59d4148b3e1158bb1da87af083c7d08dac97022df8",
+    "data/v25/packets/western_esoterism/material_manifest.json": "ddbc147637c25ccdbea7dcedbd780cb5edcbb1c2281741e5c91f1f54304fcedf",
+    "data/v25/packets/western_esoterism/publisher_window.txt": "e71cba3570184634fe6c721fbc21080bc49141ae53b9eca857e35e277f077146",
+    "experiments/kamri_source_specificity_v26.md": "ffd30d164515b9df8f00476fc3ff2abc1729d15eedbb8a563b16da99eba1a3e7",
+    "reports/000015_deliverable_seal.json": "f83fccc2f462f0024b8b358e78cf469e9522429f146adb04837868efe71ba593",
+    "reports/000016_deliverable_seal.json": "5f0434841a42d8965ecf35e9361d7765f32076274f1c9870ad3575c57c6927ed",
+    "reports/000017_deliverable_seal.json": "b53454571fec29cd2fb0f66f7eaf586974491ce3848c06c2d6b86a643b84abbe",
+    "reports/000018_deliverable_seal.json": "da8d5bcc15eb733cb34505819e30a1a13cf767af970364ab829fea3ce8160663",
+    "reports/000019_deliverable_seal.json": "ab18d84501b2802fbcd6a5d207038f2d2969588ce2d17ad05c421d615cb8cc3d",
+    "reports/000020_deliverable_seal.json": "e4055e345b2c61355bd8dd54e604ae26383d5967c31ed24b22c6040cae3e2d3c",
+    "reports/000021_deliverable_seal.json": "b0823b18aa25e32fff65ca8e87e9a43b6aa6a396ea3ca2ad7acb26bd26ad438d",
+    "reports/000022_deliverable_seal.json": "d6b049cbd365b956b3e78810ff3d7b0a9540a5d276f5664ae9be02ca8fc58c6b",
+    "reports/000023_deliverable_seal.json": "88d7eda2d67e0647c7f3684aaf85f5fca5509880a61f622996eee0a5dfc92346",
+    "reports/000024_deliverable_seal.json": "a2859727938316760691b5ba9e501a84e15d0de8cd99b4c78d268245e16439fa",
+    "reports/000025_deliverable_seal.json": "1ed79e5ab720f1622a1fde4e1ee54e10702a4ed8a07ac3221ccdec1453280bda",
+    "runs/000001_kamri_excerpt_baseline/manifest.json": "6a1d3920394bcbff4022b6635374e2787f79fdd0d53606a67925984588e76d47",
+    "runs/000002_kamri_alignment_editions/manifest.json": "f3577c0d3ac03c998235b69ad05b9ed78dbec5627ac4b99546c263737798a776",
+    "runs/000003_kamri_passage_factorial/manifest.json": "a4a4b216265a9bc99463462b98eb3117c461d7124581f2288f3ff73dd198eb1a",
+    "runs/000004_kamri_precision_mass/manifest.json": "116f08d210e18500680ede8bae39b20d2648e683eda0fa238fde670976710e41",
+    "runs/000005_kamri_scoped_register/manifest.json": "99abaa8f7f86f968bb4bdc9ad7860a3bc89d3f33e9de05580e491d6acb792b38",
+    "runs/000006_kamri_correspondence_audit/manifest.json": "e73cd303b398937343e7900e9eb733f2398857196f3ab6f220ca8a42c7117f1f",
+    "runs/000007_kamri_editorial_robustness/manifest.json": "2c9016c5821092121a51ef49a55198a70e53f8118abdd979821a44be1e39b0fd",
+    "runs/000008_kamri_order_admission/manifest.json": "c36ee102376745bfbd08fc370ab153f229c5e5f453196db2c8eb6768d2b3a435",
+    "runs/000009_kamri_coverage_negatives/manifest.json": "e3efe1857dea48c575a3ece979d93879efc9e8616cbc421dc7043de839b88b35",
+    "runs/000010_kamri_content_capacity/manifest.json": "beeeb2be024595e615d3241b09f27145b1bb186ea9c84df1af11d88426ba810e",
+    "runs/000011_kamri_anchor_conflicts/manifest.json": "8fba1643a623cc97b2bddfcee35bd5211557aa31033f2ae9e0e4c6e4deefb46a",
+    "runs/000012_kamri_natural_acquisition/manifest.json": "3509662790c0a3e6068e8a33a702f8cf4d89518df58c3c31b668aedaeb1a1e48",
+    "runs/000013_kamri_source_provenance/manifest.json": "a391368b8b3dd6f94e597161b3b60500033f7921b360a99df9b949466a9ae1d0",
+    "runs/000014_kamri_source_feasibility/manifest.json": "28bc5fb4f3f2c3a2ca755ce5f6e8d23d9ddac4656fdfaed1ed8d89c74b9bae9d",
+    "runs/000015_kamri_dataset_audit/manifest.json": "77f12e81eb6762272ffd0ebbe2e8dbac338c6b4031bec36ef684be0e93fb3adb",
+    "runs/000016_kamri_correspondence_review/manifest.json": "8f06b4b51b4d2ced0adf2e9ce1870c3231c211e384ca7a2104276d5771178407",
+    "runs/000017_kamri_positional_consistency/manifest.json": "a718e0d0a127c2b5b985a549bef89324556e678ec8f15701cec8323af98eb7c5",
+    "runs/000018_kamri_passage_transfer/manifest.json": "0fa1364f2d7f5e0ad7d86a223889234bdef7952386baf279861e629a5d4274fe",
+    "runs/000019_kamri_single_gap/manifest.json": "936a0519f0b0ab402dc00c263b070571929c391bd1ebfb254c5de4a53cdf196c",
+    "runs/000020_kamri_orthographic_anchors/manifest.json": "3a5feaa8307aa202eebb11b0a484ec7b20eb22b8c70f1bce53884d7142ace77f",
+    "runs/000021_kamri_calibration_evidence/manifest.json": "60f6d8f7339a550db4b61487ae480549186d29a12038b3bf0ab6f6934865907c",
+    "runs/000022_kamri_orthographic_retest/manifest.json": "baab1c5cc16af252a6c3b23b0d3673a2e061f1ee258cacae1e92b6e39f3399f9",
+    "runs/000023_kamri_capture_review/manifest.json": "e8fae9648fed4a485e94f27bc7972394d6dcb5d7ca40ec1d3be5cf9ae1736b50",
+    "runs/000024_kamri_provenance/manifest.json": "d490b86cde1509f533fb28db037d1f06c30e239d7ae6f92c8f9b0645a329f26f",
+    "runs/000025_kamri_review_handoff/manifest.json": "eb755135e655746daab7439edc15b87209b4e2661405441fe288f22ec71ef5eb"
+  }
+}

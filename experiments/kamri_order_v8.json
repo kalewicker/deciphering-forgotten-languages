@@ -1,0 +1,184 @@
+{
+  "experiment_id": "kamri_order_v8",
+  "registration": "experiments/kamri_order_v8.md",
+  "candidate_ids": [
+    "source_golden_age",
+    "source_nichiren_images",
+    "source_christisis",
+    "source_dark_side_light",
+    "source_gad_johnson",
+    "source_western_esoterism",
+    "source_manichaean_hymn",
+    "source_risk_math",
+    "source_models_magic",
+    "source_capra_foreword_v5"
+  ],
+  "weights": {
+    "length": 0.55,
+    "punctuation": 0.2,
+    "repetition": 0.2,
+    "anchors": 0.05
+  },
+  "match_floor": 0.72,
+  "gap_penalty": 0.35,
+  "merge_penalty": 0.04,
+  "minimum_fl_atoms": 3,
+  "structural_weight": 0.6,
+  "lexical_weight": 0.4,
+  "lexicon_path": "runs/000001_kamri_excerpt_baseline/lexicon.json",
+  "lexicon_rules": {
+    "minimum_observations": 2,
+    "minimum_source_groups": 2,
+    "minimum_candidate_fraction": 0.8
+  },
+  "abbreviations": [
+    "i.e.",
+    "e.g.",
+    "Mr.",
+    "Mrs.",
+    "Ms.",
+    "Dr.",
+    "Prof.",
+    "vs.",
+    "etc."
+  ],
+  "reference_tokens": 20,
+  "token_gap": -0.75,
+  "token_exact": 2.0,
+  "token_mismatch": -2.0,
+  "token_unknown": 0.5,
+  "edge_minimum_pairs": 2,
+  "variants": [
+    {
+      "id": "p0_r0_l0_order_off",
+      "background": "p0_r0_l0",
+      "order": false
+    },
+    {
+      "id": "p0_r0_l0_order_on",
+      "background": "p0_r0_l0",
+      "order": true
+    },
+    {
+      "id": "p1_r1_l1_order_off",
+      "background": "p1_r1_l1",
+      "order": false
+    },
+    {
+      "id": "p1_r1_l1_order_on",
+      "background": "p1_r1_l1",
+      "order": true
+    }
+  ],
+  "aliases": {
+    "ńańi": "of",
+    "daċċęįš": "and",
+    "tawwdan": "that"
+  },
+  "gate_minimum_distinct": 2,
+  "gate_minimum_total": 3,
+  "calibration_seeds": [
+    8401,
+    8402,
+    8403,
+    8404,
+    8405,
+    8406,
+    8407,
+    8408,
+    8409,
+    8410,
+    8411,
+    8412,
+    8413,
+    8414,
+    8415,
+    8416,
+    8417,
+    8418,
+    8419,
+    8420,
+    8421,
+    8422,
+    8423,
+    8424,
+    8425,
+    8426,
+    8427,
+    8428,
+    8429,
+    8430,
+    8431,
+    8432
+  ],
+  "fresh_seeds": [
+    8501,
+    8502,
+    8503,
+    8504,
+    8505,
+    8506,
+    8507,
+    8508,
+    8509,
+    8510,
+    8511,
+    8512,
+    8513,
+    8514,
+    8515,
+    8516,
+    8517,
+    8518,
+    8519,
+    8520,
+    8521,
+    8522,
+    8523,
+    8524,
+    8525,
+    8526,
+    8527,
+    8528,
+    8529,
+    8530,
+    8531,
+    8532
+  ],
+  "conditions": [
+    0,
+    1,
+    2,
+    4,
+    8,
+    15
+  ],
+  "edits": [
+    "punctuation",
+    "parenthetical_insertion",
+    "repeated_word_insertion",
+    "lexical_conflict"
+  ],
+  "repetition_bins": 8,
+  "shuffle_seed": 8831,
+  "shuffle_repetitions": 10,
+  "prediction_variant": "gated_aliases",
+  "backgrounds": [
+    {
+      "id": "p0_r0_l0",
+      "punctuation_neutral": false,
+      "relative_repetition": false,
+      "lexical_neutral": false
+    },
+    {
+      "id": "p1_r1_l1",
+      "punctuation_neutral": true,
+      "relative_repetition": true,
+      "lexical_neutral": true
+    }
+  ],
+  "old_synthetic_thresholds": {
+    "p0_r0_l0": 0.15644160150375944,
+    "p1_r1_l1": 0.13002322222222235
+  }
+}

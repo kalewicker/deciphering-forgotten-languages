@@ -1,0 +1,9 @@
+{
+  "sealed_at_utc": "2026-10-02T22:19:24.081998+00:00",
+  "run_manifest_sha256": "936a0519f0b0ab402dc00c263b070571929c391bd1ebfb254c5de4a53cdf196c",
+  "deliverable_hashes": {
+    "reports/000019_interpretation.md": "16961a68b36b1f8ca75546ea80a9709bf13787bac749e75f864f2347c9cc2ed5",
+    "reports/000019_verification.json": "447b2bbeab5dbb0b7f6a793063e1c07b3d640d3c95893bcb84ca6f6058a223d9"
+  },
+  "scope": "Interpretation of completed immutable experiment 19; all prior experiments, predictions, source tokens and v18 gates preserved"
+}

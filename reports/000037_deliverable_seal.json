@@ -1,0 +1,32 @@
+{
+  "sealed_at_utc": "2026-10-18T07:44:43.395781+00:00",
+  "run_manifest_sha256": "d28bbee7396a93d72512d012023e9758caac7eb17a33b28457f0c541fb04e8ac",
+  "deliverable_hashes": {
+    "reports/000037_interpretation.md": "c44964d6f93e62634bcfbc857324578170a3b341b223bb8b3db3b7ed0c5187cc",
+    "reports/000037_verification.json": "ac3fa2b5b13fc5518583a1e97db144781ff959902a57bc1b9be104342fe83455",
+    "reports/000037_exposure_ledger.json": "ffa006f618358cb0174142c2d3286aa098ad10b87d8b25446e5f358655872559",
+    "data/v37/source00_intake_bundle.zip": "3a2159d9d121c89cb70da090f851824e6581bdbf9bfb65d47625ee37573fc366"
+  },
+  "tests_passed": 323,
+  "engineering_integrity_passed": true,
+  "prior_runs_preserved": 36,
+  "discovery_search_executions": 8,
+  "distinct_query_strings": 4,
+  "post_nominees": 4,
+  "raw_post_captures": 0,
+  "indexed_fallback_responses_available": 3,
+  "indexed_fallback_failures": 1,
+  "selected_source_attempts": 1,
+  "source_pdfs_recovered": 1,
+  "provisional_bundle_integrity_verified": true,
+  "four_work_capacity_gate_passed": false,
+  "source_work_novelty_confirmed": false,
+  "independent_reviews_admitted": 0,
+  "source_identities_admitted": 0,
+  "semantic_labels_admitted": 0,
+  "untouched_test_units_admitted": 0,
+  "natural_targets_rescored": 0,
+  "scientific_acceptance": null,
+  "semantic_evaluation_metrics": null,
+  "scope": "Bounded new-source intake with one provisional citation lead; target capture and correspondence/review readiness unresolved"
+}

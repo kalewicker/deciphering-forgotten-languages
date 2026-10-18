@@ -1,0 +1,39 @@
+# Experiment 11 registration: incorrect anchors and prediction-matching lures
+
+Registered 2026-10-01 before generating panels or scoring. Bounded engineering test of the correct-prediction assumption in v10, with no new scoring method, lexical entry, or promotion. Preserve all experiments 1–10. No seed replacement, culling, parameter search, outcome-dependent retry or threshold adjustment.
+
+## Fixed panels
+
+Calibration seeds 11401–11432; fresh seeds 11501–11532. Each panel has 32 disjoint worlds and **768 paired conditions**: six query settings × full/half source availability × two negative families. Query settings are density-zero clean, or density-three **clean / conflict_one / conflict_all / omit_one / omit_all**. Density-one is not selected in this focused panel; conflict_one and omit_one affect one of three content occurrences per statement. Fixture seed 119001 is implementation-only. Candidate position is randomized once per world and shared across all 24 conditions. Within-world duplicates are intentional; they do not multiply independence.
+
+Use the unchanged v10 six-statement skeleton, fixed probes and roster (`warċa → world`, `mirnaķ → lord`, `misndin → made`), plus the/and function forms. Freeze original English source meanings and token occurrence identities. For conflict_one, change only the first roster form in each statement to the next roster form in world/lord/made cyclic order; conflict_all changes all three. Omit_one/all substitutes unique unseen FL forms for the same selected occurrences. English truth stays unchanged; save original word, emitted-candidate expectation, surface, UID and character span for each roster occurrence, including clean occurrences. Corruption affects 6 or 18 occurrences; omission changes emission eligibility without deleting the occurrence or its reference. Density-zero remains clean with no roster predictions.
+
+Full sources retain six statements; half sources retain the first three while the FL query retains six. Only available source occurrences enter edge/token references. Save missing query identities separately, including corrupted/omitted identities outside the available source. This is an occurrence-reference engineering truth, not natural semantic gold.
+
+## Two four-candidate families
+
+**Content-renamed (primary scope):** the true source and three bijective renamings of every nonfunction word, including all roster words. Negative texts are unchanged across corruption settings at a given density/extent. This retains the v10 narrow capacity control.
+
+**Prediction-lure (stress scope):** true source plus three preregistered negatives. In every available statement's probe slots, the first lure uses the expected emitted roster word if known, or a unique unknown word if omitted/unanchored. The other two use cyclic shifts by one or two of each expected roster word, falling back to the original roster word for omissions; unanchored original probes remain distinct unknown words. All nonprobe unknown content is bijectively renamed with disjoint lure vocabularies; the/and are preserved. Lures therefore differ from the true source even when known evidence is identical. Their construction uses fixed perturbation rules and roster expectations, never observed model scores or outcome-dependent selection. Save candidate roles and known-evidence agreements. Fail preparation on duplicate text without replacement.
+
+Save keys, source truth, identity/spans, corrupted surfaces/expectations, candidate roles and texts, normalized inputs and acquisition receipts before model execution. Scorers receive none of the truth, answer IDs, corruption labels, density, extent, or family. Twelve real queries are unchanged development/audit diagnostics, not newly corrupted or fresh: ten calibrate real thresholds, two extra Misinfons blocks do not. No fresh real work; preserve unavailable Altruist and its historical denominator.
+
+## Unchanged eight variants and two admission policies
+
+Reuse all eight v10 variants exactly: original/tolerant background crossed with base, covered-span positional, content-bag, and ordered-content modes. Reuse the scorer itself; change only synthetic inputs and experiment orchestration. Frozen predictions and eligibility, query-only aliases, base search, match floor, gaps, decoder, roster, normalization and three-linked-atom admission minimum stay unchanged. No uncovered-query penalty. Modes share each candidate's selected path/decoder within a query/background, but corruption can alter that base path across query settings; report that distinction.
+
+Primary synthetic thresholds: maximum wrong-candidate strength over all 384 content-renamed calibration conditions (all six query settings) plus 1e-6. Fresh primary claims use the matching 384 content-renamed conditions; prediction-lure behavior is an out-of-scope stress test. Pooled thresholds: maximum wrong-candidate strength across all 768 calibration conditions plus 1e-6, evaluated on all 768 fresh cases. Real thresholds for both use the same ten unchanged development queries. Seal both tables/calibration scores before fresh/audit execution. Keep both policies without selecting a winner. Admission also requires positive margin >1e-9 and at least three distinct FL atoms with decoded links. No old threshold is substituted, and no fresh result influences calibration.
+
+## Measures and audit
+
+Save unique correct retrieval, correct/wrong admissions, absent false admissions under both policies, correct source in maximum-score set, maximum-set size, top/all-zero ties, conditional/retrieved available edge/token precision/recall and world-level error counts. Denominators are 384 primary, 384 stress and 768 overall, each from 32 shared worlds. Report all 24 strata out of 32, including clean positive and zero-content controls. Source-absent removes the correct synthetic candidate or all editions of the real work; lures remain in the control. Zero errors under universal refusal are not useful discrimination.
+
+Save paired corruption-minus-clean contrasts at density three for each world/extent/family/variant, including wrong-source and absent errors, conditional recovery and correct-source strength; also retain v10-style matched mode contrasts. Do not present contrasts across paired conditions as independent samples. Keep unadmitted paths and nominal ID tie-breaking metrics visible beside unique retrieval counts.
+
+Ten shared nonidentity FL atom permutations per fresh/real query, seed 11331; none for synthetic calibration. Recompute base windows, positional objectives and content evidence for every shuffled candidate. Save actual evidence and unique-order counts; exceedances are descriptive, not p-values.
+
+After tests and freezing, one final execution with durable status, code/input/output hashes, partial failures and immutable outputs. Independently audit generation/perturbations, unchanged source truth and available references, prediction expectations/spans, full-matrix positional/content objectives, candidate evidence, paths/metrics/ties/decisions, both calibration policies/sealing, shuffle controls, all summaries and paired contrasts, exact real compatibility with v10, and experiments 1–10 hashes. Do not edit execution-frozen code after running.
+
+## Limits
+
+This tests deliberately wrong frozen candidates in one artificial schema, not their natural error frequency. Lures are a specified challenge family, not archive-wide samples. Omitted forms remain in the truth denominator; failed or zero-score conditions remain selected. Natural meanings are unvalidated, and real material is inspected single-analyst structural development evidence. No new meaning, model promotion, general rejection reliability, or natural register transfer follows. Fresh data becomes development after inspection.

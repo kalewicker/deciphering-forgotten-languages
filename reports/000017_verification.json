@@ -1,0 +1,190 @@
+{
+  "state": "verified",
+  "verified_at_utc": "2026-10-02T03:51:06.885615+00:00",
+  "run_id": "000017_kamri_positional_consistency",
+  "manifest_sha256": "a718e0d0a127c2b5b985a549bef89324556e678ec8f15701cec8323af98eb7c5",
+  "observed": {
+    "occurrences": 212,
+    "units": 8,
+    "components": 2,
+    "form_types": 107,
+    "cross_unit_repeated_types": 36,
+    "within_unit_repetition_only_types": 1,
+    "strict_global_types": 34,
+    "conflicting_repeated_types": 2,
+    "cross_component_types": 11,
+    "cross_component_review_leads": 3,
+    "strict_types_by_component": {
+      "dark_side_light": 15,
+      "nichiren_images": 22
+    },
+    "global": {
+      "scope": "global",
+      "eligible_forms": 36,
+      "distinct_unit_pairs": 118,
+      "occurrence_pairs": 420,
+      "equal_occurrence_pairs": 406,
+      "macro_form_cross_unit_agreement": {
+        "numerator": 421,
+        "denominator": 432,
+        "value": 0.9745370370370371
+      },
+      "occurrence_weighted_agreement": {
+        "numerator": 29,
+        "denominator": 30,
+        "value": 0.9666666666666667
+      }
+    },
+    "within_component": {
+      "scope": "within_component",
+      "eligible_forms": 35,
+      "distinct_unit_pairs": 74,
+      "occurrence_pairs": 214,
+      "equal_occurrence_pairs": 206,
+      "macro_form_cross_unit_agreement": {
+        "numerator": 104,
+        "denominator": 105,
+        "value": 0.9904761904761905
+      },
+      "occurrence_weighted_agreement": {
+        "numerator": 103,
+        "denominator": 107,
+        "value": 0.9626168224299065
+      }
+    },
+    "between_components": {
+      "scope": "between_components",
+      "eligible_forms": 11,
+      "distinct_unit_pairs": 44,
+      "occurrence_pairs": 206,
+      "equal_occurrence_pairs": 200,
+      "macro_form_cross_unit_agreement": {
+        "numerator": 59,
+        "denominator": 66,
+        "value": 0.8939393939393939
+      },
+      "occurrence_weighted_agreement": {
+        "numerator": 100,
+        "denominator": 103,
+        "value": 0.970873786407767
+      }
+    }
+  },
+  "primary_test": {
+    "statistic": "macro_form_cross_unit_agreement",
+    "observed": {
+      "numerator": 421,
+      "denominator": 432,
+      "value": 0.9745370370370371
+    },
+    "null_permutations": 999,
+    "greater_or_equal": 0,
+    "exact_ties": 0,
+    "p_one_sided": {
+      "numerator": 1,
+      "denominator": 1000,
+      "value": 0.001
+    },
+    "registered_p_max": 0.01,
+    "development_signal_criterion_met": true,
+    "null_mean": {
+      "numerator": 23561977,
+      "denominator": 906292800,
+      "value": 0.02599819506455309
+    },
+    "null_min": {
+      "numerator": 1,
+      "denominator": 3780,
+      "value": 0.00026455026455026457
+    },
+    "null_median": {
+      "numerator": 263,
+      "denominator": 12960,
+      "value": 0.02029320987654321
+    },
+    "null_max": {
+      "numerator": 6563,
+      "denominator": 60480,
+      "value": 0.10851521164021163
+    },
+    "interpretation": "Conditional ordering-specific development diagnostic on an exposed panel, not linguistic or population significance."
+  },
+  "previous_runs": [
+    {
+      "run_id": "000001_kamri_excerpt_baseline",
+      "manifest_sha256": "6a1d3920394bcbff4022b6635374e2787f79fdd0d53606a67925984588e76d47"
+    },
+    {
+      "run_id": "000002_kamri_alignment_editions",
+      "manifest_sha256": "f3577c0d3ac03c998235b69ad05b9ed78dbec5627ac4b99546c263737798a776"
+    },
+    {
+      "run_id": "000003_kamri_passage_factorial",
+      "manifest_sha256": "a4a4b216265a9bc99463462b98eb3117c461d7124581f2288f3ff73dd198eb1a"
+    },
+    {
+      "run_id": "000004_kamri_precision_mass",
+      "manifest_sha256": "116f08d210e18500680ede8bae39b20d2648e683eda0fa238fde670976710e41"
+    },
+    {
+      "run_id": "000005_kamri_scoped_register",
+      "manifest_sha256": "99abaa8f7f86f968bb4bdc9ad7860a3bc89d3f33e9de05580e491d6acb792b38"
+    },
+    {
+      "run_id": "000006_kamri_correspondence_audit",
+      "manifest_sha256": "e73cd303b398937343e7900e9eb733f2398857196f3ab6f220ca8a42c7117f1f"
+    },
+    {
+      "run_id": "000007_kamri_editorial_robustness",
+      "manifest_sha256": "2c9016c5821092121a51ef49a55198a70e53f8118abdd979821a44be1e39b0fd"
+    },
+    {
+      "run_id": "000008_kamri_order_admission",
+      "manifest_sha256": "c36ee102376745bfbd08fc370ab153f229c5e5f453196db2c8eb6768d2b3a435"
+    },
+    {
+      "run_id": "000009_kamri_coverage_negatives",
+      "manifest_sha256": "e3efe1857dea48c575a3ece979d93879efc9e8616cbc421dc7043de839b88b35"
+    },
+    {
+      "run_id": "000010_kamri_content_capacity",
+      "manifest_sha256": "beeeb2be024595e615d3241b09f27145b1bb186ea9c84df1af11d88426ba810e"
+    },
+    {
+      "run_id": "000011_kamri_anchor_conflicts",
+      "manifest_sha256": "8fba1643a623cc97b2bddfcee35bd5211557aa31033f2ae9e0e4c6e4deefb46a"
+    },
+    {
+      "run_id": "000012_kamri_natural_acquisition",
+      "manifest_sha256": "3509662790c0a3e6068e8a33a702f8cf4d89518df58c3c31b668aedaeb1a1e48"
+    },
+    {
+      "run_id": "000013_kamri_source_provenance",
+      "manifest_sha256": "a391368b8b3dd6f94e597161b3b60500033f7921b360a99df9b949466a9ae1d0"
+    },
+    {
+      "run_id": "000014_kamri_source_feasibility",
+      "manifest_sha256": "28bc5fb4f3f2c3a2ca755ce5f6e8d23d9ddac4656fdfaed1ed8d89c74b9bae9d"
+    },
+    {
+      "run_id": "000015_kamri_dataset_audit",
+      "manifest_sha256": "77f12e81eb6762272ffd0ebbe2e8dbac338c6b4031bec36ef684be0e93fb3adb"
+    },
+    {
+      "run_id": "000016_kamri_correspondence_review",
+      "manifest_sha256": "8f06b4b51b4d2ced0adf2e9ce1870c3231c211e384ca7a2104276d5771178407"
+    }
+  ],
+  "checks": [
+    "All 212 frozen input identities, eight units, two exposed components and independent source offsets",
+    "Brute-force occurrence-pair agreement and exact form/unit denominators",
+    "All singleton/conflicting/strict types and zero semantic admissions",
+    "Six complete fixed controls, directions and sole length-matched swap",
+    "All 999 RNG orders, per-unit multisets, exact statistics, ties and registered criterion",
+    "Input/code/output hashes and sixteen historical archives preserved"
+  ],
+  "limits": [
+    "Conditional development randomization does not establish word meanings or generalization",
+    "Historical indexed FL provenance and source-group exposure unchanged"
+  ]
+}

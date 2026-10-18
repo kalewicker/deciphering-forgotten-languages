@@ -1,0 +1,8 @@
+{
+  "run_manifest_sha256": "a718e0d0a127c2b5b985a549bef89324556e678ec8f15701cec8323af98eb7c5",
+  "deliverable_hashes": {
+    "reports/000017_interpretation.md": "99d30ec7f0bc7ec3eb5c4d4e936a485f5c3b409edb4dc44c3225bf11ba4b2322",
+    "reports/000017_verification.json": "c1f42fe1ab6aacc56c39f6167a7b845333abb96603ba7e619bddcab8ca11d186"
+  },
+  "scope": "Interpretation bound to completed immutable experiment 17; no run outputs changed or meanings admitted"
+}

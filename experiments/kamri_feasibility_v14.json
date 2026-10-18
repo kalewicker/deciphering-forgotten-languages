@@ -1,0 +1,19 @@
+{
+  "experiment_id": "kamri_feasibility_v14",
+  "registration": "experiments/kamri_feasibility_v14.md",
+  "registration_sha256": "2060d2b0c8f2e19a0d6db0618482e5d732e180de2ad9dff6c0f3cb8b0955e7c2",
+  "registration_file_mtime_utc": "2026-10-01T20:42:12.801115+00:00",
+  "configuration_materialized_after_acquisition": true,
+  "selected_component": "religious_architecture",
+  "selected_work_denominator": 1,
+  "selected_query_denominator": 1,
+  "source_query_limit": 3,
+  "source_route_limit": 4,
+  "fl_index_query_limit": 1,
+  "fl_page_open_limit": 1,
+  "fl_word_cap": 180,
+  "source_word_cap": 2000,
+  "model_config_if_eligible": "experiments/kamri_conflict_v11.json",
+  "shuffle_seed_if_eligible": 14331,
+  "analyst_blind": false
+}

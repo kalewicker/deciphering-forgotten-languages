@@ -1,0 +1,12 @@
+{
+  "recorded_at_utc": "2026-10-15T04:53:07.543482+00:00",
+  "state": "failed",
+  "verifier": "scripts/verify_provenance_v24.py",
+  "verifier_sha256": "717a3b59c49de6e90ba29fc0ec97f8957105861854c546021f5c2b580a25eb87",
+  "exit_code": 1,
+  "error": "FileNotFoundError: [Errno 2] No such file or directory: '/Users/kalewicker/Documents/forgotten languages/fl_golden_age'",
+  "location": "verify_provenance_v24.py:203; prior-run input inventory loop",
+  "cause": "Run 1 input_hashes keys are document IDs bound to normalized text, not filesystem paths. Native, archive, PDF, supplement and v24 hash checks had passed before this historical-schema loop.",
+  "new_requests_or_experiment_reruns": 0,
+  "original_verifier_and_preflight_seal_unchanged": true
+}

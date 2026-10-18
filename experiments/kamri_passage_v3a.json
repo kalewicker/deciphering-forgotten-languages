@@ -1,0 +1,110 @@
+{
+  "experiment_id": "kamri_passage_v3a",
+  "registration": "experiments/kamri_passage_v3.md",
+  "development_groups": [
+    "golden_age",
+    "nichiren_images",
+    "gad_seer",
+    "christisis",
+    "dark_side_light",
+    "western_esoterism",
+    "manichaean_hymn"
+  ],
+  "fresh_groups": [
+    "risk_math",
+    "models_magic"
+  ],
+  "candidate_ids": [
+    "source_golden_age",
+    "source_nichiren_images",
+    "source_christisis",
+    "source_dark_side_light",
+    "source_gad_johnson",
+    "source_western_esoterism",
+    "source_manichaean_hymn",
+    "source_risk_math",
+    "source_models_magic"
+  ],
+  "variants": [
+    {
+      "id": "legacy_one_structural",
+      "boundary": "legacy",
+      "max_block": 1,
+      "scoring": "structural"
+    },
+    {
+      "id": "legacy_one_lexical",
+      "boundary": "legacy",
+      "max_block": 1,
+      "scoring": "lexical"
+    },
+    {
+      "id": "legacy_multi_structural",
+      "boundary": "legacy",
+      "max_block": 2,
+      "scoring": "structural"
+    },
+    {
+      "id": "legacy_multi_lexical",
+      "boundary": "legacy",
+      "max_block": 2,
+      "scoring": "lexical"
+    },
+    {
+      "id": "protected_one_structural",
+      "boundary": "protected",
+      "max_block": 1,
+      "scoring": "structural"
+    },
+    {
+      "id": "protected_one_lexical",
+      "boundary": "protected",
+      "max_block": 1,
+      "scoring": "lexical"
+    },
+    {
+      "id": "protected_multi_structural",
+      "boundary": "protected",
+      "max_block": 2,
+      "scoring": "structural"
+    },
+    {
+      "id": "protected_multi_lexical",
+      "boundary": "protected",
+      "max_block": 2,
+      "scoring": "lexical"
+    }
+  ],
+  "weights": {
+    "length": 0.55,
+    "punctuation": 0.2,
+    "repetition": 0.2,
+    "anchors": 0.05
+  },
+  "match_floor": 0.72,
+  "gap_penalty": 0.35,
+  "merge_penalty": 0.04,
+  "minimum_fl_atoms": 3,
+  "structural_weight": 0.6,
+  "lexical_weight": 0.4,
+  "lexicon_path": "runs/000001_kamri_excerpt_baseline/lexicon.json",
+  "lexicon_rules": {
+    "minimum_observations": 2,
+    "minimum_source_groups": 2,
+    "minimum_candidate_fraction": 0.8
+  },
+  "abbreviations": [
+    "i.e.",
+    "e.g.",
+    "Mr.",
+    "Mrs.",
+    "Ms.",
+    "Dr.",
+    "Prof.",
+    "vs.",
+    "etc."
+  ],
+  "seed": 2731,
+  "shuffle_repetitions": 20,
+  "preparation_amendment": "experiments/kamri_passage_v3a_amendment.md"
+}

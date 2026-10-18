@@ -1,0 +1,12 @@
+{
+  "run_id": "000001_kamri_excerpt_baseline",
+  "state": "verified",
+  "checks": [
+    "artifact hashes",
+    "run code hashes",
+    "reviewed span locations",
+    "SQLite integrity and references",
+    "zero held-out evidence in training lexicon"
+  ],
+  "tests": "7 unit/synthetic tests passed before final run"
+}

@@ -1,0 +1,15 @@
+{
+  "sealed_at_utc": "2026-10-15T05:07:54.718148+00:00",
+  "run_manifest_sha256": "eb755135e655746daab7439edc15b87209b4e2661405441fe288f22ec71ef5eb",
+  "deliverable_hashes": {
+    "reports/000025_interpretation.md": "e91219266b0b6bd1ad3f65a4fe7035a84fa26078fe1152aa043f66c37dcbf193",
+    "reports/000025_external_review_guide.md": "ee7e4c57ccf782a78ace26a77c66473a64403e003a1446448df58578659e999d",
+    "reports/000025_verification.json": "6793e4bac5b906a04c0d49b0febda47abd538c48df832531917cd524b0a413d8"
+  },
+  "tests_passed": 192,
+  "engineering_state": "handoff_ready",
+  "review_state": "awaiting_independent_return",
+  "independent_reviews_completed": 0,
+  "semantic_labels_admitted": 0,
+  "evaluation_metrics": null
+}

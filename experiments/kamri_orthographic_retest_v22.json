@@ -1,0 +1,108 @@
+{
+  "experiment_id": "kamri_orthographic_retest_v22",
+  "stage": "development_orthographic_retest",
+  "registered_at_utc": "2026-10-14T10:58:31.489945+00:00",
+  "registration": "experiments/kamri_orthographic_retest_v22.md",
+  "unit_denominator": 19,
+  "token_pair_denominator": 476,
+  "connected_group_denominator": 5,
+  "cross_group_comparison_denominator": 274,
+  "calibration_uids": [
+    "03:001",
+    "03:002",
+    "03:003",
+    "03:004",
+    "03:005",
+    "03:006",
+    "04:005",
+    "08:001",
+    "08:002",
+    "08:003",
+    "10:001",
+    "10:002",
+    "10:003",
+    "10:004",
+    "13:001",
+    "13:002",
+    "13:003",
+    "13:004",
+    "13:005"
+  ],
+  "connected_groups": [
+    [
+      "capra_foreword",
+      "weber_holomovement"
+    ],
+    [
+      "dark_side_light"
+    ],
+    [
+      "nichiren_images"
+    ],
+    [
+      "risk_math",
+      "war_algorithm_accountability"
+    ],
+    [
+      "western_esoterism"
+    ]
+  ],
+  "target_uid": "03:007",
+  "target_gaps": [
+    1,
+    2
+  ],
+  "rule": {
+    "primary": "NFD casefold remove all Unicode mark categories",
+    "baseline": "NFC casefold exact",
+    "min_letters": 4,
+    "noninitial": true,
+    "uppercase_initial": true,
+    "folded_ascii_letters_only": true,
+    "unique_in_entire_statement": true
+  },
+  "calibration_gate": {
+    "min_proposals": 3,
+    "min_units": 3,
+    "min_keys": 3,
+    "min_diacritic_dependent": 1,
+    "max_positional_conflicts": 0,
+    "max_wrong_name_proposals": 0,
+    "max_cross_component_proposals": 0
+  },
+  "lure_surface": "xqframe",
+  "rule_implementation": "src/fl_decipher/orthographic_v20.py",
+  "group_removal_primary_decision": false,
+  "input_hashes": {
+    "data/normalized/fl_capra_foreword_v5.json": "ead4706f44c5ec8eefb9e579c67bd819636028237064e84bb99b6600d552b9cc",
+    "data/normalized/fl_risk_math.json": "5db4b36513eb69a654aa09dc9e18aa2e576ddd4664935b0249ee361b23d8456d",
+    "data/normalized/fl_western_esoterism.json": "393ab59400ba0f5c10b1a232c1cd28f41e19456487850243b315b0694ae4d550",
+    "data/normalized/source_capra_foreword_v5.json": "b520478754c42dc324d20cbd62b95f4d0e702f7a6484af2547c500685950fa54",
+    "data/normalized/source_risk_math.json": "bf1bdad5d68ff94841211e33f5e150eee684fe6aff10a232459fc404299308da",
+    "data/normalized/source_western_esoterism.json": "77387beb2451c74a706678d11ad95de91cd97c6f51cb308685cffdbeb77b832c",
+    "data/v16/normalized/dark_side_light_fl.json": "b3bdf04ab15c3a25604fbd0afda5f17893078062d656ba935794007bd684e8ae",
+    "data/v16/normalized/dark_side_light_source.json": "14ae8290e18edbfeca29a7933995c3a2566e35ed91ef2297799e6d4f51ee4046",
+    "data/v16/normalized/nichiren_images_fl.json": "321a9818194a61f1335f39ee7eb74faf46585989c0596c1a622f2d6e2b1c1516",
+    "data/v16/normalized/nichiren_images_source.json": "bc504f24ae2bea477027297eea635f3f24646bd54893aadf1439adff68dec314",
+    "data/v20/frozen_panel.json": "2e8f68286720a4b22afa669612b60ad77618c35fd3b6de6d3c55b206403a4818",
+    "data/v20/frozen_target.json": "9bf91a5ad0cbfda1d1b5e16ecd4c50098c3e28a7b253f81ca3ba2d21b171b3e1",
+    "data/v21/frozen_inputs.json": "49bd363545f61e0ee4a5089e738354f10f04b15e1bd6c7d96c4e74beb70f3a9a",
+    "experiments/kamri_orthographic_retest_v22.md": "0ded214b457fa5edf2218f821cb6f1db91f9c690d7ef43c00d59dfa6a611d315",
+    "experiments/kamri_orthographic_v20.json": "d7f55f883116203c28b0d857b60a0fbd4267ec4238e0b7b64c1771f9f51b9539",
+    "reports/000020_deliverable_seal.json": "e4055e345b2c61355bd8dd54e604ae26383d5967c31ed24b22c6040cae3e2d3c",
+    "reports/000021_deliverable_seal.json": "b0823b18aa25e32fff65ca8e87e9a43b6aa6a396ea3ca2ad7acb26bd26ad438d",
+    "reports/000021_verification.json": "fa78f920a3be0ef05add3579461ee3f8a117089932b76c78224f006bb1888c7c",
+    "runs/000019_kamri_single_gap/manifest.json": "936a0519f0b0ab402dc00c263b070571929c391bd1ebfb254c5de4a53cdf196c",
+    "runs/000019_kamri_single_gap/observed_alignments.json": "02b58474a51e76454981acf5b7826e798b22fc7dde20865e909d65087a702527",
+    "runs/000019_kamri_single_gap/report.json": "a898883da71de7edb18cd8169df2a003c655656b92fc2ea156458846063431af",
+    "runs/000020_kamri_orthographic_anchors/manifest.json": "3a5feaa8307aa202eebb11b0a484ec7b20eb22b8c70f1bce53884d7142ace77f",
+    "runs/000020_kamri_orthographic_anchors/report.json": "af3654d26a5787bc7b508d5c88c58cb7d02301d1d317e1124f4f3dbddb47bd96",
+    "runs/000021_kamri_calibration_evidence/comparator_ledger.json": "51b729dce18bc6a6f2848af0a014aa4c04862d41416fc1e519f3842a94019853",
+    "runs/000021_kamri_calibration_evidence/future_panel.json": "98c40ac2028f26cedbc8874de4e7a6e9a139de6cd61b9d4217d75cf821474c33",
+    "runs/000021_kamri_calibration_evidence/manifest.json": "60f6d8f7339a550db4b61487ae480549186d29a12038b3bf0ab6f6934865907c",
+    "runs/000021_kamri_calibration_evidence/nominee_ledger.json": "40be51aed4fa40c2e7ed026d579f91b7f6380e8208aea4cb3729436bc74142ca",
+    "runs/000021_kamri_calibration_evidence/report.json": "31ad408f232ca74f485344ffdd33bafbd108ba99ee64cbcb23a2b60c1ec4794b",
+    "scripts/verify_orthographic_v20.py": "48494cd83b9e150013fe4e905bdb385167a77a8970817d47b8c2614cf3146733",
+    "src/fl_decipher/orthographic_v20.py": "14a5229a29c82f27f6202fb9a0d545cdff28e8f15ce1c3d32d04da481cf921dd"
+  }
+}

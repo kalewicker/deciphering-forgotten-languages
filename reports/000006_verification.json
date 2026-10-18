@@ -1,0 +1,45 @@
+{
+  "state": "verified",
+  "run_id": "000006_kamri_correspondence_audit",
+  "manifest_sha256": "e73cd303b398937343e7900e9eb733f2398857196f3ab6f220ca8a42c7117f1f",
+  "result_rows": 6,
+  "within_article_selected": 2,
+  "within_article_available": 2,
+  "independent_source_works": 1,
+  "fresh_independent_works": 0,
+  "new_supported_lexical_entries": 0,
+  "previous_runs": [
+    {
+      "run_id": "000001_kamri_excerpt_baseline",
+      "manifest_sha256": "6a1d3920394bcbff4022b6635374e2787f79fdd0d53606a67925984588e76d47"
+    },
+    {
+      "run_id": "000002_kamri_alignment_editions",
+      "manifest_sha256": "f3577c0d3ac03c998235b69ad05b9ed78dbec5627ac4b99546c263737798a776"
+    },
+    {
+      "run_id": "000003_kamri_passage_factorial",
+      "manifest_sha256": "a4a4b216265a9bc99463462b98eb3117c461d7124581f2288f3ff73dd198eb1a"
+    },
+    {
+      "run_id": "000004_kamri_precision_mass",
+      "manifest_sha256": "116f08d210e18500680ede8bae39b20d2648e683eda0fa238fde670976710e41"
+    },
+    {
+      "run_id": "000005_kamri_scoped_register",
+      "manifest_sha256": "99abaa8f7f86f968bb4bdc9ad7860a3bc89d3f33e9de05580e491d6acb792b38"
+    }
+  ],
+  "checks": [
+    "input/raw/code/output hashes",
+    "frozen v5 scorer/configuration/thresholds",
+    "opening exactly reproduces v5",
+    "query-only gates and prediction origins",
+    "token spans/order/uniqueness and edge support",
+    "retrieval counts/admissions/source-absent controls",
+    "shared nonidentity permutations with unique-order counts",
+    "reference-guided diagnostics separately labeled and cache score agreement",
+    "alias capacity counts and all candidate spans",
+    "unchanged experiment 1–5 manifests, code, inputs, outputs"
+  ]
+}

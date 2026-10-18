@@ -1,0 +1,16 @@
+{
+  "sealed_at_utc": "2026-10-15T10:46:31.618759+00:00",
+  "run_manifest_sha256": "65deaa086b19314493fe7e04935c4e2324644022c6c0e81d3bc08e0989f1439d",
+  "deliverable_hashes": {
+    "reports/000026_interpretation.md": "d7747543eb69e977870a619c6a2f7e3e10fa937fae215ea7e35083ce8a68f490",
+    "reports/000026_verification.json": "07038f98fc355e1d04ef2318f08a48887873d664e5592977c2a23293ed0c38de"
+  },
+  "tests_passed": 201,
+  "scientific_gate_passed": false,
+  "natural_localizations": 3,
+  "primary_cluster_denominator": 3,
+  "source_absent_frame_false_nominations": 3,
+  "semantic_labels_admitted": 0,
+  "independent_reviews_admitted": 0,
+  "scope": "Restricted exposed-corpus anchor retrieval; copied-frame failure retained; no semantic or direct-source admission; prior 25 runs unchanged"
+}

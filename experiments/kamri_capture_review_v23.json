@@ -1,0 +1,141 @@
+{
+  "experiment_id": "kamri_capture_review_v23",
+  "stage": "bounded_capture_and_review_preparation",
+  "registered_at_utc": "2026-10-14T11:34:50.630965+00:00",
+  "registration": "experiments/kamri_capture_review_v23.md",
+  "nominees": [
+    {
+      "id": "western_esoterism",
+      "inventory_entry": 4,
+      "fl_title": "Daemonium Saturni aš misre taşdi",
+      "fl_url": "https://forgottenlanguages-full.forgottenlanguages.org/2018/12/daemonium-saturni-as-misre-tasdi.html",
+      "source_url": "https://lucris.lub.lu.se/ws/files/4282366/1259363.pdf",
+      "source_document": "data/normalized/source_western_esoterism.json",
+      "source_snapshot_sha256": "053d0052282bfe3f785a5e5942b67d3a10524e170a6aa23506f7554ce4f0568f",
+      "source_pages_one_based": [
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "connected_group": [
+        "western_esoterism"
+      ],
+      "cdx_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fforgottenlanguages-full.forgottenlanguages.org%2F2018%2F12%2Fdaemonium-saturni-as-misre-tasdi.html&matchType=exact&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest&limit=-1&to=20261014113450",
+      "archive_cutoff": "20261014113450",
+      "prior_qa": {
+        "document_id": "source_western_esoterism",
+        "raw_pdf": "data/raw/053d0052282bfe3f785a5e5942b67d3a10524e170a6aa23506f7554ce4f0568f.bin",
+        "raw_sha256": "053d0052282bfe3f785a5e5942b67d3a10524e170a6aa23506f7554ce4f0568f",
+        "pdf_pages_one_based": [
+          90,
+          91,
+          92,
+          93,
+          94
+        ],
+        "printed_pages": [
+          "65",
+          "66",
+          "67",
+          "68",
+          "69"
+        ],
+        "images": [
+          "data/v15/qa/western_90.png",
+          "data/v15/qa/western_91.png",
+          "data/v15/qa/western_92.png",
+          "data/v15/qa/western_93.png",
+          "data/v15/qa/western_94.png"
+        ],
+        "assessment": "Displayed all listed page images. Article identity, relevant prose, page labels and documented line-wrap/word-split repairs checked. No new source text repair or semantic correspondence promotion.",
+        "limitations": "Only the listed persisted selection reviewed; remaining work not verified."
+      },
+      "component_previously_exposed": true
+    },
+    {
+      "id": "risk_math",
+      "inventory_entry": 8,
+      "fl_title": "War Algorithmics - Quantum Game Theory for Autonomous Weapon Systems: Beyond meaningful human control",
+      "fl_url": "https://forgottenlanguages-full.forgottenlanguages.org/2019/05/war-algorithmics-quantum-game-theory.html",
+      "source_url": "https://arxiv.org/pdf/1211.6683v1",
+      "source_document": "data/normalized/source_risk_math.json",
+      "source_snapshot_sha256": "a57f9684e90a6fa278b5005b83f9d698b16984c8874ead850fcada7a25bdea55",
+      "source_pages_one_based": [
+        1,
+        2,
+        3
+      ],
+      "connected_group": [
+        "risk_math",
+        "war_algorithm_accountability"
+      ],
+      "cdx_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fforgottenlanguages-full.forgottenlanguages.org%2F2019%2F05%2Fwar-algorithmics-quantum-game-theory.html&matchType=exact&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest&limit=-1&to=20261014113450",
+      "archive_cutoff": "20261014113450",
+      "prior_qa": {
+        "document_id": "source_risk_math",
+        "raw_pdf": "data/raw/a57f9684e90a6fa278b5005b83f9d698b16984c8874ead850fcada7a25bdea55.bin",
+        "raw_sha256": "a57f9684e90a6fa278b5005b83f9d698b16984c8874ead850fcada7a25bdea55",
+        "pdf_pages_one_based": [
+          1,
+          2,
+          3
+        ],
+        "printed_pages": [
+          "1",
+          "2",
+          "3"
+        ],
+        "images": [
+          "data/v15/qa/risk_1.png",
+          "data/v15/qa/risk_2.png",
+          "data/v15/qa/risk_3.png"
+        ],
+        "assessment": "Displayed all listed page images. Article identity, relevant prose, page labels and documented line-wrap/word-split repairs checked. No new source text repair or semantic correspondence promotion.",
+        "limitations": "Visual source/extraction review, not independent semantic gold. Risk extraction retains an extraneous reversed arXiv line in saved text; scope matches must remain literal."
+      },
+      "component_previously_exposed": true
+    }
+  ],
+  "post_denominator": 2,
+  "publisher_window_denominator": 2,
+  "fixed_request_denominator": 6,
+  "max_primary_requests": 8,
+  "max_total_requests_with_infrastructure_diagnostics": 16,
+  "request_limits": {
+    "connect_timeout_seconds": 15,
+    "total_timeout_seconds": 30,
+    "max_redirects": 3,
+    "fl_metadata_max_bytes": 2000000,
+    "pdf_max_bytes": 12000000,
+    "user_agent": "FL-Decipher/0.1 finite research pilot"
+  },
+  "pdf_runtime": "/Users/kalewicker/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+  "input_hashes": {
+    "data/normalized/fl_risk_math.json": "5db4b36513eb69a654aa09dc9e18aa2e576ddd4664935b0249ee361b23d8456d",
+    "data/normalized/fl_western_esoterism.json": "393ab59400ba0f5c10b1a232c1cd28f41e19456487850243b315b0694ae4d550",
+    "data/normalized/source_risk_math.json": "bf1bdad5d68ff94841211e33f5e150eee684fe6aff10a232459fc404299308da",
+    "data/normalized/source_western_esoterism.json": "77387beb2451c74a706678d11ad95de91cd97c6f51cb308685cffdbeb77b832c",
+    "data/raw/053d0052282bfe3f785a5e5942b67d3a10524e170a6aa23506f7554ce4f0568f.bin": "053d0052282bfe3f785a5e5942b67d3a10524e170a6aa23506f7554ce4f0568f",
+    "data/raw/a57f9684e90a6fa278b5005b83f9d698b16984c8874ead850fcada7a25bdea55.bin": "a57f9684e90a6fa278b5005b83f9d698b16984c8874ead850fcada7a25bdea55",
+    "data/v14/inventory_components.json": "03f7be90319f6a98aa24627e486955821114a05aa888837b378959009d084a18",
+    "data/v15/parsed_annotations.json": "c26c185d5f316e6c21bd84c71f3ba18ab2bd3ae421bc4e87a6a5accdfd5b3c67",
+    "data/v15/qa/review.json": "2bcd91443cd60500f6d642480802b721dfa50b703f143c8fe70ac08b2e8c487b",
+    "data/v15/qa/risk_1.png": "043a9749b489495353663fdd161d88cc64972945fc5e424ee740ecc58b195ef8",
+    "data/v15/qa/risk_2.png": "28edf329618dd0ae9b50d40a5c9cf04155bdb7c00cb5df5b459a35b1522356c9",
+    "data/v15/qa/risk_3.png": "2ea010996c99e16b9c9d47e5fd15ffa36ed4f9fedaf70c5bc0036df7a7fb8c2a",
+    "data/v15/qa/western_90.png": "5ad831330487db05827460239fc187b31cda90e139b9d2975cb1619455fd59d7",
+    "data/v15/qa/western_91.png": "41223365ce73dcdc05e8ac987d3743d152bafabcbedba60682cd8402bf1d869a",
+    "data/v15/qa/western_92.png": "8a0c37be8ff48113d180197ddc7497af950df17829d966dfe22b60c82ee5520d",
+    "data/v15/qa/western_93.png": "3728cc2b4f2901b2dee2f2665c65dc960029a7db8ced928692b01d073caf2611",
+    "data/v15/qa/western_94.png": "a6aaa86a0807ab31f2aac08db7b68273945c15fc3fd41c4b7918c3c96d9579b0",
+    "data/v23/route_discovery.json": "93bbca2ae56ac3978b42a4b3cd805a8a174dc5cce430823720e785dc81fc24f7",
+    "experiments/kamri_capture_review_v23.md": "1224d64c65ad1253cb3c3b25c5c2c7c445f45dfc7ec079ef6a46feed185055e5",
+    "reports/000022_deliverable_seal.json": "d6b049cbd365b956b3e78810ff3d7b0a9540a5d276f5664ae9be02ca8fc58c6b",
+    "reports/000022_verification.json": "0cbc2954393f2009706901d5f804d90b4b66749a5a579191732419a6a5afa151",
+    "runs/000015_kamri_dataset_audit/split_readiness.json": "4a548e01e9f3b1e19f5af1059c9c179fe021b19de5365543b543f59d35c4cd4f",
+    "runs/000022_kamri_orthographic_retest/manifest.json": "baab1c5cc16af252a6c3b23b0d3673a2e061f1ee258cacae1e92b6e39f3399f9",
+    "runs/000022_kamri_orthographic_retest/report.json": "33877b71a9ba71db3016e6c3dee31554c8bbd80f6d798c47d433dfc04060ba2c"
+  }
+}

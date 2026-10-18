@@ -1,0 +1,10 @@
+{
+  "run_manifest_sha256": "8f06b4b51b4d2ced0adf2e9ce1870c3231c211e384ca7a2104276d5771178407",
+  "deliverable_hashes": {
+    "reports/000016_interpretation.md": "aad4545728f8f78d5b02947414b4b26f1c89d356aafb32420c4703c2c9e3a32f",
+    "reports/000016_proposed_errata.md": "148b2c028fdcdc81c6ed940ec86bf69eaec64b41376e4d80d16b7bba8aef834a",
+    "reports/000016_extraction_drift_review.json": "908c16c0d290113cc942a3349cc43039d637f71f27033f42beae23846b0539cd",
+    "reports/000016_verification.json": "5d7d709323373c084146152572504c481e556a6182d3578d00ca8bdebce3444f"
+  },
+  "scope": "Interpretation and local errata, bound to the immutable experiment 16; no semantic promotion"
+}

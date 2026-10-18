@@ -1,0 +1,29 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+.env
+.env.*
+!.env.example
+.codex/
+.claude/
+.idea/
+.vscode/
+
+# Downloaded material, review packets and generated research evidence stay local.
+/data/
+/runs/
+/benchmarks/inputs/
+# Large generated panels; registrations and generators remain public.
+/benchmarks/kamri_editorial_v7.json
+/benchmarks/kamri_order_v8.json
+/benchmarks/kamri_coverage_v9.json
+/benchmarks/kamri_content_v10.json
+/benchmarks/kamri_conflict_v11.json

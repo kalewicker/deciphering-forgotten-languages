@@ -1,0 +1,47 @@
+{
+  "experiment_id": "kamri_transfer_v18",
+  "stage": "development_positional_transfer",
+  "registered_at_utc": "2026-10-02T21:29:51.329203+00:00",
+  "registration": "experiments/kamri_transfer_v18.md",
+  "seed": 2026100218,
+  "permutations": 999,
+  "p_max": 0.01,
+  "components": [
+    "nichiren_images",
+    "dark_side_light"
+  ],
+  "unit_uids": [
+    "03:005",
+    "03:006",
+    "03:007",
+    "03:008",
+    "13:005",
+    "13:006",
+    "13:007",
+    "13:008"
+  ],
+  "units_per_component": 4,
+  "unit_denominator": 8,
+  "controls": [
+    "rotate_+1",
+    "rotate_+2",
+    "rotate_-1",
+    "rotate_-2",
+    "reverse"
+  ],
+  "candidates": "data/v18/frozen_candidates.json",
+  "input_hashes": {
+    "data/v15/parsed_annotations.json": "c26c185d5f316e6c21bd84c71f3ba18ab2bd3ae421bc4e87a6a5accdfd5b3c67",
+    "data/v16/normalized/dark_side_light_fl.json": "b3bdf04ab15c3a25604fbd0afda5f17893078062d656ba935794007bd684e8ae",
+    "data/v16/normalized/dark_side_light_source.json": "14ae8290e18edbfeca29a7933995c3a2566e35ed91ef2297799e6d4f51ee4046",
+    "data/v16/normalized/nichiren_images_fl.json": "321a9818194a61f1335f39ee7eb74faf46585989c0596c1a622f2d6e2b1c1516",
+    "data/v16/normalized/nichiren_images_source.json": "bc504f24ae2bea477027297eea635f3f24646bd54893aadf1439adff68dec314",
+    "data/v18/frozen_candidates.json": "cc9d9f0143c75b4e64e78ab775bdf9be073be2ef50037896d930bd466669117d",
+    "experiments/kamri_transfer_v18.md": "f2541a3203e810d32a9345c172845b0f310ecc4dfb1b13365ed4740a97677941",
+    "reports/000017_verification.json": "c1f42fe1ab6aacc56c39f6167a7b845333abb96603ba7e619bddcab8ca11d186",
+    "runs/000016_kamri_correspondence_review/manifest.json": "8f06b4b51b4d2ced0adf2e9ce1870c3231c211e384ca7a2104276d5771178407",
+    "runs/000016_kamri_correspondence_review/unit_ledger.json": "ca8318544bdc2c8cd2a31496bc6134f7f53b6350f97880ed26a8e9a14e1714aa",
+    "runs/000017_kamri_positional_consistency/form_ledger.json": "b9de1cbb0eda99fb5701b2f533ab0862b9e342cffcdc53e0221ccd7ab2d028f8",
+    "runs/000017_kamri_positional_consistency/manifest.json": "a718e0d0a127c2b5b985a549bef89324556e678ec8f15701cec8323af98eb7c5"
+  }
+}

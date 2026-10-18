@@ -1,0 +1,11 @@
+{
+  "registered_at_utc": "2026-10-18T07:26:30.957242+00:00",
+  "maximum_search_executions": 8,
+  "distinct_query_strings": 4,
+  "initial_batch_eligible_for_nomination": false,
+  "input_hashes": {
+    "experiments/source_intake_v37_discovery_revision1.md": "e7a4a6aecf4a5378b7b2929926f292bc35c77240375b0bbf300af1b8006c15a5",
+    "experiments/source_intake_v37.json": "f27bb5cff9a91d41a3ad8ec138eac26c9666ce43a6b3e37c31a6a96c1968f49c",
+    "data/v37/discovery/search_batch_raw.json": "654bea3c1026220a86ae2602dacb9222edd02586d40c18a232ec647097787a05"
+  }
+}

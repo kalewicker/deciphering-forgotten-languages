@@ -1,0 +1,80 @@
+{
+  "experiment_id": "kamri_register_v5",
+  "registration": "experiments/kamri_register_v5.md",
+  "candidate_ids": [
+    "source_golden_age",
+    "source_nichiren_images",
+    "source_christisis",
+    "source_dark_side_light",
+    "source_gad_johnson",
+    "source_western_esoterism",
+    "source_manichaean_hymn",
+    "source_risk_math",
+    "source_models_magic",
+    "source_capra_foreword_v5"
+  ],
+  "weights": {
+    "length": 0.55,
+    "punctuation": 0.2,
+    "repetition": 0.2,
+    "anchors": 0.05
+  },
+  "match_floor": 0.72,
+  "gap_penalty": 0.35,
+  "merge_penalty": 0.04,
+  "minimum_fl_atoms": 3,
+  "structural_weight": 0.6,
+  "lexical_weight": 0.4,
+  "lexicon_path": "runs/000001_kamri_excerpt_baseline/lexicon.json",
+  "lexicon_rules": {
+    "minimum_observations": 2,
+    "minimum_source_groups": 2,
+    "minimum_candidate_fraction": 0.8
+  },
+  "abbreviations": [
+    "i.e.",
+    "e.g.",
+    "Mr.",
+    "Mrs.",
+    "Ms.",
+    "Dr.",
+    "Prof.",
+    "vs.",
+    "etc."
+  ],
+  "reference_tokens": 20,
+  "token_gap": -0.75,
+  "token_exact": 2.0,
+  "token_mismatch": -2.0,
+  "token_unknown": 0.5,
+  "edge_minimum_pairs": 2,
+  "variants": [
+    "baseline",
+    "universal_aliases",
+    "gated_aliases"
+  ],
+  "aliases": {
+    "ńańi": "of",
+    "daċċęįš": "and",
+    "tawwdan": "that"
+  },
+  "gate_minimum_distinct": 2,
+  "gate_minimum_total": 3,
+  "seed": 5731,
+  "shuffle_repetitions": 20,
+  "development_groups": [
+    "golden_age",
+    "nichiren_images",
+    "gad_seer",
+    "christisis",
+    "dark_side_light",
+    "western_esoterism",
+    "manichaean_hymn",
+    "risk_math",
+    "models_magic"
+  ],
+  "fresh_groups": [
+    "capra_foreword",
+    "accidental_altruist"
+  ]
+}

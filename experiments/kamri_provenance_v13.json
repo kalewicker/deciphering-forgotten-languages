@@ -1,0 +1,16 @@
+{
+  "experiment_id": "kamri_provenance_v13",
+  "registration": "experiments/kamri_provenance_v13.md",
+  "registration_sha256": "732ae0487d7b0b97d06f1dd508896b42b4f404c25f0b30d0f547df240f04abc9",
+  "registration_file_mtime_utc": "2026-10-01T19:38:37.427966+00:00",
+  "configuration_materialized_after_acquisition": true,
+  "previous_run": "000012_kamri_natural_acquisition",
+  "discovery_queries_per_work": 4,
+  "source_routes_per_work": 4,
+  "shuffle_seed_if_eligible": 13331,
+  "frozen_model_config": "experiments/kamri_conflict_v11.json",
+  "frozen_lexicon": "runs/000001_kamri_excerpt_baseline/lexicon.json",
+  "frozen_thresholds": "runs/000011_kamri_anchor_conflicts/thresholds.json",
+  "analyst_blind": false,
+  "no_new_fl_selection": true
+}

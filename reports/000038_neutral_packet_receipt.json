@@ -1,0 +1,14 @@
+{
+  "prepared_at_utc": "2026-10-18T07:54:42.795825+00:00",
+  "packet_zip_sha256": "1ab012961d57815c38e29256edf038622882d223ae31365d92dc35e5ae012d53",
+  "packet_manifest_sha256": "2f065eefd15b9d979b90c5fbaa42d6fd92493855b0f90553019511622331ffdc",
+  "members_verified": 12,
+  "source_pdf_bytes_verified": true,
+  "target_export_bytes_verified": true,
+  "source_disclosed": true,
+  "prior_predictions_included": false,
+  "review_return_template_completed": false,
+  "independent_reviews_completed": 0,
+  "scope": "Post-run neutral handoff derived from frozen v38 material; no new observations, predictions or scientific admissions",
+  "parent_run_manifest_sha256": "f75512ae10fd6ed9a2ac464c218ac5598b4f3b1863ba2541a85e01bd6c003cf4"
+}

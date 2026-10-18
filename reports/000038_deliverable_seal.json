@@ -1,0 +1,31 @@
+{
+  "sealed_at_utc": "2026-10-18T07:56:18.124993+00:00",
+  "run_manifest_sha256": "f75512ae10fd6ed9a2ac464c218ac5598b4f3b1863ba2541a85e01bd6c003cf4",
+  "deliverable_hashes": {
+    "reports/000038_interpretation.md": "ab3a302df98e3d21f1679c27068edb7465f8af4771968c8188da5ee490750900",
+    "reports/000038_verification.json": "46ab3d8ec2695a0c6922455e6fa225aa1661de7b2b202b522ece2d04a85a6f07",
+    "reports/000038_neutral_packet_receipt.json": "fe3a451bac63333551efa6beba6425f46c42fe6fc8cbda55f26da267d69fe9ac",
+    "data/v38/neutral_review_packet.zip": "1ab012961d57815c38e29256edf038622882d223ae31365d92dc35e5ae012d53",
+    "data/v38/scoped_materials.zip": "ed20a93509dd5ec4ac6e1c123cefff4b5ab1348dac70aad5edc700ebf4558edb"
+  },
+  "tests_passed": 329,
+  "engineering_integrity_passed": true,
+  "prior_runs_preserved": 37,
+  "route_slots": 2,
+  "route_attempts": 2,
+  "dated_material_gate_passed": true,
+  "capture_timestamp_utc": "2026-01-10T22:21:00Z",
+  "source_pages_reviewed": 8,
+  "quoted_span_denominator": 8,
+  "literal_source_quote_presence": 0,
+  "positive_controls_passed": 8,
+  "negative_control_passed": true,
+  "neutral_packet_members_verified": 12,
+  "independent_reviews_admitted": 0,
+  "source_identities_admitted": 0,
+  "semantic_labels_admitted": 0,
+  "untouched_test_units_admitted": 0,
+  "scientific_acceptance": null,
+  "semantic_evaluation_metrics": null,
+  "scope": "Dated capture and exposed exact-text citation scope; immediate source relationship and opaque FL meanings unresolved"
+}

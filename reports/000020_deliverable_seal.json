@@ -1,0 +1,9 @@
+{
+  "sealed_at_utc": "2026-10-03T09:46:11.965504+00:00",
+  "run_manifest_sha256": "3a5feaa8307aa202eebb11b0a484ec7b20eb22b8c70f1bce53884d7142ace77f",
+  "deliverable_hashes": {
+    "reports/000020_interpretation.md": "7fb951a66af5a7debbe375f89cb7c080ec86ab0e6ab14920981719b49c5d93c2",
+    "reports/000020_verification.json": "433d808e7f8293a47c172cc3bd755f58ed89fe25248ba758b81bdcd442198d44"
+  },
+  "scope": "Interpretation of immutable experiment 20; failed calibration, original hypotheses, source text, and all nineteen previous runs preserved"
+}

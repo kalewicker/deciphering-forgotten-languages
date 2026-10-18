@@ -1,0 +1,42 @@
+{
+  "auditor_path": "scripts/verify_precision_v4a.py",
+  "auditor_sha256": "79c4e0f629d5d98a401f246fea0c3b6997e5fb55e5d102e0598297b7c7b0fefb",
+  "audit_correction": "v1 document-ID/text hashes handled separately from later path/file hashes; frozen model code unchanged",
+  "pre_execution_tests": "31 passed",
+  "state": "verified",
+  "run_id": "000004_kamri_precision_mass",
+  "manifest_sha256": "116f08d210e18500680ede8bae39b20d2648e683eda0fa238fde670976710e41",
+  "queries": 57,
+  "fresh_selected_denominator": 40,
+  "variants": 4,
+  "result_rows": 228,
+  "checks": [
+    "input, raw, code and output hashes",
+    "generated identity spans and reference edges",
+    "fixed family and seed denominators",
+    "calibration excludes all fresh outcomes",
+    "ordered token evidence and Cartesian expansion",
+    "unique ranking margins and admissions",
+    "source-absent controls",
+    "shared shuffled atom orders and exceedances",
+    "boundary-change reward controls",
+    "aggregate family counts",
+    "unchanged previous experiments"
+  ],
+  "previous_runs": [
+    {
+      "run_id": "000001_kamri_excerpt_baseline",
+      "manifest_sha256": "6a1d3920394bcbff4022b6635374e2787f79fdd0d53606a67925984588e76d47"
+    },
+    {
+      "run_id": "000002_kamri_alignment_editions",
+      "manifest_sha256": "f3577c0d3ac03c998235b69ad05b9ed78dbec5627ac4b99546c263737798a776"
+    },
+    {
+      "run_id": "000003_kamri_passage_factorial",
+      "manifest_sha256": "a4a4b216265a9bc99463462b98eb3117c461d7124581f2288f3ff73dd198eb1a"
+    }
+  ],
+  "new_lexical_claims": 0,
+  "fresh_real_source_works": 0
+}

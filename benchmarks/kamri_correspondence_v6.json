@@ -1,0 +1,408 @@
+{
+  "schema_version": 6,
+  "status": "frozen_before_model_execution",
+  "selected_within_article_denominator": 2,
+  "independent_source_works": 1,
+  "fresh_independent_works": 0,
+  "documents": {
+    "source_golden_age": {
+      "path": "data/normalized/source_golden_age.json",
+      "sha256": "91e485170b68f1a00c87b8c81de91055aa846ad1ed9e9fe8cb5aa3d8efe1bdce",
+      "text_sha256": "d9b63a8ab9c511ed1f29703b46a5e79eb20399d6829110b993eb20af28af36f5",
+      "raw_sha256": "22ca817fd798965887773eac4fce9678b1ecea36d251729e8d6be08910271e5b",
+      "source_group": "golden_age",
+      "sentence_count": 112
+    },
+    "source_nichiren_images": {
+      "path": "data/normalized/source_nichiren_images.json",
+      "sha256": "fc4a172813b5e9e48f13baf6eafe9059dcfe0c7061afd9b48f8fc756f4dc1c63",
+      "text_sha256": "4dede3e6cafc8a978b5f691bc9dee8cae8b59ac74894b87feeacc00b85c645d8",
+      "raw_sha256": "64617a292846728a973865c02ef3b8b9af93c5f69071e6b8e811a01b8e1e5d7a",
+      "source_group": "nichiren_images",
+      "sentence_count": 150
+    },
+    "source_christisis": {
+      "path": "data/normalized/source_christisis.json",
+      "sha256": "19aa79c9fe2d4cde77485e09b0181eaf79405e3100a55a7829702b0051004d11",
+      "text_sha256": "2631bbc1f71fea4e1912d59a978e8a624102e581393bba14255edc94f5e800e3",
+      "raw_sha256": "c8d9d36fe86e9e8ba493dc4dbe150d35cedaf3fc8799f404c2a89dce0e95da2e",
+      "source_group": "christisis",
+      "sentence_count": 1791
+    },
+    "source_dark_side_light": {
+      "path": "data/normalized/source_dark_side_light.json",
+      "sha256": "d0a83d8dc3cb127be5b1d4ff53218a0d384ed550954fd2508cc908284731ee9a",
+      "text_sha256": "8fe82bb69c99277817030248539bc7dc328693b3efa194f6f3205bbdf49d9f71",
+      "raw_sha256": "0ccb126f645d83fe4c9ddf22d1e0e445b88d8e38fdd40bb0a0d9b59afb1578ba",
+      "source_group": "dark_side_light",
+      "sentence_count": 153
+    },
+    "source_gad_johnson": {
+      "path": "data/normalized/source_gad_johnson.json",
+      "sha256": "ab5a6991b64fe548abd283ccc26ba8c4785d8507972805ff475f55bb2d07e35d",
+      "text_sha256": "8a4d588a985ccf1afefe71e19fb7e047bf608f2fb67b06d6c53120429140fb80",
+      "raw_sha256": "5d30241fa09feca70e94c641661e391ed24ad7b9adf801acf93eab54c7da8447",
+      "source_group": "gad_seer",
+      "sentence_count": 85
+    },
+    "source_western_esoterism": {
+      "path": "data/normalized/source_western_esoterism.json",
+      "sha256": "77387beb2451c74a706678d11ad95de91cd97c6f51cb308685cffdbeb77b832c",
+      "text_sha256": "ae061b0e45cc7a69dc09962582ead25c2e55109140693a4485d22f454556b428",
+      "raw_sha256": "053d0052282bfe3f785a5e5942b67d3a10524e170a6aa23506f7554ce4f0568f",
+      "source_group": "western_esoterism",
+      "sentence_count": 96
+    },
+    "source_manichaean_hymn": {
+      "path": "data/normalized/source_manichaean_hymn.json",
+      "sha256": "1641422d1121319d18f78696d1e6b4de2a3de7af1a20e54cf2165c5130a6e43b",
+      "text_sha256": "eeaee0cbe9de08f7f91490cfbc1d9791a264bae3194616b5567c7ee64d477530",
+      "raw_sha256": "9310aeb7618409af6f16a07502b1b3423d7e70c497ecdb574dc8c5e110504566",
+      "source_group": "manichaean_hymn",
+      "sentence_count": 14
+    },
+    "source_risk_math": {
+      "path": "data/normalized/source_risk_math.json",
+      "sha256": "bf1bdad5d68ff94841211e33f5e150eee684fe6aff10a232459fc404299308da",
+      "text_sha256": "30f980eb5d97f945c8f26edf5c7d78920369ea11ebb3cfd67f0a9a6226df16a6",
+      "raw_sha256": "a57f9684e90a6fa278b5005b83f9d698b16984c8874ead850fcada7a25bdea55",
+      "source_group": "risk_math",
+      "sentence_count": 30
+    },
+    "source_models_magic": {
+      "path": "data/normalized/source_models_magic.json",
+      "sha256": "3a33ffbd3de5b6fa9cc4bdc689ea7320110076202218b8bcffa9fab28b0de28a",
+      "text_sha256": "0642cbc06d8f85da23ba484a4e237dd5a12cf7da086d1c7677491e1682808e81",
+      "raw_sha256": "822d8e84aec11a7924b3ab846ab4bb97555c3e0edcffc733f24cac06f89322c4",
+      "source_group": "models_magic",
+      "sentence_count": 124
+    },
+    "source_capra_foreword_v5": {
+      "path": "data/normalized/source_capra_foreword_v5.json",
+      "sha256": "b520478754c42dc324d20cbd62b95f4d0e702f7a6484af2547c500685950fa54",
+      "text_sha256": "c78813b31909f09c97602823fe4ca7e3657e331288f591eb355a8ca71fc8e0bc",
+      "raw_sha256": "da91dd19617a7f44ade4b4b862bfefd10c04ac8b1aa4fa8cb30acefbdb9cd3c0",
+      "source_group": "capra_foreword"
+    },
+    "fl_models_magic_v3a": {
+      "path": "data/normalized/fl_models_magic_v3a.json",
+      "sha256": "bffcc3a76d50d95d368f19bb8769b97787ab61ebca29a58aa1f14e9a5f3cb164",
+      "text_sha256": "7c320376b5a510a8ba5165cb3df476c135e3ca4f31262708d3e4f05fc78b6ed0",
+      "raw_sha256": "7c320376b5a510a8ba5165cb3df476c135e3ca4f31262708d3e4f05fc78b6ed0",
+      "source_group": "models_magic",
+      "sentence_count": 7
+    },
+    "fl_models_magic_continuation_v6": {
+      "path": "data/normalized/fl_models_magic_continuation_v6.json",
+      "sha256": "9109c4dd9c7ad3789c1bd4b154ec02d9f3dc8c1a8fedf3a35af11d18d1d9f311",
+      "text_sha256": "2b368bb5e601c586227a4e65957752dd95cddee7f60941f1aaeddd1e1111acdd",
+      "raw_sha256": "2b368bb5e601c586227a4e65957752dd95cddee7f60941f1aaeddd1e1111acdd",
+      "source_group": "models_magic"
+    },
+    "fl_models_magic_mechanism_v6": {
+      "path": "data/normalized/fl_models_magic_mechanism_v6.json",
+      "sha256": "c560728753374a010f64a68d02fbec5aad51baf76cab6ec3e4be90df7b3f5891",
+      "text_sha256": "11af896d9f07833c7dec162968d158dc1b943e46d120c22b50a42a5d2c2be84e",
+      "raw_sha256": "11af896d9f07833c7dec162968d158dc1b943e46d120c22b50a42a5d2c2be84e",
+      "source_group": "models_magic"
+    }
+  },
+  "records": [
+    {
+      "group": "models_magic",
+      "split": "development_audit",
+      "fl_id": "fl_models_magic_v3a",
+      "source_id": "source_models_magic",
+      "edges": [
+        {
+          "fl_index": 0,
+          "source_index": 55,
+          "fl_span": [
+            0,
+            142
+          ],
+          "source_span": [
+            8634,
+            8785
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 1,
+          "source_index": 56,
+          "fl_span": [
+            143,
+            410
+          ],
+          "source_span": [
+            8786,
+            8947
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 1,
+          "source_index": 57,
+          "fl_span": [
+            143,
+            410
+          ],
+          "source_span": [
+            8948,
+            8989
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 2,
+          "source_index": 58,
+          "fl_span": [
+            411,
+            505
+          ],
+          "source_span": [
+            8990,
+            9094
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 3,
+          "source_index": 59,
+          "fl_span": [
+            506,
+            612
+          ],
+          "source_span": [
+            9095,
+            9168
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 4,
+          "source_index": 60,
+          "fl_span": [
+            613,
+            703
+          ],
+          "source_span": [
+            9169,
+            9286
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 5,
+          "source_index": 61,
+          "fl_span": [
+            704,
+            804
+          ],
+          "source_span": [
+            9287,
+            9334
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 5,
+          "source_index": 62,
+          "fl_span": [
+            704,
+            804
+          ],
+          "source_span": [
+            9335,
+            9382
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 6,
+          "source_index": 63,
+          "fl_span": [
+            805,
+            1000
+          ],
+          "source_span": [
+            9383,
+            9651
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        }
+      ],
+      "note": "Information Model subsection. Opening modifies topic/date wording; FL sentence 1 combines source premises, and source e.g. splits the final FL sentence. Alternate register retained. Provisional structural audit, no semantic gold. Seventh opening sentence corresponds to the morphic-fields discussion; fits original word cap.",
+      "available": true,
+      "packet": "opening"
+    },
+    {
+      "packet": "continuation",
+      "group": "models_magic",
+      "split": "within_article_check",
+      "fl_id": "fl_models_magic_continuation_v6",
+      "source_id": "source_models_magic",
+      "available": true,
+      "edges": [
+        {
+          "fl_index": 0,
+          "source_index": 64,
+          "fl_span": [
+            0,
+            203
+          ],
+          "source_span": [
+            9652,
+            9829
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 1,
+          "source_index": 65,
+          "fl_span": [
+            204,
+            350
+          ],
+          "source_span": [
+            9830,
+            9966
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        }
+      ],
+      "note": "Separate original block ending at a colon before an English quotation. Ordered structural labels only; unknown token meanings unaudited."
+    },
+    {
+      "packet": "mechanism",
+      "group": "models_magic",
+      "split": "within_article_check",
+      "fl_id": "fl_models_magic_mechanism_v6",
+      "source_id": "source_models_magic",
+      "available": true,
+      "edges": [
+        {
+          "fl_index": 0,
+          "source_index": 66,
+          "fl_span": [
+            0,
+            95
+          ],
+          "source_span": [
+            9967,
+            10132
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 1,
+          "source_index": 67,
+          "fl_span": [
+            96,
+            190
+          ],
+          "source_span": [
+            10133,
+            10245
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 2,
+          "source_index": 68,
+          "fl_span": [
+            191,
+            320
+          ],
+          "source_span": [
+            10246,
+            10451
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 3,
+          "source_index": 69,
+          "fl_span": [
+            321,
+            429
+          ],
+          "source_span": [
+            10452,
+            10566
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        },
+        {
+          "fl_index": 4,
+          "source_index": 70,
+          "fl_span": [
+            430,
+            592
+          ],
+          "source_span": [
+            10567,
+            10732
+          ],
+          "state": "single_analyst_structural_correspondence",
+          "semantic_gold": false
+        }
+      ],
+      "note": "Separate original block ending at a colon before an English quotation. Ordered structural labels only; unknown token meanings unaudited."
+    }
+  ],
+  "input_hashes": {
+    "data/normalized/source_golden_age.json": "91e485170b68f1a00c87b8c81de91055aa846ad1ed9e9fe8cb5aa3d8efe1bdce",
+    "data/normalized/source_nichiren_images.json": "fc4a172813b5e9e48f13baf6eafe9059dcfe0c7061afd9b48f8fc756f4dc1c63",
+    "data/normalized/source_christisis.json": "19aa79c9fe2d4cde77485e09b0181eaf79405e3100a55a7829702b0051004d11",
+    "data/normalized/source_dark_side_light.json": "d0a83d8dc3cb127be5b1d4ff53218a0d384ed550954fd2508cc908284731ee9a",
+    "data/normalized/source_gad_johnson.json": "ab5a6991b64fe548abd283ccc26ba8c4785d8507972805ff475f55bb2d07e35d",
+    "data/normalized/source_western_esoterism.json": "77387beb2451c74a706678d11ad95de91cd97c6f51cb308685cffdbeb77b832c",
+    "data/normalized/source_manichaean_hymn.json": "1641422d1121319d18f78696d1e6b4de2a3de7af1a20e54cf2165c5130a6e43b",
+    "data/normalized/source_risk_math.json": "bf1bdad5d68ff94841211e33f5e150eee684fe6aff10a232459fc404299308da",
+    "data/normalized/source_models_magic.json": "3a33ffbd3de5b6fa9cc4bdc689ea7320110076202218b8bcffa9fab28b0de28a",
+    "data/normalized/source_capra_foreword_v5.json": "b520478754c42dc324d20cbd62b95f4d0e702f7a6484af2547c500685950fa54",
+    "data/normalized/fl_models_magic_v3a.json": "bffcc3a76d50d95d368f19bb8769b97787ab61ebca29a58aa1f14e9a5f3cb164",
+    "data/normalized/fl_models_magic_continuation_v6.json": "9109c4dd9c7ad3789c1bd4b154ec02d9f3dc8c1a8fedf3a35af11d18d1d9f311",
+    "data/normalized/fl_models_magic_mechanism_v6.json": "c560728753374a010f64a68d02fbec5aad51baf76cab6ec3e4be90df7b3f5891",
+    "experiments/kamri_correspondence_v6.md": "a65ba5589557c3ce056eb7a73b177d75986d8c409499ab89770236bade6c8194",
+    "experiments/kamri_correspondence_v6.json": "7780849a85fefa504be19662997168b3744f6bfafadfc1d6e951b7999b02aa14",
+    "runs/000001_kamri_excerpt_baseline/lexicon.json": "9f6f5f3c78a8be754a9cd2017d061fd3953fb1ea8c6bd53883d8c650887964e6",
+    "benchmarks/kamri_register_v5.json": "b87a80f48584351b463be6f0158c278449fe0fb4fa25a00caecd3c5b93990208",
+    "runs/000005_kamri_scoped_register/report.json": "e305f66927c344c4aa635fa39f304ebedc242586c28190bb311f689a4d2b5246",
+    "benchmarks/inputs/correspondence_v6_acquisition.json": "9b6df1e3df8e88c80a6c8f723b67600a2cb25a706bd9d38cebb36fd219afd696",
+    "benchmarks/inputs/correspondence_v6_annotations.json": "626063699a5bd07482a0d857f74d9c679069bf7ef0d4d0fb78895c7d2707b1b0",
+    "pyproject.toml": "cf3baf2c40509d24d99e8d7ecb2b0ef29d2b321e428e5bd0c7ecef3c2cefebac",
+    "uv.lock": "c6ec1b1b99f17fd8d3f84ecf01406a2bde9ad54022b73ed771992cc42ded9023"
+  },
+  "raw_acquisition_hashes": {
+    "/Users/kalewicker/Documents/forgotten languages/data/raw/22ca817fd798965887773eac4fce9678b1ecea36d251729e8d6be08910271e5b.bin": "22ca817fd798965887773eac4fce9678b1ecea36d251729e8d6be08910271e5b",
+    "/Users/kalewicker/Documents/forgotten languages/data/raw/64617a292846728a973865c02ef3b8b9af93c5f69071e6b8e811a01b8e1e5d7a.bin": "64617a292846728a973865c02ef3b8b9af93c5f69071e6b8e811a01b8e1e5d7a",
+    "/Users/kalewicker/Documents/forgotten languages/data/raw/c8d9d36fe86e9e8ba493dc4dbe150d35cedaf3fc8799f404c2a89dce0e95da2e.bin": "c8d9d36fe86e9e8ba493dc4dbe150d35cedaf3fc8799f404c2a89dce0e95da2e",
+    "/Users/kalewicker/Documents/forgotten languages/data/raw/0ccb126f645d83fe4c9ddf22d1e0e445b88d8e38fdd40bb0a0d9b59afb1578ba.bin": "0ccb126f645d83fe4c9ddf22d1e0e445b88d8e38fdd40bb0a0d9b59afb1578ba",
+    "data/raw/5d30241fa09feca70e94c641661e391ed24ad7b9adf801acf93eab54c7da8447.bin": "5d30241fa09feca70e94c641661e391ed24ad7b9adf801acf93eab54c7da8447",
+    "data/raw/053d0052282bfe3f785a5e5942b67d3a10524e170a6aa23506f7554ce4f0568f.bin": "053d0052282bfe3f785a5e5942b67d3a10524e170a6aa23506f7554ce4f0568f",
+    "data/raw/9310aeb7618409af6f16a07502b1b3423d7e70c497ecdb574dc8c5e110504566.bin": "9310aeb7618409af6f16a07502b1b3423d7e70c497ecdb574dc8c5e110504566",
+    "data/raw/a57f9684e90a6fa278b5005b83f9d698b16984c8874ead850fcada7a25bdea55.bin": "a57f9684e90a6fa278b5005b83f9d698b16984c8874ead850fcada7a25bdea55",
+    "data/raw/822d8e84aec11a7924b3ab846ab4bb97555c3e0edcffc733f24cac06f89322c4.bin": "822d8e84aec11a7924b3ab846ab4bb97555c3e0edcffc733f24cac06f89322c4",
+    "/Users/kalewicker/Documents/forgotten languages/data/raw/da91dd19617a7f44ade4b4b862bfefd10c04ac8b1aa4fa8cb30acefbdb9cd3c0.bin": "da91dd19617a7f44ade4b4b862bfefd10c04ac8b1aa4fa8cb30acefbdb9cd3c0",
+    "/Users/kalewicker/Documents/forgotten languages/data/raw/7c320376b5a510a8ba5165cb3df476c135e3ca4f31262708d3e4f05fc78b6ed0.bin": "7c320376b5a510a8ba5165cb3df476c135e3ca4f31262708d3e4f05fc78b6ed0",
+    "/Users/kalewicker/Documents/forgotten languages/data/raw/2b368bb5e601c586227a4e65957752dd95cddee7f60941f1aaeddd1e1111acdd.bin": "2b368bb5e601c586227a4e65957752dd95cddee7f60941f1aaeddd1e1111acdd",
+    "/Users/kalewicker/Documents/forgotten languages/data/raw/11af896d9f07833c7dec162968d158dc1b943e46d120c22b50a42a5d2c2be84e.bin": "11af896d9f07833c7dec162968d158dc1b943e46d120c22b50a42a5d2c2be84e"
+  }
+}
