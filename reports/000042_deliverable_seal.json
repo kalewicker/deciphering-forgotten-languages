@@ -1,0 +1,16 @@
+{
+  "experiment_id": "native_quote_v42",
+  "sealed_at_utc": "2026-10-18T09:25:59.977878+00:00",
+  "deliverable_hashes": {
+    "reports/000042_interpretation.md": "ec45a08b68d09e29761553f80b8e3d3871ba0106eec261df0c1aaa08676d8c2d",
+    "reports/000042_verification.json": "85295a1160501776ad58014a82b881e2b4c9e537bb2e1a1c754760f49770cea4",
+    "runs/000042_native_quote/manifest.json": "355e612d8a49d20b79e05640bae9cfb4c11b1f19b2bb27bb0eb2369ae0cedf9a",
+    "runs/000042_native_quote/report.json": "46bf82bbce1731b8ac0607d3c6713041820caf33c48fadfc95f9ea53d44dd717",
+    "data/v42/context_review.json": "9e808d1180aad8a7e0d41b3728028daf4eebc6bd79441a2e97f447caaff945ca",
+    "data/v42/page_observations.json": "fd880499389eac49859bf68d6885419d4bd9850384b9372fd8b1a18a304ed788",
+    "data/v42/visible_page.txt": "81251061148e762475503d5434a0e948b564fbff8f454fc5a0e19639682e88c5"
+  },
+  "independent_scientific_review": false,
+  "historical_date_authenticated": false,
+  "original_quotation_source_authenticated": false
+}

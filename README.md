@@ -2,17 +2,17 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Research resumed with experiment 41.** This public repository contains code,
+**Latest completed step: experiment 42.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 41](reports/000041_interpretation.md) found an
-external complete-quotation lead in the indexed result for a Physics World
-article. No native article or historical snapshot has been captured. Experiment
-40 supports a render-time date mechanism for the served arXiv PDF, with original
-2018 bytes still unauthenticated. Experiment 39's name-only result stays fixed.
+Current boundary: [experiment 42](reports/000042_interpretation.md) captured the
+native Physics World page and confirmed the complete quote00 once, with Gorham
+named in the same paragraph. Historical 2018 contents and original quotation
+provenance remain unverified. Experiment 40 supports a render-time date mechanism
+for the served arXiv PDF; experiment 39's name-only result stays fixed.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.
@@ -787,3 +787,17 @@ runs and seals remain intact. At the user's request, each work turn now ends
 with a public `main` commit/push and a separate local evidence checkpoint.
 Next: one registered native capture of the nominated URL, with no search retry
 or opaque-passage alignment in this completed experiment.
+
+## Experiment 42: native publisher quotation and attribution
+
+The [single-request native check](reports/000042_interpretation.md) is complete.
+The current Physics World page was captured with HTTP 200 and passes all eight
+registered representation checks. Complete quote00 appears once in its visible
+body, in a paragraph that names Gorham and follows the quotation with he-says
+wording. Publisher date metadata is preserved without becoming historical
+authentication. No other quotation or opaque passage was scored.
+
+340 full-workspace and 301 isolated-public-export tests pass. All 41 prior runs
+and seals remain intact. Evidence stays local; public changes are committed and
+pushed at turn end. Next: register all eight unchanged quotation queries against
+the already saved publisher body, using quote00 as a known positive control.
