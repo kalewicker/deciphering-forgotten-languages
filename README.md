@@ -2,17 +2,17 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Research paused after experiment 40.** This public repository contains code,
+**Research resumed with experiment 41.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 40](reports/000040_interpretation.md) found a
-render-time date declaration in the official versioned source, consistent with
-the served PDF's 2025 internal date and timestamps. Original 2018 byte identity
-remains unproven. Experiment 39 stays fixed: only the expanded instrument name
-matches; none of the seven longer quoted blocks occurs in full.
+Current boundary: [experiment 41](reports/000041_interpretation.md) found an
+external complete-quotation lead in the indexed result for a Physics World
+article. No native article or historical snapshot has been captured. Experiment
+40 supports a render-time date mechanism for the served arXiv PDF, with original
+2018 bytes still unauthenticated. Experiment 39's name-only result stays fixed.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.
@@ -771,3 +771,19 @@ No quotation was rescored or semantic/source-identity claim admitted.
 Next: a separately registered, one-request quotation-origin discovery test
 using complete quote00, the lowest-ID long quotation from v38. The date branch
 stops here; natural-benchmark capacity and independent review remain open.
+
+## Experiment 41: one full-quotation discovery search
+
+The [one-request discovery diagnostic](reports/000041_interpretation.md) is
+complete. The unchanged full quote00 query returned seven attributable results.
+Four display the complete quotation: Physics World, the existing FL target and
+two credited reposts. Only the first, the Physics World article, qualifies for
+external lead nomination. Its indexed text displays 17 July 2018. This remains
+a discovery lead, with no raw capture, authenticated original quotation source,
+opaque FL meaning or untouched test unit admitted.
+
+337 full-workspace tests and 298 isolated-public-export tests pass. All 40 prior
+runs and seals remain intact. At the user's request, each work turn now ends
+with a public `main` commit/push and a separate local evidence checkpoint.
+Next: one registered native capture of the nominated URL, with no search retry
+or opaque-passage alignment in this completed experiment.

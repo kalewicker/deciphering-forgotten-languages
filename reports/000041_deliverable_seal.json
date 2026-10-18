@@ -1,0 +1,15 @@
+{
+  "experiment_id": "quotation_discovery_v41",
+  "sealed_at_utc": "2026-10-18T09:14:38.908671+00:00",
+  "deliverable_hashes": {
+    "reports/000041_interpretation.md": "183cc944b01f7b2321a7491b774dc751e259d2e89178aab4a565e2162addf306",
+    "reports/000041_verification.json": "731136903acbcd313dcd175ab6b67641cd594363500edcfa68aac06fcbb809a6",
+    "runs/000041_quotation_discovery/manifest.json": "77c55db1d8f8692ba22576bb59b0a174d538082b08c76deac01d71bbb61cb2ca",
+    "runs/000041_quotation_discovery/report.json": "9078afa2ff8fc13d00c78a54dbf772fe6ddcc056e5b0fddc60f2ffb2fe9b9635",
+    "data/v41/preflight.json": "0ee3d930d9dd38458d07abc88a616a58e717afb4afe76bc939a2ed4f67e24226",
+    "data/v41/search_response.json": "d704617e5a6b8e6b7cc39dc5b9bbf93b20564cbaf525661566294925d6c1976b",
+    "data/v41/discovery_ledger.json": "210c11497a0e5918c93390b44be322825e55192a6a6f03036e40ea8c1d7fd276"
+  },
+  "independent_scientific_review": false,
+  "original_quotation_source_authenticated": false
+}

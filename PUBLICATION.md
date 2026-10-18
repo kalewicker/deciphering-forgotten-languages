@@ -1,7 +1,7 @@
-# Publication scope and research pause
+# Publication scope and ongoing commits
 
-Research is paused after experiment 40. Publication does not authorize a new
-experiment or change any frozen result. No natural FL decipherment has been
+Research resumed with experiment 41 after the user's continuation instruction.
+Publication does not change any frozen result. No natural FL decipherment has been
 validated; structural recovery, copied English and source metadata are separate
 from meanings and immediate source identity.
 
@@ -12,12 +12,19 @@ absolute acquisition paths and hash ledgers document the original workspace;
 they do not imply that those artifacts are included in a public clone.
 
 The local `local-evidence-2026-10-18` branch additionally preserves the complete
-`data/`, `runs/` and `benchmarks/` research snapshot at publication. This branch
-is not pushed. It includes downloaded source documents, extracted text, review
+`data/`, `runs/` and `benchmarks/` research snapshot. Its initial publication
+checkpoint is `b84e7b0`; subsequent turns append commits while preserving that
+history. This branch is not pushed. It includes downloaded source documents, extracted text, review
 packets, synthetic panels and generated predictions. Environments, bytecode,
 operating-system files and editor/assistant settings are not research artifacts
 and are excluded from both branches. A local archive commit is a checkpoint,
 not an off-device backup.
+
+The user requested a commit and push at the end of every work turn on
+2026-10-18. Public changes are committed to `main` and pushed to `origin/main`;
+generated research artifacts are committed on the local evidence branch. A
+work turn is not reported as successfully published until the remote commit
+and public tree agree with the local `main` branch.
 
 Public exclusions include third-party source documents and review packets,
 the multi-gigabyte run archive, acquisition inputs and the five large generated
