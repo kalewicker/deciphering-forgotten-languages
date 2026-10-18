@@ -2,17 +2,18 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 42.** This public repository contains code,
+**Latest completed step: experiment 43.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 42](reports/000042_interpretation.md) captured the
-native Physics World page and confirmed the complete quote00 once, with Gorham
-named in the same paragraph. Historical 2018 contents and original quotation
-provenance remain unverified. Experiment 40 supports a render-time date mechanism
-for the served arXiv PDF; experiment 39's name-only result stays fixed.
+Current boundary: [experiment 43](reports/000043_interpretation.md) tested all
+eight original quotations against the saved Physics World body. Only the known
+quote00 and expanded instrument name occur in full; none of the six remaining
+longer blocks does. Partial reuse, historical provenance and opaque FL meanings
+remain unresolved. Experiment 40's date-mechanism finding and experiment 39's
+name-only result stay fixed.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.
@@ -801,3 +802,17 @@ authentication. No other quotation or opaque passage was scored.
 and seals remain intact. Evidence stays local; public changes are committed and
 pushed at turn end. Next: register all eight unchanged quotation queries against
 the already saved publisher body, using quote00 as a known positive control.
+
+## Experiment 43: fixed whole-quotation inventory on the publisher body
+
+The [offline eight-query check](reports/000043_interpretation.md) is complete.
+There are 2/8 complete matches: known quote00 and the expanded instrument name.
+The seven-long-block count is 1/7, entirely the known control; the new open
+question returns 0/6 for the remaining longer blocks. No query, matcher, source
+body or historical result changed, and no network request was made.
+
+Known-positive, engineered body-copy and absent-marker controls pass. 340 local
+and 301 isolated-public-export tests pass; all 42 prior runs and seals remain
+intact. No opaque meanings, source identity, independent review or untouched
+test unit is admitted. Next: separately register an exact-fragment audit across
+all six unmatched longer blocks, preserving this whole-query result.

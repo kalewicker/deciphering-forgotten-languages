@@ -1,0 +1,16 @@
+{
+  "experiment_id": "publisher_quotes_v43",
+  "sealed_at_utc": "2026-10-18T09:42:28.236025+00:00",
+  "deliverable_hashes": {
+    "reports/000043_interpretation.md": "65a013dab32800e0c83307741bae1b5f6e666af77a7799526e17f15cfd111d98",
+    "reports/000043_verification.json": "4951dc07c606347748e6151daed456a83c8fd4bec159d0438ad9ee9c2ecb75ac",
+    "runs/000043_publisher_quotes/manifest.json": "7ce655b0c91b5ab5ad1bd400bf65edbcb0a7ace04f93756f6613eec23628cb39",
+    "runs/000043_publisher_quotes/report.json": "c61892dc859a3aecfbbbf477e149f74404b93bd0982aa3613b087a40d320cd2f",
+    "data/v43/assessment.json": "1009b9ec782be1d65efedc879014c7af16392b66b802b799c17b97e9f3d7d0bd",
+    "data/v43/frozen_queries.json": "cb3cf959db05be09d725b550bb1abd83b0704b92bc501f92b22e4f2938131fef",
+    "data/v43/frozen_comparison.json": "b28bae4bf2f8a8a9756e6af426fd456dcd57635e4a0b42980e552d7509942273",
+    "data/v43/setup_note.json": "ee2b14d8ca9eab21204dd4b9b0d7707d0a2f04ff594feeb62f31a36ffbabe974"
+  },
+  "independent_scientific_review": false,
+  "semantic_or_original_source_claim_validated": false
+}
