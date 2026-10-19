@@ -2,18 +2,19 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 47.** This public repository contains code,
+**Latest completed step: experiment 48.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 47](reports/000047_interpretation.md) compares the
-masked target with two already captured cited papers. The fixed publisher numeric
-LCS of six exceeds every 11-anchor window in both papers (maxima one and two).
-The registered descriptive comparison passes for these two exposed alternatives;
-neither paper separates from its own order controls. Meaning, ancestry and
-immediate source identity remain unresolved; no natural decipherment is validated.
+Current boundary: [experiment 48](reports/000048_interpretation.md) visually
+audits all 13 shared numeric occurrences in the two cited papers. Their digits
+agree with seven saved page images; seven occurrences are in reference lists,
+one in a table and five in prose, including an inline citation marker. This is
+glyph fidelity, not quantity or semantic correspondence. Experiment 47's fixed
+publisher score of six versus paper window maxima one and two remains unchanged.
+Meaning, ancestry and immediate source identity remain unresolved.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.
@@ -879,3 +880,18 @@ public-export tests pass. A separate full-table DP verifier reproduces 46,130
 window scores and all anchor/page spans; all 46 prior runs/seals remain intact.
 Next: audit all 13 shared numeric occurrences against seven saved PDF page images
 and record their context before changing numeric representation or rescoring.
+
+## Experiment 48: numeric glyph and context audit
+
+The [registered visual audit](reports/000048_interpretation.md) is complete.
+All 13 frozen numeric occurrences were mapped to the seven original saved page
+images; all literal digit sequences agree. Context counts are seven reference-
+list occurrences, one table cell and five prose occurrences (one an inline
+citation). No selected occurrence was omitted or substituted. This confirms
+the recorded glyphs for this fixed selection, not corresponding FL meanings.
+
+366 full-workspace and 327 isolated-public-export tests pass. A separate verifier
+reconstructs selection/context slices and checks image identities and accounting;
+it cannot independently verify visual judgments. All 47 prior runs/seals and
+scores remain intact. Next: separately register citation masks over full paper
+scopes and test sensitivity using the same literal rules, budget and controls.

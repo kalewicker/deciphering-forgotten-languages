@@ -1,0 +1,28 @@
+{
+  "experiment_id": "numeric_glyph_context_v48",
+  "sealed_at_utc": "2026-10-19T11:22:41.812978+00:00",
+  "deliverable_hashes": {
+    "experiments/numeric_glyph_context_v48.md": "c8a1b42be761dab392f2a26f840f23fb22c1db43efbeef791953279ea17ff5c6",
+    "experiments/numeric_glyph_context_v48.json": "2a3745217cf71a418700de3eaaa43e8151db781ae3917d9834333831aed63b94",
+    "src/fl_decipher/numeric_glyph_context_v48.py": "878babb694a2b3c259ec858891f6b5702ac7fe27070af4eab772039b3bbd079c",
+    "scripts/run_numeric_glyph_context_v48.py": "80878b918a405506d9e494f82985e423086ee1752732e2f1479d6d965db76f5c",
+    "scripts/verify_numeric_glyph_context_v48.py": "ed4dd82d1194e3da497a70c4aee8170d52ca24090d2b61eee7295deb206b5511",
+    "tests/test_numeric_glyph_context_v48.py": "e03b00d1d8058237f62cd0aa60307a245c6e0e18f2d99f81c9f2bae6d10a5200",
+    "reports/000048_interpretation.md": "35f019fff4ada338d0b0463551ccc92079be9ccc83d32062f21652077e49fde4",
+    "reports/000048_verification.json": "1f4eaca6992a2991b81c4d7be06234102d8d14872cdd31ab7f10df37c0bf9531",
+    "data/v48/preflight.json": "309aea139c980959a6142f7b05795e2c1a338ddda2fe602f67e0738a9e0fabe2",
+    "data/v48/review_ledger.json": "dc34c970db7f1ddba619ce652ddc0d3a3969df2211b246625e3414441b123e8b",
+    "data/v48/selection.json": "84ae9c67afa466c449f811ca94215fd9d882c146e2d2794caf0638b63e5a78c4",
+    "runs/000048_numeric_glyph_context/manifest.json": "7e6d64c73f6eb2a6dadbf01f069423d43893547b5a0f4949b8af1c3823298f1f",
+    "runs/000048_numeric_glyph_context/report.json": "d34fd0d5bf333b7689ddfcf40f35b96b1d5be666aee6eb47e0f1269c9131cd6a"
+  },
+  "validation": {
+    "full_workspace_tests_passed": 366,
+    "isolated_public_tests_passed": 327,
+    "archive_tests_excluded_publicly": 39,
+    "prior_runs_preserved": 47
+  },
+  "independent_scientific_review": false,
+  "visual_judgments_independently_verified": false,
+  "semantics_or_source_identity_validated": false
+}
