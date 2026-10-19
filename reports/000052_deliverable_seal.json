@@ -1,0 +1,36 @@
+{
+  "experiment_id": "cohort_scope_v52",
+  "sealed_at_utc": "2026-10-19T20:05:55.348424+00:00",
+  "deliverable_hashes": {
+    "experiments/cohort_scope_v52.md": "2e8774f41a5be04bc0e1c39ff6fb950cc6d84894cd999fe8d0c99ca9be50fb19",
+    "experiments/cohort_scope_v52.json": "26d7ff337b312d31411a04c3d79201eef9c09b8a29abab7af53e3ad5ddf8645d",
+    "src/fl_decipher/cohort_scope_v52.py": "31cdb03e18d50db6edfb256d93220c83b3523e27e6bd14064ba6f51a3878a5a9",
+    "scripts/run_cohort_scope_v52.py": "3f37efe65c1e429b29cb5bf5012b9a2edf3ed8b4aafc568ac96015a4daf72b2d",
+    "scripts/verify_cohort_scope_v52.py": "184a133ac68498e29af24f0f29f9d779b9c9c602af4451bc76a174746ec427e4",
+    "tests/test_cohort_scope_v52.py": "594b22bb6cc6d3e13e662f7565b78168d6b811cebf57ccfba71131b65438424b",
+    "reports/000052_interpretation.md": "2bea87bc0a1e83abe300697caeaf6c2dcfcd366acbce8824e5d86f07a275afac",
+    "reports/000052_verification.json": "405b8f4325f41ee52a13636ba8392a01e3df4327ac35041bcb2476a22952973f",
+    "data/v52/preflight.json": "472ad3735086fed713fcd5a9daa5546a495b94c47cf9cc14774ebb678e877d4d",
+    "data/v52/q00s00_scope.json": "de37e43ff2b495e210f1f3a4aca8d56893f0994c692b975bc06204e7c60a42c7",
+    "data/v52/q00s00_title_identity.json": "1fc3c3f8044ae722da70fc2f798790b1a344f14608eb8efac7dd2ff5f3b0787f",
+    "data/v52/q00s01_scope.json": "ed4786cb71dfa2fd6727382285b2afdeb3816dfb8b980d0802fad84ae637b97f",
+    "data/v52/q00s01_title_identity.json": "1cccf932addaa1c679dee40511a0bf36fab73a73852b5e6f9dbfcc757bda89bb",
+    "data/v52/q01s00_scope.json": "b669b0a9212fc668625dd311e3002e842d8768d51e154928dd235f2426c5d80e",
+    "data/v52/q01s00_title_identity.json": "994734eb94fef95cd135b8da36fe449ebaec1dea1a636500d9cb2f9491dec162",
+    "data/v52/q01s01_scope.json": "078297e984207ef4278f356f779e963e969037687aa6e231c4c23e0258a0f616",
+    "data/v52/q01s01_title_identity.json": "ff04bece95693d3f0c59f2fc3326242b05e3223a8ae5d9b0e9d75d48213b8b9d",
+    "data/v52/reference_v42_scope.json": "437276afa3f56342df1e65826445698b2cbfdbc73c031b32b88f9f9fd1219ee0",
+    "data/v52/reference_v42_title_identity.json": "064d17df91fdb6d706274bd9a872784989ea132040d00da211be03d89177b881",
+    "runs/000052_cohort_scope/manifest.json": "8ecc2cfba84e63aaf759d8b7036a91b536b61832e14aca01a1fc9f571e59e148",
+    "runs/000052_cohort_scope/report.json": "d9537b30610b4f2b13cd7410386a67d4b43aa575bea92bcb1e502b9d6928e8d0"
+  },
+  "validation": {
+    "full_workspace_tests_passed": 398,
+    "isolated_public_tests_passed": 359,
+    "archive_tests_excluded_publicly": 39,
+    "prior_runs_preserved": 51
+  },
+  "v50_intake_capacity_met_unchanged": false,
+  "independent_scientific_review": false,
+  "semantics_or_source_identity_validated": false
+}
