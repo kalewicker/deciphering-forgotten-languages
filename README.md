@@ -2,18 +2,18 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 46.** This public repository contains code,
+**Latest completed step: experiment 47.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 46](reports/000046_interpretation.md) finds a
-six-key ordered numeric scaffold after masking known English/title/bibliography.
-It exceeds all 34 fixed order controls, whose maximum is five. This is exposed
-structural consistency; same-topic alternative documents remain untested by
-those controls. Meaning, ancestry and immediate source identity remain unresolved;
-no natural decipherment claim is validated.
+Current boundary: [experiment 47](reports/000047_interpretation.md) compares the
+masked target with two already captured cited papers. The fixed publisher numeric
+LCS of six exceeds every 11-anchor window in both papers (maxima one and two).
+The registered descriptive comparison passes for these two exposed alternatives;
+neither paper separates from its own order controls. Meaning, ancestry and
+immediate source identity remain unresolved; no natural decipherment is validated.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.
@@ -862,3 +862,20 @@ runs/seals remain intact. Full-table DP independently reproduces all masks,
 anchors, permutations and lengths. No meanings, ancestry, independent review or
 untouched benchmark evidence is admitted. Next: preregister the two captured
 cited papers as same-topic comparators, with fixed representation/length rules.
+
+## Experiment 47: two captured cited-paper scaffold comparators
+
+The [registered specificity comparison](reports/000047_interpretation.md) is
+complete. With the same masked target and literal numeric keys, *Neutrino Radar*
+scores one over 156 numeric occurrences; the ANITA anomalous-events paper scores
+four over 1182. Every contiguous 11-numeric-anchor window was retained: 146 and
+1172 windows, with maxima one and two. The publisher's sealed score of six
+strictly exceeds both maxima. This is a descriptive result for two exposed
+alternatives, not immediate source identity or an estimated false-positive rate.
+
+All 68 paper controls receive the same exhaustive search; neither paper gains
+order separation (sparse/null and tied/false). 360 full-workspace and 321 isolated-
+public-export tests pass. A separate full-table DP verifier reproduces 46,130
+window scores and all anchor/page spans; all 46 prior runs/seals remain intact.
+Next: audit all 13 shared numeric occurrences against seven saved PDF page images
+and record their context before changing numeric representation or rescoring.

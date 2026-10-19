@@ -1,0 +1,30 @@
+{
+  "experiment_id": "scaffold_specificity_v47",
+  "sealed_at_utc": "2026-10-19T11:13:43.936526+00:00",
+  "deliverable_hashes": {
+    "experiments/scaffold_specificity_v47.md": "156fa85d7eb8d17c35d89b51a418e6cb52c22d5d65ac25a2601acc34014f8964",
+    "experiments/scaffold_specificity_v47.json": "3132d7abbc6a61c2b2914a65b13379a981f16181044900858a1b47b417cf6e7b",
+    "src/fl_decipher/scaffold_specificity_v47.py": "78c2e1b02930a328a71995ce236a187e325c9795abc7f04a3a52f79f7ed86977",
+    "scripts/run_scaffold_specificity_v47.py": "b1623ca80df55d2e83dd594c2bc590630cf0d05f4b8af05c0e2ee9f6c81f63bc",
+    "scripts/verify_scaffold_specificity_v47.py": "a0345c7b33e050082adcdf00a728f9c74023ec4792b72d29f35140a55c64a16c",
+    "tests/test_scaffold_specificity_v47.py": "4b22f678b636eb9ce0fba3c2c0bd6dab2ce805c316b46285e98e028e36719ba0",
+    "reports/000047_interpretation.md": "520c861122308c2ba3bed33d483a50a804573bd5ddeef821c4ab336a30e65749",
+    "reports/000047_verification.json": "7f9d9124f624b33aaf411629f2587188b32aa8c5b7348124ba75d08d6285080a",
+    "data/v47/anita_anomalous_assessment.json": "17f243b3596d2fe6fc812c135abc88192479ef3848da7c24c619d5e0c4c67a42",
+    "data/v47/anita_anomalous_inventory.json": "75b56c481ae8daaeafce4343149b9085a5c6fb1f851f4e1611e6767f94064d98",
+    "data/v47/neutrino_radar_assessment.json": "20f2b24e78a6fb5ab6c18ec03eaa659092dbb80795ab5f997dab70ff65c9129c",
+    "data/v47/neutrino_radar_inventory.json": "dcfc55b5b4f318995e5763bf1339d34883c31a2454decc67b349f2fedde05d21",
+    "data/v47/preflight.json": "7d9ed57dad60500231838fb34f8b602858608d9ee5e4891ae34cb49ea09f59ff",
+    "data/v47/reference.json": "5b6d36c71ee51d2a1a61330df2f0f95935487da60d5a8a5ddc43b4a42a96cc01",
+    "runs/000047_scaffold_specificity/manifest.json": "bed8095ae9c3584a884c2b7ea730da05b32939189676d647add0ad5f46cc258f",
+    "runs/000047_scaffold_specificity/report.json": "f54804b49e946b6cb776b47203b5675c1a6dff1239fa8447f012afe189fe1541"
+  },
+  "validation": {
+    "full_workspace_tests_passed": 360,
+    "isolated_public_tests_passed": 321,
+    "archive_tests_excluded_publicly": 39,
+    "prior_runs_preserved": 46
+  },
+  "independent_scientific_review": false,
+  "semantics_or_source_identity_validated": false
+}
