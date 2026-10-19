@@ -1,0 +1,15 @@
+{
+  "experiment_id": "exact_fragments_v44",
+  "sealed_at_utc": "2026-10-19T09:46:35.337114+00:00",
+  "deliverable_hashes": {
+    "reports/000044_interpretation.md": "537898bdb4ce65b7227f3bd34d9ad523876cfd41fbe5b32eff22a48479803865",
+    "reports/000044_verification.json": "7c1edbe34c1300c8ba2ad9fb5159831e6b15da96d92123c0c8d692526963f3d9",
+    "runs/000044_exact_fragments/manifest.json": "f6004da0dfbbb174ae1456f506c2d965efa92b9e0fceef0b0d40e1d4ca7f1f8e",
+    "runs/000044_exact_fragments/report.json": "2da97043a472a9bd1eb2d24daece5551245a6b30846478d39bc4cd8d1f168c69",
+    "data/v44/preflight.json": "616c492945989b74e31e7274240a3d3210025f489c877539eb3df31aa57fe700",
+    "data/v44/frozen_queries.json": "3b7e8276f74064286296389171ff5a145ddf158a27d57c6d285b0e62fa03b672",
+    "data/v44/assessment.json": "87c551ec31b3b56affb4482d6234a0a37ee5fab9144553d3f03716eb1530473c"
+  },
+  "independent_scientific_review": false,
+  "opaque_semantics_or_original_source_identity_validated": false
+}

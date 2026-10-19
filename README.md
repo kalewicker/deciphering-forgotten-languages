@@ -2,18 +2,18 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 43.** This public repository contains code,
+**Latest completed step: experiment 44.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 43](reports/000043_interpretation.md) tested all
-eight original quotations against the saved Physics World body. Only the known
-quote00 and expanded instrument name occur in full; none of the six remaining
-longer blocks does. Partial reuse, historical provenance and opaque FL meanings
-remain unresolved. Experiment 40's date-mechanism finding and experiment 39's
-name-only result stay fixed.
+Current boundary: [experiment 44](reports/000044_interpretation.md) found one
+22-token exact English fragment in quote02; the other five unmatched longer
+blocks stay below the fixed eight-token cutoff. Experiment 43's whole-block
+results remain unchanged. Copying direction, historical provenance and opaque
+FL meanings remain unresolved. Experiment 40's date-mechanism finding and
+experiment 39's name-only result stay fixed.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.
@@ -816,3 +816,18 @@ and 301 isolated-public-export tests pass; all 42 prior runs and seals remain
 intact. No opaque meanings, source identity, independent review or untouched
 test unit is admitted. Next: separately register an exact-fragment audit across
 all six unmatched longer blocks, preserving this whole-query result.
+
+## Experiment 44: exact partial English overlap
+
+The [six-block exact-fragment audit](reports/000044_interpretation.md) is complete.
+At the preregistered eight-token cutoff, quote02 has one 22-token run; the other
+five blocks have longest runs of two tokens and no qualifying run. Covered
+tokens total 22/375 under this rule, with overlaps counted once. All four controls
+pass. No gap, punctuation repair, fuzzy match or new acquisition was used.
+
+A separate suffix-DP verifier reproduces all runs, offsets and coverage. 345
+full-workspace and 306 isolated-public-export tests pass; all 43 old runs and
+seals remain intact. This is English fragment correspondence, not opaque FL
+translation, copying direction or untouched benchmark evidence. Next: a frozen
+quote02 context dossier separating the shared span from nonmatching context
+and reported attribution before considering opaque-passage alignment.
