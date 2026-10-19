@@ -2,18 +2,18 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 49.** This public repository contains code,
+**Latest completed step: experiment 50.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 49](reports/000049_interpretation.md) masks complete
-reference tails and syntactic numeric citations in the two captured papers.
-The fixed publisher numeric score of six exceeds both masked-paper window maxima
-of one. Eight of the 13 previously audited occurrences are removed; historical
-scores remain intact. The masked ANITA paper loses to four filtered order controls.
-The comparison is limited to two exposed papers; meaning, ancestry and immediate
+Current boundary: [experiment 50](reports/000050_interpretation.md) completes a
+bounded same-publisher intake with two searches and four native captures. Only
+one candidate passes the frozen scope/date/title checks; the four-ready capacity
+target is unmet. Two candidates are too recent and one has no h1 heading. No new
+scaffold scores were run; experiment 49's publisher score of six versus masked-
+paper window maxima one and one is preserved. Meaning, ancestry and immediate
 source identity remain unresolved.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
@@ -912,3 +912,18 @@ filtered controls; all 48 previous runs/seals remain intact. The first paper's
 secondary order criterion stays sparse/null; the ANITA paper's stays false, with
 four controls exceeding its observation. Next: a bounded, preregistered intake
 of additional same-topic publisher articles before any broader scoring.
+
+## Experiment 50: bounded publisher-article intake
+
+The [registered intake](reports/000050_interpretation.md) is complete. Two fixed
+searches returned 31 attributable result blocks and filled four native nomination
+slots. All four captures completed HTTP200, but only the 2014 Askaryan Radio
+Array article passes the frozen checks. Two publication dates exceed the cutoff;
+the 2017 under-water article has no h1. All failed slots remain, with no rule
+change or replacements. The four-ready planning capacity is false.
+
+382 full-workspace and 343 isolated-public-export tests pass. A separate verifier
+reconstructs selection, exposure, request accounting and critical native scopes;
+all 49 prior runs/seals remain intact. No scaffold, lexical or semantic scores
+were added. Next: an offline identity/heading-layout audit of the h1-less capture
+under a fresh registration; preserve its old failure and the one ready candidate.
