@@ -1,0 +1,33 @@
+{
+  "experiment_id": "citation_sensitivity_v49",
+  "sealed_at_utc": "2026-10-19T19:20:58.523294+00:00",
+  "deliverable_hashes": {
+    "experiments/citation_sensitivity_v49.md": "49ce0ff4ce269ad64d3a86b935058a75e42e146c9ea70850a68f4fe5fd53f6ad",
+    "experiments/citation_sensitivity_v49.json": "84bd7900a4afa95926d3a81356e68a8363aba3573faec2ac44ab8c61900d7c45",
+    "src/fl_decipher/citation_sensitivity_v49.py": "bbf344d2aa3331f8bae18e5ac5f54cbd58498136652ec83f30ed1265c9ed194f",
+    "scripts/run_citation_sensitivity_v49.py": "f2cd592b52a2c9fdda217a9de66fd6444abe8e716a1e6660d3e5959edff5c602",
+    "scripts/verify_citation_sensitivity_v49.py": "f2d091985eab5c693142a23bb32db99c4b93c530b86b7eae7494fbc3b5bb9907",
+    "tests/test_citation_sensitivity_v49.py": "d962e1756c6398b9a14f8c5600f3f6f8c316b229143ef5767080fe9a9a7a97c8",
+    "reports/000049_interpretation.md": "f5dd7fe272aae526c9ee56a318a52b6e655788c87dd4a70b7cde368e92c19bb2",
+    "reports/000049_verification.json": "ccb64f2ae681108328a1a85fc03c5ccb39ea197105a025248b9ac92be9c9455c",
+    "data/v49/anita_anomalous_assessment.json": "a341ffd3c50d7e567d4d2add390fb1caadf902c0c08239fa435e6dd6e525b375",
+    "data/v49/anita_anomalous_inventory.json": "201fd9f9b4319b023ab5eb304d55baa37c31c0d6ada19be221fb210dc7d15bfe",
+    "data/v49/anita_anomalous_scope.json": "907ae74c07432a04db565d9f1c54aeebbd39d81b78cafe2393e908d86cca4bc6",
+    "data/v49/audited_occurrence_retention.json": "d54680df2f326c3da03f1c427c32be1b24f5c99d88dd0b597ee36fb86b9b094b",
+    "data/v49/neutrino_radar_assessment.json": "4d4adbe0f9454d235ad638c9c0b8f0a1448852e2b02db9a4bb3d2ff7d2d60b47",
+    "data/v49/neutrino_radar_inventory.json": "8ddc88fa4beeaa7798f1da869c9d4d9914ca352bec1210012695aa7aabd952cb",
+    "data/v49/neutrino_radar_scope.json": "51c2fbd8ee45fb422995161cfcaf67f945d80b7c6227f9e8660e55f07de68ab8",
+    "data/v49/preflight.json": "ce8a4ad3723c9bf7fc4efd181a4ba7475258816cc7734949a35bee0623c7a0a0",
+    "data/v49/reference.json": "fc967888d0d8b121798f3485394fdc394c16270732221b847707a76055ffee72",
+    "runs/000049_citation_sensitivity/manifest.json": "c711e6126a62b48f45f188f46fd54e8976a453a37ee5c814e9339cd1f555e536",
+    "runs/000049_citation_sensitivity/report.json": "f177967f0c8c609b681835f0b5a71538c08dd525e4e4b4ae8197b1cdf2ad38d0"
+  },
+  "validation": {
+    "full_workspace_tests_passed": 373,
+    "isolated_public_tests_passed": 334,
+    "archive_tests_excluded_publicly": 39,
+    "prior_runs_preserved": 48
+  },
+  "independent_scientific_review": false,
+  "semantics_or_source_identity_validated": false
+}

@@ -2,19 +2,19 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 48.** This public repository contains code,
+**Latest completed step: experiment 49.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 48](reports/000048_interpretation.md) visually
-audits all 13 shared numeric occurrences in the two cited papers. Their digits
-agree with seven saved page images; seven occurrences are in reference lists,
-one in a table and five in prose, including an inline citation marker. This is
-glyph fidelity, not quantity or semantic correspondence. Experiment 47's fixed
-publisher score of six versus paper window maxima one and two remains unchanged.
-Meaning, ancestry and immediate source identity remain unresolved.
+Current boundary: [experiment 49](reports/000049_interpretation.md) masks complete
+reference tails and syntactic numeric citations in the two captured papers.
+The fixed publisher numeric score of six exceeds both masked-paper window maxima
+of one. Eight of the 13 previously audited occurrences are removed; historical
+scores remain intact. The masked ANITA paper loses to four filtered order controls.
+The comparison is limited to two exposed papers; meaning, ancestry and immediate
+source identity remain unresolved.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.
@@ -895,3 +895,20 @@ reconstructs selection/context slices and checks image identities and accounting
 it cannot independently verify visual judgments. All 47 prior runs/seals and
 scores remain intact. Next: separately register citation masks over full paper
 scopes and test sensitivity using the same literal rules, budget and controls.
+
+## Experiment 49: citation-masking sensitivity
+
+The [registered sensitivity comparison](reports/000049_interpretation.md) is
+complete. Full reference tails and all matching pre-reference numeric brackets
+were masked using fixed original-coordinate rules. Numeric counts fall from
+156 to 47 and 1182 to 717; whole-paper LCS scores become one and two. Exhaustive
+11-anchor window maxima are one in each paper, below the publisher's fixed six.
+Eight of 13 audited occurrences are removed, without selecting masks by target
+keys. All original control draws were filtered, with zero new random draws.
+
+373 full-workspace and 334 isolated-public-export tests pass. A character-grammar
+mask reconstruction and full-table DP verify all 26,040 window scores and 68
+filtered controls; all 48 previous runs/seals remain intact. The first paper's
+secondary order criterion stays sparse/null; the ANITA paper's stays false, with
+four controls exceeding its observation. Next: a bounded, preregistered intake
+of additional same-topic publisher articles before any broader scoring.
