@@ -1,0 +1,16 @@
+{
+  "experiment_id": "context_dossier_v45",
+  "sealed_at_utc": "2026-10-19T10:25:37.666860+00:00",
+  "deliverable_hashes": {
+    "reports/000045_interpretation.md": "3c0f3c449cd8f9d7b5d3c07cac07d3c4742b48a5a33562a0cd1e2e44416cd511",
+    "reports/000045_verification.json": "856da3c53a89af55c911cb4e0cc32484e250eda802130ced2ed6bb9b16c59b8c",
+    "runs/000045_context_dossier/manifest.json": "580cd9a321858a2c869aebbd1187cc98e1671220cea188b65e05a7c7d2286ef1",
+    "runs/000045_context_dossier/report.json": "f466116a5a09939a54d18b53f384bf6654f6db3d149c1369226037a2e15f6445",
+    "data/v45/fixed_selection.json": "f135b4dea4b55bef3cefe0f97377523a91ca3032d1d99ed39af1496c43604c88",
+    "data/v45/dossier.json": "aecf2c334684d6f2ab8daea7f21716b229d90ddda20dac295d528247fab70745",
+    "data/v45/dossier.md": "cc9c4f36aa8b6301ea21791392d3b7bdf5ba73d91d380dfbc43144fe4b0ad2be",
+    "data/v45/context_review.json": "939543aad22183a49cead5e15b64ed9d3e4538e52100383e4c4a6b9fa90bb4a5"
+  },
+  "independent_scientific_review": false,
+  "opaque_semantics_or_original_attribution_authenticated": false
+}

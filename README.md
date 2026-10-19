@@ -2,18 +2,18 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 44.** This public repository contains code,
+**Latest completed step: experiment 45.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 44](reports/000044_interpretation.md) found one
-22-token exact English fragment in quote02; the other five unmatched longer
-blocks stay below the fixed eight-token cutoff. Experiment 43's whole-block
-results remain unchanged. Copying direction, historical provenance and opaque
-FL meanings remain unresolved. Experiment 40's date-mechanism finding and
-experiment 39's name-only result stay fixed.
+Current boundary: [experiment 45](reports/000045_interpretation.md) places
+quote02's fixed 22-token witness in the paragraph reporting Alan Watson's
+comments. The target uses first-person framing and beacon wording absent from
+the saved publisher body. This context dossier preserves the previous whole-
+quotation and fragment results. Copying direction, historical provenance and
+opaque FL meanings remain unresolved; no natural decipherment claim is validated.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.
@@ -831,3 +831,18 @@ seals remain intact. This is English fragment correspondence, not opaque FL
 translation, copying direction or untouched benchmark evidence. Next: a frozen
 quote02 context dossier separating the shared span from nonmatching context
 and reported attribution before considering opaque-passage alignment.
+
+## Experiment 45: a fixed quote02 context dossier
+
+The [context dossier and interpretation](reports/000045_interpretation.md) are
+complete. The shared run is inside publisher paragraph 16, which reports Alan
+Watson's comments. The complete target prefix/suffix and beacon phrase are absent
+as literal strings from the saved publisher body. Eleven registered checks and
+exact target/source partitions are retained, with local verbatim context and
+reported attribution separated from authentication. No new overlap search or
+network acquisition occurred.
+
+349 full-workspace and 310 isolated-public-export tests pass; all 44 prior runs
+and seals remain intact. Earlier results and all semantic/source-identity limits
+remain unchanged. Next: a separately registered opaque-only nonlexical scaffold
+audit, masking English quotations/bibliography and fixing controls before scoring.
