@@ -1,0 +1,16 @@
+{
+  "experiment_id": "scaffold_v46",
+  "sealed_at_utc": "2026-10-19T10:47:28.921483+00:00",
+  "deliverable_hashes": {
+    "reports/000046_interpretation.md": "a150b873e3b49219ba0d409313f5670114f2ff4e37ce011e979e4c85639e1ca8",
+    "reports/000046_verification.json": "a1d1c5ca3c31df29710a9f4e6330fb9f8b08edaa29124ae1c6d19fa0acffcac6",
+    "runs/000046_scaffold/manifest.json": "c42b8d0a0c10ceb01e46ede56ce3009af4b8406c9a7276a240f490d9e0bd791e",
+    "runs/000046_scaffold/report.json": "88af1d9be9e944473408e412c0076dd0860720218b72534ce0c3fa8ba211c455",
+    "data/v46/preflight.json": "2db7b089ce58fbd8a0db1de21e3eb6c4b62c2d19d5808621c4bbc6d5a8a40c07",
+    "data/v46/scope.json": "f6fe5ce0340021274e03d8f8958e0db778a57bdc1dc0594242871b263ae4eb70",
+    "data/v46/inventory.json": "7641c78a8aef27c381e9677f64e68dae37a4c160bcb1e5005263763427cce6c4",
+    "data/v46/assessment.json": "1ebc22ad63f9372d6a08974598b1ae555a9f280765982170b36f17270aa00a65"
+  },
+  "independent_scientific_review": false,
+  "semantics_or_source_identity_validated": false
+}
