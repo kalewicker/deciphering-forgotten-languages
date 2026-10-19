@@ -2,19 +2,18 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 50.** This public repository contains code,
+**Latest completed step: experiment 51.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 50](reports/000050_interpretation.md) completes a
-bounded same-publisher intake with two searches and four native captures. Only
-one candidate passes the frozen scope/date/title checks; the four-ready capacity
-target is unmet. Two candidates are too recent and one has no h1 heading. No new
-scaffold scores were run; experiment 49's publisher score of six versus masked-
-paper window maxima one and one is preserved. Meaning, ancestry and immediate
-source identity remain unresolved.
+Current boundary: [experiment 51](reports/000051_interpretation.md) audits the
+missing-h1 capture offline. Its title is present in h2 and three metadata families,
+but canonical and og:url paths disagree. The old direct-p scope excludes 29 of
+68 static text leaves, including nested prose. No readiness is promoted: the
+experiment 50 intake stays 1/4 ready, and all old scores remain fixed. Meaning,
+ancestry and immediate source identity remain unresolved.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.
@@ -927,3 +926,17 @@ reconstructs selection, exposure, request accounting and critical native scopes;
 all 49 prior runs/seals remain intact. No scaffold, lexical or semantic scores
 were added. Next: an offline identity/heading-layout audit of the h1-less capture
 under a fresh registration; preserve its old failure and the one ready candidate.
+
+## Experiment 51: offline title and static-scope audit
+
+The [registered audit](reports/000051_interpretation.md) is complete. The title
+appears in h2, HTML title, og:title and Article headline, with no h1. The canonical
+URL matches the nominee, but og:url lacks /a/, so the stricter registered metadata
+agreement flag is false. All 68 static entry-content text leaves are accounted
+for: 39 inside direct paragraphs, 29 outside, including captions, headings, a
+form and nested prose. Static markup is not browser visibility or semantic scope.
+
+390 full-workspace and 351 isolated-public-export tests pass; all 50 prior runs/
+seals remain intact. No new candidate admission, acquisition or scaffold scoring
+occurred. The old h1 failure and 1/4 intake result remain. Next: preregister a
+uniform scope audit across all five saved publisher pages before further scoring.

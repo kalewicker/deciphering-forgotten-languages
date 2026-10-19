@@ -1,0 +1,27 @@
+{
+  "experiment_id": "heading_scope_v51",
+  "sealed_at_utc": "2026-10-19T19:56:30.152621+00:00",
+  "deliverable_hashes": {
+    "experiments/heading_scope_v51.md": "497c4b2de0637fe295035bdb1302e74be76e1b21e971e9263ab7ad5a639d8f2e",
+    "experiments/heading_scope_v51.json": "6bf08dff60a58894099cf6e9f2e60d8b15b795cc1d72b6db5560e0fe06c05f07",
+    "src/fl_decipher/heading_scope_v51.py": "cdf723604aebc32daf6145965b3bbf0311664b314589e7e2d928aa08becaa640",
+    "scripts/run_heading_scope_v51.py": "a9bcbdf6799accda4719484e6ce77bf55342ced583507d7b2c26be3ae59bf1c5",
+    "scripts/verify_heading_scope_v51.py": "a915536842dd6ea7a1d631a6126c371003a4e91dd59d3aa58eaec2066cf9e75f",
+    "tests/test_heading_scope_v51.py": "fa954bc8a4417f74ce17dc36c6101bcdc059080ad2bfa28a47d029411a19c362",
+    "reports/000051_interpretation.md": "b693966a3320d482fce228754c6b18e3b0ff4a427981ad8587fb3e3f4ae0661d",
+    "reports/000051_verification.json": "a0501b29f9449eab94ec9e3dd35d57322a620f967727063132beaea43e52b715",
+    "data/v51/audit.json": "ff04bece95693d3f0c59f2fc3326242b05e3223a8ae5d9b0e9d75d48213b8b9d",
+    "data/v51/preflight.json": "0e871df3ad16bb428c66c5b9f4191a68e0733071c4ed3be7d82b2681e7b5601e",
+    "runs/000051_heading_scope/manifest.json": "199af3e5342e42dc26f5c1e5a0b4e96821373f75cf5a8d53bd9b976cd97e5b59",
+    "runs/000051_heading_scope/report.json": "81b1c9b618e676df8308f143b6a22afcdbd30cbc3c0bfe3cecce44fcd87a26dc"
+  },
+  "validation": {
+    "full_workspace_tests_passed": 390,
+    "isolated_public_tests_passed": 351,
+    "archive_tests_excluded_publicly": 39,
+    "prior_runs_preserved": 50
+  },
+  "v50_intake_capacity_met_unchanged": false,
+  "independent_scientific_review": false,
+  "semantics_or_source_identity_validated": false
+}
