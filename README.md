@@ -21,6 +21,10 @@ Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.
 
+The [2026-10-20 progress review](reports/progress_review_2026-10-20.md) recommends
+a comparator capacity check and a fixed stopping budget for the current discovery
+branch. These are proposed future criteria; sealed protocols remain unchanged.
+
 The first experiment has run on **five short Kamri excerpts**, covering 30 reviewed sentence correspondences across five nominated source works. Four source groups train a positional lexical baseline; *The Dark Side of Light* is held out. This is an exploratory engineering result, not a validated decipherment.
 
 ## First result
