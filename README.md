@@ -2,22 +2,23 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 62.** This public repository contains code,
+**Latest completed step: experiment 63.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 62](reports/000062_interpretation.md) closes the
-native-search comparator route as feasibility-limited. The final two-slot batch
-has one nominee, whose reported publication date is 2020-01-28, outside the fixed
-cutoff, and one empty slot. No numeric capacity screen or new comparison is
-reached; the reference specificity gate among capable candidates remains null.
-No replacement query or expanded batch follows this route. Further programme
-work requires a separately justified independent-review route or fresh connected
-source-group evidence. E56's 6 versus 0, 1, 1 and 0, E57's context limits and all
-old failures remain unchanged. No new meanings, source identities, independent
-reviews or untouched tests are admitted.
+Current boundary: [experiment 63](reports/000063_interpretation.md) saves a
+209,306-byte archived snapshot for a different previously nominated post,
+Quantum Semantic Fields and Universals. Exact archive URL, digest, timestamp,
+title and body checks pass, but absent canonical/og metadata fails the registered
+admission gate. Citation/source stages remain skipped. Raw bytes are preserved;
+no material admission, new source group or meaning follows. Next is an offline
+provenance/admission decision on this saved snapshot, preserving E63's failure.
+E62's ANITA/native-publisher comparator route remains closed as feasibility-limited.
+No replacement query or expanded comparator batch follows it. Old numeric results
+and failures stay fixed; independent review and untouched benchmark capacity
+remain unavailable/unmet.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.
