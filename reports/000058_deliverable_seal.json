@@ -1,0 +1,42 @@
+{
+  "experiment_id": "hard_comparator_v58",
+  "sealed_at_utc": "2026-10-20T04:22:40.240200+00:00",
+  "deliverable_hashes": {
+    "experiments/hard_comparator_v58.md": "cf89a4fe40b9229302ac960f6a37cccfebd31502f27f0df0de75e5e2e6f50dd8",
+    "experiments/hard_comparator_v58.json": "6b6ad6dbbba009a3d3dddcc525c47e85972136e1138c1ac5e1f3cb0a5e691a5f",
+    "src/fl_decipher/hard_comparator_v58.py": "23fb524774dac50c97f8fbe94a55eb2b6d0efb3b12844e4b30f073dee29cb388",
+    "scripts/hard_comparator_v58.py": "4322466f56ee6444d2779649aa58c1dde82db1322910298b19cb35812674b530",
+    "scripts/verify_hard_comparator_v58.py": "203acda9b3e841de023b5133f49cdaa0caac609680e97ab1881bf0d9f49d1fd5",
+    "tests/test_hard_comparator_v58.py": "aaf5cd9db4a278be72a58a46496ea0f33317a79f9d72e7377aac56450ebb4b0f",
+    "reports/000058_interpretation.md": "257dc96026803eeb427a1e1f1bb45e7579f2a926f7fe9db9fee9eaae7b2b8712",
+    "reports/000058_verification.json": "f66a5174b5a5502e46474a2a0bc8cdc9ec3de8af06a1a57a0c3b7b8ad3f528c0",
+    "data/v58_registration/prior_urls.json": "408ece7997ad170075c870cdfec72a038bf21327fa4297f3690bde9192b8a1f4",
+    "data/v58/capture_preflight.json": "360641c4ac1e0e603b75dd02ee4870ff865e7f97fd117465836d70eae68459b5",
+    "data/v58/discovery/query00_intent.json": "6d1865aae179c4dbd25237e03db51e8e10794876cfbc7d747e784dd10916d9ae",
+    "data/v58/discovery/query00_response.json": "9e6cbfe8dd8157636973b46df51e5756ff0e332d883fdf4669176e934445aa9e",
+    "data/v58/discovery/query01_intent.json": "17223f239961e4b2990866db6c7850d28fe71582976498d674a66ac435377005",
+    "data/v58/discovery/query01_response.json": "e9a4bf90b2326653738efa2cf84cbcf820b04a3057e34241529381fafcb7e602",
+    "data/v58/preflight.json": "8c49bff870cff3f041e43129be6f2d32d789c5b324c2e695ca12c2e1c316d38c",
+    "data/v58/selection.json": "0b09ae58ee7ba7088e1aee0b18693289bb9ed42459f6772bcc887f457c630244",
+    "runs/000058_hard_comparator/manifest.json": "fa16b83b25eca869006880d720a5d9268e0b03efd435d7ebd83129282a5ea861",
+    "runs/000058_hard_comparator/report.json": "da0b52b38b35b1cab5c57cc87197d6b95f5fe9e8f3b57cf5940a84547eff020f"
+  },
+  "validation": {
+    "full_workspace_tests_passed": 439,
+    "isolated_public_tests_passed": 400,
+    "archive_tests_excluded_publicly": 39,
+    "prior_runs_preserved": 57
+  },
+  "search_tool_calls": 2,
+  "attributable_result_blocks": 25,
+  "nomination_slots": 2,
+  "occupied_slots": 0,
+  "empty_slots": 2,
+  "qualifying_harder_comparators": 0,
+  "registered_feasibility_gate": false,
+  "new_candidate_numeric_threshold_evaluated": false,
+  "native_routes_attempted": 0,
+  "alias_routes_attempted": 0,
+  "independent_scientific_review": false,
+  "semantics_or_source_identity_validated": false
+}
