@@ -2,20 +2,21 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 56.** This public repository contains code,
+**Latest completed step: experiment 57.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 56](reports/000056_interpretation.md) compares the
-reference numeric scaffold with four frozen development candidates. The reference
-scores 6 against capped-window comparator maxima of 0, 1, 1 and 0; whole-page
-scores agree. All 170 controls and 2485 window scores are verified. Comparators
-share at most one numeric key, so this is a sparse-overlap panel rather than a
-close test of order specificity. The reference exactly reproduces E46. Original
-intake and synthetic failures stay fixed; no independent-source/untouched-test
-admission follows. Meaning, ancestry and source identity remain unresolved.
+Current boundary: [experiment 57](reports/000057_interpretation.md) audits all
+13 occurrences of six shared numeric key types: seven target and six reference.
+The target's repeated 180 has distinct degree/range contexts; symbol differences
+and the source-area rubric omission are preserved. All target meanings and
+quantity correspondences remain unresolved, with no visual glyph check or new
+score. E56 stays 6 versus 0, 1, 1 and 0 on a sparse-overlap development panel.
+Original intake and synthetic failures stay fixed; no independent-source or
+untouched-test admission follows. Meaning, ancestry and source identity remain
+unresolved.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.

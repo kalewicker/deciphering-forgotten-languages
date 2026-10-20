@@ -1,0 +1,38 @@
+{
+  "experiment_id": "numeric_context_v57",
+  "sealed_at_utc": "2026-10-20T04:07:57.660153+00:00",
+  "deliverable_hashes": {
+    "experiments/numeric_context_v57.md": "7c74f73e8de361064ce064fbc061a5e1153bf88ca4beeb11e64e2d5207220ef7",
+    "experiments/numeric_context_v57.json": "c0929d2f10ad370c2117aa2901bc10dbb7d22ecf0b68c28ddebc99002ed294b7",
+    "src/fl_decipher/numeric_context_v57.py": "c7a1be65e3ed1f97797f6d0cb0721bd458be5fc209891cb93933d8509fd0648f",
+    "scripts/numeric_context_v57.py": "8360702d914533eb0308fb1fdc631f4ec72ab12d6efe2545ab04cbbc906b57d5",
+    "scripts/verify_numeric_context_v57.py": "c62fb0e85b13728384b965115cbc5b1760263335afd5f2f4479fb816b862c801",
+    "tests/test_numeric_context_v57.py": "657b324c65f78c517599cb038f88d97863e73f92592d1f810e654eec4646042e",
+    "reports/000057_interpretation.md": "64de1006bf728975244bd55b6c868cc9e4b6c4732a49b5ed87e57b8affc471dd",
+    "reports/000057_verification.json": "57d6b2425c4720fd265f800826313619a931d14becadca9b618a0b4a2d0b7ae3",
+    "data/v57/preflight.json": "071d0be1bec4fa573cf6e9c7ad3b9baf4ea0fe84fb7234cc47158d6557872f2a",
+    "data/v57/review_ledger.json": "69b6fb3d47f7c20e58f5a9f2e3df21b46cfed16310d782f47e13a0d7b362985c",
+    "data/v57/selection.json": "7fae7a234752a5e07f4ecad50f35c950273d21e93deef7a7679509c9e7c2bbf1",
+    "runs/000057_numeric_context/manifest.json": "cf5679b24d51c1a70ae0865672f8bc270a04ac9d1d8797f4ce8f64ae76351ac2",
+    "runs/000057_numeric_context/report.json": "9e38e10d8077dc764c232a20a5307b54f7830226b8d2e118f031cecb64893b8d"
+  },
+  "validation": {
+    "full_workspace_tests_passed": 433,
+    "isolated_public_tests_passed": 394,
+    "archive_tests_excluded_publicly": 39,
+    "prior_runs_preserved": 56,
+    "occurrences_verified": 13
+  },
+  "shared_numeric_key_types": 6,
+  "target_retained_occurrences": 7,
+  "source_retained_occurrences": 6,
+  "supplementary_occurrences": 0,
+  "review_coverage_complete": true,
+  "glyphs_visually_verified": false,
+  "context_judgments_independently_verified": false,
+  "quantity_correspondence_gate": null,
+  "source_target_pairs_selected": 0,
+  "network_requests": 0,
+  "independent_scientific_review": false,
+  "semantics_or_source_identity_validated": false
+}
