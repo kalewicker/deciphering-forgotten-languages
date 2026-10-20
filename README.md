@@ -2,21 +2,22 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 58.** This public repository contains code,
+**Latest completed step: experiment 59.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 58](reports/000058_interpretation.md) attempts a
-fixed two-search intake for numerically closer comparators. All 25 attributable
-results fail URL/topic nomination; both slots stay empty, with no new page
-requests or numeric inventories. The three-type overlap requirement was not
-tested on a new candidate, so this is a discovery-stage failure rather than
-evidence that closer comparators do not exist. E56 stays 6 versus 0, 1, 1 and 0;
-E57's context limits and all earlier failures remain fixed. No independent-source
-or untouched-test admission follows. Meaning, ancestry and source identity remain
-unresolved.
+Current boundary: [experiment 59](reports/000059_interpretation.md) finds an
+explicit native search route in all 11 frozen publisher captures (seven article
+URLs). Search forms and structured metadata agree on the root `?s=` route;
+44 API declarations are retained without inventing a search endpoint. No live
+request was made, and search-result parsing remains untested. The initial
+receipt-schema assertion failure and separately registered correction are
+preserved. Next is one bounded search-layout probe, with no nominations or
+article requests. E58's empty slots and unevaluated three-type threshold,
+E56's 6 versus 0, 1, 1 and 0, and E57's context limits remain unchanged. No new
+meanings, source identities, independent reviews or untouched tests are admitted.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.
