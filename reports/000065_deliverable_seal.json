@@ -1,0 +1,37 @@
+{
+  "experiment_id": "textual_references_v65",
+  "sealed_at_utc": "2026-10-20T19:28:03.629776+00:00",
+  "deliverable_hashes": {
+    "experiments/textual_references_v65.md": "223f6336cd70741535bcf20d5d2ba5aaa7e1dc0da010662129deb439dd39acc7",
+    "experiments/textual_references_v65.json": "d36270aa614b1ab6024b61414ea65b18f32d7510e3b05d4a50fecbb83ade7513",
+    "src/fl_decipher/textual_references_v65.py": "130183c3a91ea82e92cc68c69f78e96440d34e37e60425dd05b987e7d655e4b9",
+    "scripts/textual_references_v65.py": "0635376924dd7207efe8ea13a5a56603b8a36cd71f5999a1717105af2af33f54",
+    "scripts/verify_textual_references_v65.py": "603e1b485d050060c007e469b804a58d0b1a0ee4be2ac22698134286f84e1025",
+    "tests/test_textual_references_v65.py": "d5e3500ac6dd05ecad0889e499dbef04118fc2467c7d021f6dffbd38374f75ed",
+    "reports/000065_interpretation.md": "67c78051f32cdf407e8598a7088b8a76fc5db39034519b47c17c47f8ab11565d",
+    "reports/000065_verification.json": "afabeb7406468f5c49c604c5cb69d8a54e469a17ef11a9e97db79c36e65afe2c",
+    "data/v65/preflight.json": "1e38be7df213c5faed8904592f12c6ba9e7a5ade244bf00347a8917830a3cd55",
+    "data/v65/reference_inventory.json": "cad1da07a6e48e003d1528f9eff108a96b36b5400c85ec84ebb11894ff268569",
+    "runs/000065_textual_references/report.json": "1cc8b389fb2b958fa4248f9bc17e79cc9993189fe9dee0db553bf8c810466d7f",
+    "runs/000065_textual_references/manifest.json": "8a4464e7130376fff6a0b4c19cf46337e6e694a455da8cf1a82ce8651204903e"
+  },
+  "validation": {
+    "full_workspace_tests_passed": 492,
+    "isolated_public_tests_passed": 453,
+    "archive_tests_excluded_publicly": 39,
+    "prior_runs_preserved": 64
+  },
+  "research_network_requests": 0,
+  "reference_rows": 29,
+  "reference_rows_with_recognized_identifier": 1,
+  "reference_rows_without_recognized_identifier": 28,
+  "recognized_identifiers": [
+    "arxiv:0812.0349"
+  ],
+  "source_candidates_selected": 0,
+  "source_requests": 0,
+  "independent_scientific_review": false,
+  "semantics_or_source_identity_validated": false,
+  "historical_e63_gate_value": false,
+  "historical_e63_outcome_preserved": true
+}
