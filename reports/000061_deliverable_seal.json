@@ -1,0 +1,40 @@
+{
+  "experiment_id": "result_attribution_v61",
+  "sealed_at_utc": "2026-10-20T08:40:58.934503+00:00",
+  "deliverable_hashes": {
+    "data/v61/attribution.json": "00454782311d20f21cb89a41d3e551268f3c494ec7c776f41182a52ca9803ea5",
+    "data/v61/preflight.json": "78b41d1ec03f0410859745377e5010a79003d86845c4ad44f091d767b1bf6a1e",
+    "experiments/result_attribution_v61.json": "726d1ac61256579f03a4cd102a8665dde913f1e0b45965e5409e93c4e904caaf",
+    "experiments/result_attribution_v61.md": "6cfd8812c2731881c6600ee3bc14d18382233d4423e198d1d272090f321e9b61",
+    "reports/000061_interpretation.md": "1371d7a831ba9f56546d54c31fc91d226a007b99b554412f6f3f67759f3000ec",
+    "reports/000061_verification.json": "79e9ff388a51f55d1de123e62f9ef716aa5ad098df14ddfc08e30eea761def28",
+    "runs/000061_result_attribution/manifest.json": "9ef1b04fe23d35c5d227b66ae615294f75fa327e1ad1c6b6190fc616e647db4e",
+    "runs/000061_result_attribution/report.json": "de528438ff14bf1d51da30406c06b7cfa5592b95fc7509d5b74c272443c656f1",
+    "scripts/result_attribution_v61.py": "3b61d36ca58199b74f6918a86e9ba4f2c9c3e47e766dc80eb12511058d8d4baa",
+    "scripts/verify_result_attribution_v61.py": "14007a1d3da2ab2ce2ba4d7672c56b18586e49362e809afbc8eba8a811e47f52",
+    "src/fl_decipher/result_attribution_v61.py": "c50bc86e072dd7783608e07693429c0ae6aff892e3716fd52d7f290d45ee65e9",
+    "tests/test_result_attribution_v61.py": "556004ce30a8c0353b28ed6c0c6e2697a0166eaca9d4f8575c3bb099a543123f"
+  },
+  "validation": {
+    "full_workspace_tests_passed": 462,
+    "isolated_public_tests_passed": 423,
+    "archive_tests_excluded_publicly": 39,
+    "prior_runs_preserved": 60
+  },
+  "research_network_requests": 0,
+  "listing_card_denominator": 10,
+  "structurally_attributed_cards": 10,
+  "strict_url_usable_cards": 9,
+  "strict_url_rejected_attributed_cards": 1,
+  "cards_without_date_markers": 10,
+  "anchor_occurrences_accounted": 115,
+  "nominations": 0,
+  "article_eligibility_assessments": 0,
+  "new_article_captures": 0,
+  "future_candidate_slots": 2,
+  "future_minimum_window_bag_capacity": 6,
+  "future_numeric_window_cap": 11,
+  "stop_after_fixed_batch": true,
+  "independent_scientific_review": false,
+  "semantics_or_source_identity_validated": false
+}
