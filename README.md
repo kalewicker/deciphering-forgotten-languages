@@ -2,25 +2,24 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 68.** This public repository contains code,
+**Latest completed step: experiment 69.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 68](reports/000068_interpretation.md) finds
-no registered literal passage bridge in the fixed post/arxiv:0812.0349v1 pair:
-0/16 whole blocks and 0/1,000 twelve-token windows match. All 15 positive and
-15 engineered negative controls pass. All 15 PDF pages were text-extracted;
-only the registered first/last pages were visually inspected. The negative is
-specific to exact tokens after NFC/casefold with punctuation/hyphenation retained;
-paraphrase, shorter overlap and opaque transformations remain unresolved. Next
-is a bounded quotation-attribution pilot using one exposed English block, with
-fixed selection/search limits. E66's false historical gate and E63's original
-failure remain intact, and E62's ANITA route stays closed. No meanings, immediate
-source identity, independent review or untouched benchmark evidence is admitted.
-Natural-benchmark capacity remains unmet, and synthetic feature expansion is
-stopped. No natural decipherment claim has been validated.
+Current boundary: [experiment 69](reports/000069_interpretation.md) used
+two fixed searches for one exposed English block. Among 16 attributable result
+rows, the three full-sentence matches were FL-site echoes; no external lead
+qualified. The conditional native slot stayed empty, so no native source request
+or quote/control test occurred. This does not establish web-wide absence or
+original authorship. Next is one terminal, fixed-budget batch over two different
+exposed English blocks, with native quotation witnesses required before any
+passage work. E68's negative literal screen, E66/E63's original failed gates and
+E62's ANITA closure remain intact. No meanings, immediate source identity,
+independent review or untouched benchmark evidence is admitted. Natural-benchmark
+capacity remains unmet, and synthetic feature expansion is stopped. No natural
+decipherment claim has been validated.
 
 The [2026-10-20 progress review](reports/progress_review_2026-10-20.md) recommends
 a comparator capacity check and a fixed stopping budget for the current discovery
