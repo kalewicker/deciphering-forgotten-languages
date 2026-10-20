@@ -2,30 +2,29 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 61.** This public repository contains code,
+**Latest completed step: experiment 62.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 61](reports/000061_interpretation.md) attributes all
-ten result cards in the saved native-search page and accounts for every one of
-its 115 anchors. Nine card URLs pass the unchanged strict URL rule; one encoded
-path remains rejected. All ten cards lack registered date markers, and two of
-the nine URLs were already captured. No article is nominated or admitted.
-Next is the final fixed two-slot intake/challenge for this discovery route,
-requiring a capped numeric window with overlap capacity at least six before
-it can challenge the reference. No capable comparator means closing this route
-as feasibility-limited. E58's empty slots, E56's 6 versus 0, 1, 1 and 0, and
-E57's context limits remain unchanged. No new meanings, source identities,
-independent reviews or untouched tests are admitted.
+Current boundary: [experiment 62](reports/000062_interpretation.md) closes the
+native-search comparator route as feasibility-limited. The final two-slot batch
+has one nominee, whose reported publication date is 2020-01-28, outside the fixed
+cutoff, and one empty slot. No numeric capacity screen or new comparison is
+reached; the reference specificity gate among capable candidates remains null.
+No replacement query or expanded batch follows this route. Further programme
+work requires a separately justified independent-review route or fresh connected
+source-group evidence. E56's 6 versus 0, 1, 1 and 0, E57's context limits and all
+old failures remain unchanged. No new meanings, source identities, independent
+reviews or untouched tests are admitted.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.
 
 The [2026-10-20 progress review](reports/progress_review_2026-10-20.md) recommends
 a comparator capacity check and a fixed stopping budget for the current discovery
-branch. These guide the registered continuation; sealed historical protocols remain unchanged.
+branch. The final-batch stopping rule was exercised in E62; sealed historical protocols remain unchanged.
 
 The first experiment has run on **five short Kamri excerpts**, covering 30 reviewed sentence correspondences across five nominated source works. Four source groups train a positional lexical baseline; *The Dark Side of Light* is held out. This is an exploratory engineering result, not a validated decipherment.
 
