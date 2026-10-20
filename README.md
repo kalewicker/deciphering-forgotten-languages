@@ -2,24 +2,25 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 65.** This public repository contains code,
+**Latest completed step: experiment 66.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 65](reports/000065_interpretation.md) recovers
-29 textual reference rows from the admitted saved development post. One contains
-an unlinked `arxiv:0812.0349`; 28 have no recognized direct identifier under the
-registered rules. Its version is unspecified and citation metadata remain
-unverified. This exposed offline exercise makes no source request or passage
-comparison. Next is a bounded single-identifier source-feasibility acquisition,
-with fixed selection, edition/exposure checks and a retained failure outcome.
-E63's original gate remains false; E64's metadata-only representation and E62's
-closed ANITA route are unchanged. No meaning, source identity, independent review
-or untouched benchmark admission follows. Immediate passage relationship and
-natural-benchmark capacity remain unresolved/unmet, and synthetic feature
-expansion is stopped. No natural decipherment claim has been validated.
+Current boundary: [experiment 66](reports/000066_interpretation.md) captured
+the cited arXiv record and its v1/v2 submission history. Six of seven fixed
+metadata checks pass. The author check fails because the parser assumes given-
+name-first metadata and the provider returns `Weinstein, Steven`; this does not
+establish an author mismatch. The conditional PDF request was skipped, with no
+retry or replacement. Next is a registered name-format correction over these
+saved bytes, bundled with one conditional v1 PDF capture and first-page audit.
+The citation itself specifies no version. E63's original gate remains false;
+E64's metadata-only view and E62's closed ANITA route are unchanged. No meaning,
+immediate source identity, independent review or untouched benchmark admission
+follows. Immediate passage relationship and natural-benchmark capacity remain
+unresolved/unmet, and synthetic feature expansion is stopped. No natural
+decipherment claim has been validated.
 
 The [2026-10-20 progress review](reports/progress_review_2026-10-20.md) recommends
 a comparator capacity check and a fixed stopping budget for the current discovery
