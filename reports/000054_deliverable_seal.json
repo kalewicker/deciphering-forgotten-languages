@@ -1,0 +1,37 @@
+{
+  "experiment_id": "offline_intake_v54",
+  "sealed_at_utc": "2026-10-20T03:23:16.718280+00:00",
+  "deliverable_hashes": {
+    "experiments/offline_intake_v54.md": "d49e5377e3f28789a3a19b76ab92275043f389a1ab4a5954dc9d3c33aa3e2c35",
+    "experiments/offline_intake_v54.json": "e0fdaf1c97af5d21fe0267eac5de4b786c06a3ae9a1a6cb0fff6ee5c45997cd1",
+    "src/fl_decipher/offline_intake_v54.py": "ab043c7dbbcef03876b6b949a98c4b9d1815677de13a4d69c5f231a9bd6757f3",
+    "scripts/run_offline_intake_v54.py": "8363a4d83c9bf0511f8dead3927939b628c43db59df2b06abb44772d5edf7bc1",
+    "scripts/verify_offline_intake_v54.py": "d08f83e55dcf3043596351a3a598521a5eb2e37cacce43d2d5118f58438ce480",
+    "tests/test_offline_intake_v54.py": "16cb8d01186cca7d05d58f29bbf479504b29ad4e1700a9b8502791af8769f728",
+    "reports/000054_interpretation.md": "a4bac38c476dd503d0122fa32900b6bcedf04351db64f046d1a0cda604f5e89d",
+    "reports/000054_verification.json": "9ae8021bf1a6f38e029fbb7822fbd66e7f72b3511638e4ce7e108f084efa8113",
+    "data/v54/preflight.json": "d64ba3601a7cf8a147ce25b2b134e653746f28568fb17583eb5adf8db229d4e6",
+    "data/v54/q00s00_decision.json": "ae032d9d857cfbe2bb9869a61e00070bfaf4b6dd990c0f590d841d6b5665c549",
+    "data/v54/q00s01_decision.json": "44d1d39031bb895d992b7d6ceb2a4b972e0862fb5838a073a7ad86a0123d7202",
+    "data/v54/q01s00_decision.json": "aab0386aaa543336e7074bf79917a9f01ebcbd5876c92cad4eceb83d19873a70",
+    "data/v54/q01s01_decision.json": "6a49b85fdbbaae552dd644e46c18772866aa3f10e1c72c1f0649d22147bee1b2",
+    "data/v54/reference_v42_decision.json": "1a9469e8ddfe7463bbf57f01422c97537e108f3f198806f2215de95b85965566",
+    "runs/000054_offline_intake/manifest.json": "94fdcdec045fead8c2db62d581549b1d6c28c1c2f4dab5f58e8926a4f4f5693e",
+    "runs/000054_offline_intake/report.json": "7e94f2d1cec314ceea90be541ba33ea415d893fe960d180df677694f1f55aff9"
+  },
+  "validation": {
+    "full_workspace_tests_passed": 414,
+    "isolated_public_tests_passed": 375,
+    "archive_tests_excluded_publicly": 39,
+    "prior_runs_preserved": 53
+  },
+  "eligible_development_candidates": 2,
+  "candidate_denominator": 4,
+  "candidate_shortage": 2,
+  "development_intake_capacity_met": false,
+  "v50_ready_captures_unchanged": 1,
+  "v50_intake_capacity_met_unchanged": false,
+  "network_requests": 0,
+  "independent_scientific_review": false,
+  "semantics_or_source_identity_validated": false
+}

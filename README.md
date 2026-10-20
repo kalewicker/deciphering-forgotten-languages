@@ -2,20 +2,20 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 53.** This public repository contains code,
+**Latest completed step: experiment 54.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 53](reports/000053_interpretation.md) tests the four
-exact stored og:url endpoints. All four return one HTTP 301 redirect to their
-saved /a/ canonical URL, followed by HTTP 200 with matching canonical/title
-metadata. Current alias support is 4/4; historical routing remains unverified.
-The [uniform scope audit](reports/000052_interpretation.md) and original date,
-heading and strict URL diagnostics remain fixed. No readiness or scores change:
-the old intake remains 1/4 ready. Meaning, ancestry and source identity remain
-unresolved.
+Current boundary: [experiment 54](reports/000054_interpretation.md) closes the
+metadata/scope audit with a revised offline development-intake rule. Two of four
+candidates qualify; both later-dated articles still fail the cutoff. Four are
+required, leaving a shortage of two; the known reference is counted separately.
+The rule uses agreeing metadata titles, exact saved routing bindings and uniform
+paragraph runs. Original intake readiness remains 1/4, and all earlier heading,
+strict URL and score results stay fixed. All pages are already inspected
+development data. Meaning, ancestry and source identity remain unresolved.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.
