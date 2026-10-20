@@ -2,23 +2,23 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 67.** This public repository contains code,
+**Latest completed step: experiment 68.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 67](reports/000067_interpretation.md) corrects
-single-author name order against E66's saved response, passing 7/7 metadata
-checks while preserving E66's false historical gate. One fixed v1 PDF request
-succeeded: 15 pages, with matching title, author and version under 5/5 machine
-checks and first-page visual inspection. Full PDF bytes are frozen locally;
-only page 1 was text-extracted/visually reviewed. The citation itself specifies
-no version. Next is a registered, controlled passage-presence screen over the
-fixed post/PDF pair with complete target-block accounting. Its opaque-text
-relationship remains untested. E63's original gate remains false; E64's metadata-
-only view and E62's closed ANITA route are unchanged. No meaning, immediate
-source identity, independent review or untouched benchmark admission follows.
+Current boundary: [experiment 68](reports/000068_interpretation.md) finds
+no registered literal passage bridge in the fixed post/arxiv:0812.0349v1 pair:
+0/16 whole blocks and 0/1,000 twelve-token windows match. All 15 positive and
+15 engineered negative controls pass. All 15 PDF pages were text-extracted;
+only the registered first/last pages were visually inspected. The negative is
+specific to exact tokens after NFC/casefold with punctuation/hyphenation retained;
+paraphrase, shorter overlap and opaque transformations remain unresolved. Next
+is a bounded quotation-attribution pilot using one exposed English block, with
+fixed selection/search limits. E66's false historical gate and E63's original
+failure remain intact, and E62's ANITA route stays closed. No meanings, immediate
+source identity, independent review or untouched benchmark evidence is admitted.
 Natural-benchmark capacity remains unmet, and synthetic feature expansion is
 stopped. No natural decipherment claim has been validated.
 
