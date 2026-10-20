@@ -2,22 +2,21 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 59.** This public repository contains code,
+**Latest completed step: experiment 60.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 59](reports/000059_interpretation.md) finds an
-explicit native search route in all 11 frozen publisher captures (seven article
-URLs). Search forms and structured metadata agree on the root `?s=` route;
-44 API declarations are retained without inventing a search endpoint. No live
-request was made, and search-result parsing remains untested. The initial
-receipt-schema assertion failure and separately registered correction are
-preserved. Next is one bounded search-layout probe, with no nominations or
-article requests. E58's empty slots and unevaluated three-type threshold,
-E56's 6 versus 0, 1, 1 and 0, and E57's context limits remain unchanged. No new
-meanings, source identities, independent reviews or untouched tests are admitted.
+Current boundary: [experiment 60](reports/000060_interpretation.md) executes the
+single native-search layout probe evidenced by E59. It returns HTTP200 without
+redirects and passes the fixed direct-HTML checks. All 115 anchors are retained;
+18 pass the article-URL diagnostic, representing nine distinct URLs. None is
+yet attributed as a search hit or nominated. Next is an offline attribution
+audit of this saved layout, with no new request. E58's empty slots and unevaluated
+three-type threshold, E56's 6 versus 0, 1, 1 and 0, and E57's context limits remain
+unchanged. No new meanings, source identities, independent reviews or untouched
+tests are admitted.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.
