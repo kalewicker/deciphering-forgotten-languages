@@ -2,23 +2,23 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 63.** This public repository contains code,
+**Latest completed step: experiment 64.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 63](reports/000063_interpretation.md) saves a
-209,306-byte archived snapshot for a different previously nominated post,
-Quantum Semantic Fields and Universals. Exact archive URL, digest, timestamp,
-title and body checks pass, but absent canonical/og metadata fails the registered
-admission gate. Citation/source stages remain skipped. Raw bytes are preserved;
-no material admission, new source group or meaning follows. Next is an offline
-provenance/admission decision on this saved snapshot, preserving E63's failure.
-E62's ANITA/native-publisher comparator route remains closed as feasibility-limited.
-No replacement query or expanded comparator batch follows it. Old numeric results
-and failures stay fixed; independent review and untouched benchmark capacity
-remain unavailable/unmet.
+Current boundary: [experiment 64](reports/000064_interpretation.md) permits a
+traceable archive-bound development view of the different post for offline
+citation-metadata inspection only. A disclosed post-failure policy combines the
+archive chain with exact title and permanent-link bindings; E63's original gate
+remains false and unchanged. The new body view has 12,344 characters. Its two
+URL occurrences are a site link and an image link, with no supported scholarly
+identifier. Unlinked textual references are not yet inventoried. Next is a
+bounded textual-reference recovery pilot before any source selection or request.
+E62's ANITA comparator route remains closed. No meaning, source identity,
+independent review or untouched benchmark admission follows from this material
+policy, and publication-year/current wording remains unauthenticated.
 Immediate passage relationship and natural-benchmark capacity remain unresolved/
 unmet, and synthetic feature expansion is stopped. No natural decipherment claim
 has been validated.

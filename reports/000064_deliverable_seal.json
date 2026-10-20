@@ -1,0 +1,41 @@
+{
+  "experiment_id": "archive_admission_v64",
+  "sealed_at_utc": "2026-10-20T19:01:16.795072+00:00",
+  "deliverable_hashes": {
+    "data/v64/admission_decision.json": "6d673d897e8160e923e18b74a156bf18814e0398d481e1ec20e82ff503a5af26",
+    "data/v64/citation_inventory.json": "69e3a1d95103e2704323fd61f3897a1f5a7b772e833e6eade2267884c555e59a",
+    "data/v64/post_export.json": "d6ee4233b2f9c4efaf61bdb4ac7073efd57db610a2526d5ba7a3d974fa125664",
+    "data/v64/preflight.json": "5f3a0559c470fcfb9d0a2c7b3670189e65f98b2dfd2a5d2593f8bfcf47adca3d",
+    "experiments/archive_admission_v64.json": "6adf9bf62b5345dbade5913dd7aeb57ac134a5654e714779984f319b4842d9bd",
+    "experiments/archive_admission_v64.md": "9ee2d91427e250d550c694c53dcee1086908623285285915a079ca6216789e95",
+    "reports/000064_interpretation.md": "a7d15ab10be09b21cf135f7e5f1f5b3b6166f9f7b8469980c556527c0a3e6bb5",
+    "reports/000064_verification.json": "f75dc7f671dbc423b5f8807bd96af60fb584afe793e497a12825d682755a7259",
+    "runs/000064_archive_admission/manifest.json": "3bd3c3b8a545a22e2ef8edf98e53081bf0c13d8512b6e1656597eaefe962ddd2",
+    "runs/000064_archive_admission/report.json": "d348ff899b0f223f2b982827bd1a3b575736c0b98ce8fb73d4712d12c912c08a",
+    "scripts/archive_admission_v64.py": "d6bd9c37dcb2bb1b607287e8815fc922443594007204d819502427c6eeec597c",
+    "scripts/verify_archive_admission_v64.py": "a56880aaf397561739d9023ff82aa21d1d8a9b170652ec3668503f00a80bc050",
+    "src/fl_decipher/archive_admission_v64.py": "bf513aeafa7adbec1abf83ee32716a8967a1f52fa5376c4aadb6aa194329a8d5",
+    "tests/test_archive_admission_v64.py": "131a2e23b78d46547d8fe1bdbec9b1ef6100f492c385ddf01a9eeed7af03c1eb"
+  },
+  "validation": {
+    "full_workspace_tests_passed": 484,
+    "isolated_public_tests_passed": 445,
+    "archive_tests_excluded_publicly": 39,
+    "prior_runs_preserved": 63
+  },
+  "research_network_requests": 0,
+  "policy_developed_after_observed_failure": true,
+  "limited_metadata_admission": true,
+  "allowed_use": "offline_citation_metadata_inspection",
+  "historical_e63_outcome_preserved": true,
+  "historical_e63_gate_value": false,
+  "purpose_checks_passed": 14,
+  "purpose_check_denominator": 14,
+  "body_export_characters": 12344,
+  "url_occurrences": 2,
+  "recognized_scholarly_identifiers": 0,
+  "source_candidates_selected": 0,
+  "source_requests": 0,
+  "independent_scientific_review": false,
+  "semantics_or_source_identity_validated": false
+}
