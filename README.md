@@ -2,22 +2,23 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 77.** This public repository contains code,
+**Latest completed step: experiment 78.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 77](reports/000077_interpretation.md) completes the
-fixed word-order prediction comparison and **fails its development gate**.
-Across all 13 E76 groups and 1,918 target pairs, the preceding-word model gains
-0.046775 bits/target over word frequencies, improves in 9/13 groups, and loses
-0.066232 bits on known targets. It beats all 99 shuffled-training controls, but
-that does not override the failed gain, group-count and known-target criteria.
-More than half the targets map to an unknown category. No model was retuned.
-The next proposed step is a separately scoped read-only diagnosis of the saved
-losses, retaining every group and prediction before considering another model.
-[E76](reports/000076_interpretation.md) remains the frozen corpus-capacity record.
+Current boundary: [experiment 78](reports/000078_interpretation.md) completes the
+read-only diagnosis of E77's failed word-order gate. Among known-word targets,
+291 unseen pairs after seen contexts incur losses exceeding gains on 633 seen
+pairs. Only one target has a context absent from training, giving zero gain via
+backoff. Of 994 unknown targets, 834 forms are absent from training and 160 occur
+once. All 13 groups, 1,918 targets and 99 saved controls remain accounted for.
+No predictions, parameters or corpus changed; E77's gate remains failed.
+A future model proposal must address count reliability and unknown pooling with
+fixed training-only choices and known-word safeguards; no replacement model or
+parameter search is launched. [E77](reports/000077_interpretation.md) preserves
+the original test and [E76](reports/000076_interpretation.md) its corpus boundary.
 
 The [E75 reviewer-control result](reports/000075_interpretation.md) remains a narrow
 3/3 genuine and 2/2 false literal-claim result. Independent semantic review remains

@@ -1,0 +1,17 @@
+{
+  "experiment_id": "order_diagnosis_v78",
+  "sealed_at_utc": "2026-10-21T11:01:08.422330+00:00",
+  "deliverable_hashes": {
+    "experiments/order_diagnosis_v78.md": "32572b8941eebc0c6636467b902dea0e86ff081db8cad78cca46fd1afd2501f5",
+    "experiments/order_diagnosis_v78.json": "e15b182e4e33c1e962c7da0f0b3674703f0625af1c4724803859e559cd48d6e6",
+    "src/fl_decipher/order_diagnosis_v78.py": "30daff095c4c6b875fb10a794805f9c5632dfda657e090307108f35c6e2cfd36",
+    "scripts/order_diagnosis_v78.py": "847be9d9e8021651d9e72563f1afb174e5de9f1b259d6bd6c2ab0255c309af9f",
+    "scripts/verify_order_diagnosis_v78.py": "bb6ad4d33c4b81514bf15edccf3df4a6ca02b5ea5e9aa85902a755479fdc84c6",
+    "tests/test_order_diagnosis_v78.py": "db8e20b798665fc9b122fefa092bc0b95e0b7ecab1eda31509fa7a3d4cd936ca",
+    "reports/000078_interpretation.md": "14dbaab434bb70c8c6cca470e300461a8ab594b6b6b26b99a45783d4dff3948f",
+    "reports/000078_verification.json": "b365730b2b332cd5d0517390169bb596a8f20e5b276d61462046a5aad7f04d9b",
+    "runs/000078_order_diagnosis/manifest.json": "d570745c1eb4f31ae3dcfbaec76808f3c13e919aebd525d3f16b276550f630ed",
+    "runs/000078_order_diagnosis/report.json": "10bf722ffb207496d2bc9e499e4b07821df3128a24b67af7d4cfa26c10e25e70",
+    "runs/000078_order_diagnosis/target_ledger.json": "83e8cdb47e940009463c8dee358d791309340f34e290ae9fc50230398acc58ce"
+  }
+}
