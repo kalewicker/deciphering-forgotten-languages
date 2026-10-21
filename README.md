@@ -2,19 +2,22 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 76.** This public repository contains code,
+**Latest completed step: experiment 77.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 76](reports/000076_interpretation.md) passes a
-registered corpus-capacity check for the user-authorized word-order pivot.
-Thirteen conservative connected groups supply 98 retained units and 1,918 usable
-adjacent-word pairs after exact saved-text binding, literal masking and duplicate
-checks. No predictor has been trained or scored. The next proposed experiment
-compares word-frequency and preceding-word models with shuffled-training controls
-on these exposed development excerpts under a separate registration.
+Current boundary: [experiment 77](reports/000077_interpretation.md) completes the
+fixed word-order prediction comparison and **fails its development gate**.
+Across all 13 E76 groups and 1,918 target pairs, the preceding-word model gains
+0.046775 bits/target over word frequencies, improves in 9/13 groups, and loses
+0.066232 bits on known targets. It beats all 99 shuffled-training controls, but
+that does not override the failed gain, group-count and known-target criteria.
+More than half the targets map to an unknown category. No model was retuned.
+The next proposed step is a separately scoped read-only diagnosis of the saved
+losses, retaining every group and prediction before considering another model.
+[E76](reports/000076_interpretation.md) remains the frozen corpus-capacity record.
 
 The [E75 reviewer-control result](reports/000075_interpretation.md) remains a narrow
 3/3 genuine and 2/2 false literal-claim result. Independent semantic review remains

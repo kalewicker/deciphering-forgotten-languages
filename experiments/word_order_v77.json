@@ -1,0 +1,34 @@
+{
+  "experiment_id": "word_order_v77",
+  "registered_at_utc": "2026-10-21T10:52:46.025813+00:00",
+  "input_hashes": {
+    "runs/000076_order_corpus/unit_ledger.json": "0df894e828939e874059317baa5d989a7811d8fb4e29b6e0cadb4d957e5ca7ae",
+    "runs/000076_order_corpus/report.json": "d37c7e08a1c44be7d9a95e1c95c0a1c084f45b2fedbee9af339c941c4a6b3040",
+    "reports/000076_deliverable_seal.json": "d2491e87fc80b2ed94b9e10a9ef3a04fa3a081ce302091c401ffb87a4193ea66",
+    "experiments/word_order_v77.md": "1a68a813478a9c5573ffa10b076e17726eda029fab0c8bf7adcd9d79b9fc8190",
+    "src/fl_decipher/word_order_v77.py": "e4215223128792f1182b0ff9ec1316404525c50178a44734965489a57a2adb57",
+    "scripts/word_order_v77.py": "e3c6c4522b802e252592c714fa848189edd2dca7eed17a84978451d7e23ba521",
+    "scripts/verify_word_order_v77.py": "ba73a3fdaf2147b7b7cefc06f990e9875f5eaee9da5dcd8d92df0a58ff233acc",
+    "tests/test_word_order_v77.py": "17b06519d8f3879e917cad3e4ad4d478990fe819d4386b3fa38b9ab8e9faf61c",
+    "data/v77/control_orders.json": "53a0254c8ca54e1cd367e34dcc429ab6d87b888a102ea809bd027f6cba4465df"
+  },
+  "groups": [
+    "accidental_altruist+interstellar_intersubjectivity",
+    "capra_foreword+weber_holomovement",
+    "dark_side_light",
+    "deep_physics_second_law+fake_news_roundup+models_magic",
+    "exalted_deeds+vile_darkness",
+    "gad_seer",
+    "golden_age+secret_symbols",
+    "liber_azazel",
+    "manichaean_hymn+manichaean_roman_texts",
+    "nichiren_images",
+    "religious_architecture",
+    "risk_math+war_algorithm_accountability",
+    "western_esoterism"
+  ],
+  "draws": 99,
+  "training_vocabulary_min_count": 2,
+  "unigram_alpha": 0.5,
+  "context_prior_mass": 10
+}
