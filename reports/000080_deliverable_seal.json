@@ -1,0 +1,24 @@
+{
+  "experiment_id": "reserved_intake_v80",
+  "sealed_at_utc": "2026-10-21T19:36:42.368780+00:00",
+  "deliverable_hashes": {
+    "experiments/reserved_intake_v80.md": "edf34c28d68125b1102436d167629ab24747c25aea690fea7693892ec5bc285d",
+    "experiments/reserved_intake_v80.json": "8fed4c59230615e7e9dc89d66b3663f77c49da374b5cc250dcca52206ec676a2",
+    "src/fl_decipher/reserved_intake_v80.py": "d7fe59818ca02f40bb864833750560a78108f24eb276634f0a0b6b0410daa47e",
+    "scripts/reserved_intake_v80.py": "f0bd8fc0567412779cb44a69534a58ca6f008bbac89938b52b9556f2672042ff",
+    "scripts/verify_reserved_intake_v80.py": "fd64f0b0bf90d96ad7e53ffa37f095cd161f5d60353b7d314cc719b05de3262c",
+    "tests/test_reserved_intake_v80.py": "87b2fcd0393a0e22df70d3d9ee8fa0fe52badc7045e91e4f6ec59c7816c49e0e",
+    "reports/000080_interpretation.md": "b500d99320bd5b27a8b0b28e49aefe60a081ebff5bba04fac4386cc7b9aec81a",
+    "reports/000080_verification.json": "1ccdc038fc81496a5367d091cb1aa73628b5b8a9c0b33492066ca1041b4139c6",
+    "runs/000080_reserved_intake/manifest.json": "cce4974de33efa8a88f1ae6812b053fecce27df2bdf0dd760e7e70b06baeec88",
+    "runs/000080_reserved_intake/report.json": "142a2f1a9310731a43e62cd1f098be3803354c8d2bcfde5b8e1aacc8c23ffcbd",
+    "data/v80/acquisition/label/curl_stdout.bin": "1edf768acb7f08a4d6d9c2b87d23b488f6674d12740f678f0dbe9202efa87e24",
+    "data/v80/acquisition/label/headers.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/v80/acquisition/label/intent.json": "0f70be9b4d3eaa7d91ee7d624364dab39004346ffdfd6dc45a9492c776506033",
+    "data/v80/acquisition/label/receipt.json": "1008a0310491af582a85f6ea236e61dcb96ea89fa20de64e506841c1d19e4c80",
+    "data/v80/acquisition/label/stderr.bin": "451ed444fe77b77f630017daff11b71043da9d544d87fe5647c0f014d0ef4f98",
+    "data/v80/exposure.json": "a8de6e3ca7a409960a09675974a5577bd9024ef7174c990a1c4c0346ea108255",
+    "data/v80/exposure_sources.json": "3a1fb8c0f1db35c45c82d7f244236b81143d06fd5dd223fffe04419dc40df5af",
+    "data/v80/selection.json": "ad17f99bd0ac82d84c8be4e32e3bd719e0ef71ecddf60e6bf6c6efffb073077c"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "reserved_intake_v80",
+  "registered_at_utc": "2026-10-21T19:34:39.407762+00:00",
+  "label_url": "https://forgottenlanguages-full.forgottenlanguages.org/search/label/Kamri",
+  "post_slots": 4,
+  "maximum_requests": 5,
+  "timeout_seconds": 20,
+  "max_bytes": 4194304,
+  "redirects": 0,
+  "retries": 0,
+  "input_hashes": {
+    "experiments/reserved_intake_v80.md": "edf34c28d68125b1102436d167629ab24747c25aea690fea7693892ec5bc285d",
+    "src/fl_decipher/reserved_intake_v80.py": "d7fe59818ca02f40bb864833750560a78108f24eb276634f0a0b6b0410daa47e",
+    "scripts/reserved_intake_v80.py": "f0bd8fc0567412779cb44a69534a58ca6f008bbac89938b52b9556f2672042ff",
+    "scripts/verify_reserved_intake_v80.py": "fd64f0b0bf90d96ad7e53ffa37f095cd161f5d60353b7d314cc719b05de3262c",
+    "tests/test_reserved_intake_v80.py": "87b2fcd0393a0e22df70d3d9ee8fa0fe52badc7045e91e4f6ec59c7816c49e0e",
+    "src/fl_decipher/routing_v53.py": "84321a61de1ecc360b8b82f9ad542c49e3bff92c1266f9bd0deaf30916bb7a94",
+    "data/v23/acquisition/western_esoterism_archive/body.bin": "c0e712e2320becaf897c813e8aea63ea951bad50c87db03491c344151ec90fa0",
+    "reports/000079_deliverable_seal.json": "087d90101a5bd51cd4749d6c14fc0c8a8131489a890fa5032a6a69fa32bc73db",
+    "data/v80/exposure.json": "a8de6e3ca7a409960a09675974a5577bd9024ef7174c990a1c4c0346ea108255",
+    "data/v80/exposure_sources.json": "3a1fb8c0f1db35c45c82d7f244236b81143d06fd5dd223fffe04419dc40df5af"
+  }
+}

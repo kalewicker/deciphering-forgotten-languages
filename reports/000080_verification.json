@@ -1,0 +1,23 @@
+{
+  "experiment_id": "reserved_intake_v80",
+  "verified_at_utc": "2026-10-21T19:36:42.367872+00:00",
+  "independent_reconstruction": {
+    "verified": true,
+    "requests": 1,
+    "slots": 4,
+    "raw_captures_passed": 0,
+    "raw_intake_capacity": false,
+    "confirmation_eligibility": "unresolved"
+  },
+  "full_tests_passed": 583,
+  "isolated_public_tests_passed": 544,
+  "archive_exclusions": 39,
+  "e79_sealed_files_unchanged": 23,
+  "exposure_snapshot_source_count": 833,
+  "exposure_snapshot_matches_public_commit_and_local_archive": true,
+  "known_article_keys": 40,
+  "curl_exit": 35,
+  "http_status": 0,
+  "failure": "TLS protocol-version alert; no HTTP response or body",
+  "new_predictions": false
+}

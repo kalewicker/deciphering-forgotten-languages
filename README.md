@@ -2,23 +2,25 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 79.** This public repository contains code,
+**Latest completed step: experiment 80.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 79](reports/000079_interpretation.md) passes the
-fixed development gate for one constrained context model. It gains 0.072877
-bits/target over the unigram across all 13 groups, improves known-target loss by
-0.146267 bits and beats all 99 shuffled-training controls. Unknown targets retain
-exactly their unigram probability. This is an E78-informed result on the same
-exposed panel, not independent confirmation. E77's failed gate stays failed.
-The next substantive proposal is bounded intake of genuinely new reserved material
-before confirmation, preserving the fixed rule. No further tuning or acquisition
-is launched here. [E78](reports/000078_interpretation.md) retains the diagnosis,
-[E77](reports/000077_interpretation.md) the original comparison, and
-[E76](reports/000076_interpretation.md) the corpus boundary.
+Current boundary: [experiment 80](reports/000080_interpretation.md) closes the
+bounded reserved-material intake with **0/4 captures**. Its one observed Kamri
+label-page route failed during TLS negotiation (curl 35), before any HTTP response
+or body; no post was nominated or requested. This is acquisition failure, not
+absence of suitable text. No client/endpoint retry or model scoring followed.
+Transport capability or a different documented material resource must be resolved
+under a separate scope before confirmation eligibility can be assessed.
+
+[E79](reports/000079_interpretation.md) retains its positive development result:
+0.072877 bits/target gain across all 13 exposed groups with unknown mass fixed.
+It remains unconfirmed on new material. [E78](reports/000078_interpretation.md)
+retains the diagnosis, [E77](reports/000077_interpretation.md) the failed original
+comparison, and [E76](reports/000076_interpretation.md) the corpus boundary.
 
 The [E75 reviewer-control result](reports/000075_interpretation.md) remains a narrow
 3/3 genuine and 2/2 false literal-claim result. Independent semantic review remains
