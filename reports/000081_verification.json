@@ -1,0 +1,61 @@
+{
+  "experiment_id": "transport_probe_v81",
+  "verified_at_utc": "2026-10-21T20:15:00.467923+00:00",
+  "independent_reconstruction": {
+    "verified": true,
+    "attempts": 4,
+    "candidate_clients": [],
+    "http_responses": 2,
+    "e80_preserved": true,
+    "bodies_read": false
+  },
+  "full_tests_passed": 589,
+  "isolated_public_tests_passed": 550,
+  "archive_exclusions": 39,
+  "e80_sealed_files_unchanged": 18,
+  "cells": [
+    {
+      "id": "control_curl",
+      "client": "curl",
+      "url": "https://example.com/",
+      "returncode": 0,
+      "timed_out": false,
+      "classification": "http_response_observed",
+      "http_status": 200,
+      "metadata_valid": true
+    },
+    {
+      "id": "control_python",
+      "client": "python",
+      "url": "https://example.com/",
+      "returncode": 0,
+      "timed_out": false,
+      "classification": "http_response_observed",
+      "http_status": 200,
+      "metadata_valid": true
+    },
+    {
+      "id": "target_curl",
+      "client": "curl",
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/robots.txt",
+      "returncode": 35,
+      "timed_out": false,
+      "classification": "transport_unresolved",
+      "http_status": null,
+      "metadata_valid": false
+    },
+    {
+      "id": "target_python",
+      "client": "python",
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/robots.txt",
+      "returncode": 0,
+      "timed_out": false,
+      "classification": "transport_unresolved",
+      "http_status": null,
+      "metadata_valid": false
+    }
+  ],
+  "candidate_clients": [],
+  "new_predictions": false,
+  "semantic_benchmark_qualifying_works": 0
+}

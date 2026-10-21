@@ -1,0 +1,35 @@
+{
+  "experiment_id": "transport_probe_v81",
+  "registered_at_utc": "2026-10-21T20:06:21.716237+00:00",
+  "cells": [
+    {
+      "id": "control_curl",
+      "client": "curl",
+      "url": "https://example.com/"
+    },
+    {
+      "id": "control_python",
+      "client": "python",
+      "url": "https://example.com/"
+    },
+    {
+      "id": "target_curl",
+      "client": "curl",
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/robots.txt"
+    },
+    {
+      "id": "target_python",
+      "client": "python",
+      "url": "https://forgottenlanguages-full.forgottenlanguages.org/robots.txt"
+    }
+  ],
+  "maximum_attempts": 4,
+  "input_hashes": {
+    "experiments/transport_probe_v81.md": "9260e0078e6297c19ed6d870954da2d7ee822f930d25fce2a94b717ddbf8e90c",
+    "scripts/transport_probe_v81.py": "48c91c35eaebe71a0b62d59d2514175412695f63712ce92c636dc4899f76ee88",
+    "scripts/verify_transport_probe_v81.py": "4691355f217d37b85ceb4a45a446f155d7cf0b0120da24cb5ab939af27b1f877",
+    "tests/test_transport_probe_v81.py": "5a3233c0e87fefa253bdca363852d13aad14dcffa300361741631f4525eccdd9",
+    "data/v81/environment.json": "0ef0ccd5c08062e1218f396925b9d30b706010130f1d616bc170dae123f0b6e7",
+    "reports/000080_deliverable_seal.json": "573d7d783edb32d5f81a21e925d386c9e1a863316b3beae50d1aa5da6a1b0148"
+  }
+}
