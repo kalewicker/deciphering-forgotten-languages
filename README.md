@@ -2,23 +2,23 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 71.** This public repository contains code,
+**Latest completed step: experiment 72.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 71's programme audit](reports/000071_interpretation.md)
-consolidates the evidence and closes this cycle of discovery work. E62's ANITA
-comparator route and E70's wording route remain **closed_feasibility_limited**;
-their unrun comparisons and controls remain unrun. The natural benchmark still
-has **0/4 qualifying new independently reviewed works**. The proposed next step
-is to resolve independent review access using one existing source-disclosed
-packet, before investing in more acquisition or model features. No reviewer is
-currently assigned; the proposal is not an executed review. Such a review would
-remain development evidence. Original attribution and opaque transformations
-remain unresolved, synthetic feature expansion remains stopped, and no natural
-decipherment claim has been validated.
+Current boundary: [experiment 72](reports/000072_interpretation.md) completed one
+fresh Codex review of the fixed Risk mathematics packet, with memory injection
+disabled and explicit memory/session-file restrictions tested before launch.
+The returned source relationship is **uncertain**. Its structure and seven exact
+quoted spans pass verification; source coverage and opaque meanings remain
+unestablished. See the [fresh-session guide](reports/000072_fresh_session_guide.md).
+This automated, source-disclosed review remains development evidence. The
+[programme audit](reports/000071_interpretation.md) still applies: the natural
+benchmark has **0/4 qualifying new independently reviewed works**, E62/E70 remain
+**closed_feasibility_limited**, synthetic feature expansion remains stopped,
+and no natural decipherment claim has been validated.
 
 The [2026-10-20 progress review](reports/progress_review_2026-10-20.md) recommends
 a comparator capacity check and a fixed stopping budget for the current discovery

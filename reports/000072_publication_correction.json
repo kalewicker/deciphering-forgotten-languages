@@ -1,0 +1,15 @@
+{
+  "recorded_at_utc": "2026-10-21T00:46:01.022710+00:00",
+  "initial_publication_attempt": "stopped_before_commit_or_push",
+  "reason": "The existing sk- pattern matches inside the generated nonsecret review ID.",
+  "exact_nonsecret_identifier_exempted": "fl-risk-v72-d54e047e-d5e6-4404-bc0f-75eb646b19a6",
+  "correction": "Mask only this exact public identifier for credential scanning; preserve staged bytes and every other original publication check.",
+  "other_credential_patterns_and_mixed_content_rejection_checked": true,
+  "unrelated_identifiers_not_exempted": true,
+  "sealed_research_files_changed": false,
+  "hashes": {
+    "scripts/checkpoint_turn_v72.py": "cff56643d7dbea321efe5c15fc895838c5e4c200bd0e61de2d99d94089c1db6f",
+    "reports/000072_deliverable_seal.json": "446216d879bcdbc1b7d10fc8d4fbddf593b667b2b52a271c0b3683110fcd81dd",
+    "experiments/automated_packet_review_v72.json": "4878d89224347a9e97422eae0f85ab48ee719647fcc0e36ad716baa6901f4d14"
+  }
+}

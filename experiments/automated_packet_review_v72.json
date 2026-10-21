@@ -1,0 +1,30 @@
+{
+  "experiment_id": "automated_packet_review_v72",
+  "registered_at_utc": "2026-10-21T00:37:51.069305+00:00",
+  "review_id": "fl-risk-v72-d54e047e-d5e6-4404-bc0f-75eb646b19a6",
+  "cli_version": "codex-cli 0.163.0-alpha.10.2",
+  "model_review_attempt_budget": 1,
+  "timeout_seconds": 900,
+  "input_hashes": {
+    "experiments/automated_packet_review_v72.md": "aebf33d34a3d75434af9b262f99b9dbce3136a6a4d6c0a5312a059ba0cf37d9a",
+    "experiments/automated_packet_review_v72_prompt.md": "f43d4946d14d1c9ef9a84630febf0c49af53cb39a3652d99da59055c17d5291d",
+    "scripts/automated_packet_review_v72.py": "00eb643b6d3d3a2325626036194caa64c4bbcd2d9b551c2103a617d7c7f6a954",
+    "data/v25/packets/risk_math.zip": "664edd40e2443207b09d906578f3ca19327a903ca9f8d3ca7d4a8b53bf5ea6c3",
+    "reports/000025_deliverable_seal.json": "1ed79e5ab720f1622a1fde4e1ee54e10702a4ed8a07ac3221ccdec1453280bda",
+    "reports/000071_deliverable_seal.json": "d2fb7679a376c4dc3a23190c82f5e609c020853f1638a1a2c91ea2f27b61db4a",
+    "data/v72/review_prompt.txt": "a5a49c3a1d4b7418b95993095709d0a073fe58e6846ea7ecab19ec4328aa3e1c"
+  },
+  "material_copy_hashes": {
+    "INSTRUCTIONS.md": "7ca147b7a023b7c8f5b9b7bb6760da87622fe31df336b8cf0281de65cbd13a58",
+    "fl_post.txt": "37a7e6d09a9fb78056b60835a16912024cf8c3ea043d8cf298938cce84fd056d",
+    "material_manifest.json": "403ce08e6a1353e21c0fe625d85e66bb1797f7724bd48ea44e7985a87f287e0d",
+    "pages/page_001.png": "7fc6b811a63e72e89cd686713d021081cbd10da6526180aee9c7f4f871aa1055",
+    "pages/page_002.png": "b4c1324afb05c22293a66b64d5205e88837e35786a4bbfac017fe31978bbf5d0",
+    "pages/page_003.png": "1dfaa153f2263698308453ad51d7ba5caa2e1e4c4fef3f1a9e6d97c39be902bb",
+    "publisher.pdf": "a57f9684e90a6fa278b5005b83f9d698b16984c8874ead850fcada7a25bdea55",
+    "publisher_window.txt": "528e57cc856dc059ab96c9201ef177534aa4fac87331288937e0129f334d417f",
+    "review_return_template.json": "f0d45972b3c9820fa8898fdf39cfb227633a21b07b36622e40808dd456215d96"
+  },
+  "independent_scientific_review_admitted": false,
+  "benchmark_requirement_unchanged": true
+}
