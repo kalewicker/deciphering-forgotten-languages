@@ -1,0 +1,18 @@
+{
+  "experiment_id": "order_corpus_v76",
+  "sealed_at_utc": "2026-10-21T10:44:34.296394+00:00",
+  "deliverable_hashes": {
+    "experiments/order_corpus_v76.md": "c694e3696bc4453ef904ab672ac572613d36c707fc37f9593e73c93c9742eca6",
+    "experiments/order_corpus_v76.json": "38864fff34f1c23149fb6e583610929e19b0ccb8f58ba9695abeee048419481b",
+    "src/fl_decipher/order_corpus_v76.py": "de88b40095703972a661ad8fe35b277ac6dda3fd0aef0143b49ccb2763496c86",
+    "scripts/order_corpus_v76.py": "4f4a705b323ad4a28ee651cb3b66ecc04d597f2b1f9559b155a7b5bc96e14619",
+    "scripts/verify_order_corpus_v76.py": "5ddfdbfa0968a69338180ffa0d05db943d4d24950e0a2aa7c1e9dce7efe04640",
+    "tests/test_order_corpus_v76.py": "c79579f0e0c2f413fa00dc5670953eb4ea170d815f8422ef233d0d0f0cc108fd",
+    "reports/000076_interpretation.md": "dd486b6cdcc39406d7b1a5cb935f12004134d9263b1d964d23888fe90622ed66",
+    "reports/000076_verification.json": "66806064faeb39cf9555dbe056cbbe5ebb08ef0af80b4b3542994ef7ba876d5a",
+    "runs/000076_order_corpus/manifest.json": "ae6988c9f7277ef44819e675f4976c7a492cf73730343f03d86bd13020c4cf8d",
+    "runs/000076_order_corpus/mask.json": "908fb2f5ce12f187038b4e3a97856e7be87f27473d19bf68053b901fa09a4c10",
+    "runs/000076_order_corpus/report.json": "d37c7e08a1c44be7d9a95e1c95c0a1c084f45b2fedbee9af339c941c4a6b3040",
+    "runs/000076_order_corpus/unit_ledger.json": "0df894e828939e874059317baa5d989a7811d8fb4e29b6e0cadb4d957e5ca7ae"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "experiment_id": "order_corpus_v76",
+  "verified_at_utc": "2026-10-21T10:44:34.209982+00:00",
+  "independent_reconstruction": {
+    "verified": true,
+    "unit_denominator": 1026,
+    "capacity_pass": true,
+    "exclusions": {
+      "retained": 104,
+      "no_scoped_exact_fl_binding": 871,
+      "duplicate_sequence": 3,
+      "not_declared_kamri": 48
+    },
+    "model_executed": false
+  },
+  "full_tests": {
+    "passed": 559
+  },
+  "isolated_public_tests": {
+    "passed": 520,
+    "archive_dependent_exclusions": 39
+  },
+  "historical_inputs_matching_prior_archive": 21,
+  "unchanged_e75_sealed_artifacts": 25,
+  "model_executed": false,
+  "source_identities_admitted": 0,
+  "semantic_labels_admitted": 0,
+  "independent_reviews_admitted": 0,
+  "untouched_test_units_admitted": 0,
+  "limitation": "Capacity only; exposed indexed excerpts and conservative incomplete literal masking."
+}

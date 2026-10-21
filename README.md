@@ -2,34 +2,28 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 75.** This public repository contains code,
+**Latest completed step: experiment 76.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 75](reports/000075_interpretation.md) passes one
-fixed known-truth literal-clue control test: a fresh Codex session supports all
-three genuine claims and rejects both deliberately false claims, with zero false
-supports. The private key was denied to its tools and every judgment/quote was
-independently reconstructed. These five dependent controls establish neither
-general natural-review reliability nor opaque meanings/source identity. The
-[E74 assisted review](reports/000074_interpretation.md),
-[E72 Risk return](reports/000072_interpretation.md),
-[E73 coverage audit](reports/000073_interpretation.md) and
-[fresh-session guide](reports/000072_fresh_session_guide.md) remain preserved.
-No further review, natural rescore or wider packet window is launched. The
-[programme audit](reports/000071_interpretation.md) still applies: the natural
-benchmark has **0/4 qualifying new independently reviewed works**, E62/E70 remain
-**closed_feasibility_limited**, synthetic feature expansion remains stopped,
-and no natural decipherment claim has been validated.
+Current boundary: [experiment 76](reports/000076_interpretation.md) passes a
+registered corpus-capacity check for the user-authorized word-order pivot.
+Thirteen conservative connected groups supply 98 retained units and 1,918 usable
+adjacent-word pairs after exact saved-text binding, literal masking and duplicate
+checks. No predictor has been trained or scored. The next proposed experiment
+compares word-frequency and preceding-word models with shuffled-training controls
+on these exposed development excerpts under a separate registration.
 
-**Next step is resource-gated, not launched:** the
-[2026-10-21 evidence gate](reports/next_evidence_gate_2026-10-21.md) specifies the
-reviewer disclosures and prospective intake needed to assess one existing packet
-independently. That reviewer is not currently available. E75 remains the latest
-experiment; another Codex review or control batch is not scheduled. A supported
-review of an exposed packet would still not supply an untouched benchmark work.
+The [E75 reviewer-control result](reports/000075_interpretation.md) remains a narrow
+3/3 genuine and 2/2 false literal-claim result. Independent semantic review remains
+resource-gated as described in the [2026-10-21 planning note](reports/next_evidence_gate_2026-10-21.md).
+The user is pursuing reviewer access separately. Corpus capacity does not establish
+purely opaque text, grammar, meanings or immediate source identity. The natural
+semantic benchmark remains **0/4 qualifying new independently reviewed works**;
+E62/E70 remain closed feasibility-limited and synthetic feature expansion remains
+stopped. No natural decipherment claim has been validated.
 
 The [2026-10-20 progress review](reports/progress_review_2026-10-20.md) recommends
 a comparator capacity check and a fixed stopping budget for the current discovery
