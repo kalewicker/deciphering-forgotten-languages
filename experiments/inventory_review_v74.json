@@ -1,0 +1,44 @@
+{
+  "experiment_id": "inventory_review_v74",
+  "registered_at_utc": "2026-10-21T01:04:15.931041+00:00",
+  "review_id": "fl-western-v74-75a6b19f-d413-41de-a16e-61340895a0a4",
+  "nominee_id": "western_esoterism",
+  "clue_ids": [
+    "W1",
+    "W2",
+    "W3",
+    "W4",
+    "W5"
+  ],
+  "model_attempt_budget": 1,
+  "timeout_seconds": 900,
+  "inventory_assisted": true,
+  "cli_version": "codex-cli 0.163.0-alpha.10.2",
+  "material_copy_hashes": {
+    "INSTRUCTIONS.md": "7ca147b7a023b7c8f5b9b7bb6760da87622fe31df336b8cf0281de65cbd13a58",
+    "assisted_return_template.json": "23174ba0ad1b70b112b647d5890d3ace2dfec8fa31b9b52a7b8e79dcf075cc71",
+    "clue_inventory.json": "c6eb52937972e5a857a6052310cea66128c9db03307e1916c5a809de040a9810",
+    "fl_post.txt": "a0a342f47500c854c0464a59d4148b3e1158bb1da87af083c7d08dac97022df8",
+    "material_manifest.json": "ddbc147637c25ccdbea7dcedbd780cb5edcbb1c2281741e5c91f1f54304fcedf",
+    "pages/page_090.png": "be960713d2ae2ec245caa11335da382444e5734c455170a4df9232a956d672ab",
+    "pages/page_091.png": "e80e1b57dba0b9b29915906c6b648c2d92143b136bee21fc2c36d3b8f5594f43",
+    "pages/page_092.png": "ef405e6988306652a19f25acb61975ec8a4699447e836a87e26714f72b63a674",
+    "pages/page_093.png": "1595970ff46b861c8564fa3e2562929978ad8207557d768cf6af3eaf0c2e7694",
+    "pages/page_094.png": "a1c53a8f364926a8cf909f114206df4d4a28f76caa3f52e6aff4f924e7668586",
+    "publisher.pdf": "3b32dbbef37a301c93a2937c4d98f5e7319080eb34c7c19064198b46e55e401a",
+    "publisher_window.txt": "e71cba3570184634fe6c721fbc21080bc49141ae53b9eca857e35e277f077146",
+    "review_return_template.json": "de2cc41c89b3e359813586190a2466cbcf0de0eca8400b3c2922cfb97263c44f"
+  },
+  "input_hashes": {
+    "experiments/inventory_review_v74.md": "f97604d604b68620c14d7224fca55327e3ff4863ea67a4726002507df591fb28",
+    "experiments/inventory_review_v74_prompt.md": "99cef020db3312d4504ba727c1b7b4e3167efc943df8adf6ddda7555997e8da5",
+    "scripts/inventory_review_v74.py": "7186fed892a41d6e252701bfe03ec4aaef1fe63b6a5f9fe7b8ccad687c263889",
+    "scripts/automated_packet_review_v72.py": "00eb643b6d3d3a2325626036194caa64c4bbcd2d9b551c2103a617d7c7f6a954",
+    "data/v25/packets/western_esoterism.zip": "7c2156aeeba273e1bd4618170f5862e65244ad8a93cfa6e5038fdea5fb7ecfbc",
+    "data/v26/evidence_spans.json": "bce783f455912fc3c5f30097d30be1a282fe7854035b30261188623aff8c4c41",
+    "reports/000073_deliverable_seal.json": "e11b2fe5184a80421246303d236e344559e0aa5dabec1bca8cc164006ac905c7",
+    "data/v74/clue_inventory.json": "c6eb52937972e5a857a6052310cea66128c9db03307e1916c5a809de040a9810",
+    "data/v74/assisted_return_template.json": "23174ba0ad1b70b112b647d5890d3ace2dfec8fa31b9b52a7b8e79dcf075cc71",
+    "data/v74/review_prompt.txt": "96c5cd3c0616b2c41ca8a303ea6be3ead7f0188e01e5113701edf5592b063bc4"
+  }
+}

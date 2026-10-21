@@ -1,0 +1,31 @@
+{
+  "experiment_id": "inventory_review_v74",
+  "sealed_at_utc": "2026-10-21T01:25:40.843610+00:00",
+  "deliverable_hashes": {
+    "scripts/inventory_review_v74.py": "7186fed892a41d6e252701bfe03ec4aaef1fe63b6a5f9fe7b8ccad687c263889",
+    "scripts/verify_inventory_review_v74.py": "8f053a22bccd80d6c974bc566023def6b643ce63638906bdff7d3219f5ff201a",
+    "src/fl_decipher/inventory_review_v74.py": "7818dd71fffb39bf01ae1869f42e6096bd1b515878c5284b53661886c588275a",
+    "tests/test_inventory_review_v74.py": "115f580c2476a4bd4700d72ebbb346efdaf6e1e5569b78fb3e0ff486e26320a1",
+    "experiments/inventory_review_v74.md": "f97604d604b68620c14d7224fca55327e3ff4863ea67a4726002507df591fb28",
+    "experiments/inventory_review_v74_prompt.md": "99cef020db3312d4504ba727c1b7b4e3167efc943df8adf6ddda7555997e8da5",
+    "experiments/inventory_review_v74.json": "bee3482420a93a5f53e3e81c63c6082582ba94156d26881ce07d134e54d08a30",
+    "reports/000074_interpretation.md": "1911f1895e51ee5cb762ba1351594305ac4b8edcaa3b5171f69e985c76b84ad1",
+    "reports/000074_verification.json": "45f6ec0e3ad8d1912e66704694dd1f578caa37d7914c3e122a1536490854754b",
+    "runs/000074_inventory_review/report.json": "286dbd497fb5f4874dd2da8d747bb018116025cc48a63f4f93985b72fe08205a",
+    "runs/000074_inventory_review/manifest.json": "1a8ca53a4dcaf5c7d35bb16030cd171483d5c2678e3c775fd59f3cf9fd122e64",
+    "data/v74/assisted_return_template.json": "23174ba0ad1b70b112b647d5890d3ace2dfec8fa31b9b52a7b8e79dcf075cc71",
+    "data/v74/assisted_validation.json": "4245f7db043d6b5c6247348fdc6d3c17aea057991728ec64896d05cbf97beea9",
+    "data/v74/attempt_finished.json": "2fb8a7ad408923c4dc2bcb24ac10115483f45acb3c3e72f78520259c41a79348",
+    "data/v74/attempt_started.json": "6ece688cec10791272501b6f0a13653e06f55698d151fb7b8a167664ac35ffbd",
+    "data/v74/clue_inventory.json": "c6eb52937972e5a857a6052310cea66128c9db03307e1916c5a809de040a9810",
+    "data/v74/events.jsonl": "51547aced19033c3f867cd94b708ccfc562869e054f1857b4e7d2e350f920f28",
+    "data/v74/isolation_probe.json": "de258a16e2558a8e8a482f74ac71646f7b225608c29a231b735fe21894b626bd",
+    "data/v74/original_v25_validation.json": "1b014cb482d6def41f8ae296bca7ba1f4fb246e3a60b2f944d93136fba392dbe",
+    "data/v74/preflight.json": "8555566f8c81227d586d6e249f6d927596e6aa1f4eeb5b190be24543fc07c354",
+    "data/v74/return_raw.json": "42a8f0855e229c527eabd8ea3bdd46961d71181edee4351c9a6e80587d11a846",
+    "data/v74/review_for_v25.json": "fc3191ec7fb6ec2fc8e9d8059ec4b73e360835023d581c161deca33c16757f63",
+    "data/v74/review_prompt.txt": "96c5cd3c0616b2c41ca8a303ea6be3ead7f0188e01e5113701edf5592b063bc4",
+    "data/v74/stderr.txt": "d0674dc9ad8f4b964a9bf68979f24ad5100501fcbf5a08311c428c3c3722fab7",
+    "data/v74/workspace_postflight.json": "d1c47943b649b36b6b6a16eb95e4592898a292cef484efa25a181217bfc1e708"
+  }
+}

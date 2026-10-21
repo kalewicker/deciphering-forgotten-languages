@@ -2,22 +2,23 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 73.** This public repository contains code,
+**Latest completed step: experiment 74.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 73](reports/000073_interpretation.md) audited the
-first isolated Codex review's documented coverage. Neither of the two earlier
-unusual spelling clues appears in its return; its exact quoted offsets remain
-valid. The review also supplies one distinct, explicitly uncertain structural
-proposal relative to E26's selected pairs. It is a useful automated proposal,
-with incomplete documented evidence coverage, rather than a final adjudication.
-The [E72 review](reports/000072_interpretation.md) and
-[fresh-session guide](reports/000072_fresh_session_guide.md) remain preserved;
-no second review or natural rescore occurred. Source coverage and opaque meanings
-remain unestablished. The
+Current boundary: [experiment 74](reports/000074_interpretation.md) completed one
+inventory-assisted Codex review of the Western packet. All five known clues
+receive explicit dispositions and valid paired spans, with zero additional
+evidence pairs beyond the disclosed inventory. The reviewer supports a limited
+textual connection; immediate source identity and opaque meanings stay
+unestablished. Its exposure is explicit, and the original independence gate
+remains failed while assisted documentation checks pass. The
+[E72 Risk return](reports/000072_interpretation.md),
+[E73 coverage audit](reports/000073_interpretation.md) and
+[fresh-session guide](reports/000072_fresh_session_guide.md) remain preserved.
+No further review, natural rescore or wider packet window is launched. The
 [programme audit](reports/000071_interpretation.md) still applies: the natural
 benchmark has **0/4 qualifying new independently reviewed works**, E62/E70 remain
 **closed_feasibility_limited**, synthetic feature expansion remains stopped,
