@@ -1,0 +1,14 @@
+{
+  "experiment_id": "review_coverage_v73",
+  "sealed_at_utc": "2026-10-21T00:58:13.488510+00:00",
+  "deliverable_hashes": {
+    "experiments/review_coverage_v73.md": "08b647ee709a1fbd129621abbc4daa7e0a2d461283c89945521008c02d1bb324",
+    "experiments/review_coverage_v73.json": "5e3ea47e2b31bbf300fcd46884143686173b57a6df6ab0bafded9fd0633151a1",
+    "scripts/review_coverage_v73.py": "19cad7a6dc0a7cc0aaa9c46e545829c44df2c0c3e48bbe3dc3364834347017d4",
+    "scripts/verify_review_coverage_v73.py": "5378d812797e5b10e20ce9ef702f883b0cce4cf1390ed675c57ec2da281959af",
+    "reports/000073_interpretation.md": "811efd23cdafb839da4194031f3f009b290883e44df341b70afcca8708af5b79",
+    "reports/000073_verification.json": "9401d3b124397d7ce7d6abdeba5578de59459518efa6691ebea2be51ef38133c",
+    "runs/000073_review_coverage/report.json": "1b34fbd07562826f396c988af70c36c2fd4dd313496307c0cd03fe5164e3bc6d",
+    "runs/000073_review_coverage/manifest.json": "a6da804f2c896264622d6e88bfa399e9b935b4adf5d1be94adc845054bfee511"
+  }
+}

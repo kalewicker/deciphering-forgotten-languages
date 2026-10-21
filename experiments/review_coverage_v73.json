@@ -1,0 +1,54 @@
+{
+  "experiment_id": "review_coverage_v73",
+  "registered_at_utc": "2026-10-21T00:56:05.573948+00:00",
+  "retrospective_exposed_inputs": true,
+  "packet": "data/v25/packets/risk_math.zip",
+  "earlier_appendix": "data/v26/evidence_spans.json",
+  "review_return": "data/v72/review_return_raw.txt",
+  "old_pair_ids": [
+    "R1",
+    "R2",
+    "R3",
+    "R4"
+  ],
+  "old_block_ids": [
+    "R5",
+    "R6",
+    "R7",
+    "R8"
+  ],
+  "spelling_cues": [
+    "possibile",
+    "possibilites"
+  ],
+  "preserved_gate_fields": [
+    [
+      "runs/000026_kamri_source_specificity/gate.json",
+      "/passed"
+    ],
+    [
+      "runs/000027_kamri_residual_context/report.json",
+      "/gate/passed"
+    ],
+    [
+      "runs/000030_paragraph_patterns/report.json",
+      "/structural_development_criterion_passed"
+    ]
+  ],
+  "input_hashes": {
+    "experiments/review_coverage_v73.md": "08b647ee709a1fbd129621abbc4daa7e0a2d461283c89945521008c02d1bb324",
+    "scripts/review_coverage_v73.py": "19cad7a6dc0a7cc0aaa9c46e545829c44df2c0c3e48bbe3dc3364834347017d4",
+    "data/v25/packets/risk_math.zip": "664edd40e2443207b09d906578f3ca19327a903ca9f8d3ca7d4a8b53bf5ea6c3",
+    "data/v26/evidence_spans.json": "bce783f455912fc3c5f30097d30be1a282fe7854035b30261188623aff8c4c41",
+    "data/v72/review_return_raw.txt": "d866b6c9f003321b0f586d59973458021b6cef95ff67f5477dbefb9a2e4ea382",
+    "reports/000026_interpretation.md": "d7747543eb69e977870a619c6a2f7e3e10fa937fae215ea7e35083ce8a68f490",
+    "reports/000027_interpretation.md": "93aed4a05fde5c3135fc09b473ec1c8bce86b188d72d7919f7c8ad5894985db5",
+    "reports/000030_interpretation.md": "d0f0043c5ecb087845653922dcebc2b80cff68c305e00bfc0c9cf089e19fe8b8",
+    "reports/000031_interpretation.md": "43ef79dae8fe8210832181b1abc613019e9419dba1b3447e98109ba0879374b3",
+    "reports/000072_interpretation.md": "22999f8dcefef1d410e5bbfd9d0e26a5e831062d189b2dfa303fd77a441dcb30",
+    "reports/000072_deliverable_seal.json": "446216d879bcdbc1b7d10fc8d4fbddf593b667b2b52a271c0b3683110fcd81dd",
+    "runs/000026_kamri_source_specificity/gate.json": "6fdd077dd8a00ce2486a5a528b01dd29c20629f34976c5879762299b449d0736",
+    "runs/000027_kamri_residual_context/report.json": "d937b3908a30ba154e6f9ab4d32d044e486da64d6224b6b8a95c846bd3192708",
+    "runs/000030_paragraph_patterns/report.json": "d743b81349aab84ac00266a8f44826a2dbd22153a813a96500f4c4a28c3bd8c7"
+  }
+}

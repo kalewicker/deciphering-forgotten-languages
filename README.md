@@ -2,19 +2,22 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 72.** This public repository contains code,
+**Latest completed step: experiment 73.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 72](reports/000072_interpretation.md) completed one
-fresh Codex review of the fixed Risk mathematics packet, with memory injection
-disabled and explicit memory/session-file restrictions tested before launch.
-The returned source relationship is **uncertain**. Its structure and seven exact
-quoted spans pass verification; source coverage and opaque meanings remain
-unestablished. See the [fresh-session guide](reports/000072_fresh_session_guide.md).
-This automated, source-disclosed review remains development evidence. The
+Current boundary: [experiment 73](reports/000073_interpretation.md) audited the
+first isolated Codex review's documented coverage. Neither of the two earlier
+unusual spelling clues appears in its return; its exact quoted offsets remain
+valid. The review also supplies one distinct, explicitly uncertain structural
+proposal relative to E26's selected pairs. It is a useful automated proposal,
+with incomplete documented evidence coverage, rather than a final adjudication.
+The [E72 review](reports/000072_interpretation.md) and
+[fresh-session guide](reports/000072_fresh_session_guide.md) remain preserved;
+no second review or natural rescore occurred. Source coverage and opaque meanings
+remain unestablished. The
 [programme audit](reports/000071_interpretation.md) still applies: the natural
 benchmark has **0/4 qualifying new independently reviewed works**, E62/E70 remain
 **closed_feasibility_limited**, synthetic feature expansion remains stopped,
