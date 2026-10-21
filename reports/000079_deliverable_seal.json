@@ -1,0 +1,29 @@
+{
+  "experiment_id": "context_guard_v79",
+  "sealed_at_utc": "2026-10-21T19:16:21.875920+00:00",
+  "deliverable_hashes": {
+    "experiments/context_guard_v79.md": "44a0cd99cd55ffe7c9a27e9b865e8c7075210088dc263372eb2a7431380b07f8",
+    "experiments/context_guard_v79.json": "556635237ef2513ae44d5ec6589ed5ebc90857b27a1b0d7c70687bb8fefaa383",
+    "src/fl_decipher/context_guard_v79.py": "a9b954511a44f8d88dbf2adcd83b59b9c35f016813a37f032d428cc5708f997e",
+    "scripts/context_guard_v79.py": "f69e6d68c242b70335dbe6b844099cfbe2a840a992afdbcf3b01571b8d801853",
+    "scripts/verify_context_guard_v79.py": "b7eacf8177b72bc96d6ef5ad7fc2d2a4e3df173534ce1241346f15e2ec88bd48",
+    "tests/test_context_guard_v79.py": "12ec160d8ee0aa69c82a1fa1519fcd08d602383f7330664e4cdb62c7b4bbd818",
+    "reports/000079_interpretation.md": "d159a1d20e3d9f1291a28721cadafd98d63142d113c8e30bdb32c770a6806fe8",
+    "reports/000079_verification.json": "c943d657c2756eb251abad953399194f5d9d090ccbafd37252b7791bdfa4df17",
+    "runs/000079_context_guard/fold_00.json": "02598583bfddc9eab62665992ab61bbfdcc8841ae15c0b86d9e5fb303a299d90",
+    "runs/000079_context_guard/fold_01.json": "da0c1d52d01eb9d2f6fffe47614bc0b02e94273225b7456884aefb3dc36c4413",
+    "runs/000079_context_guard/fold_02.json": "4cff1f628c9096501d6f043022bbdf74b646386b539ae708bfa310374860f817",
+    "runs/000079_context_guard/fold_03.json": "216bbd3810573e93798b3ffca88a9d5fe1eddc13fcf4c83d7c00a8c95e7e7f49",
+    "runs/000079_context_guard/fold_04.json": "b1a335331f5f6e24c8cf8dbacc8f4be75518810f0d8a6d717b1b2f55acaac304",
+    "runs/000079_context_guard/fold_05.json": "fb77330473d7804506bd00a1d50a8ad12c2224110a6c1a806f5aada828158ab8",
+    "runs/000079_context_guard/fold_06.json": "94a5964e21bcde33e4d719e23482cc97736ca02ed727546f01679f2b53f52024",
+    "runs/000079_context_guard/fold_07.json": "9090c21e46992d12b89f0f5c0b966fafa936cdd072be58ef7b80167757c18ecf",
+    "runs/000079_context_guard/fold_08.json": "9b4f648e9aadfd3b8c03b5832687f255c3be1498383fa4ecbfef0b18c5f0cd0f",
+    "runs/000079_context_guard/fold_09.json": "5f9583d0ae330d6a496a8433140cac64ce556d52dd9d068c730a27f2492ebf45",
+    "runs/000079_context_guard/fold_10.json": "f7c0213e2fdcfe553ae76a2b8f8d7611558f3f97a741ff986386ec2b999fcc61",
+    "runs/000079_context_guard/fold_11.json": "8a68e883c0eeb6cded807de560d65e9dd2c227895fbe9d0597f64b89fc60407d",
+    "runs/000079_context_guard/fold_12.json": "1cb28531582ad80eb0c7a225274bbd2cc8d44d253f569a6dbed010693f39748a",
+    "runs/000079_context_guard/manifest.json": "1b3506a7949114a79e30bef165241be82cd1545a79fa9ac9db997de1f0eda539",
+    "runs/000079_context_guard/report.json": "22fde641530f06ea7c2c55ae3b2ce48d52c0e2ed897bfdc8e2c531a37863bb77"
+  }
+}

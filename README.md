@@ -2,23 +2,23 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 78.** This public repository contains code,
+**Latest completed step: experiment 79.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 78](reports/000078_interpretation.md) completes the
-read-only diagnosis of E77's failed word-order gate. Among known-word targets,
-291 unseen pairs after seen contexts incur losses exceeding gains on 633 seen
-pairs. Only one target has a context absent from training, giving zero gain via
-backoff. Of 994 unknown targets, 834 forms are absent from training and 160 occur
-once. All 13 groups, 1,918 targets and 99 saved controls remain accounted for.
-No predictions, parameters or corpus changed; E77's gate remains failed.
-A future model proposal must address count reliability and unknown pooling with
-fixed training-only choices and known-word safeguards; no replacement model or
-parameter search is launched. [E77](reports/000077_interpretation.md) preserves
-the original test and [E76](reports/000076_interpretation.md) its corpus boundary.
+Current boundary: [experiment 79](reports/000079_interpretation.md) passes the
+fixed development gate for one constrained context model. It gains 0.072877
+bits/target over the unigram across all 13 groups, improves known-target loss by
+0.146267 bits and beats all 99 shuffled-training controls. Unknown targets retain
+exactly their unigram probability. This is an E78-informed result on the same
+exposed panel, not independent confirmation. E77's failed gate stays failed.
+The next substantive proposal is bounded intake of genuinely new reserved material
+before confirmation, preserving the fixed rule. No further tuning or acquisition
+is launched here. [E78](reports/000078_interpretation.md) retains the diagnosis,
+[E77](reports/000077_interpretation.md) the original comparison, and
+[E76](reports/000076_interpretation.md) the corpus boundary.
 
 The [E75 reviewer-control result](reports/000075_interpretation.md) remains a narrow
 3/3 genuine and 2/2 false literal-claim result. Independent semantic review remains
