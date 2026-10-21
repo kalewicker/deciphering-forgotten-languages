@@ -24,6 +24,13 @@ benchmark has **0/4 qualifying new independently reviewed works**, E62/E70 remai
 **closed_feasibility_limited**, synthetic feature expansion remains stopped,
 and no natural decipherment claim has been validated.
 
+**Next step is resource-gated, not launched:** the
+[2026-10-21 evidence gate](reports/next_evidence_gate_2026-10-21.md) specifies the
+reviewer disclosures and prospective intake needed to assess one existing packet
+independently. That reviewer is not currently available. E75 remains the latest
+experiment; another Codex review or control batch is not scheduled. A supported
+review of an exposed packet would still not supply an untouched benchmark work.
+
 The [2026-10-20 progress review](reports/progress_review_2026-10-20.md) recommends
 a comparator capacity check and a fixed stopping budget for the current discovery
 branch. The final-batch stopping rule was exercised in E62; sealed historical protocols remain unchanged.
