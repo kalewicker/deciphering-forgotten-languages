@@ -2,19 +2,19 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 74.** This public repository contains code,
+**Latest completed step: experiment 75.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 74](reports/000074_interpretation.md) completed one
-inventory-assisted Codex review of the Western packet. All five known clues
-receive explicit dispositions and valid paired spans, with zero additional
-evidence pairs beyond the disclosed inventory. The reviewer supports a limited
-textual connection; immediate source identity and opaque meanings stay
-unestablished. Its exposure is explicit, and the original independence gate
-remains failed while assisted documentation checks pass. The
+Current boundary: [experiment 75](reports/000075_interpretation.md) passes one
+fixed known-truth literal-clue control test: a fresh Codex session supports all
+three genuine claims and rejects both deliberately false claims, with zero false
+supports. The private key was denied to its tools and every judgment/quote was
+independently reconstructed. These five dependent controls establish neither
+general natural-review reliability nor opaque meanings/source identity. The
+[E74 assisted review](reports/000074_interpretation.md),
 [E72 Risk return](reports/000072_interpretation.md),
 [E73 coverage audit](reports/000073_interpretation.md) and
 [fresh-session guide](reports/000072_fresh_session_guide.md) remain preserved.

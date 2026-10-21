@@ -1,0 +1,41 @@
+{
+  "experiment_id": "reviewer_controls_v75",
+  "registered_at_utc": "2026-10-21T01:38:20.261778+00:00",
+  "review_id": "fl-literal-v75-e64fae2f-25d0-49e8-8396-3b7c4466f212",
+  "model_attempt_budget": 1,
+  "timeout_seconds": 900,
+  "case_ids": [
+    "C01",
+    "C02",
+    "C03",
+    "C04",
+    "C05"
+  ],
+  "genuine_denominator": 3,
+  "false_denominator": 2,
+  "cli_version": "codex-cli 0.163.0-alpha.10.2",
+  "input_hashes": {
+    "experiments/reviewer_controls_v75.md": "2dfb6ff3af9a39fda7461e35f620c2074af79241e0523a8a9a0f677483fed212",
+    "experiments/reviewer_controls_v75_prompt.md": "85eac6ee451e21969fe51fad46b3266569da32bca7c8129ee86857d2d418e928",
+    "scripts/reviewer_controls_v75.py": "698866910ce422425a5ec95c2b00def05e1e139f868b8ecdb73a425740fcaa93",
+    "src/fl_decipher/reviewer_controls_v75.py": "25dd345e5d58ba9867d7b7e4dcc8ef28dfac8535a62fc58fa37173ee7f03e939",
+    "scripts/inventory_review_v74.py": "7186fed892a41d6e252701bfe03ec4aaef1fe63b6a5f9fe7b8ccad687c263889",
+    "scripts/automated_packet_review_v72.py": "00eb643b6d3d3a2325626036194caa64c4bbcd2d9b551c2103a617d7c7f6a954",
+    "data/v74/preflight.json": "8555566f8c81227d586d6e249f6d927596e6aa1f4eeb5b190be24543fc07c354",
+    "data/v25/packets/western_esoterism.zip": "7c2156aeeba273e1bd4618170f5862e65244ad8a93cfa6e5038fdea5fb7ecfbc",
+    "data/v26/evidence_spans.json": "bce783f455912fc3c5f30097d30be1a282fe7854035b30261188623aff8c4c41",
+    "reports/000074_deliverable_seal.json": "95c4b304573abeffc3767c84e9b42dceb6cd6318038a0ee2acbde5026d91ea24",
+    "data/v75/clue_inventory.json": "0916d8a4f698b8e898748b0149e6a064bb69bbe677939b1d7b262d6af5c451f8",
+    "data/v75/review_prompt.txt": "235d1af27ca561238a3fd3154be006957704401a748565ca8ef3d761a90b30a0",
+    "data/v75/review_material_manifest.json": "58477a2472b6c2e0cf13fe76251e9c615665b70cfff64692b614e3858f985cc7",
+    "data/v75/oracle.json": "ebb18ad2051d1226a52c2f311d2bed8ffb2288de25a4bc0e2e5fcf34f3542aae",
+    "data/v75/return_template.json": "de6dc49711cabc2f657a47cfabce0af3a16d0f85b6ba04e2e46e98854a579179"
+  },
+  "material_copy_hashes": {
+    "clue_inventory.json": "0916d8a4f698b8e898748b0149e6a064bb69bbe677939b1d7b262d6af5c451f8",
+    "review_material_manifest.json": "58477a2472b6c2e0cf13fe76251e9c615665b70cfff64692b614e3858f985cc7",
+    "fl_post.txt": "a0a342f47500c854c0464a59d4148b3e1158bb1da87af083c7d08dac97022df8",
+    "return_template.json": "de6dc49711cabc2f657a47cfabce0af3a16d0f85b6ba04e2e46e98854a579179",
+    "publisher_window.txt": "e71cba3570184634fe6c721fbc21080bc49141ae53b9eca857e35e277f077146"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "experiment_id": "reviewer_controls_v75",
+  "sealed_at_utc": "2026-10-21T01:44:05.531926+00:00",
+  "deliverable_hashes": {
+    "scripts/reviewer_controls_v75.py": "698866910ce422425a5ec95c2b00def05e1e139f868b8ecdb73a425740fcaa93",
+    "scripts/verify_reviewer_controls_v75.py": "818de86d8fa786f3c1946cb883272d4b388ed206a74094fbb5f18471198cbc5d",
+    "src/fl_decipher/reviewer_controls_v75.py": "25dd345e5d58ba9867d7b7e4dcc8ef28dfac8535a62fc58fa37173ee7f03e939",
+    "tests/test_reviewer_controls_v75.py": "8d0cfcf1a455af8fb91517136107983d1f70347f6d13354038e8ade8182faea9",
+    "experiments/reviewer_controls_v75.md": "2dfb6ff3af9a39fda7461e35f620c2074af79241e0523a8a9a0f677483fed212",
+    "experiments/reviewer_controls_v75_prompt.md": "85eac6ee451e21969fe51fad46b3266569da32bca7c8129ee86857d2d418e928",
+    "experiments/reviewer_controls_v75.json": "edaae307e9ca86f4ed99380629abb28043b933bca85efc956e5a2130225797ca",
+    "reports/000075_interpretation.md": "aad612575b12144224c97515202f0ca32358095e820117e9dfc2acb3465834d7",
+    "reports/000075_verification.json": "be427a98d8d57d234dc6a0317ca4959f08ef30d4e1b8082ef022bdfe9f6f5ab1",
+    "runs/000075_reviewer_controls/report.json": "1fb6fe73a05afe4f7626fd225f260f3991b76568a8e2da18bb3a9e5da1547f93",
+    "runs/000075_reviewer_controls/manifest.json": "439b8c5329596ed2c4cec94b514c6df9a2ddc93ce2d4d70aa12551176cee07ae",
+    "data/v75/attempt_finished.json": "43d699a652fa9b413c68fc72503ee4e56f9f9f5cbf01c31fc0fffd1a59dfc76f",
+    "data/v75/attempt_started.json": "2bec124d7cbbbafe83e89087bd851810477af4316bd3314ef27a66b459ec0e16",
+    "data/v75/clue_inventory.json": "0916d8a4f698b8e898748b0149e6a064bb69bbe677939b1d7b262d6af5c451f8",
+    "data/v75/events.jsonl": "fba96e11846437b6060b811599fb70f5b2e518b9afe936a03f5701cd9274aa9d",
+    "data/v75/isolation_probe.json": "59748702b6474523005e9b425bb245225bc2f0f4fc2379b1743ddbbbc0527411",
+    "data/v75/oracle.json": "ebb18ad2051d1226a52c2f311d2bed8ffb2288de25a4bc0e2e5fcf34f3542aae",
+    "data/v75/prediction_receipt.json": "5e272218a2bce91dba58e75d296e08694d4512ed9e6256e9c31c6eaeffba0eb5",
+    "data/v75/preflight.json": "cb6f3ac6d5d1068ecebe46aaf98d5b23b0bc2af8044df6fc655694bcdeb4285d",
+    "data/v75/return_raw.json": "369ae603723598d71baba8ccb0babdc9e11bb007c137bd06df577cf12dc71123",
+    "data/v75/return_template.json": "de6dc49711cabc2f657a47cfabce0af3a16d0f85b6ba04e2e46e98854a579179",
+    "data/v75/review_material_manifest.json": "58477a2472b6c2e0cf13fe76251e9c615665b70cfff64692b614e3858f985cc7",
+    "data/v75/review_prompt.txt": "235d1af27ca561238a3fd3154be006957704401a748565ca8ef3d761a90b30a0",
+    "data/v75/stderr.txt": "6650a7a21330343fd3007ab3ae734d94c2a7c40f87af570e00d1f65026c99cc1",
+    "data/v75/workspace_postflight.json": "1864f4115b3ba58b4bcbbb1c398b7d67a0d6c21c2dabb1dcfea312e0bff5a339"
+  }
+}
