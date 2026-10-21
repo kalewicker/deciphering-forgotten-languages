@@ -1,0 +1,69 @@
+{
+  "experiment_id": "terminal_attribution_v70",
+  "sealed_at_utc": "2026-10-21T00:21:11.468052+00:00",
+  "deliverable_hashes": {
+    "experiments/terminal_attribution_v70.md": "95feadeedd0d58710b4a8b78d0e86de6003d55918fdab5ce810e6fdc1aca3958",
+    "experiments/terminal_attribution_v70.json": "5a17c245b9157482345dcbfcac6812e2fdabb46c58ca7ab5c2317a52d0839650",
+    "src/fl_decipher/terminal_attribution_v70.py": "5ff6350408b1cc0e7a0a2e837a402e8d23e15ed25312b3e77316b8ee1c3205d5",
+    "scripts/terminal_attribution_v70.py": "2827b7301751005da27d997169a19f186e39fe83baa8d1655c457970b7180e86",
+    "scripts/verify_terminal_attribution_v70.py": "a67f2a3fa371278b0658924f4924697728f4b9bf85bb8d00fe80eab5640c0675",
+    "tests/test_terminal_attribution_v70.py": "649c4cb691e638b7c8d1b5cbe5ac308aa25a859013f2c5b03d4b3b5a45a5864d",
+    "reports/000070_interpretation.md": "ba27375393d77cb8a54ced9f76647d78c8daff2d09596f6e2c1e96293893eb72",
+    "reports/000070_verification.json": "99dd2137745b53e1c3a2ba33a6d9cdea11afcb33845d2b1f343a6c1f7934923a",
+    "runs/000070_terminal_attribution/report.json": "0a2bd75146d93577380440c009cc6a6d56e6958a8d86cd0a5a12524604d2668b",
+    "runs/000070_terminal_attribution/manifest.json": "829700bcd406d42ff32c47b85aebb291628b5498b91117f97c767b1935d1f850",
+    "data/v70/capture_preflight.json": "afe3fbae695bfb3a969791bf2a326ee13fa3136ec8665f9854863edc00851487",
+    "data/v70/native_export.json": "9270b86a9a4394e50d45b9b24452e33c179545991683925b70533ca3589dee77",
+    "data/v70/preflight.json": "1726d1a144027e9eda8de9ffbcd37d0eb4ac5985587be3a20be7d03434009558",
+    "data/v70/search/intent0.json": "c599e27468c6b7e47e1936321ab5cbe8798616094c5eabd2463bdd8dd0395469",
+    "data/v70/search/intent1.json": "b5cbc70ea3d9fbc9ab7d592b78c7d2728bc00dfab3fa7aeabb66c49d471c4185",
+    "data/v70/search/intent2.json": "97296a936c45c103365d4a994b3cdf0c2141bf5a47df6e7904a18595db6ca87d",
+    "data/v70/search/intent3.json": "9ceb0b04f211162634c5f837b8d3f32f652333094e3036e5efb4f0931751d21a",
+    "data/v70/search/response0.json": "1d8e7a751973f97558c06d1a27e9048ae46e1c8227aa187ada7bed11e744463b",
+    "data/v70/search/response1.json": "453eac58874c0d1cfc1757eacf5d6692704f7c2be28b3effc29a5c7cc0afbcf3",
+    "data/v70/search/response2.json": "692b93fe6fa9369d20e6ac680e068fd87c3d3c9503d9c0a7e63df4ab6b5b7fe5",
+    "data/v70/search/response3.json": "fb61a3eb82b1dcc7352cf480faa79ec89370bd9fc98c0aba6d433afb2bede4ae",
+    "data/v70/selection.json": "e9316a7cf01198ab62b6efc549244612ebad7bcb53ae8dc94a63c265240f522c",
+    "data/v70/slot_outcomes.json": "2e2071d4a96c3985558eeaa81c4a2f31759f3cd54315ed5d3bc665d99c35c3ab",
+    "data/v70/targets.json": "8885d151b03e10db92a640d0c47aee53e055147a708abe777c46e46c12699784"
+  },
+  "validation": {
+    "full_workspace_tests_passed": 541,
+    "isolated_public_tests_passed": 502,
+    "archive_tests_excluded_publicly": 39,
+    "prior_runs_preserved": 69
+  },
+  "search_call_denominator": 4,
+  "search_tool_calls": 4,
+  "parsed_header_rows_per_call": [
+    12,
+    11,
+    12,
+    4
+  ],
+  "wordlim_markers_per_call": [
+    12,
+    12,
+    12,
+    4
+  ],
+  "response_formats_supported": [
+    true,
+    false,
+    true,
+    true
+  ],
+  "native_slot_denominator": 2,
+  "native_routes_attempted": 0,
+  "native_controls_not_run": true,
+  "outcome": "closed_feasibility_limited",
+  "wording_discovery_route_closed": true,
+  "native_complete_target_successes": 0,
+  "e69_no_external_lead_preserved": true,
+  "e68_negative_result_preserved": true,
+  "e66_metadata_gate_preserved_value": false,
+  "historical_e63_gate_value": false,
+  "independent_scientific_review": false,
+  "semantics_or_source_identity_validated": false,
+  "original_quote_author_authenticated": false
+}
