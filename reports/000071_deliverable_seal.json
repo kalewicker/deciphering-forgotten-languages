@@ -1,0 +1,16 @@
+{
+  "experiment_id": "programme_audit_v71",
+  "sealed_at_utc": "2026-10-21T00:29:59.312172+00:00",
+  "deliverable_hashes": {
+    "experiments/programme_audit_v71.md": "68393f751459b8de0495b91754b66ed373da3cb8793dc543aa3c87b70ae1e7a9",
+    "experiments/programme_audit_v71.json": "e9f96ae47a8aa15e0022de263a10fa8a438ea3c05edb1e014b8b85a65e97924b",
+    "experiments/programme_audit_v71_revision1.json": "616d7843c19d204c3522d0090e197698d02737adef1664ac6d3f4c83639da769",
+    "scripts/programme_audit_v71.py": "004a894ff19f5f1e18de61b1bb109da0a63c847d6a652cf6312c177e7d68819a",
+    "scripts/programme_audit_v71_revision1.py": "cd900f0099a39fced702dd49a4d380cd5d52f6bd68985e7d6bace4a3c76785da",
+    "reports/000071_execution_note.json": "d28e6f20f60e59a2cb4c1886129753d05cb4ed019ae0b26d6a9ff54a29d87e35",
+    "reports/000071_interpretation.md": "9576cc0776b2de93ec4c04f6387e045215a46a9116fd63e7c42412be33d743fa",
+    "reports/000071_verification.json": "761e0a25e6d80bcd32229ce3c854d883f08d9531e510eb7f5b915e19feafe8fc",
+    "runs/000071_programme_audit/report.json": "33c0bc4cf9d1aed9ded67735b98da898a5d17084e3a51660077d24b50c3650b1",
+    "runs/000071_programme_audit/manifest.json": "f19c954252f0854317c496ed1185eb4c80ab22be72acbc68226665ed8e424819"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "programme_audit_v71",
+  "registration_sha256": "616d7843c19d204c3522d0090e197698d02737adef1664ac6d3f4c83639da769",
+  "historical_manifests": 70,
+  "historical_seals": 56,
+  "registered_claims": 37,
+  "checks_evaluated": 46476,
+  "checks_failed": 0,
+  "integrity_passed": true,
+  "network_requests": 0,
+  "historical_algorithms_rerun": false,
+  "independent_scientific_review": false,
+  "natural_benchmark_capacity_met": false,
+  "semantic_admissions": 0,
+  "verified_at_utc": "2026-10-21T00:29:59.299282+00:00",
+  "full_ledger_sha256": "33c0bc4cf9d1aed9ded67735b98da898a5d17084e3a51660077d24b50c3650b1",
+  "historical_manifest_checks_rechecked_with_existing_verifier": 70,
+  "tests_full_workspace": 541,
+  "tests_isolated_public_export": 502,
+  "archive_dependent_test_exclusions": 39,
+  "initial_schema_failure_preserved": "reports/000071_execution_note.json",
+  "scope": "Saved integrity and exact registered assertions; no historical algorithm replay or independent scientific review."
+}

@@ -2,25 +2,23 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 70.** This public repository contains code,
+**Latest completed step: experiment 71.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 70](reports/000070_interpretation.md) closes
-this saved post's wording-led discovery route as **closed_feasibility_limited**.
-Four fixed searches over two other exposed English blocks filled neither native
-slot; no native capture or quotation/control test occurred. One search response
-failed the frozen boundary gate (12 markers, 11 titled headers), so its unavailable
-status remains visible. The complete-target criterion and stopping budget were
-preserved. E69's no-lead result, E68's negative literal screen, E66/E63's original
-failed gates and E62's ANITA closure remain intact. Next is an offline programme
-closeout/progress audit before choosing a materially different evidence boundary.
-Original attribution and opaque transformations remain unresolved. No meanings,
-immediate source identity, independent review or untouched benchmark evidence
-is admitted. Natural-benchmark capacity remains unmet, and synthetic feature
-expansion is stopped. No natural decipherment claim has been validated.
+Current boundary: [experiment 71's programme audit](reports/000071_interpretation.md)
+consolidates the evidence and closes this cycle of discovery work. E62's ANITA
+comparator route and E70's wording route remain **closed_feasibility_limited**;
+their unrun comparisons and controls remain unrun. The natural benchmark still
+has **0/4 qualifying new independently reviewed works**. The proposed next step
+is to resolve independent review access using one existing source-disclosed
+packet, before investing in more acquisition or model features. No reviewer is
+currently assigned; the proposal is not an executed review. Such a review would
+remain development evidence. Original attribution and opaque transformations
+remain unresolved, synthetic feature expansion remains stopped, and no natural
+decipherment claim has been validated.
 
 The [2026-10-20 progress review](reports/progress_review_2026-10-20.md) recommends
 a comparator capacity check and a fixed stopping budget for the current discovery

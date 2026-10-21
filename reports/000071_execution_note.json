@@ -1,0 +1,8 @@
+{
+  "recorded_at_utc": "2026-10-21T00:29:06.792048+00:00",
+  "initial_execution": "scripts/programme_audit_v71.py",
+  "outcome": "failed_before_output",
+  "error": "KeyError: deliverable_hashes at historical E15 seal",
+  "historical_evidence_changed": false,
+  "correction": "Revision 1 accepts the historical E15 deliverables field as well as the later deliverable_hashes field. Original registration and code preserved; claims, inventory and criteria unchanged."
+}
