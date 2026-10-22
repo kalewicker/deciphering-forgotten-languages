@@ -2,21 +2,24 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 82.** This public repository contains code,
+**Latest completed step: experiment 83.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 82](reports/000082_interpretation.md) reaches the
-archive provider but rejects its Kamri listing replay: 12/13 checks pass, while
-the saved body digest differs from the CDX record. Two requests ran; candidate
-selection and all post requests were skipped, leaving **0/4 captures**. This is a
-provenance mismatch, not absence of suitable posts. The next proposed step is a
-read-only diagnosis of the saved digest/transport layers; no repair, new request
-or scoring is launched. [E81](reports/000081_interpretation.md) retains unresolved
-live-host transport and [E80](reports/000080_interpretation.md) its failed intake.
+Current boundary: [experiment 83](reports/000083_interpretation.md) reproduces
+E82's digest mismatch but leaves its cause unresolved. Both E63's matching replay
+and E82's mismatching replay used gzip decoding; all seven fixed archive-marker
+searches return zero. The encoded transfer/original WARC payloads are absent from
+the registered inputs. No body transformation, new request, candidate selection
+or model score occurred. E82 stays rejected with **0/4 captures**. Progress needs
+original archival payload evidence or another documented corpus resource, under a
+separate scope. E83 proposes no more checks of the same saved layers.
 
+[E82](reports/000082_interpretation.md) preserves the failed archive intake,
+[E81](reports/000081_interpretation.md) unresolved live-host transport, and
+[E80](reports/000080_interpretation.md) the failed native intake.
 [E79](reports/000079_interpretation.md) retains its positive development result:
 0.072877 bits/target gain across all 13 exposed groups with unknown mass fixed.
 It remains unconfirmed on new material. [E78](reports/000078_interpretation.md)

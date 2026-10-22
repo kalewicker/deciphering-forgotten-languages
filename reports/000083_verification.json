@@ -1,0 +1,68 @@
+{
+  "experiment_id": "digest_layers_v83",
+  "verified_at_utc": "2026-10-22T20:24:45.885707+00:00",
+  "execution_revision": 1,
+  "independent_reconstruction": {
+    "verified": true,
+    "captures": 2,
+    "markers_per_capture": 7,
+    "e82_mismatch_reproduced": true,
+    "cause_status": "unresolved",
+    "network_requests": 0,
+    "e82_gate_value": false
+  },
+  "full_tests_passed": 603,
+  "isolated_public_tests_passed": 564,
+  "archive_exclusions": 39,
+  "e82_sealed_files_unchanged": 24,
+  "original_preparation_unchanged": true,
+  "original_runner_executed": false,
+  "capture_summary": [
+    {
+      "id": "E63",
+      "body_bytes": 209306,
+      "telemetry_size_download": 33461,
+      "saved_body_matches_cdx": true,
+      "prefix_signatures": {
+        "gzip": false,
+        "utf8_bom": false,
+        "utf16_le_bom": false,
+        "utf16_be_bom": false
+      },
+      "marker_positions": {
+        "BEGIN WAYBACK TOOLBAR INSERT": [],
+        "END WAYBACK TOOLBAR INSERT": [],
+        "wombat.js": [],
+        "bundle-playback.js": [],
+        "web-static.archive.org": [],
+        "__wm.init": [],
+        "WB_wombat_Init": []
+      }
+    },
+    {
+      "id": "E82",
+      "body_bytes": 863760,
+      "telemetry_size_download": 490079,
+      "saved_body_matches_cdx": false,
+      "prefix_signatures": {
+        "gzip": false,
+        "utf8_bom": false,
+        "utf16_le_bom": false,
+        "utf16_be_bom": false
+      },
+      "marker_positions": {
+        "BEGIN WAYBACK TOOLBAR INSERT": [],
+        "END WAYBACK TOOLBAR INSERT": [],
+        "wombat.js": [],
+        "bundle-playback.js": [],
+        "web-static.archive.org": [],
+        "__wm.init": [],
+        "WB_wombat_Init": []
+      }
+    }
+  ],
+  "cause_status": "unresolved",
+  "network_requests": 0,
+  "new_predictions": false,
+  "e82_gate_value": false
+}

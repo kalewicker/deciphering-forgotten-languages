@@ -1,0 +1,22 @@
+{
+  "experiment_id": "digest_layers_v83",
+  "execution_revision": 1,
+  "sealed_at_utc": "2026-10-22T20:24:45.886424+00:00",
+  "deliverable_hashes": {
+    "experiments/digest_layers_v83.md": "5513391e7a29138a3071fbb3a03aa34e2dd22071113f20ad5fdb7d30ff6f284b",
+    "experiments/digest_layers_v83.json": "0013c25f9e7e1ad1ec622329b37102c5980df71edee8b501e4ac789ffd6b3009",
+    "experiments/digest_layers_v83_revision1.md": "63a7b3314c677e04204b72910f092c33fdb97b208daa084d46bd3d0a83a21fcb",
+    "experiments/digest_layers_v83_revision1.json": "d81ac17439be7f3f29a0788be54b0e607c447d3b66194f897107bff631e49aff",
+    "src/fl_decipher/digest_layers_v83.py": "7ede33f2a80dad8f91d12e9ecd8343bbb30f2e4e3f373fad3c70e6ec586628d8",
+    "scripts/digest_layers_v83.py": "0aaae53891e03f614eedc97f2a3eea115126d68707b735be3242bd08e2505a3b",
+    "scripts/verify_digest_layers_v83.py": "adf95341c648699cf0a3ec5018fde7f52a9dbc4a11023885f15f45d6c54eeeab",
+    "scripts/digest_layers_v83_revision1.py": "4863c874203cd38a5f95b65dbb02f627c33135ff0822e280ac01b8bafa070577",
+    "scripts/verify_digest_layers_v83_revision1.py": "ac20f0a93a808c4f83aaba568fffafc94ec8a0940ac9424c8f83f4350a4f928a",
+    "tests/test_digest_layers_v83.py": "7408df1d16f06881ec4fe1136cfeb748ce7bd9a710b53e94ead0821fe368655b",
+    "tests/test_digest_layers_v83_revision1.py": "9c58d08d1c25cdc893e2fe8c4e7a24e783d54c36fec73068a4a18d187648f8f4",
+    "reports/000083_interpretation.md": "d7071cfd6d23844553e6fbac8509bb01bea2a6aaa6ee863a314bfb9169e450e8",
+    "reports/000083_verification.json": "3ca23bd8a336b50d1217a448ed9e9803c64a44e333376befdf2f22eb6a54c407",
+    "runs/000083_digest_layers_revision1/manifest.json": "ceacdf8b48402b4dc400998d09fe08076cdfe1563298ebe77e812512e28ad5d5",
+    "runs/000083_digest_layers_revision1/report.json": "74892410e70cdab5e4ee689288ecbcd60cbb04721a715f1faf28ba52b7cb7dc4"
+  }
+}
