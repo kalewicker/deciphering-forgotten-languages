@@ -1,0 +1,28 @@
+{
+  "experiment_id": "warc_locator_v84",
+  "sealed_at_utc": "2026-10-22T20:35:47.613506+00:00",
+  "deliverable_hashes": {
+    "experiments/warc_locator_v84.md": "9ba9b13ea06da4218f30ddffb56a218a8d9ead91d57f3bb4714f4e6805d0f0b6",
+    "experiments/warc_locator_v84.json": "b9fed7d8eea0f5dfdc8c10aa386f92d5d11a9d1383cc3e54d17aceb0bfdad85d",
+    "src/fl_decipher/warc_locator_v84.py": "c43b33f9c09c6141e02adf86524a82a316d917356ebaaba08b08a8a1c6aef173",
+    "scripts/warc_locator_v84.py": "3fd30d1205f30053443840efb146296bf57bebc5722ce53351fe6c3bde526c1d",
+    "scripts/verify_warc_locator_v84.py": "3e53ce659c10775f93a42045bc8ce71e30fd56dd1de1925b055179bf66b47a9f",
+    "tests/test_warc_locator_v84.py": "282dd6a7fb5b227fe2cb1db4e4e9f5a5bc8b079cb43b792e71f1008694b3d5f9",
+    "reports/000084_interpretation.md": "a6e8fa02b4ca89a067302d8e5f90b050ba0d3e0176bf0890bc4e5ffe7ffeef0a",
+    "reports/000084_verification.json": "a3fb85198a9cca545fac58acad9fdef9523af82a43bddb944aca7e5fa4dd7dc3",
+    "runs/000084_warc_locator/manifest.json": "6b5c5c5d5fc34c9a4e5c3d261d71e1a2cb480e83a8a8e10e717746c900aace38",
+    "runs/000084_warc_locator/report.json": "97007ebeae8c9c173fdd29c86d728d6ac6775bc1f823435222883dd107b0565d",
+    "data/v84/acquisition/item/body.bin": "406ad0b028bf9fa4f236f45d2a6306926704e02ddbedc3e975bc43fc68d9b753",
+    "data/v84/acquisition/item/headers.txt": "52257128e36137ff030b7ba1d78352d346eaea7d314e660f0638a84c87a4963b",
+    "data/v84/acquisition/item/intent.json": "04bdeae878032aa33017f8df2783c046cb83b4366feb132490e914a36ff39eaf",
+    "data/v84/acquisition/item/receipt.json": "060de81e4993823cb4fb22f7131aadfff5e273467535c7f0d8616cd582673507",
+    "data/v84/acquisition/item/stderr.bin": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/v84/acquisition/item/stdout.bin": "5ce544a01fd0257f404767586c0e5c94f5f9bde8d5f2101597706f6e4afaddbd",
+    "data/v84/acquisition/locator/body.bin": "6594590f015e72816c32565d61cf769a66140325eea7e28c24ff0aa3bfb1cbe2",
+    "data/v84/acquisition/locator/headers.txt": "f27fff91c4398264b1fbeb94e5cfb8e93b28d4ba9d12869924b250cbfa96b1e3",
+    "data/v84/acquisition/locator/intent.json": "ed14306629b1112b750b82c7f8f942c47872536a910cb817b6ef288918196412",
+    "data/v84/acquisition/locator/receipt.json": "20a4f188f7a91dfe24dd83e35093cc8ad6681f586aa9362181ee341f59d09f4d",
+    "data/v84/acquisition/locator/stderr.bin": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/v84/acquisition/locator/stdout.bin": "bf826327cecc1073e96fc644e8c1166ec693848d9c1abc678773f1dcedf69e88"
+  }
+}

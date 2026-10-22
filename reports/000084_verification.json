@@ -1,0 +1,34 @@
+{
+  "experiment_id": "warc_locator_v84",
+  "verified_at_utc": "2026-10-22T20:35:47.612538+00:00",
+  "independent_reconstruction": {
+    "verified": true,
+    "attempts": 2,
+    "bounded_record_feasible": false,
+    "WARC_download_attempted": false,
+    "locator_reason": "filename_mismatch",
+    "item_reason": "restricted_or_unknown_access_flags",
+    "e82_gate_value": false
+  },
+  "full_tests_passed": 609,
+  "isolated_public_tests_passed": 570,
+  "archive_exclusions": 39,
+  "e83_sealed_files_unchanged": 15,
+  "cdx_locator_row": {
+    "timestamp": "20260222130841",
+    "original": "https://forgottenlanguages-full.forgottenlanguages.org/search/label/Kamri",
+    "statuscode": "200",
+    "mimetype": "text/html",
+    "digest": "5MTUCDM5W7ELKVSXEIWA2HEBBYZMHDC7",
+    "filename": null,
+    "offset": null,
+    "length": "493318"
+  },
+  "item_access_restricted_flag": "true",
+  "file_private_flag": "true",
+  "listed_file_size": "1077728985",
+  "WARC_download_attempted": false,
+  "new_predictions": false,
+  "confirmation_eligibility": "unresolved",
+  "semantic_benchmark_qualifying_works": 0
+}
