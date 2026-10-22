@@ -1,0 +1,30 @@
+{
+  "experiment_id": "archive_intake_v82",
+  "sealed_at_utc": "2026-10-22T20:12:06.028445+00:00",
+  "deliverable_hashes": {
+    "experiments/archive_intake_v82.md": "05f336244ee305ff308b2afb3486728fcbc2147e76b959abda08792e91366806",
+    "experiments/archive_intake_v82.json": "fcb62220c9d1cefcd4a76daebefff3de00ef836e9811a7ad18f17711a71d8b37",
+    "src/fl_decipher/archive_intake_v82.py": "f3522b8d26dbe7c3468d967a9656ae4b972494ddae6f3e6e43defa1f095f230a",
+    "scripts/archive_intake_v82.py": "5561e729f0a86fc4caead84a4c5513f9d19147a386ac3d02e34b2ecad4112801",
+    "scripts/verify_archive_intake_v82.py": "4dac997ea7a47e007410a7d86a014ab519b29130308aeb8567b90aa82cbeb90a",
+    "tests/test_archive_intake_v82.py": "c4be08efce56cdcaaf0df3a324bc6e55a8108dfded5199934b97e909185ab7c9",
+    "reports/000082_interpretation.md": "97dec3fadefd7de89339e83ddeaf69ac35c78f886f6d34c81034b715dc6932cf",
+    "reports/000082_verification.json": "59d8844f7b363fb8ec353d5bf1d6fcf0af2227a6bfca3a63df84ddb4ce55434b",
+    "runs/000082_archive_intake/manifest.json": "6f0607105e0095d3bc12b26bdf775d91081deb0d4c445bd3258650fa8ffa3e4b",
+    "runs/000082_archive_intake/report.json": "c66b603686e106433d38b5d4b9112a236d17623a516d3ad885aa915d3377cbfd",
+    "data/v82/acquisition/label_index/body.bin": "a66bf36d5fb8c49e88c68dd71b6b09f6423a3aba27a15e272a3d78a4b9c4a1ee",
+    "data/v82/acquisition/label_index/headers.txt": "3c7be02915d18cde28f35ab2284a7384558590b1d07f57624a9392a9700e6550",
+    "data/v82/acquisition/label_index/intent.json": "e5a2baacab03ade6879cf66d736d124d97e14ce92d33e6535468e1f7598d2680",
+    "data/v82/acquisition/label_index/receipt.json": "b51c3d0c1692bf5bfcf5d725abd2ca6303ea66c08367bb804d91ee80cc7cd698",
+    "data/v82/acquisition/label_index/stderr.bin": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/v82/acquisition/label_index/stdout.bin": "b04919b6a71d0cb117a5fe9e99a0c38cf986867e9d3f56994bd6ab694d8c9313",
+    "data/v82/acquisition/label_replay/body.bin": "8bb952394a00261c1648d10cd3d1a4679880b76bb2904380869d904674c0524e",
+    "data/v82/acquisition/label_replay/headers.txt": "4a4fe97cdad984f7d89227dcb890150bd9ebfdc545ebe12a1bde923d7536e350",
+    "data/v82/acquisition/label_replay/intent.json": "01f676bc10fa8a033a2fb186afd294bf2d333b95d0f5a83e75be199d4a72bb30",
+    "data/v82/acquisition/label_replay/receipt.json": "df0d207f5f02e1b43fa23f3dd4e0382426b5b747f186acc4d83ec65ea89b1791",
+    "data/v82/acquisition/label_replay/stderr.bin": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/v82/acquisition/label_replay/stdout.bin": "4cde1823d9b84a3b9af0ff53fca4fcc5340d38b473527541d63ee980147c4b17",
+    "data/v82/label_index.json": "53c0dacf152c0a6e33ea28f7e79ba06f4b28400c1da43c805618f1af9a873527",
+    "data/v82/nominations.json": "346e1dbfbea50f00f447fdfcc3466d0ea32ad279ef3a712005a7187ed4a1c7e1"
+  }
+}

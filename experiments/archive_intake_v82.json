@@ -1,0 +1,21 @@
+{
+  "experiment_id": "archive_intake_v82",
+  "registered_at_utc": "2026-10-22T19:51:10.671779+00:00",
+  "archive_cutoff": "20261022195110",
+  "label_url": "https://forgottenlanguages-full.forgottenlanguages.org/search/label/Kamri",
+  "label_cdx_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fforgottenlanguages-full.forgottenlanguages.org%2Fsearch%2Flabel%2FKamri&matchType=exact&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest&limit=-1&to=20261022195110",
+  "maximum_attempts": 10,
+  "post_slots": 4,
+  "input_hashes": {
+    "experiments/archive_intake_v82.md": "05f336244ee305ff308b2afb3486728fcbc2147e76b959abda08792e91366806",
+    "src/fl_decipher/archive_intake_v82.py": "f3522b8d26dbe7c3468d967a9656ae4b972494ddae6f3e6e43defa1f095f230a",
+    "scripts/archive_intake_v82.py": "5561e729f0a86fc4caead84a4c5513f9d19147a386ac3d02e34b2ecad4112801",
+    "scripts/verify_archive_intake_v82.py": "4dac997ea7a47e007410a7d86a014ab519b29130308aeb8567b90aa82cbeb90a",
+    "tests/test_archive_intake_v82.py": "c4be08efce56cdcaaf0df3a324bc6e55a8108dfded5199934b97e909185ab7c9",
+    "src/fl_decipher/reserved_intake_v80.py": "d7fe59818ca02f40bb864833750560a78108f24eb276634f0a0b6b0410daa47e",
+    "src/fl_decipher/routing_v53.py": "84321a61de1ecc360b8b82f9ad542c49e3bff92c1266f9bd0deaf30916bb7a94",
+    "reports/000081_deliverable_seal.json": "5117748c68d2187c49ef400d8e7a252b2b6789c8ff877916a706a78635780cd9",
+    "data/v80/exposure.json": "a8de6e3ca7a409960a09675974a5577bd9024ef7174c990a1c4c0346ea108255",
+    "data/v23/acquisition/western_esoterism_archive/body.bin": "c0e712e2320becaf897c813e8aea63ea951bad50c87db03491c344151ec90fa0"
+  }
+}
