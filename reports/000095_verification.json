@@ -1,0 +1,10 @@
+{
+  "verified": true,
+  "posts": 3,
+  "claims": 8,
+  "evidence_spans": 24,
+  "manual_assessment_not_independently_adjudicated": true,
+  "verifier_written_after_audit": true,
+  "prior_e94_sealed_artifacts_unchanged_and_archive_matched": 59,
+  "model_tests_rerun": false
+}

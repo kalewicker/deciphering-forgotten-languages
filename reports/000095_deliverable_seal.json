@@ -1,0 +1,15 @@
+{
+  "sealed_at_utc": "2026-10-25T11:19:02.095455+00:00",
+  "deliverable_hashes": {
+    "data/v95/assessments.json": "f4ae0cee35887d9491870f7ddf5c6336713b234f29fb2e235bb472df03119d09",
+    "data/v95/selected_claims.json": "008c8dcc0bddb751837281fd217a3b2d83170bda34f9becaf2d2d633aecb2a68",
+    "experiments/source_claim_audit_v95.json": "8241dfb31a15a604f7994e20f795b9be234f6100109bb53f5c17942a8b9b0dd6",
+    "experiments/source_claim_audit_v95.md": "f735ad9db62df9b2d79c160f74a49ae006022710806cd27c5d44f6f39a52fc0b",
+    "reports/000095_interpretation.md": "47c3c8c27bf81b6f588a7e8636f7caa7cdb4dff5cb7c968d029fd14a293c307d",
+    "reports/000095_verification.json": "256add4d94b47c729737ba067e87fe8bb045bd7f1f7f6351a5680516216059d1",
+    "runs/000095_source_claim_audit/manifest.json": "ca5985f7cfd750ad212010a2eae9b3b3fe1aee4e5dbe8ccbfbf1ed3db564ff73",
+    "runs/000095_source_claim_audit/report.json": "d876cb51f290875168ffed2d3599cd44905000173cbf2d67b6e143a0ab8f54e0",
+    "scripts/source_claim_audit_v95.py": "819f2341b0b1b58c56813e148f2ca9003648253366fe728192f319d3d0ce7478",
+    "scripts/verify_source_claim_audit_v95.py": "1690b498281c2ea08f37bd27935969a2659d648053b6391b600f093c11cb67ce"
+  }
+}

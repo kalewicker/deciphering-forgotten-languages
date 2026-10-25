@@ -1,0 +1,20 @@
+{
+  "experiment_id": "source_claim_audit_v95",
+  "registered_at_utc": "2026-10-25T11:16:35.802530+00:00",
+  "candidate_numbers": [
+    1,
+    43,
+    86
+  ],
+  "network_requests": 0,
+  "input_hashes": {
+    "data/v90/acquisition/hop_01/body.bin": "719f5aaa47a12fa543d1b8a10e1536477dcd3ba5e7c7934ee927e4f992d1c75f",
+    "experiments/source_claim_audit_v95.md": "f735ad9db62df9b2d79c160f74a49ae006022710806cd27c5d44f6f39a52fc0b",
+    "reports/000092_deliverable_seal.json": "19fb3f4148f88d64519af157f666030a037125b8042517021a0dd8e868bd821a",
+    "reports/000093_deliverable_seal.json": "8f5b43f482276a49341e525e14e7dca540af438cc7fd1441cd6f585e35093f8d",
+    "reports/000094_deliverable_seal.json": "5724bc778f3f67edc1e0779f0b578cbf829d6d3c57a7963982edb3bb477afd3b",
+    "runs/000092_yid_adapter/ledger.json": "42c5a30937d8f1d432dcb4f08ba7e695878868deb759cfe3b67738dd55025e73",
+    "runs/000093_yid_native/report.json": "91443b6a4926f5230750393b638b3c45d28282e0c3a527725e50b6a30fe371d1",
+    "runs/000094_yid_native_panel/report.json": "b1f3acea95060baf74bb7877a5c2fc9ba00f401140befb503f34a6d39ee00d97"
+  }
+}

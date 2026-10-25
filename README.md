@@ -2,7 +2,7 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 94.** This public repository contains code,
+**Latest completed step: experiment 95.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
@@ -12,7 +12,15 @@ The [progress review after E91](reports/progress_review_after_e91.md) assesses
 scientific progress and recommends bundling format development and complete
 corpus accounting into one bounded milestone before further modeling.
 
-Current boundary: [experiment 94](reports/000094_interpretation.md) corroborates
+Current boundary: [experiment 95](reports/000095_interpretation.md) audits all eight
+catalog claims for the three corroborated examples. All have citations/URLs, but
+only one specifies external printed-page ranges; none supplies an explicit
+package-ordinal/source-span map. Candidate 86 has a citation without a Role field.
+No sources or translations were validated. Next is a separately registered bounded
+wording test of candidate 01's explicit 22-prose-unit source claim, subject to
+edition/page binding; no retrieval or comparison has launched.
+
+Previous boundary: [experiment 94](reports/000094_interpretation.md) corroborates
 both fixed posts: 36/36 and 242/242 target lines occur literally and in order,
 each once, in the supplied browser saves. All 278 targets remain accounted for;
 no unavailable comparisons or parser repairs occurred. The whitespace diagnostic
