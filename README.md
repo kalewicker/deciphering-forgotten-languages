@@ -8,6 +8,10 @@ research archives remain local. See [publication scope and verification](PUBLICA
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
+The [progress review after E91](reports/progress_review_after_e91.md) assesses
+scientific progress and recommends bundling format development and complete
+corpus accounting into one bounded milestone before further modeling.
+
 Current boundary: [experiment 91](reports/000091_interpretation.md) accounts for
 all 180 Yid ZIP entries and decodes all 89 document files. Each of 86 individual
 candidate files occurs exactly once in the combined edition, so these copies
