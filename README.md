@@ -12,6 +12,11 @@ The [progress review after E91](reports/progress_review_after_e91.md) assesses
 scientific progress and recommends bundling format development and complete
 corpus accounting into one bounded milestone before further modeling.
 
+[E94 is prepared and waiting for two saved articles](reports/yid_native_panel_handoff_v94.md).
+The panel fixes candidates 43 and 86, all 278 target lines, and the unchanged E93
+comparator. No new captures or comparisons have run; unavailable slots will remain
+explicit rather than being replaced. E93 is still the latest completed experiment.
+
 Current boundary: [experiment 93](reports/000093_interpretation.md) finds all 23
 frozen candidate first lines literally and in order in the supplied native article
 save, each occurring once. The separate whitespace diagnostic also matches 23/23.
