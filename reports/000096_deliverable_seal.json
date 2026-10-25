@@ -1,0 +1,18 @@
+{
+  "sealed_at_utc": "2026-10-25T11:29:13.414871+00:00",
+  "deliverable_hashes": {
+    "data/v96/acquisition/body.bin": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/v96/acquisition/intent.json": "019d92c221ab32b2c87821292570411d21aba210729e6fe925129dd14dec6535",
+    "data/v96/acquisition/receipt.json": "c87ffb6033fc59e3c7a5ff53dfb2da0bbd31b4c6d195d70f43e4fbd2b8dc58fb",
+    "data/v96/retrieval.json": "e3bdb865a4992b73ba5e5df77dded9f9e587589d69dc71fdf85ff3c7db8935ba",
+    "data/v96/targets.json": "1777f207e345dcb437cdf1aa85eb0e4aeeee84e4509d69f9f4d15705cdc62f07",
+    "experiments/burton_wording_v96.json": "c3eb8a85a53cf1abcf555a248cf2b35f4bb171f8307244a7611e62e79daa4659",
+    "experiments/burton_wording_v96.md": "b65a3e26a7aaf5fd8f6746e057f89a83e723c4907b477f1e079cdc7b792572b2",
+    "reports/000096_interpretation.md": "a8f5974966a3b8d7a2873c9249f7e88c133e08b884a7f6d93de2f55074a9fe15",
+    "reports/000096_verification.json": "c625211ef1430d34baa557e0a35902e83bd26dcd0e6e13b71235d9a6564fdce3",
+    "runs/000096_burton_wording/manifest.json": "92a68709470a32c46c10cf850165bc7d77cf5b36ea024f0663b5177c23d4f98d",
+    "runs/000096_burton_wording/report.json": "2c7e8a6a4c6b41162c2a60ea3b570ffda58b39b2d58939045dd49503a897ba63",
+    "scripts/burton_acquire_v96.py": "b929d04143c277273c14a1e04119f28de9e6e5ae980f523d5fb852686a6d5327",
+    "scripts/verify_burton_wording_v96.py": "19625e4ce448af63dbd3f922a1197607ff663dcdf6d4a5f8a8607c8cda8f0e1e"
+  }
+}

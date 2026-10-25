@@ -1,0 +1,11 @@
+{
+  "verified": true,
+  "registered_targets": 22,
+  "attempts": 1,
+  "http_responses": 0,
+  "received_bytes": 0,
+  "page_binding_executed": false,
+  "comparison_executed": false,
+  "prior_e95_sealed_artifacts_unchanged_and_archive_matched": 10,
+  "model_tests_rerun": false
+}

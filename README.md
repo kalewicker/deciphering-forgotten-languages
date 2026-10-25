@@ -2,7 +2,7 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 95.** This public repository contains code,
+**Latest completed step: experiment 96 (acquisition failed).** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
@@ -12,7 +12,15 @@ The [progress review after E91](reports/progress_review_after_e91.md) assesses
 scientific progress and recommends bundling format development and complete
 corpus accounting into one bounded milestone before further modeling.
 
-Current boundary: [experiment 95](reports/000095_interpretation.md) audits all eight
+Current boundary: [experiment 96](reports/000096_interpretation.md) froze all 22
+candidate-01 prose renderings and one offered Gutenberg text request. Certificate
+validation failed before an HTTP response; zero source bytes were received.
+Page binding and wording comparison were not executed, with counts null rather
+than zero. No retry, certificate bypass or alternative edition was attempted.
+The source claim remains unresolved. A user-supplied copy of that exact offered
+representation would require a new intake; no further acquisition is pending.
+
+Previous boundary: [experiment 95](reports/000095_interpretation.md) audits all eight
 catalog claims for the three corroborated examples. All have citations/URLs, but
 only one specifies external printed-page ranges; none supplies an explicit
 package-ordinal/source-span map. Candidate 86 has a citation without a Role field.
