@@ -2,20 +2,28 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 90.** This public repository contains code,
+**Latest completed step: experiment 91.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 90](reports/000090_interpretation.md) acquired the
-Yid offer in one GET chain: one allowed redirect, HTTP 200, an 847,713-byte ZIP.
-All 179 regular files (plus one directory entry) pass the metadata and streamed
-CRC/size/hash checks. Ninety identical 163-byte members occur under `__MACOSX/`;
-all entries remain preserved. No document was extracted or parsed, no model ran,
-and no corpus or independent group was admitted. The author's 86-post claim is
-still unverified. The next step is a separately registered schema/provenance
-census on the preserved package, keeping translations quarantined as hypotheses.
+Current boundary: [experiment 91](reports/000091_interpretation.md) accounts for
+all 180 Yid ZIP entries and decodes all 89 document files. Each of 86 individual
+candidate files occurs exactly once in the combined edition, so these copies
+cannot count as independent evidence. The index contains 86 distinct native
+article-shaped URL literals, while individual candidate files contain none.
+The fixed standalone-number/colon-label reader recognizes zero unit blocks or
+locator/language fields in those files: a schema limitation, not absent content.
+No parser repair, model run, source fetch or corpus/group admission occurred.
+The next step is a separately registered format inspection and versioned adapter
+joining the actual document layout to its index/catalog, using the saved package.
+
+[E90](reports/000090_interpretation.md) preserves the intact 847,713-byte ZIP and
+179 verified regular members. Ninety packaging members share identical 163-byte
+contents; all entries remain preserved. The author's 86-post claim is still
+unverified. Translations remain quarantined as hypotheses, and native-text
+corroboration and connected-group capacity are unresolved.
 
 [E89](reports/000089_interpretation.md) records the original explicit archive offer
 in the public Yid report. This is a different resource/development direction,

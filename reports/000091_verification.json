@@ -1,0 +1,89 @@
+{
+  "experiment_id": "yid_schema_v91",
+  "verified_at_utc": "2026-10-25T04:41:00.003517+00:00",
+  "independent_reconstruction": {
+    "verified": true,
+    "members": 180,
+    "decoded_documents": 89,
+    "numbered_blocks": 0,
+    "paired_candidate_blocks": 0,
+    "network_requests": 0,
+    "new_predictions": false,
+    "scientific_claims_validated": false
+  },
+  "full_tests_passed": 653,
+  "isolated_public_tests_passed": 614,
+  "archive_exclusions": 39,
+  "e90_sealed_artifacts_unchanged_and_archive_matching": 20,
+  "json_valid": true,
+  "relative_links_resolve": true,
+  "historical_tracked_changes_only_readme": true,
+  "summary": {
+    "members": 180,
+    "roles": {
+      "article_candidate": 86,
+      "combined": 1,
+      "directory": 1,
+      "index": 1,
+      "packaging": 90,
+      "sources": 1
+    },
+    "statuses": {
+      "decoded": 89,
+      "directory": 1,
+      "opaque_packaging": 90
+    },
+    "decoded_documents": 89,
+    "decoded_article_candidates": 86,
+    "article_candidates_without_blocks": 86,
+    "numbered_blocks": 0,
+    "paired_candidate_blocks": 0,
+    "unpaired_blocks": 0,
+    "block_reason_counts": {},
+    "articles_nonconsecutive_markers": 0,
+    "article_locator_fields": 0,
+    "syntactically_valid_article_locator_fields": 0,
+    "distinct_declared_article_locators": 0,
+    "articles_missing_locator": 86,
+    "articles_repeated_locator": 0,
+    "articles_conflicting_locator": 0,
+    "articles_missing_language": 86,
+    "articles_conflicting_language": 0,
+    "declared_article_language_values": {},
+    "url_occurrences_by_kind": {
+      "external": 271,
+      "native_article_shaped": 194
+    },
+    "distinct_literal_urls_all_documents": 312,
+    "combined_relationships": 86,
+    "combined_full_member_once": 86,
+    "combined_boundary_view_once": 86,
+    "combined_full_member_missing": 0
+  },
+  "url_occurrences_by_document_role": {
+    "article_candidate": {
+      "native_article_shaped": 0,
+      "external": 0
+    },
+    "combined": {
+      "native_article_shaped": 0,
+      "external": 0
+    },
+    "index": {
+      "native_article_shaped": 86,
+      "external": 0
+    },
+    "sources": {
+      "native_article_shaped": 108,
+      "external": 271
+    }
+  },
+  "parser_repaired_after_result": false,
+  "native_text_corroborated": false,
+  "verified_post_count": null,
+  "corpus_admitted": false,
+  "independent_group_capacity": null,
+  "new_predictions": false,
+  "new_confirmation_units": 0,
+  "semantic_benchmark_qualifying_works": 0
+}
