@@ -12,6 +12,11 @@ The [progress review after E91](reports/progress_review_after_e91.md) assesses
 scientific progress and recommends bundling format development and complete
 corpus accounting into one bounded milestone before further modeling.
 
+[E93 is prepared and waiting for one browser-saved native article](reports/yid_native_capture_handoff_v93.md).
+Candidate 01 and all 23 first-line targets are fixed; no capture or comparison has
+run. Chrome control access was not approved. The handoff specifies the exact page
+and save metadata; no alternate access route or additional post is requested.
+
 Current boundary: [experiment 92](reports/000092_interpretation.md) resolves the
 annotation layout and catalog joins for all 86 Yid candidate documents: 3,485
 candidate line pairs, matching all declared counts, with no unsupported blocks
