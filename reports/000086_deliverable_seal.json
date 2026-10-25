@@ -1,0 +1,16 @@
+{
+  "experiment_id": "listing_navigation_v86",
+  "sealed_at_utc": "2026-10-25T01:39:34.601689+00:00",
+  "deliverable_hashes": {
+    "experiments/listing_navigation_v86.md": "cb5b09041f1fd633b0ea53caaec484c2218a24b55e01f25c6d2be5036456061c",
+    "experiments/listing_navigation_v86.json": "943ed7a00b0bbffcbcbfcdf7f48ab285aada0f0774e31baf75b4df070643ba68",
+    "src/fl_decipher/listing_navigation_v86.py": "102274210dd6b57bfbfa482380c19a9f7ac9f4dc48bc544b1b34392b09bedc96",
+    "scripts/listing_navigation_v86.py": "08e32b6ee57e48c3df096b0c181702237012dfe5d7ad47e4a84331ca9e534e5f",
+    "scripts/verify_listing_navigation_v86.py": "cd2b447e6bfdec0b2db57225dc9c70123a06b85b5122f2a37b7acd4c5c189704",
+    "tests/test_listing_navigation_v86.py": "7facd3d62ca596dffbe8830b17bb722c4f35692c119ac12e562bae8eb0ec35fd",
+    "reports/000086_interpretation.md": "412f18ad017222e36dbdd7b11eb2153243328ad66fd6d99b7a69aa0de3434141",
+    "reports/000086_verification.json": "068dc377b72b9b6c101494f64ff711fd4d29dd0520161c388c74eac871275e1c",
+    "runs/000086_listing_navigation/manifest.json": "28f1d7af7871829645f89cf7b289379fcb99cb7e231fd08c0e86fec8568a5c30",
+    "runs/000086_listing_navigation/report.json": "11365c5282c6e8f13bcefe4b72e339d728ed896b611f5494572782f4f3336179"
+  }
+}

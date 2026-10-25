@@ -2,19 +2,19 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 85.** This public repository contains code,
+**Latest completed step: experiment 86.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 85](reports/000085_interpretation.md) preserves
-the user's Chrome listing and companion files: 16 files, 1,732,531 bytes, with
-source/copy hashes agreeing. Purpose-limited nomination metadata checks pass,
-but the fixed article-title selector finds one previously recorded URL, leaving
-**0/4 new nominations**. No post fetch or model score ran. The next proposed step
-is an offline pagination-metadata inventory before requesting another listing.
-The reported save time remains “6:26 PST”; capture UTC is unresolved.
+Current boundary: [experiment 86](reports/000086_interpretation.md) identifies
+one unambiguous native **Older Posts** URL from the user's saved listing. Its
+exact query requests up to 20 results; no page was fetched or scored. The report
+provides the sole next user-assisted capture target. A newly supplied snapshot
+will need its own frozen intake before selecting posts or confirming the model.
+[E85](reports/000085_interpretation.md) preserves all 16 original files and its
+**0/4 new nominations**; the existing listing's only title link was already known.
 
 [E84](reports/000084_interpretation.md) preserves the restricted original-WARC
 resource barrier. The user's browser snapshot is a different documented resource;

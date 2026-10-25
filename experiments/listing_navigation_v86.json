@@ -1,0 +1,17 @@
+{
+  "experiment_id": "listing_navigation_v86",
+  "registered_at_utc": "2026-10-25T01:38:16.531337+00:00",
+  "html_path": "data/v85/snapshot/Forgotten Languages Full_ Kamri.html",
+  "input_hashes": {
+    "experiments/listing_navigation_v86.md": "cb5b09041f1fd633b0ea53caaec484c2218a24b55e01f25c6d2be5036456061c",
+    "src/fl_decipher/listing_navigation_v86.py": "102274210dd6b57bfbfa482380c19a9f7ac9f4dc48bc544b1b34392b09bedc96",
+    "scripts/listing_navigation_v86.py": "08e32b6ee57e48c3df096b0c181702237012dfe5d7ad47e4a84331ca9e534e5f",
+    "scripts/verify_listing_navigation_v86.py": "cd2b447e6bfdec0b2db57225dc9c70123a06b85b5122f2a37b7acd4c5c189704",
+    "tests/test_listing_navigation_v86.py": "7facd3d62ca596dffbe8830b17bb722c4f35692c119ac12e562bae8eb0ec35fd",
+    "reports/000085_deliverable_seal.json": "0899d0e884cd516868b52c26039d940e84845d9f113819c2c0358c9e7dbbb087",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri.html": "907f0abba61bdbf997a8f34094bdda4af06647eee4c393eac99a38d5f38d5d93",
+    "runs/000085_browser_listing/report.json": "bf58125bd67c6e72401b21c4fc79b933505849d633931e83353b3ff4f55970f0"
+  },
+  "network_requests": 0,
+  "maximum_next_capture_targets": 1
+}
