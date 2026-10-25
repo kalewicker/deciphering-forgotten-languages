@@ -2,20 +2,25 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 89.** This public repository contains code,
+**Latest completed step: experiment 90.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 89](reports/000089_interpretation.md) found an
-explicit Dropbox ZIP offer in the previously documented public Yid report. Its
-author claims 86 translated posts; payload availability, contents, provenance and
-independent-group capacity remain unchecked. One registered report request was
-made, with no archive download, link follow, prediction or admission. The next
-justified step is a separately registered single archive acquisition and metadata
-inventory, keeping translations quarantined as hypotheses. This is a different
-resource/development direction, not confirmation of E79 on new Kamri material.
+Current boundary: [experiment 90](reports/000090_interpretation.md) acquired the
+Yid offer in one GET chain: one allowed redirect, HTTP 200, an 847,713-byte ZIP.
+All 179 regular files (plus one directory entry) pass the metadata and streamed
+CRC/size/hash checks. Ninety identical 163-byte members occur under `__MACOSX/`;
+all entries remain preserved. No document was extracted or parsed, no model ran,
+and no corpus or independent group was admitted. The author's 86-post claim is
+still unverified. The next step is a separately registered schema/provenance
+census on the preserved package, keeping translations quarantined as hypotheses.
+
+[E89](reports/000089_interpretation.md) records the original explicit archive offer
+in the public Yid report. This is a different resource/development direction,
+not confirmation of E79 on new Kamri material. Native FL identity, language and
+connected-group capacity remain unresolved.
 
 [Experiment 88](reports/000088_interpretation.md) is a
 read-only exact-sequence audit of E79's saved development gains. Three-token

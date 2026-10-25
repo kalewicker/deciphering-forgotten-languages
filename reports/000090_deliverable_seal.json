@@ -1,0 +1,26 @@
+{
+  "experiment_id": "yid_archive_v90",
+  "sealed_at_utc": "2026-10-25T04:31:17.403638+00:00",
+  "deliverable_hashes": {
+    "experiments/yid_archive_v90.md": "03bf62f099ac9c8cf7a53098264dee807476f7d6fb3b6ae716a20c9f713493bf",
+    "experiments/yid_archive_v90.json": "1bf69ed858840b1ac090375f3441b32c9c18978a52f3dcd2e05b3464b250d1b4",
+    "src/fl_decipher/yid_archive_v90.py": "16fdd7f98275d47318aad10e087c08c05dd4f73ee468ff6af2689e9271c24228",
+    "scripts/yid_archive_v90.py": "2ebcf7d8e4837612f9346354028d2eaac7fb38f583377e3e272bc1814f4a12ce",
+    "scripts/verify_yid_archive_v90.py": "e42658a41dd6d6b06c5cd071e278aa724f61eb1068498a524962f9191f5c91c8",
+    "tests/test_yid_archive_v90.py": "63ce679acdf19066c4d24dd67b4662680cff1b2d681c2bcb1d2e57f2ee5efeae",
+    "reports/000090_interpretation.md": "2a34f5b6cbf6f0d4ec5def03dcb3d337a024ca58451f66b3b715cb8c99edb939",
+    "reports/000090_verification.json": "c4b5804652e4a8333bb5847549a688e44e02185e66da34657df0ce0311a43e73",
+    "data/v90/acquisition/hop_00/body.bin": "7942d784410154ff771b417b23f73459c52ff0127824ebb1ea3f4bcc3de23a16",
+    "data/v90/acquisition/hop_00/intent.json": "507af381076c93506477a6eaf430c3fe23d0e89a7e92a8b8900fa64d3cccfbb8",
+    "data/v90/acquisition/hop_00/receipt.json": "e7c9e458a3c3cb7e932be609cf4aaf276a3f80c8b4fdb59d2917ed1103a03dd2",
+    "data/v90/acquisition/hop_01/body.bin": "719f5aaa47a12fa543d1b8a10e1536477dcd3ba5e7c7934ee927e4f992d1c75f",
+    "data/v90/acquisition/hop_01/intent.json": "1c0014b03989abe59c0cd613d93caecc37a392db53244baee68d581600e393de",
+    "data/v90/acquisition/hop_01/receipt.json": "4b667e8af8c6fc9662f8205b012a073ed22a878190756966550ab07428f98454",
+    "data/v90/acquisition.json": "d495f9102041fba34755e4f63ef2263d2ab2777d0cf628ba07c6889023f09c6f",
+    "data/v90/dropbox_download_documentation.json": "03552cb9b1b76ffd2ce460552ba186dff8ea42f8b1879def4c57992e0626df93",
+    "data/v90/inventory.json": "733e44cb2fb538df3707d19c641f0f1b21337cd6d134ddb792662c314ff01d66",
+    "data/v90/retrieval.json": "0b76a4a7a9d32ed6da0cc1ce171899bd392b4fb905751c48c1a64a9a9b2a90e8",
+    "runs/000090_yid_archive/manifest.json": "22ed40c5dc12deb3c2568d6cf3832a28b999bb26268691acbd085ac67f157077",
+    "runs/000090_yid_archive/report.json": "9957d2c6902e73c6012b6133fd5684d1a011a9869187125cce32b36c2e693c91"
+  }
+}
