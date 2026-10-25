@@ -16,6 +16,12 @@ Further progress requires an authorized resource from the archive/data provider
 or another documented corpus source. No further local experiment is proposed to
 substitute for that missing material.
 
+The [material handoff](reports/material_handoff_2026-10-24.md) gives the smallest
+useful next contribution: one documented native listing snapshot or an authorized
+copy of the exact original archival record. Its blank offer template records
+capture method, selection and exposure without admitting material or launching
+another experiment. No new confirmation input has been received in this turn.
+
 [E83](reports/000083_interpretation.md) preserves the unresolved digest-layer
 diagnosis; [E82](reports/000082_interpretation.md) its rejected archive listing
 with **0/4 captures**; [E81](reports/000081_interpretation.md) unresolved live-host

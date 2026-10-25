@@ -1,0 +1,19 @@
+{
+  "status": "unfilled_resource_offer_not_registration",
+  "purpose": "Describe offered material before any new intake or prediction run",
+  "provider_or_collector": null,
+  "original_url": null,
+  "final_url": null,
+  "capture_time_utc": null,
+  "capture_method_and_representation": null,
+  "local_files": [],
+  "selection_rule_and_history": null,
+  "collector_prior_exposure": null,
+  "project_prior_exposure": null,
+  "provider_provenance_notes": null,
+  "known_transformations": null,
+  "permission_or_access_context": null,
+  "unknowns_or_limitations": null,
+  "meaning_or_source_identity_claimed": false,
+  "confirmation_eligibility": "unassessed"
+}
