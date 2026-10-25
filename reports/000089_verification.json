@@ -1,0 +1,29 @@
+{
+  "experiment_id": "yid_resource_v89",
+  "verified_at_utc": "2026-10-25T02:40:28.324945+00:00",
+  "checks": {
+    "registration_and_evidence_hashes": true,
+    "request_timing_order": true,
+    "exact_evidence_spans": 6,
+    "main_report_download_context": true,
+    "json_valid": true,
+    "relative_links_resolve": true,
+    "verifier_syntax": true,
+    "e88_sealed_artifacts_unchanged": 23,
+    "e88_sealed_artifacts_match_local_archive": 23,
+    "historical_tracked_changes_only_readme": true
+  },
+  "web_tool_open_calls": 1,
+  "followup_requests": 0,
+  "payload_downloads": 0,
+  "resource_offer_found": true,
+  "author_claimed_post_count": 86,
+  "verified_post_count": null,
+  "independent_group_capacity": null,
+  "new_predictions": false,
+  "new_corpus_material_admitted": false,
+  "new_confirmation_units": 0,
+  "scientific_claims_validated": false,
+  "semantic_benchmark_qualifying_works": 0,
+  "tests": "Model tests not rerun: document-only resource check; syntax/integrity/span validation performed."
+}

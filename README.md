@@ -2,13 +2,22 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 88.** This public repository contains code,
+**Latest completed step: experiment 89.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 88](reports/000088_interpretation.md) is a
+Current boundary: [experiment 89](reports/000089_interpretation.md) found an
+explicit Dropbox ZIP offer in the previously documented public Yid report. Its
+author claims 86 translated posts; payload availability, contents, provenance and
+independent-group capacity remain unchecked. One registered report request was
+made, with no archive download, link follow, prediction or admission. The next
+justified step is a separately registered single archive acquisition and metadata
+inventory, keeping translations quarantined as hypotheses. This is a different
+resource/development direction, not confirmation of E79 on new Kamri material.
+
+[Experiment 88](reports/000088_interpretation.md) is a
 read-only exact-sequence audit of E79's saved development gains. Three-token
 matches cover 16/1,918 targets and 6.41% of positive gain mass; four-token matches
 cover six targets and 2.76%; no five- through eight-token matches occur. Longer

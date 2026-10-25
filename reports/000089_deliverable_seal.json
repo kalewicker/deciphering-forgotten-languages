@@ -1,0 +1,16 @@
+{
+  "experiment_id": "yid_resource_v89",
+  "sealed_at_utc": "2026-10-25T02:40:28.324945+00:00",
+  "deliverable_hashes": {
+    "experiments/yid_resource_v89.md": "73ada35c49602188d1597e835da3f966dd077f3a8622c4f9483789a77e279f02",
+    "experiments/yid_resource_v89.json": "fb24ba8dbf5981af098f7c9781c43bf5a0cb8cc834bb8657a635346eb9fa45a1",
+    "scripts/verify_yid_resource_v89.py": "bc6f654906973b53071bd176b61d6760cdc1cf48bbbffa2ddb7ba4dea2eee3a8",
+    "reports/000089_interpretation.md": "1f27ab910c220330ef85e153a69e80a25e641b3b517152e2b56777ff1d2dcf49",
+    "reports/000089_verification.json": "ab9f7c64348cd3bd3defd079506246f8397fb0c3781ace9440c02353ad84b15e",
+    "data/v89/observations.json": "788e9f9a995ef21a76d1ba5ee18923fea47c7d208bd7a00f22aab675af70a8a1",
+    "data/v89/provider_response.json": "f42aa3e3038fdcf87d1c3f5a05e73cdb35bd152cf01e3c3e51e9d1ad0f96bfde",
+    "data/v89/request_intent.json": "92212865633606047a5ee5fcb773d254871a92ba4483867b48fb7c8d3fb24356",
+    "runs/000089_yid_resource/manifest.json": "0fff8f62f480d6a6dbfb09f37c52b765dbabb8b8d62f0dbc154d40bc78ae2928",
+    "runs/000089_yid_resource/report.json": "9604b8bb8b822b900f41962bd4f2a9a7ae15ae483c07bbafcf95fc76308e8613"
+  }
+}
