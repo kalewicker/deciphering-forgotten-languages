@@ -1,0 +1,33 @@
+{
+  "experiment_id": "browser_listing_v85",
+  "sealed_at_utc": "2026-10-25T01:34:24.957337+00:00",
+  "deliverable_hashes": {
+    "experiments/browser_listing_v85.md": "e7608ddad93210a2d8b754a4e494a38cf4f2a0ef714af914a75ee5df53ea4360",
+    "experiments/browser_listing_v85.json": "f8813165a6a565479f65bb70956604d30d92ff9df27149e5da542b10866a06cf",
+    "src/fl_decipher/browser_listing_v85.py": "eedda497bc1518142c5e02b76b6f8ce27dfe50a1e6ef2f5ba44c781b6f6f22a3",
+    "scripts/browser_listing_v85.py": "84d259b8e613c83436055e19584b6843a5c0715ad242971dd0378b3ec0351be8",
+    "scripts/verify_browser_listing_v85.py": "edee1103f75404b6b2c157e0e443d56ef8374237ebb3c7fd8d4804b849289338",
+    "tests/test_browser_listing_v85.py": "76b8b3f8a06e0bcb613e7a5b90b01aef8e5460d565b5dd07b62cc8e3c7e38d3a",
+    "reports/000085_interpretation.md": "0a9dafc82777585981b0ce5af7798c94eedf88f8e540c4b66f65ce1fc3bd5739",
+    "reports/000085_verification.json": "2a242ded521f5ca856721b64548d28b84519fad3b307ba92b8b37df5fb20ad6c",
+    "runs/000085_browser_listing/manifest.json": "b1b382b4dc470ecc54c2e10756d600f8ef2271303eb6e419ec8deaf9ceea1933",
+    "runs/000085_browser_listing/report.json": "bf58125bd67c6e72401b21c4fc79b933505849d633931e83353b3ff4f55970f0",
+    "data/v85/custody.json": "f32edae3b4cf6bc53c69f813528b712c8b8b30fa8845f14d62eec26f1e24e484",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri.html": "907f0abba61bdbf997a8f34094bdda4af06647eee4c393eac99a38d5f38d5d93",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri_files/3961732468-widgets.js": "e5fc35cc811b784013154e558f6d31401fe7c3198cfdd20cc635c93ce1ef3422",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri_files/4165133002-widget_css_bundle.css": "0847041ca7093100e9e009a3d477cefb582d0a39f220eda3b48f44769b9a947c",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri_files/Contributors2018.jpg": "de5a61686009991c2497f71c280d66f8d848180b6fbea9eacfb9c18bf1baeec1",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri_files/FL-HEADER62b.jpg": "a8b5db33235dbe1464b384d0e5bd5335da7ffedf553fb6f41735e44a0b9c9cbd",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri_files/_\u00b9\u00c6\u00b9\u00c6\u00cc\u00bd\u00b9 - Schism Cover[3].jpg": "009addb28c13f93a76737bb19eed903ef4ca323eb4780b13a4781eeb494945b1",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri_files/authorization.css": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri_files/counter_xhtml.js": "66a91a5278f5b09187b2a84448d2fbba872ea2557edf794f7452e9b89c6ae667",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri_files/css": "45d34a1ce72f2df1785d0eb7cbae5e6cb18dfcecdbb5406d7e33706e36041e01",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri_files/default": "cfe4bbe4d9de3ca168a23b55d9c1416cb03c312b1777ce22b02bd8f01eca6284",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri_files/default(1)": "c781acaf0289c8939f022769b2ca74a3a9e9ad42078e06c824cfc55dfac187a9",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri_files/default(2)": "d11d5dcd53c7abb2dc21d42a862057ee6b4971e04a52fa4f97adf5555b55d286",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri_files/default(3)": "0634fb13c3f2beb4bfc586653141773cbbbd092336ad509a3b1db9a6ae8fb3bd",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri_files/icon18_edit_allbkg.gif": "ca9848e6006cfec8f9ffa29433ade8152204bdb95579200831c6dc0f53dff70b",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri_files/sep5[5](1).jpg": "f6852b8f737db53d58117c40dfa59e4dcf66108401091d95ca000e8e863e8d6f",
+    "data/v85/snapshot/Forgotten Languages Full_ Kamri_files/sep5[5].jpg": "abdc1e5b3d2c6fc5162942490671c0d07bfa740cb501a632ba4f4c66b79a42d6"
+  }
+}

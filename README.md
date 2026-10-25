@@ -2,25 +2,26 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 84.** This public repository contains code,
+**Latest completed step: experiment 85.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 84](reports/000084_interpretation.md) finds the
-exact original-record metadata route unavailable: CDX returns null filename and
-offset, and the named item/WARC file is marked restricted/private. Both metadata
-requests succeeded, but no file download, authentication or model scoring ran.
-Further progress requires an authorized resource from the archive/data provider
-or another documented corpus source. No further local experiment is proposed to
-substitute for that missing material.
+Current boundary: [experiment 85](reports/000085_interpretation.md) preserves
+the user's Chrome listing and companion files: 16 files, 1,732,531 bytes, with
+source/copy hashes agreeing. Purpose-limited nomination metadata checks pass,
+but the fixed article-title selector finds one previously recorded URL, leaving
+**0/4 new nominations**. No post fetch or model score ran. The next proposed step
+is an offline pagination-metadata inventory before requesting another listing.
+The reported save time remains “6:26 PST”; capture UTC is unresolved.
 
-The [material handoff](reports/material_handoff_2026-10-24.md) gives the smallest
-useful next contribution: one documented native listing snapshot or an authorized
-copy of the exact original archival record. Its blank offer template records
-capture method, selection and exposure without admitting material or launching
-another experiment. No new confirmation input has been received in this turn.
+[E84](reports/000084_interpretation.md) preserves the restricted original-WARC
+resource barrier. The user's browser snapshot is a different documented resource;
+it does not repair the rejected archive replay or supply raw HTTP authentication.
+The [material handoff](reports/material_handoff_2026-10-24.md) remains available,
+but its pre-delivery status statements describe when it was prepared. The offered
+snapshot is now preserved locally; confirmation eligibility remains unresolved.
 
 [E83](reports/000083_interpretation.md) preserves the unresolved digest-layer
 diagnosis; [E82](reports/000082_interpretation.md) its rejected archive listing
