@@ -2,7 +2,7 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 91.** This public repository contains code,
+**Latest completed step: experiment 92.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
@@ -12,7 +12,16 @@ The [progress review after E91](reports/progress_review_after_e91.md) assesses
 scientific progress and recommends bundling format development and complete
 corpus accounting into one bounded milestone before further modeling.
 
-Current boundary: [experiment 91](reports/000091_interpretation.md) accounts for
+Current boundary: [experiment 92](reports/000092_interpretation.md) resolves the
+annotation layout and catalog joins for all 86 Yid candidate documents: 3,485
+candidate line pairs, matching all declared counts, with no unsupported blocks
+or unresolved joins. The catalog has 265 source-claim records; the index-named
+lexicon is absent. These are normalized annotations with omitted evidence labels,
+not authenticated native text or validated translations. No model or source fetch
+ran. Next is a separately registered, bounded native-text corroboration task with
+a feasible acquisition route, before any modeling or group admission.
+
+Previous boundary: [experiment 91](reports/000091_interpretation.md) accounts for
 all 180 Yid ZIP entries and decodes all 89 document files. Each of 86 individual
 candidate files occurs exactly once in the combined edition, so these copies
 cannot count as independent evidence. The index contains 86 distinct native
@@ -20,8 +29,8 @@ article-shaped URL literals, while individual candidate files contain none.
 The fixed standalone-number/colon-label reader recognizes zero unit blocks or
 locator/language fields in those files: a schema limitation, not absent content.
 No parser repair, model run, source fetch or corpus/group admission occurred.
-The next step is a separately registered format inspection and versioned adapter
-joining the actual document layout to its index/catalog, using the saved package.
+E92 subsequently completed the separately registered format inspection and new
+versioned adapter; the original E91 result remains unchanged.
 
 [E90](reports/000090_interpretation.md) preserves the intact 847,713-byte ZIP and
 179 verified regular members. Ninety packaging members share identical 163-byte

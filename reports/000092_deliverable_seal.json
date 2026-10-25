@@ -1,0 +1,23 @@
+{
+  "experiment_id": "yid_adapter_v92",
+  "sealed_at_utc": "2026-10-25T06:29:28.733989+00:00",
+  "deliverable_hashes": {
+    "data/v92/development_sample.json": "c1146ab47c56460a6beabb0cb5bf0d6fe6436afedb0cb6fe2b6eb65d804befef",
+    "data/v92/public_tests.log": "b09ca84f203556bc3d282d2c5521f012773deaf6989d6d9b1d99f1e19a2a56a8",
+    "data/v92/workspace_tests.log": "610b89eaea94e3fabfc56e5a9d8ee913519930dadbf063a9a6c47c8c0011cff8",
+    "experiments/yid_adapter_v92.json": "a7bd4001e71110eff54629a41d38e5381cd800046029b885202fd31cf469ca4d",
+    "experiments/yid_adapter_v92.md": "cb5acddc1a5f3d102a6ed44e8581ee0d5c5bc1467e5043d09a5078419cb091bd",
+    "experiments/yid_adapter_v92_development.json": "5896b73e7a2bb95aa623afd47bbd2f3f07afa8b9c0e34c62e19bab374c7a37f2",
+    "experiments/yid_adapter_v92_rules.md": "a37c32d8c1a3743828699325193f1219f72bcd18c2510c2a3b0f3e125456576d",
+    "reports/000092_interpretation.md": "461e746a636bb09a84db5952be56708292ecc87bdab16f0ff8a435e26202b402",
+    "reports/000092_verification.json": "6e58c6e54b23c3cb737ed2a3fdea05708513734275d87ce21fe7b6fd96143aab",
+    "runs/000092_yid_adapter/archive_accounting.json": "42af559e35743136f9d040a52581211a84b94358eaa32b0977759fe5d62e9374",
+    "runs/000092_yid_adapter/ledger.json": "42c5a30937d8f1d432dcb4f08ba7e695878868deb759cfe3b67738dd55025e73",
+    "runs/000092_yid_adapter/manifest.json": "e7f555757a175b20c6c49dfde88bfec4b9b57db292d517aa228e37a0ae49fd94",
+    "runs/000092_yid_adapter/report.json": "993c6d5598bf907130ac021199172b67ee5a9d0880938d838738da401b93421b",
+    "scripts/verify_yid_adapter_v92.py": "40296d6978da58c1676113aaf85e021316ba79057ac96c25df1ec1bd4ab2a945",
+    "scripts/yid_adapter_v92.py": "287bfbec218482fc52253cf743847905e4e8bd1ce71ab60fbec5380138c2d1d9",
+    "src/fl_decipher/yid_adapter_v92.py": "e45a529fe22e4e0c75d2eaa79102e4018090944df19606d4333cdc1602838ea5",
+    "tests/test_yid_adapter_v92.py": "36bed79969be2e2d2f109d4e96d275a69a67f05db0f218c8170c187dce74afc2"
+  }
+}

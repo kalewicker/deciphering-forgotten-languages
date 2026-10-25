@@ -1,0 +1,32 @@
+{
+  "experiment_id": "yid_adapter_v92",
+  "frozen_at_utc": "2026-10-25T06:27:19.893553+00:00",
+  "input_hashes": {
+    "data/v90/acquisition/hop_01/body.bin": "719f5aaa47a12fa543d1b8a10e1536477dcd3ba5e7c7934ee927e4f992d1c75f",
+    "data/v92/development_sample.json": "c1146ab47c56460a6beabb0cb5bf0d6fe6436afedb0cb6fe2b6eb65d804befef",
+    "experiments/yid_adapter_v92.md": "cb5acddc1a5f3d102a6ed44e8581ee0d5c5bc1467e5043d09a5078419cb091bd",
+    "experiments/yid_adapter_v92_development.json": "5896b73e7a2bb95aa623afd47bbd2f3f07afa8b9c0e34c62e19bab374c7a37f2",
+    "experiments/yid_adapter_v92_rules.md": "a37c32d8c1a3743828699325193f1219f72bcd18c2510c2a3b0f3e125456576d",
+    "experiments/yid_schema_v91.json": "12cd9b328aacc3f47ca581c9c852f11ead87f5d08816b108c5d5b9fcb40c1d15",
+    "experiments/yid_schema_v91.md": "67e7478f564872109fe7bbfd2d884a3bbb3597038ab9be5fd9ccfbbbf1fc4378",
+    "reports/000091_deliverable_seal.json": "9e8cadda9a73e6a5bfb8e582b963577170d957dfb84958f68cb260ea831cb580",
+    "reports/000091_interpretation.md": "b1e02d0f62da3598b5d786d678854dc08622ca1be121174185985e2489b5ac66",
+    "reports/000091_verification.json": "9f97b93ca3df4bcba63c66ec9cd9dad2bbfab25c5ec0db43ceea9cf9065166a6",
+    "runs/000091_yid_schema/combined_relations.json": "6cf4a0714b7253f620366ea1342e17ddcc10d875bcfe9f63404477dbe751f0ee",
+    "runs/000091_yid_schema/manifest.json": "031c8e945cda440c90cde5398a626f09743177ecdde49f4ccebb7e2bc5898869",
+    "runs/000091_yid_schema/member_ledger.json": "b055411d395c21205383b72d824ff535cbf94c149a7c8877d3e49a840a0988ac",
+    "runs/000091_yid_schema/report.json": "c7227067081def44970d3ec1c28ef5107e929501a74f9272a3750496b5158879",
+    "scripts/verify_yid_adapter_v92.py": "40296d6978da58c1676113aaf85e021316ba79057ac96c25df1ec1bd4ab2a945",
+    "scripts/verify_yid_schema_v91.py": "dcd635be38e10baad739c2e3dbd1ef00ea6d261d40440641a60514798256d120",
+    "scripts/yid_adapter_v92.py": "287bfbec218482fc52253cf743847905e4e8bd1ce71ab60fbec5380138c2d1d9",
+    "scripts/yid_schema_v91.py": "368118b1d39c3e7f2341385ab2d3f1544f85719fd2f35c6f0b428422e54ee39c",
+    "src/fl_decipher/yid_adapter_v92.py": "e45a529fe22e4e0c75d2eaa79102e4018090944df19606d4333cdc1602838ea5",
+    "src/fl_decipher/yid_schema_v91.py": "ee0ba542997f3754ee31736fa978fda4fbe60bf1c7917debdc820eba0a0dedec",
+    "tests/test_yid_adapter_v92.py": "36bed79969be2e2d2f109d4e96d275a69a67f05db0f218c8170c187dce74afc2",
+    "tests/test_yid_schema_v91.py": "a8bdcdc950d35693a33dae68a76cffd7fa1e26bc58815403c173f51d9828d0f8"
+  },
+  "development_exposure": "five fixed member prefixes; see local sample receipt",
+  "network_requests": 0,
+  "model_runs": 0,
+  "complete_census_attempts": 1
+}

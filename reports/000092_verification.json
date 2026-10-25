@@ -1,0 +1,13 @@
+{
+  "verified": true,
+  "documents": 86,
+  "candidate_pairs": 3485,
+  "resolved_documents": 86,
+  "sealed_input_files": 22,
+  "note": "Computational replay only; no native or semantic authentication.",
+  "workspace_tests": 662,
+  "isolated_public_tests": 623,
+  "archive_dependent_exclusions": 39,
+  "development_exposures_verified": 5,
+  "prior_sealed_artifacts_unchanged_and_archive_matched": 12
+}
