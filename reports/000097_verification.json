@@ -1,0 +1,10 @@
+{
+  "verified": true,
+  "bytes": 555341,
+  "candidate_markers": 443,
+  "required_boundaries_found": 0,
+  "comparison_executed": false,
+  "prior_e96_sealed_artifacts_unchanged_and_archive_matched": 13,
+  "original_file_matches": true,
+  "model_tests_rerun": false
+}

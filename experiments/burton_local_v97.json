@@ -1,0 +1,23 @@
+{
+  "registered_at_utc": "2026-10-25T20:15:04.495259+00:00",
+  "input_hashes": {
+    "data/v96/targets.json": "1777f207e345dcb437cdf1aa85eb0e4aeeee84e4509d69f9f4d15705cdc62f07",
+    "data/v97/pg57208.txt": "6fd54b65b3d9656deb5a8fb8afcebdf4df4960b73d40fff3863ec4803a550540",
+    "data/v97/provenance.json": "5f4f99847d25df1b4f3910ee77af60f075856f27f77283d06d9b7b4d921ec4c0",
+    "experiments/burton_local_v97.md": "10b175315d49ecb29b35d9ced2883c4e0698571b184ba9e0f5a0d818ce6f4f8d",
+    "experiments/burton_wording_v96.json": "c3eb8a85a53cf1abcf555a248cf2b35f4bb171f8307244a7611e62e79daa4659",
+    "experiments/burton_wording_v96.md": "b65a3e26a7aaf5fd8f6746e057f89a83e723c4907b477f1e079cdc7b792572b2",
+    "reports/000096_deliverable_seal.json": "7bd77c822f42fa1b79c2c3d9c144d671798089129ef5034cb906aacabab2471a"
+  },
+  "target_denominator": 22,
+  "header_character_limit": 10000,
+  "required_boundaries": [
+    252,
+    253,
+    254,
+    255,
+    256,
+    257
+  ],
+  "network_requests": 0
+}
