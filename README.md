@@ -2,7 +2,7 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 93.** This public repository contains code,
+**Latest completed step: experiment 94.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
@@ -12,12 +12,17 @@ The [progress review after E91](reports/progress_review_after_e91.md) assesses
 scientific progress and recommends bundling format development and complete
 corpus accounting into one bounded milestone before further modeling.
 
-[E94 is prepared and waiting for two saved articles](reports/yid_native_panel_handoff_v94.md).
-The panel fixes candidates 43 and 86, all 278 target lines, and the unchanged E93
-comparator. No new captures or comparisons have run; unavailable slots will remain
-explicit rather than being replaced. E93 is still the latest completed experiment.
+Current boundary: [experiment 94](reports/000094_interpretation.md) corroborates
+both fixed posts: 36/36 and 242/242 target lines occur literally and in order,
+each once, in the supplied browser saves. All 278 targets remain accounted for;
+no unavailable comparisons or parser repairs occurred. The whitespace diagnostic
+also matches fully. This supports these exposed text representations, not English
+meanings, source independence or corpus-wide accuracy. Next is a bounded audit of
+existing source claims for the corroborated examples, before more collection or
+modeling. The [earlier E94 handoff](reports/yid_native_panel_handoff_v94.md) is now
+historical; both requested saves have been supplied.
 
-Current boundary: [experiment 93](reports/000093_interpretation.md) finds all 23
+Previous boundary: [experiment 93](reports/000093_interpretation.md) finds all 23
 frozen candidate first lines literally and in order in the supplied native article
 save, each occurring once. The separate whitespace diagnostic also matches 23/23.
 This corroborates one exposed post's saved representation, not its English meanings
