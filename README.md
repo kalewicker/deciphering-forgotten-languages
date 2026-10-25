@@ -2,19 +2,22 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 86.** This public repository contains code,
+**Latest completed step: experiment 87.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 86](reports/000086_interpretation.md) identifies
-one unambiguous native **Older Posts** URL from the user's saved listing. Its
-exact query requests up to 20 results; no page was fetched or scored. The report
-provides the sole next user-assisted capture target. A newly supplied snapshot
-will need its own frozen intake before selecting posts or confirming the model.
-[E85](reports/000085_interpretation.md) preserves all 16 original files and its
-**0/4 new nominations**; the existing listing's only title link was already known.
+Current boundary: [experiment 87](reports/000087_interpretation.md) preserves
+the second user-supplied listing: 17 files, 1,741,344 bytes, with source/copy hashes
+agreeing. The exact E86 query-bearing origin passes metadata checks, but its one
+registered title link is already recorded, leaving **0/4 new nominations**.
+The one-page intake stops here; no third page, alternate selector or model run is
+requested automatically. A further collection strategy or different development
+question needs separate justification. New-material confirmation stays unresolved.
+[E86](reports/000086_interpretation.md) preserves the fixed Older Posts target;
+[E85](reports/000085_interpretation.md) the first supplied snapshot and its 0/4
+nominations. Neither known article becomes a new independent group.
 
 [E84](reports/000084_interpretation.md) preserves the restricted original-WARC
 resource barrier. The user's browser snapshot is a different documented resource;

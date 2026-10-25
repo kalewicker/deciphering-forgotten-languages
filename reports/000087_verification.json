@@ -1,0 +1,30 @@
+{
+  "experiment_id": "browser_listing_v87",
+  "verified_at_utc": "2026-10-25T01:47:49.845872+00:00",
+  "independent_reconstruction": {
+    "verified": true,
+    "preserved_files": 17,
+    "source_files_available_and_matching": 17,
+    "missing_original_source_files": 0,
+    "metadata_use_allowed": true,
+    "nomination_capacity": false,
+    "candidate_title_links": 1,
+    "network_requests": 0,
+    "new_predictions": false
+  },
+  "full_tests_passed": 627,
+  "isolated_public_tests_passed": 588,
+  "archive_exclusions": 39,
+  "e85_e86_sealed_files_unchanged": 37,
+  "preserved_bytes": 1741344,
+  "reported_save_time": "6:42 pm PST",
+  "reported_am_pm": "pm",
+  "normalized_capture_time_utc": null,
+  "metadata_use_allowed": true,
+  "candidate_title_links": 1,
+  "nomination_capacity": false,
+  "new_post_captures": 0,
+  "new_predictions": false,
+  "confirmation_eligibility": "unresolved",
+  "semantic_benchmark_qualifying_works": 0
+}
