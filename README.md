@@ -2,19 +2,26 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 87.** This public repository contains code,
+**Latest completed step: experiment 88.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
-Current boundary: [experiment 87](reports/000087_interpretation.md) preserves
-the second user-supplied listing: 17 files, 1,741,344 bytes, with source/copy hashes
-agreeing. The exact E86 query-bearing origin passes metadata checks, but its one
-registered title link is already recorded, leaving **0/4 new nominations**.
-The one-page intake stops here; no third page, alternate selector or model run is
-requested automatically. A further collection strategy or different development
-question needs separate justification. New-material confirmation stays unresolved.
+Current boundary: [experiment 88](reports/000088_interpretation.md) is a
+read-only exact-sequence audit of E79's saved development gains. Three-token
+matches cover 16/1,918 targets and 6.41% of positive gain mass; four-token matches
+cover six targets and 2.76%; no five- through eight-token matches occur. Longer
+exact wording accounts for little of this saved gain, while nonexact templates,
+masking errors and other confounds remain unresolved. No predictions, model
+changes, new confirmation units or network acquisitions were added. This audit
+is complete; it does not authorize overlap removal, residual rescoring or tuning.
+
+[E87](reports/000087_interpretation.md) preserves the second user-supplied listing:
+17 files, 1,741,344 bytes, exact E86 origin metadata accepted but **0/4 new
+nominations**. The page-by-page intake remains stopped. A further resource
+strategy needs a bounded selection process and credible independent-group
+capacity before collection; no third listing is requested automatically.
 [E86](reports/000086_interpretation.md) preserves the fixed Older Posts target;
 [E85](reports/000085_interpretation.md) the first supplied snapshot and its 0/4
 nominations. Neither known article becomes a new independent group.

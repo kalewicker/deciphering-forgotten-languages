@@ -1,0 +1,29 @@
+{
+  "experiment_id": "sequence_overlap_v88",
+  "sealed_at_utc": "2026-10-25T02:01:07.060927+00:00",
+  "deliverable_hashes": {
+    "experiments/sequence_overlap_v88.md": "20d63b1ca55e8665d1d601b40aa565cca46bdcb0a3180c233c3614d0bc3adc5a",
+    "experiments/sequence_overlap_v88.json": "f599857182667440756c550ddc623ff79356a4777462be5e2e8a2501469c01d3",
+    "src/fl_decipher/sequence_overlap_v88.py": "698360ff5a3a91b2636d04157b68501e501f1ba0dc6124f0a3a8e133f7c0f212",
+    "scripts/sequence_overlap_v88.py": "56d69f7ab1f5b201ce522a45a1352013cd3f7c37c85afe8d83487ce9c985919e",
+    "scripts/verify_sequence_overlap_v88.py": "1a716c9a9fe6c85ba986b246c4bf162edee9996f09816446bfd5594f089564b0",
+    "tests/test_sequence_overlap_v88.py": "266e5cd046643bf6597769b4d4f301d91178448b10ab5b1d0dd1841dc56fe9d3",
+    "reports/000088_interpretation.md": "91d624379907788847bcc8c69933e678e765580f046f50c2212d99950b3d4a53",
+    "reports/000088_verification.json": "32ce0825f00f97120431f91a873d553decd1b3b7d1f6f3e0ca8e0989b964bc35",
+    "runs/000088_sequence_overlap/fold_00.json": "c69b15223a463c90a8450d7974c72fc3b09513559e0a11110cd3c9565f26c8bc",
+    "runs/000088_sequence_overlap/fold_01.json": "91e266e4d4ed1dfca71621f7da14e7fb410f4fe860b61dbb3302ec39bc8e7eae",
+    "runs/000088_sequence_overlap/fold_02.json": "ebbd398bac49b323b37cf2f1ece87845ed3f8088be7fa5a7aedc99e4063a2a93",
+    "runs/000088_sequence_overlap/fold_03.json": "82d4f7a52be8a87d66a2048c69ed689ad8c9ae371c7d891887302a72ffa59121",
+    "runs/000088_sequence_overlap/fold_04.json": "611d508d4bf5660650438017a2ac6dd2d2a19cc38dedd8be66bca637ff251356",
+    "runs/000088_sequence_overlap/fold_05.json": "53061a912161cdbf16d2e2949b9d5e26a48549e494e80e982ca08c1aab05ec4a",
+    "runs/000088_sequence_overlap/fold_06.json": "cb554be58987b37cc605deef69880fd9aa559186f214f963a51b1fe9f0625160",
+    "runs/000088_sequence_overlap/fold_07.json": "b7881b9693315c18fb66299b97c78d6bfea7b3f2ce73c7b2cb673f6330e44bd0",
+    "runs/000088_sequence_overlap/fold_08.json": "0886ee641c1a2828aaa5445237d7e1ad3754147ba9da8defa7d67169b668a7b6",
+    "runs/000088_sequence_overlap/fold_09.json": "07d5dcb546f1ecf4b1bbb03cf1a7959916e2aed0ced2cf887227853066611a6e",
+    "runs/000088_sequence_overlap/fold_10.json": "d066298ab944a5d528a0b0100e184c9f90b8a614fdab81b02afc1c4201c2d154",
+    "runs/000088_sequence_overlap/fold_11.json": "6fa0e3a8c4f5fb98423c93d2065e9239b19a869b26d7a5e1dfa9f0dadaa2c070",
+    "runs/000088_sequence_overlap/fold_12.json": "7c9a3c3deb237d68e2f65a2b94610fd88f669af5827f66ab20451b474765e469",
+    "runs/000088_sequence_overlap/manifest.json": "95812fb8b59ae25ec724aa5be25652c23446760fb93d53e8a80d627a41ea2f6f",
+    "runs/000088_sequence_overlap/report.json": "3103d87e8abf5f2b27829ddfda7d8af78f09ef4fcebf54e9db9ff382d3cde8a2"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "experiment_id": "sequence_overlap_v88",
+  "verified_at_utc": "2026-10-25T02:01:07.060927+00:00",
+  "independent_reconstruction": {
+    "verified": true,
+    "method": "diagonal_equal_runs",
+    "groups": 13,
+    "units": 98,
+    "pairs": 1918,
+    "occurrence_matches": 1178,
+    "changed_predictions": 311,
+    "new_predictions": false,
+    "network_requests": 0
+  },
+  "full_tests_passed": 633,
+  "isolated_public_tests_passed": 594,
+  "archive_exclusions": 39,
+  "historical_sealed_artifacts_unchanged_and_archive_matching": 87,
+  "historical_seals_checked": [
+    76,
+    77,
+    79,
+    87
+  ],
+  "macro_gain_preserved": 0.0728766358009456,
+  "length_spectrum": {
+    "2": {
+      "covered_pairs": 208,
+      "covered_changed_predictions": 172,
+      "positive_mass_fraction_covered": 1.0
+    },
+    "3": {
+      "covered_pairs": 16,
+      "covered_changed_predictions": 9,
+      "positive_mass_fraction_covered": 0.06410603982335195
+    },
+    "4": {
+      "covered_pairs": 6,
+      "covered_changed_predictions": 4,
+      "positive_mass_fraction_covered": 0.02756000468295421
+    },
+    "5": {
+      "covered_pairs": 0,
+      "covered_changed_predictions": 0,
+      "positive_mass_fraction_covered": 0.0
+    },
+    "6": {
+      "covered_pairs": 0,
+      "covered_changed_predictions": 0,
+      "positive_mass_fraction_covered": 0.0
+    },
+    "7": {
+      "covered_pairs": 0,
+      "covered_changed_predictions": 0,
+      "positive_mass_fraction_covered": 0.0
+    },
+    "8": {
+      "covered_pairs": 0,
+      "covered_changed_predictions": 0,
+      "positive_mass_fraction_covered": 0.0
+    }
+  },
+  "e79_gate_retested": false,
+  "new_predictions": false,
+  "network_requests": 0,
+  "new_confirmation_units": 0,
+  "semantic_benchmark_qualifying_works": 0
+}
