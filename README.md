@@ -2,7 +2,7 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 97 (page binding unresolved).** This public repository contains code,
+**Latest completed step: experiment 98 (extraction failed).** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
@@ -12,7 +12,16 @@ The [progress review after E91](reports/progress_review_after_e91.md) assesses
 scientific progress and recommends bundling format development and complete
 corpus accounting into one bounded milestone before further modeling.
 
-Current boundary: [experiment 97](reports/000097_interpretation.md) preserves the
+Current boundary: [experiment 98](reports/000098_interpretation.md) acquires the
+catalog-selected HTML with a complete 1..351 page-anchor sequence and matching
+required labels 252–257. The frozen extractor then failed on an unsupported
+multi-anchor page-number element before wording comparison. All 22 match counts
+remain null; this is an implementation failure, not source disconfirmation.
+Next is a separately registered versioned extraction correction using the saved
+HTML, with robust page-label fixtures and independently checked windows. No new
+download is needed, and E98's frozen run/code remain unchanged.
+
+Previous boundary: [experiment 97](reports/000097_interpretation.md) preserves the
 user-delivered Gutenberg text (555,341 bytes). Its header matches the expected work
 and editor with an 1898 imprint, but none of the required printed-page boundaries
 252–257 appears in the registered marker inventory. The 22-unit wording comparison

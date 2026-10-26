@@ -1,0 +1,27 @@
+{
+  "registered_at_utc": "2026-10-26T00:49:58.268295+00:00",
+  "catalog_url": "https://www.gutenberg.org/ebooks/57208",
+  "max_catalog_opens": 1,
+  "max_html_gets": 1,
+  "target_denominator": 22,
+  "input_hashes": {
+    "data/v96/targets.json": "1777f207e345dcb437cdf1aa85eb0e4aeeee84e4509d69f9f4d15705cdc62f07",
+    "data/v97/boundary_contexts.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "data/v97/header.json": "0f7535649458078f6e350bc7f3ef15b7bd39d06c0f7b1dcd9b7864e136ce5e60",
+    "data/v97/markers.json": "5f9605be37f90d5bfc45d60f060c977f94306401fb8ee73f60b864cf4f46c656",
+    "data/v97/metadata_evidence.json": "f338817a2cddb9d9561772fd158f82a33cf33463c6aa016fe2d84f48014a595b",
+    "data/v97/pg57208.txt": "6fd54b65b3d9656deb5a8fb8afcebdf4df4960b73d40fff3863ec4803a550540",
+    "data/v97/provenance.json": "5f4f99847d25df1b4f3910ee77af60f075856f27f77283d06d9b7b4d921ec4c0",
+    "experiments/burton_local_v97.json": "ee78f3a76499e78508280c12c14b7b558a05811408701fcdad52d50c0e864995",
+    "experiments/burton_local_v97.md": "10b175315d49ecb29b35d9ced2883c4e0698571b184ba9e0f5a0d818ce6f4f8d",
+    "experiments/burton_paginated_v98.md": "345d0ba2548941ec0dfae2c2c5c6222831c5320b59551137d453ccc7fa00ffc4",
+    "reports/000097_deliverable_seal.json": "5485a0f7ca89ec42c413c9f11753a80e1bc75ce971a9fda8f89289a800e09fc4",
+    "reports/000097_interpretation.md": "0ac744373280fffce0b651d6e8a688726c4a7a297a86546f9d5378603d51ba65",
+    "reports/000097_verification.json": "17e10983683cea6d666b5a70893ae5d804aa06ed6452674c46db388f7e3eaeae",
+    "runs/000097_burton_local/intake.json": "3254bd5485805d8a0e72dfd6a809280da48792f52ac57696a6b49cf870892124",
+    "runs/000097_burton_local/manifest.json": "3faaa07229f2e0e96955acd55e8f3f620777528bac1e6f43aa0b65d11d3facf9",
+    "runs/000097_burton_local/report.json": "adf7ac1bd8f995cdb958ae86434505021d57ffc5fc592ebcf2ae2d8a909a43a2",
+    "scripts/burton_local_v97.py": "befdd9460317b8163e6d17ab6ab7c2d7493b4ea0299d692ab50089f6a4a46383",
+    "scripts/verify_burton_local_v97.py": "d7c470816bbbee40ec15532c7ca966067554e15d9c708191251695b92e820927"
+  }
+}
