@@ -1,0 +1,26 @@
+{
+  "sealed_at_utc": "2026-10-26T01:03:25.128654+00:00",
+  "deliverable_hashes": {
+    "data/v99/development_verification.json": "38584d335d772cc7b60f7752ce03a9740b7eded84c927324e59321ae68a105e2",
+    "data/v99/public-tests.log": "c2276c03b98136c110196a57a8898bcb9c11323712f3285288b81e6d6e989dca",
+    "data/v99/structure_exposure.json": "ccea374674f7412a77929cc6707d567370f403d909b685eb7279d98d4de23359",
+    "data/v99/structure_followup.json": "cc64f56308bf634d61c5dea7953cb9e0ff21de2eb8c464aa8dc36a4bb540b7df",
+    "data/v99/tests.log": "fa789738e5b349290b0a0a528d283fdc46a0f7d70435623ee39ac283fd05a683",
+    "experiments/burton_extract_v99.json": "0b0f0e379051655b84ac21339e876569d205ce15c968410dfab243183c3e48a0",
+    "experiments/burton_extract_v99.md": "22e7eeaba19500f87f17b392cf28813a046d2936eac75f3ee20906448e190713",
+    "experiments/burton_extract_v99_development.json": "40ac2cfaaa81c4abfd27f73cb8c65ca18545b5907ed5e4979e0f64b41e7f6ae9",
+    "experiments/burton_extract_v99_rules.md": "8522e71f6b17c64155a86024b96d57ac6a604a9054ae77a223bac3b8a09b92bf",
+    "reports/000099_interpretation.md": "efa41deb802409598b74ce24f4d68a321f74f669bb6958702aeacd287fe6a684",
+    "reports/000099_verification.json": "80f75e37422e9aba4deb8e5f5c519790e139eea6881c05b3dac915b0a1c9c896",
+    "runs/000099_burton_extract/comparison.json": "8f81f505f9ab58ca6597d7177251536493ad4694719ee207c7ad8a825cbeda9c",
+    "runs/000099_burton_extract/extraction.json": "ee0b97750074ba162bce1947d20d81905e9a67fe7ca5c1485f3e2bf8a7ffcc15",
+    "runs/000099_burton_extract/manifest.json": "bd8ca44ae91d385910d2bb371cc33f5d9f3e518fa166ca21875f67cbd676c5f2",
+    "runs/000099_burton_extract/report.json": "41bb68984c0ac9f81594adc02139286deae799ad9f9694de44d09c7cd582db2b",
+    "runs/000099_burton_extract/window_verification.json": "c648b10b6c470a59d901a67390e27a53f35d75eedc850fe8f606bea6ad6874f9",
+    "scripts/burton_extract_v99.py": "a3419d723f2a0f903d32b17269e2b0433af1bc5a5461e4faccb09deae7a03c0c",
+    "scripts/replay_burton_extract_v99.py": "2942f7628d5fc83cddf610c303e44446afdd132daee19a45d9f43d5b501f8464",
+    "scripts/verify_burton_extract_v99.py": "a319b4851617a59e211b861c28905f9925acd671944c79b0c701eeda6a50626c",
+    "src/fl_decipher/burton_extract_v99.py": "d5cae5bf013e9d507ac48bb735f59f3f6b1ebf1f815d8c0ab15966d16f97ffb5",
+    "tests/test_burton_extract_v99.py": "f30a0016b790748d58717bf24775c4f228693bfcf4ffef1e99cbdfc7dea9d1d0"
+  }
+}

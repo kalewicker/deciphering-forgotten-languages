@@ -2,7 +2,7 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 98 (extraction failed).** This public repository contains code,
+**Latest completed step: experiment 99.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
@@ -12,7 +12,16 @@ The [progress review after E91](reports/progress_review_after_e91.md) assesses
 scientific progress and recommends bundling format development and complete
 corpus accounting into one bounded milestone before further modeling.
 
-Current boundary: [experiment 98](reports/000098_interpretation.md) acquires the
+Current boundary: [experiment 99](reports/000099_interpretation.md) corrects page
+label extraction in a new frozen version, preserving E98. Independent extraction
+replay agrees on both fixed windows before scoring. Literal coverage is 0/22;
+whitespace-collapse coverage is 22/22, uniquely and in order: 18 renderings in
+pages 254–256, then four in 252–253. This supports the limited English-wording claim,
+not opaque meanings or independent semantic accuracy. Next is a read-only audit
+of intervening text to assess the stronger continuous-excerpt claim. No new
+sources, models or semantic admissions occurred.
+
+Previous boundary: [experiment 98](reports/000098_interpretation.md) acquires the
 catalog-selected HTML with a complete 1..351 page-anchor sequence and matching
 required labels 252–257. The frozen extractor then failed on an unsupported
 multi-anchor page-number element before wording comparison. All 22 match counts

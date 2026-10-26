@@ -1,0 +1,22 @@
+{
+  "verified": true,
+  "targets": 22,
+  "window_lengths": [
+    4305,
+    2917
+  ],
+  "literal": {
+    "matched": 0,
+    "ordered_matched": 0
+  },
+  "whitespace": {
+    "matched": 22,
+    "ordered_matched": 22
+  },
+  "network_requests": 0,
+  "shared_parser": "BeautifulSoup/html.parser",
+  "workspace_tests": 689,
+  "isolated_public_tests": 650,
+  "archive_exclusions": 39,
+  "prior_e98_seals_unchanged_and_archive_matched": 24
+}
