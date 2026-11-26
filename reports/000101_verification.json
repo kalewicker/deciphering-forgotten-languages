@@ -1,0 +1,12 @@
+{
+  "verified": true,
+  "queries": 22,
+  "scored_queries": 22,
+  "replayed_shuffled_folds": 21978,
+  "workspace_tests": 692,
+  "isolated_public_tests": 653,
+  "archive_dependent_exclusions": 39,
+  "initial_verifier_arithmetic_failure_preserved": true,
+  "scoring_runs": 1,
+  "prior_e100_artifacts_archive_matched": 9
+}

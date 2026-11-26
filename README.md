@@ -2,7 +2,7 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 100.** This public repository contains code,
+**Latest completed step: experiment 101.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
@@ -14,7 +14,15 @@ The [progress review after E91](reports/progress_review_after_e91.md) assesses
 scientific progress and recommends bundling format development and complete
 corpus accounting into one bounded milestone before further modeling.
 
-Current boundary: [experiment 100](reports/000100_interpretation.md) verifies two
+Current boundary: [experiment 101](reports/000101_interpretation.md) tests the
+22 exposed Burton pairings using held-out queries and one same-excerpt English
+alternative per fold. The token rule ranks the assigned English first in 21/22
+folds. It scores 95.5% overall versus 75.0% for length and 59.1% for the median
+shuffled-training control. All six development criteria pass. The four-row excerpt
+ties length at 4/4. The result supports a separate reserved-source replication.
+Independent semantic benchmark capacity stays 0/4.
+
+Previous boundary: [experiment 100](reports/000100_interpretation.md) verifies two
 continuous English excerpts in the saved Burton extraction. All 20 internal gaps
 contain only whitespace, with one declared backward page jump between the excerpts.
 The four window edges account for surrounding text. The result supports the English

@@ -1,0 +1,25 @@
+{
+  "registered_at_utc": "2026-11-26T21:08:49.275821+00:00",
+  "target_denominator": 22,
+  "shuffle_replicates": 999,
+  "hashes": {
+    "data/v101/folds.json": "b47c53b66639296ecc7b1fc4bfd89677bb5993edfdafd61277b23ccc03314322",
+    "data/v93/targets.json": "8b6b9d0cb8648a22c9d3bc3fc076ea15d3f9a834df3bfe4c267e2155da9a7561",
+    "data/v96/targets.json": "1777f207e345dcb437cdf1aa85eb0e4aeeee84e4509d69f9f4d15705cdc62f07",
+    "experiments/burton_continuity_v100.json": "2e31ef13fcdef8f5c41c05aca1e980a34ecdb57ec6d5048b2b244d6ee7360efc",
+    "experiments/burton_continuity_v100.md": "435f5bb1bd3fab1f726660b00598670338126b09eb5caa67978653a608438d6b",
+    "experiments/burton_pairing_v101.md": "e3864beec166662f9f7cff226c5a6119f99da8b9904213b504419d2a4468808b",
+    "reports/000100_deliverable_seal.json": "8589711efa016260ce9adbfef0864a299969a79bfaabc151d73b13c971aaaab7",
+    "reports/000100_interpretation.md": "aa6d12def38247c23f8d0f51e6dd80964204088317a1417de55889da48f58705",
+    "reports/000100_verification.json": "daf1ec098013ebac32be16157772861b6fe833809e869ff904c10de4889424ab",
+    "reports/progress_review_after_e100.md": "73379e5efc4d37e47a6cc22f36298d3982f1907cac9f202afbe48f63cb89b5ea",
+    "runs/000100_burton_continuity/gap_ledger.json": "21c8aef6a86ef9e83520ba3af8e60c1544a6bb8528c8daf7275acb05510c4908",
+    "runs/000100_burton_continuity/manifest.json": "8106e2fbd0d8d83c00f084eee2e4ace091d11d818afa14258d3943f44ecb0de1",
+    "runs/000100_burton_continuity/report.json": "cd0bef6ff4d3c728478b72da7faee6e42e8a7faca14ecab3c4ec8cbedf9713a7",
+    "scripts/burton_continuity_v100.py": "c1dd40f19885604caca979882e00401a3b0baa6816d075301149e83028b3f160",
+    "scripts/burton_pairing_v101.py": "631b8833474995dd36fd454e55f9fc041289b3e5b4809fd91e386daaa904f380",
+    "scripts/verify_burton_continuity_v100.py": "f2f4ab753adfd4eefaa6fd24c26be7535e79d6d322afb5737c78f4287a8dfb9b",
+    "scripts/verify_burton_pairing_v101.py": "4bd97529083a7c6ed9f1801adacfcdb706d4b2aba8c8c7f75d265fdd9046dbca",
+    "tests/test_burton_pairing_v101.py": "ad40d7d4843edbfbec7ff9ed1fd0ab33928fd0935c3c416572b95792876ff09e"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "sealed_at_utc": "2026-11-26T21:10:06.093375+00:00",
+  "deliverable_hashes": {
+    "data/v101/folds.json": "b47c53b66639296ecc7b1fc4bfd89677bb5993edfdafd61277b23ccc03314322",
+    "data/v101/verification/initial_failure.json": "e30c605f1cb438992a3561d998f05ebcb3fa673a0654cf0122a8cc154b07d207",
+    "data/v101/verification/public_tests.log": "e9823402b94fa31de5646e4290b39d62c92fb0212630c9d8be7baca2755e3b1c",
+    "data/v101/verification/workspace_tests.log": "781a2cd001a9908c51c02c105a2afcdcc32590c5879431f2df3ce1a419fe2679",
+    "experiments/burton_pairing_v101.json": "6273f0c49d83571cef6364219e89a75fc8d1a1391f0a52575e1a4d94d1d2290d",
+    "experiments/burton_pairing_v101.md": "e3864beec166662f9f7cff226c5a6119f99da8b9904213b504419d2a4468808b",
+    "reports/000101_interpretation.md": "eb676eac6018fb1e6c3036ac8a4bbe94f7edf22e2fcfb99921d3e234b1a40eb5",
+    "reports/000101_verification.json": "a90756e52d70fac0d0d48ded603adb49fd3ae618d1b11593e4264b1feeeb533d",
+    "runs/000101_burton_pairing/fold_results.json": "245ccbb0fc29745f1d97bfb372ffabdc2cebd9ab183a2a3adb39ba6980c96c7b",
+    "runs/000101_burton_pairing/manifest.json": "46a322ed9d41b17a560dbff8f6810ce61e4782404d2f34c800fabac6481bab1b",
+    "runs/000101_burton_pairing/report.json": "f7c6579c3b5c388f203760d9f48516b3ba408ef51693709c594e8de000a56284",
+    "scripts/burton_pairing_v101.py": "631b8833474995dd36fd454e55f9fc041289b3e5b4809fd91e386daaa904f380",
+    "scripts/verify_burton_pairing_v101.py": "4bd97529083a7c6ed9f1801adacfcdb706d4b2aba8c8c7f75d265fdd9046dbca",
+    "scripts/verify_burton_pairing_v101_r2.py": "173359845e24cc20a561eb2934c7584122aae9542654afe4bddc79381ce1d6ee",
+    "tests/test_burton_pairing_v101.py": "ad40d7d4843edbfbec7ff9ed1fd0ab33928fd0935c3c416572b95792876ff09e"
+  }
+}
