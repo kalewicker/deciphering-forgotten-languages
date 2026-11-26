@@ -8,6 +8,8 @@ research archives remain local. See [publication scope and verification](PUBLICA
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
 for the tests that do not require the archive.
 
+The [methodology review after E100](reports/progress_review_after_e100.md) assesses the evidence for text correspondence and proposes a controlled test of the opaque-to-English pairings.
+
 The [progress review after E91](reports/progress_review_after_e91.md) assesses
 scientific progress and recommends bundling format development and complete
 corpus accounting into one bounded milestone before further modeling.
