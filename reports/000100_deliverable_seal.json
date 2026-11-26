@@ -1,0 +1,14 @@
+{
+  "sealed_at_utc": "2026-11-26T05:58:55.695960+00:00",
+  "deliverable_hashes": {
+    "experiments/burton_continuity_v100.json": "2e31ef13fcdef8f5c41c05aca1e980a34ecdb57ec6d5048b2b244d6ee7360efc",
+    "experiments/burton_continuity_v100.md": "435f5bb1bd3fab1f726660b00598670338126b09eb5caa67978653a608438d6b",
+    "reports/000100_interpretation.md": "aa6d12def38247c23f8d0f51e6dd80964204088317a1417de55889da48f58705",
+    "reports/000100_verification.json": "daf1ec098013ebac32be16157772861b6fe833809e869ff904c10de4889424ab",
+    "runs/000100_burton_continuity/gap_ledger.json": "21c8aef6a86ef9e83520ba3af8e60c1544a6bb8528c8daf7275acb05510c4908",
+    "runs/000100_burton_continuity/manifest.json": "8106e2fbd0d8d83c00f084eee2e4ace091d11d818afa14258d3943f44ecb0de1",
+    "runs/000100_burton_continuity/report.json": "cd0bef6ff4d3c728478b72da7faee6e42e8a7faca14ecab3c4ec8cbedf9713a7",
+    "scripts/burton_continuity_v100.py": "c1dd40f19885604caca979882e00401a3b0baa6816d075301149e83028b3f160",
+    "scripts/verify_burton_continuity_v100.py": "f2f4ab753adfd4eefaa6fd24c26be7535e79d6d322afb5737c78f4287a8dfb9b"
+  }
+}

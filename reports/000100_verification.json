@@ -1,0 +1,10 @@
+{
+  "verified": true,
+  "targets": 22,
+  "internal_gaps": 20,
+  "edge_spans": 4,
+  "non_whitespace_internal_gaps": 0,
+  "prior_e99_artifacts_verified_against_archive": 21,
+  "added_model_or_comparator_code": false,
+  "full_suites_rerun": false
+}
