@@ -1,0 +1,13 @@
+{
+  "sealed_at_utc": "2026-11-26T21:14:25.638889+00:00",
+  "deliverable_hashes": {
+    "experiments/yid_reservation_v102.json": "2a9733f022ce412ef904dec489e77cd25d6c29f8d28ee38978f78b3fdbe796b3",
+    "experiments/yid_reservation_v102.md": "e77ed2ffd59ae117061cc29a2902c3a8490189bfa6f35a5c354d587752fa30a0",
+    "reports/000102_interpretation.md": "b8f19d240dcd4ee3e7715d44a42cda709472fd9a2f1ff5ea2c0620344c8323f4",
+    "reports/000102_verification.json": "833d38afcbdff96cdf3bc7e08d6efdfb42c6619689ac370e562c14c1afadcd84",
+    "runs/000102_yid_reservation/ledger.json": "467d9ec97b7c36de1191a68d968df5b73ad1b485aeb70923243460b7f7f0c125",
+    "runs/000102_yid_reservation/manifest.json": "851edbf15c31af6c235d2057e48ed6b1357b33177945f21f96aca68fedab96ff",
+    "runs/000102_yid_reservation/report.json": "333e3de88a69fc55e81e05833e68fd5ca701286bf42d36efda7ee5c251c14f34",
+    "scripts/yid_reservation_v102.py": "39d2ad39f839245bc3ac26a9649e33b8bccde485c9ce653e3c4220486bb70c19"
+  }
+}

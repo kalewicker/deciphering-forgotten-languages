@@ -2,7 +2,7 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 101.** This public repository contains code,
+**Latest completed step: experiment 102.** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
@@ -14,7 +14,12 @@ The [progress review after E91](reports/progress_review_after_e91.md) assesses
 scientific progress and recommends bundling format development and complete
 corpus accounting into one bounded milestone before further modeling.
 
-Current boundary: [experiment 101](reports/000101_interpretation.md) tests the
+Current boundary: [experiment 102](reports/000102_interpretation.md) screens all
+86 Yid catalog rows for a reserved E101 replication lead. No row meets all
+registered conditions. For 28 rows, the sole failed criterion is the explicit
+numeric page range plus wording or order cue. Replication remains pending.
+
+Previous boundary: [experiment 101](reports/000101_interpretation.md) tests the
 22 exposed Burton pairings using held-out queries and one same-excerpt English
 alternative per fold. The token rule ranks the assigned English first in 21/22
 folds. It scores 95.5% overall versus 75.0% for length and 59.1% for the median
