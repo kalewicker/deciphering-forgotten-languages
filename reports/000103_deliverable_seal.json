@@ -1,0 +1,17 @@
+{
+  "sealed_at_utc": "2026-11-26T21:49:20.975837+00:00",
+  "deliverable_hashes": {
+    "data/v103/acquisition/body.bin": "936751363703a118db681005fbd0bf64c7612c8c6d0729fcf009aac6d330238b",
+    "data/v103/acquisition/headers.txt": "b079780170e86501f9517e9e4d80be33efca627cd80434b814831862debb01a3",
+    "data/v103/acquisition/intent.json": "c85f955b77b05c15da04b9c280a726eceb5206cd75e146939b220f6785e2817e",
+    "data/v103/acquisition/receipt.json": "5b7e2e22bf53dd0a0f09a1b9c144bb8a1a347fe5742cce184e6febfb974586b0",
+    "data/v103/selection.json": "01d5c1ac1f8f4454901c6b137baf2a0bb4140d586e5ce70bb5af1436037c680a",
+    "experiments/yid_localization_v103.json": "e318b73db472b1dc4bee2991bfed7ea608b906c9c0ae6a16f579b685e10caa31",
+    "experiments/yid_localization_v103.md": "54291d76129e8272c127c5740e77421ac77d93da631d73eafec332323bd08b52",
+    "reports/000103_interpretation.md": "a9845d603aa6f84598824f7a9ce73bed02ea0724938c35a8ecb9d7158330e931",
+    "reports/000103_verification.json": "66b8e9da1cd25f8925a7e2f7640f9c937d8820deaf6aa9660207438c83378ecf",
+    "runs/000103_yid_localization/report.json": "f3e914d7e4c15cd9343d37f20303a118c582cb8a30912c8aaaee06872227365f",
+    "scripts/acquire_yid_localization_v103.py": "5f9cb2ea13261a1b47dd16c97f586194f65a0142f150c51d28363df3a7e5b7cc",
+    "scripts/verify_yid_localization_v103.py": "7b121c126bc67f0e523ac6918c958ff1a50570d4e4eb02ae55d6e8bb223a6cee"
+  }
+}

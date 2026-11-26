@@ -2,7 +2,7 @@
 
 An offline, evidence-tracked Forgotten Languages research pilot. The larger architecture is proposed in [PLAN_REVIEW.md](PLAN_REVIEW.md).
 
-**Latest completed step: experiment 102.** This public repository contains code,
+**Latest completed step: experiment 103 (source request blocked).** This public repository contains code,
 protocols, tests and reports. Downloaded documents, review packets and generated
 research archives remain local. See [publication scope and verification](PUBLICATION.md)
 for what a public clone can reproduce. Run `uv run python scripts/test_public_snapshot.py`
@@ -14,7 +14,12 @@ The [progress review after E91](reports/progress_review_after_e91.md) assesses
 scientific progress and recommends bundling format development and complete
 corpus accounting into one bounded milestone before further modeling.
 
-Current boundary: [experiment 102](reports/000102_interpretation.md) screens all
+Current boundary: [experiment 103](reports/000103_interpretation.md) selects
+candidate 04 by the fixed catalog ordinal rule for bounded passage localization.
+The cited chapter request returned HTTP 403. All 30 target blocks retain
+unmeasured localization counts. E101 replication remains pending.
+
+Previous boundary: [experiment 102](reports/000102_interpretation.md) screens all
 86 Yid catalog rows for a reserved E101 replication lead. No row meets all
 registered conditions. For 28 rows, the sole failed criterion is the explicit
 numeric page range plus wording or order cue. Replication remains pending.
